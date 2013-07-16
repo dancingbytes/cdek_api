@@ -11,7 +11,7 @@ module CdekApi
         code:       1588,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -22,7 +22,7 @@ module CdekApi
         code:       1590,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -33,7 +33,7 @@ module CdekApi
         code:       1600,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -44,7 +44,7 @@ module CdekApi
         code:       1229,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -55,7 +55,7 @@ module CdekApi
         code:       1233,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -66,7 +66,7 @@ module CdekApi
         code:       1083,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -77,7 +77,7 @@ module CdekApi
         code:       1617,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -88,7 +88,7 @@ module CdekApi
         code:       1350,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -99,7 +99,7 @@ module CdekApi
         code:       1624,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -110,7 +110,7 @@ module CdekApi
         code:       1627,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -121,7 +121,7 @@ module CdekApi
         code:       323,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -132,7 +132,7 @@ module CdekApi
         code:       13481,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -143,7 +143,7 @@ module CdekApi
         code:       13516,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -154,7 +154,7 @@ module CdekApi
         code:       13523,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -165,7 +165,7 @@ module CdekApi
         code:       13504,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -176,7 +176,7 @@ module CdekApi
         code:       822,
         address:    'Чорос-гуркина ул, д.39/12, оф.303',
         phone:      '8(38822)2-32-40,8(38822)9-40-60,8-913-999-40-60',
-        wotk_time:  '',
+        work_time:  'пн.-пт. 9-18',
         delivery:   ''
 
       },
@@ -187,7 +187,7 @@ module CdekApi
         code:       13512,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -198,7 +198,7 @@ module CdekApi
         code:       13514,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -209,7 +209,7 @@ module CdekApi
         code:       13521,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -220,7 +220,7 @@ module CdekApi
         code:       77,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -231,7 +231,7 @@ module CdekApi
         code:       13476,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -242,7 +242,7 @@ module CdekApi
         code:       13524,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -253,7 +253,7 @@ module CdekApi
         code:       13482,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -264,7 +264,7 @@ module CdekApi
         code:       13505,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -275,7 +275,7 @@ module CdekApi
         code:       13506,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -286,7 +286,7 @@ module CdekApi
         code:       13513,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -297,7 +297,7 @@ module CdekApi
         code:       13483,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -308,7 +308,7 @@ module CdekApi
         code:       13519,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -319,7 +319,7 @@ module CdekApi
         code:       13515,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -330,7 +330,7 @@ module CdekApi
         code:       13525,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -341,7 +341,7 @@ module CdekApi
         code:       13478,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -352,7 +352,7 @@ module CdekApi
         code:       13517,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -363,7 +363,7 @@ module CdekApi
         code:       13522,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -374,7 +374,7 @@ module CdekApi
         code:       13503,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -385,7 +385,7 @@ module CdekApi
         code:       13479,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -396,7 +396,7 @@ module CdekApi
         code:       13520,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -407,7 +407,7 @@ module CdekApi
         code:       795,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -418,7 +418,7 @@ module CdekApi
         code:       6,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -429,7 +429,7 @@ module CdekApi
         code:       13480,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -440,7 +440,7 @@ module CdekApi
         code:       1856,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -451,7 +451,7 @@ module CdekApi
         code:       274,
         address:    'Строителей пр-кт, д.29',
         phone:      '',
-        wotk_time:  '',
+        work_time:  'пн.-пт. 9-18, сб. 10-14',
         delivery:   ''
 
       },
@@ -462,7 +462,7 @@ module CdekApi
         code:       814,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -473,7 +473,7 @@ module CdekApi
         code:       275,
         address:    'Льва толстого ул., д.141, оф.11',
         phone:      '8(3854)555-017, 335-253, 8-962-790-49-01, 8-962-810-75-96',
-        wotk_time:  '',
+        work_time:  'пн.-пт. 9-18',
         delivery:   ''
 
       },
@@ -484,7 +484,7 @@ module CdekApi
         code:       13477,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -495,7 +495,7 @@ module CdekApi
         code:       803,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -506,7 +506,7 @@ module CdekApi
         code:       13502,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -517,7 +517,7 @@ module CdekApi
         code:       809,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -528,7 +528,7 @@ module CdekApi
         code:       808,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -539,7 +539,7 @@ module CdekApi
         code:       13510,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -550,7 +550,7 @@ module CdekApi
         code:       2334,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -561,7 +561,7 @@ module CdekApi
         code:       49,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -572,7 +572,7 @@ module CdekApi
         code:       13276,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -583,7 +583,7 @@ module CdekApi
         code:       804,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -594,7 +594,7 @@ module CdekApi
         code:       792,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -605,7 +605,7 @@ module CdekApi
         code:       783,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -616,7 +616,7 @@ module CdekApi
         code:       13507,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -627,7 +627,7 @@ module CdekApi
         code:       2335,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -638,7 +638,7 @@ module CdekApi
         code:       801,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -649,7 +649,7 @@ module CdekApi
         code:       1858,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -660,7 +660,7 @@ module CdekApi
         code:       98,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -671,7 +671,7 @@ module CdekApi
         code:       784,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -682,7 +682,7 @@ module CdekApi
         code:       787,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -693,7 +693,7 @@ module CdekApi
         code:       701,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -704,7 +704,7 @@ module CdekApi
         code:       786,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -715,7 +715,7 @@ module CdekApi
         code:       13508,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -726,7 +726,7 @@ module CdekApi
         code:       815,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -737,7 +737,7 @@ module CdekApi
         code:       1861,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -748,7 +748,7 @@ module CdekApi
         code:       791,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -759,7 +759,7 @@ module CdekApi
         code:       812,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -770,7 +770,7 @@ module CdekApi
         code:       1857,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -781,7 +781,7 @@ module CdekApi
         code:       805,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -792,7 +792,7 @@ module CdekApi
         code:       813,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -803,7 +803,7 @@ module CdekApi
         code:       816,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -814,7 +814,7 @@ module CdekApi
         code:       1271,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -825,7 +825,7 @@ module CdekApi
         code:       782,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -836,7 +836,7 @@ module CdekApi
         code:       1147,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -847,7 +847,7 @@ module CdekApi
         code:       796,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -858,7 +858,7 @@ module CdekApi
         code:       788,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -869,7 +869,7 @@ module CdekApi
         code:       1859,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -880,7 +880,7 @@ module CdekApi
         code:       13278,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -891,7 +891,7 @@ module CdekApi
         code:       780,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -902,7 +902,7 @@ module CdekApi
         code:       779,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -913,7 +913,7 @@ module CdekApi
         code:       810,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -924,7 +924,7 @@ module CdekApi
         code:       13511,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -935,7 +935,7 @@ module CdekApi
         code:       797,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -946,7 +946,7 @@ module CdekApi
         code:       781,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -957,7 +957,7 @@ module CdekApi
         code:       802,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -968,7 +968,7 @@ module CdekApi
         code:       800,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -979,7 +979,7 @@ module CdekApi
         code:       798,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -990,7 +990,7 @@ module CdekApi
         code:       13090,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -1001,7 +1001,7 @@ module CdekApi
         code:       806,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -1012,7 +1012,7 @@ module CdekApi
         code:       1860,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -1023,7 +1023,7 @@ module CdekApi
         code:       2336,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -1034,7 +1034,7 @@ module CdekApi
         code:       2332,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -1045,7 +1045,7 @@ module CdekApi
         code:       799,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -1056,7 +1056,7 @@ module CdekApi
         code:       954,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -1067,7 +1067,7 @@ module CdekApi
         code:       1863,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -1078,7 +1078,7 @@ module CdekApi
         code:       817,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -1089,7 +1089,7 @@ module CdekApi
         code:       820,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -1100,7 +1100,7 @@ module CdekApi
         code:       794,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -1111,7 +1111,7 @@ module CdekApi
         code:       790,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -1122,7 +1122,7 @@ module CdekApi
         code:       785,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -1133,7 +1133,7 @@ module CdekApi
         code:       2337,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -1144,7 +1144,7 @@ module CdekApi
         code:       2330,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -1155,7 +1155,7 @@ module CdekApi
         code:       2331,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -1166,7 +1166,7 @@ module CdekApi
         code:       807,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -1177,7 +1177,7 @@ module CdekApi
         code:       2333,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -1188,7 +1188,7 @@ module CdekApi
         code:       811,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -1199,7 +1199,7 @@ module CdekApi
         code:       1862,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -1210,7 +1210,7 @@ module CdekApi
         code:       793,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -1221,7 +1221,7 @@ module CdekApi
         code:       13277,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -1232,7 +1232,7 @@ module CdekApi
         code:       778,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -1243,7 +1243,7 @@ module CdekApi
         code:       896,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -1254,7 +1254,7 @@ module CdekApi
         code:       286,
         address:    '50 лет октября ул., д.94',
         phone:      '(4162) 779-445,387-445',
-        wotk_time:  '',
+        work_time:  'пн-пт 9-18, сб 9-14',
         delivery:   ''
 
       },
@@ -1265,7 +1265,7 @@ module CdekApi
         code:       918,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -1276,7 +1276,7 @@ module CdekApi
         code:       13488,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -1287,7 +1287,7 @@ module CdekApi
         code:       13370,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -1298,7 +1298,7 @@ module CdekApi
         code:       3224,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -1309,7 +1309,7 @@ module CdekApi
         code:       2329,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -1320,7 +1320,7 @@ module CdekApi
         code:       13328,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -1331,7 +1331,7 @@ module CdekApi
         code:       13012,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -1342,7 +1342,7 @@ module CdekApi
         code:       13065,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -1353,7 +1353,7 @@ module CdekApi
         code:       13936,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -1364,7 +1364,7 @@ module CdekApi
         code:       13447,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -1375,7 +1375,7 @@ module CdekApi
         code:       13013,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -1386,7 +1386,7 @@ module CdekApi
         code:       3229,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -1397,7 +1397,7 @@ module CdekApi
         code:       13396,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -1408,7 +1408,7 @@ module CdekApi
         code:       13064,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -1419,7 +1419,7 @@ module CdekApi
         code:       1763,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -1430,7 +1430,7 @@ module CdekApi
         code:       13937,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -1441,7 +1441,7 @@ module CdekApi
         code:       13294,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -1452,7 +1452,7 @@ module CdekApi
         code:       318,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -1463,7 +1463,7 @@ module CdekApi
         code:       13395,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -1474,7 +1474,7 @@ module CdekApi
         code:       13931,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -1485,7 +1485,7 @@ module CdekApi
         code:       1760,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -1496,7 +1496,7 @@ module CdekApi
         code:       402,
         address:    'Выучейского, д.25',
         phone:      '',
-        wotk_time:  '',
+        work_time:  'пн-пт 9-17',
         delivery:   ''
 
       },
@@ -1507,7 +1507,7 @@ module CdekApi
         code:       13292,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -1518,7 +1518,7 @@ module CdekApi
         code:       1952,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -1529,7 +1529,7 @@ module CdekApi
         code:       1955,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -1540,7 +1540,7 @@ module CdekApi
         code:       994,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -1551,7 +1551,7 @@ module CdekApi
         code:       1953,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -1562,7 +1562,7 @@ module CdekApi
         code:       2342,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -1573,7 +1573,7 @@ module CdekApi
         code:       1954,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -1584,7 +1584,7 @@ module CdekApi
         code:       1948,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -1595,7 +1595,7 @@ module CdekApi
         code:       1170,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -1606,7 +1606,7 @@ module CdekApi
         code:       14316,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -1617,7 +1617,7 @@ module CdekApi
         code:       1756,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -1628,7 +1628,7 @@ module CdekApi
         code:       2340,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -1639,7 +1639,7 @@ module CdekApi
         code:       13014,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -1650,7 +1650,7 @@ module CdekApi
         code:       1951,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -1661,7 +1661,7 @@ module CdekApi
         code:       13095,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -1672,7 +1672,7 @@ module CdekApi
         code:       997,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -1683,7 +1683,7 @@ module CdekApi
         code:       1949,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -1694,7 +1694,7 @@ module CdekApi
         code:       1957,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -1705,7 +1705,7 @@ module CdekApi
         code:       2341,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -1716,7 +1716,7 @@ module CdekApi
         code:       1950,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -1727,7 +1727,7 @@ module CdekApi
         code:       406,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -1738,7 +1738,7 @@ module CdekApi
         code:       2339,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -1749,7 +1749,7 @@ module CdekApi
         code:       996,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -1760,7 +1760,7 @@ module CdekApi
         code:       13411,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -1771,7 +1771,7 @@ module CdekApi
         code:       13017,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -1782,7 +1782,7 @@ module CdekApi
         code:       14317,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -1793,7 +1793,7 @@ module CdekApi
         code:       2338,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -1804,7 +1804,7 @@ module CdekApi
         code:       1956,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -1815,7 +1815,7 @@ module CdekApi
         code:       13726,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -1826,7 +1826,7 @@ module CdekApi
         code:       432,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -1837,7 +1837,7 @@ module CdekApi
         code:       145,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -1848,7 +1848,7 @@ module CdekApi
         code:       2402,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -1859,7 +1859,7 @@ module CdekApi
         code:       2403,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -1870,7 +1870,7 @@ module CdekApi
         code:       2404,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -1881,7 +1881,7 @@ module CdekApi
         code:       2405,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -1892,7 +1892,7 @@ module CdekApi
         code:       2406,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -1903,7 +1903,7 @@ module CdekApi
         code:       2407,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -1914,7 +1914,7 @@ module CdekApi
         code:       2408,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -1925,7 +1925,7 @@ module CdekApi
         code:       2409,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -1936,7 +1936,7 @@ module CdekApi
         code:       13112,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -1947,7 +1947,7 @@ module CdekApi
         code:       2410,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -1958,7 +1958,7 @@ module CdekApi
         code:       2411,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -1969,7 +1969,7 @@ module CdekApi
         code:       2412,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -1980,7 +1980,7 @@ module CdekApi
         code:       2413,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -1991,7 +1991,7 @@ module CdekApi
         code:       13287,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -2002,7 +2002,7 @@ module CdekApi
         code:       2414,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -2013,7 +2013,7 @@ module CdekApi
         code:       13121,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -2024,7 +2024,7 @@ module CdekApi
         code:       2415,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -2035,7 +2035,7 @@ module CdekApi
         code:       13097,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -2046,7 +2046,7 @@ module CdekApi
         code:       634,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -2057,7 +2057,7 @@ module CdekApi
         code:       1767,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -2068,7 +2068,7 @@ module CdekApi
         code:       2416,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -2079,7 +2079,7 @@ module CdekApi
         code:       2417,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -2090,7 +2090,7 @@ module CdekApi
         code:       90,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -2101,7 +2101,7 @@ module CdekApi
         code:       651,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -2112,7 +2112,7 @@ module CdekApi
         code:       13136,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -2123,7 +2123,7 @@ module CdekApi
         code:       13616,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -2134,7 +2134,7 @@ module CdekApi
         code:       13499,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -2145,7 +2145,7 @@ module CdekApi
         code:       663,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -2156,7 +2156,7 @@ module CdekApi
         code:       648,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -2167,7 +2167,7 @@ module CdekApi
         code:       661,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -2178,7 +2178,7 @@ module CdekApi
         code:       13203,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -2189,7 +2189,7 @@ module CdekApi
         code:       646,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -2200,7 +2200,7 @@ module CdekApi
         code:       637,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -2211,7 +2211,7 @@ module CdekApi
         code:       631,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -2222,7 +2222,7 @@ module CdekApi
         code:       249,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -2233,7 +2233,7 @@ module CdekApi
         code:       638,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -2244,7 +2244,7 @@ module CdekApi
         code:       548,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -2255,7 +2255,7 @@ module CdekApi
         code:       656,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -2266,7 +2266,7 @@ module CdekApi
         code:       660,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -2277,7 +2277,7 @@ module CdekApi
         code:       662,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -2288,7 +2288,7 @@ module CdekApi
         code:       649,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -2299,7 +2299,7 @@ module CdekApi
         code:       14307,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -2310,7 +2310,7 @@ module CdekApi
         code:       654,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -2321,7 +2321,7 @@ module CdekApi
         code:       643,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -2332,7 +2332,7 @@ module CdekApi
         code:       667,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -2343,7 +2343,7 @@ module CdekApi
         code:       658,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -2354,7 +2354,7 @@ module CdekApi
         code:       13202,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -2365,7 +2365,7 @@ module CdekApi
         code:       405,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -2376,7 +2376,7 @@ module CdekApi
         code:       636,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -2387,7 +2387,7 @@ module CdekApi
         code:       650,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -2398,7 +2398,7 @@ module CdekApi
         code:       2418,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -2409,7 +2409,7 @@ module CdekApi
         code:       647,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -2420,7 +2420,7 @@ module CdekApi
         code:       13004,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -2431,7 +2431,7 @@ module CdekApi
         code:       673,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -2442,7 +2442,7 @@ module CdekApi
         code:       630,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -2453,7 +2453,7 @@ module CdekApi
         code:       672,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -2464,7 +2464,7 @@ module CdekApi
         code:       668,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -2475,7 +2475,7 @@ module CdekApi
         code:       639,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -2486,7 +2486,7 @@ module CdekApi
         code:       13498,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -2497,7 +2497,7 @@ module CdekApi
         code:       655,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -2508,7 +2508,7 @@ module CdekApi
         code:       632,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -2519,7 +2519,7 @@ module CdekApi
         code:       665,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -2530,7 +2530,7 @@ module CdekApi
         code:       635,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -2541,7 +2541,7 @@ module CdekApi
         code:       12998,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -2552,7 +2552,7 @@ module CdekApi
         code:       653,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -2563,7 +2563,7 @@ module CdekApi
         code:       1265,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -2574,7 +2574,7 @@ module CdekApi
         code:       669,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -2585,7 +2585,7 @@ module CdekApi
         code:       303,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -2596,7 +2596,7 @@ module CdekApi
         code:       13205,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -2607,7 +2607,7 @@ module CdekApi
         code:       666,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -2618,7 +2618,7 @@ module CdekApi
         code:       2419,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -2629,7 +2629,7 @@ module CdekApi
         code:       946,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -2640,7 +2640,7 @@ module CdekApi
         code:       1139,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -2651,7 +2651,7 @@ module CdekApi
         code:       2420,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -2662,7 +2662,7 @@ module CdekApi
         code:       644,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -2673,7 +2673,7 @@ module CdekApi
         code:       1351,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -2684,7 +2684,7 @@ module CdekApi
         code:       633,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -2695,7 +2695,7 @@ module CdekApi
         code:       629,
         address:    'Ленина ул., д.8б',
         phone:      '8(34783) 4-400-4, 8-917-770-1920, 8-927-089-6845',
-        wotk_time:  '',
+        work_time:  'пн.-пт. 9-19, об. 13-14, сб. 10-15',
         delivery:   ''
 
       },
@@ -2706,7 +2706,7 @@ module CdekApi
         code:       2421,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -2717,7 +2717,7 @@ module CdekApi
         code:       652,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -2728,7 +2728,7 @@ module CdekApi
         code:       645,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -2739,7 +2739,7 @@ module CdekApi
         code:       13382,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -2750,7 +2750,7 @@ module CdekApi
         code:       2422,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -2761,7 +2761,7 @@ module CdekApi
         code:       657,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -2772,7 +2772,7 @@ module CdekApi
         code:       2423,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -2783,7 +2783,7 @@ module CdekApi
         code:       13001,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -2794,7 +2794,7 @@ module CdekApi
         code:       1138,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -2805,7 +2805,7 @@ module CdekApi
         code:       111,
         address:    'Нуриманова ул, д.20л',
         phone:      '(927)953-70-72, (987)612-09-91',
-        wotk_time:  '',
+        work_time:  'пн.-пт. 9-18, сб. 10-14',
         delivery:   ''
 
       },
@@ -2816,7 +2816,7 @@ module CdekApi
         code:       664,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -2827,7 +2827,7 @@ module CdekApi
         code:       1405,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -2838,7 +2838,7 @@ module CdekApi
         code:       1406,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -2849,7 +2849,7 @@ module CdekApi
         code:       671,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -2858,9 +2858,9 @@ module CdekApi
       '2-42-1-0' => {
 
         code:       257,
-        address:    'Коммунистическая ул., д.46',
-        phone:      '(3473) 23-55-33',
-        wotk_time:  '',
+        address:    '',
+        phone:      '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -2871,7 +2871,7 @@ module CdekApi
         code:       640,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -2882,7 +2882,7 @@ module CdekApi
         code:       628,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -2893,7 +2893,7 @@ module CdekApi
         code:       256,
         address:    'Кирова ул, д.107',
         phone:      '(347) 224-20-91',
-        wotk_time:  '',
+        work_time:  'пн.-пт. 9.00-18.30, сб. 10-14',
         delivery:   ''
 
       },
@@ -2904,7 +2904,7 @@ module CdekApi
         code:       670,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -2915,7 +2915,7 @@ module CdekApi
         code:       641,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -2926,7 +2926,7 @@ module CdekApi
         code:       674,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -2937,7 +2937,7 @@ module CdekApi
         code:       13204,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -2948,7 +2948,7 @@ module CdekApi
         code:       675,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -2959,7 +2959,7 @@ module CdekApi
         code:       13247,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -2970,7 +2970,7 @@ module CdekApi
         code:       659,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -2981,7 +2981,7 @@ module CdekApi
         code:       2424,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -2992,7 +2992,7 @@ module CdekApi
         code:       2425,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -3003,7 +3003,7 @@ module CdekApi
         code:       642,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -3014,7 +3014,7 @@ module CdekApi
         code:       2345,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -3025,7 +3025,7 @@ module CdekApi
         code:       342,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -3036,7 +3036,7 @@ module CdekApi
         code:       337,
         address:    'Попова ул., д.76а',
         phone:      '(4722)500-290, 903-642-02-90',
-        wotk_time:  '',
+        work_time:  'пн.-пт. 9:00 - 17:30, сб.9-14, вс. 14-18',
         delivery:   ''
 
       },
@@ -3047,7 +3047,7 @@ module CdekApi
         code:       2065,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -3058,7 +3058,7 @@ module CdekApi
         code:       2471,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -3069,7 +3069,7 @@ module CdekApi
         code:       344,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -3080,7 +3080,7 @@ module CdekApi
         code:       2477,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -3091,7 +3091,7 @@ module CdekApi
         code:       338,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -3102,7 +3102,7 @@ module CdekApi
         code:       2475,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -3113,7 +3113,7 @@ module CdekApi
         code:       2064,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -3124,7 +3124,7 @@ module CdekApi
         code:       1230,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -3135,7 +3135,7 @@ module CdekApi
         code:       2071,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -3146,7 +3146,7 @@ module CdekApi
         code:       2472,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -3157,7 +3157,7 @@ module CdekApi
         code:       2066,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -3168,7 +3168,7 @@ module CdekApi
         code:       131,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -3179,7 +3179,7 @@ module CdekApi
         code:       39,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -3190,7 +3190,7 @@ module CdekApi
         code:       13927,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -3201,7 +3201,7 @@ module CdekApi
         code:       341,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -3212,7 +3212,7 @@ module CdekApi
         code:       2067,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -3223,7 +3223,7 @@ module CdekApi
         code:       2072,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -3234,7 +3234,7 @@ module CdekApi
         code:       2473,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -3245,7 +3245,7 @@ module CdekApi
         code:       2068,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -3256,7 +3256,7 @@ module CdekApi
         code:       2069,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -3267,7 +3267,7 @@ module CdekApi
         code:       2476,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -3278,7 +3278,7 @@ module CdekApi
         code:       2478,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -3289,7 +3289,7 @@ module CdekApi
         code:       2073,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -3300,7 +3300,7 @@ module CdekApi
         code:       372,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -3311,7 +3311,7 @@ module CdekApi
         code:       132,
         address:    'Металлургов пр., д.6, оф.12',
         phone:      '(4725) 48-72-78; 8-910-329-10-19',
-        wotk_time:  '',
+        work_time:  'пн.-пт. 9-18',
         delivery:   ''
 
       },
@@ -3322,7 +3322,7 @@ module CdekApi
         code:       2474,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -3333,7 +3333,7 @@ module CdekApi
         code:       957,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -3344,7 +3344,7 @@ module CdekApi
         code:       2309,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -3355,7 +3355,7 @@ module CdekApi
         code:       2328,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -3366,7 +3366,7 @@ module CdekApi
         code:       2310,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -3377,7 +3377,7 @@ module CdekApi
         code:       220,
         address:    'Трудовая, д.5',
         phone:      '(4832) 777124,777129',
-        wotk_time:  '',
+        work_time:  'пн.-пт. 9-18, сб. 9-12',
         delivery:   ''
 
       },
@@ -3388,7 +3388,7 @@ module CdekApi
         code:       2311,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -3399,7 +3399,7 @@ module CdekApi
         code:       3223,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -3410,7 +3410,7 @@ module CdekApi
         code:       2327,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -3421,7 +3421,7 @@ module CdekApi
         code:       2312,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -3432,7 +3432,7 @@ module CdekApi
         code:       2301,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -3443,7 +3443,7 @@ module CdekApi
         code:       97,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -3454,7 +3454,7 @@ module CdekApi
         code:       2324,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -3465,7 +3465,7 @@ module CdekApi
         code:       2313,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -3476,7 +3476,7 @@ module CdekApi
         code:       2302,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -3487,7 +3487,7 @@ module CdekApi
         code:       2303,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -3498,7 +3498,7 @@ module CdekApi
         code:       2317,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -3509,7 +3509,7 @@ module CdekApi
         code:       2315,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -3520,7 +3520,7 @@ module CdekApi
         code:       416,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -3531,7 +3531,7 @@ module CdekApi
         code:       166,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -3542,7 +3542,7 @@ module CdekApi
         code:       2314,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -3553,7 +3553,7 @@ module CdekApi
         code:       2316,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -3564,7 +3564,7 @@ module CdekApi
         code:       13431,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -3575,7 +3575,7 @@ module CdekApi
         code:       3222,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -3586,7 +3586,7 @@ module CdekApi
         code:       2318,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -3597,7 +3597,7 @@ module CdekApi
         code:       13364,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -3608,7 +3608,7 @@ module CdekApi
         code:       2319,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -3619,7 +3619,7 @@ module CdekApi
         code:       418,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -3630,7 +3630,7 @@ module CdekApi
         code:       13068,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -3641,7 +3641,7 @@ module CdekApi
         code:       2304,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -3652,7 +3652,7 @@ module CdekApi
         code:       1882,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -3663,7 +3663,7 @@ module CdekApi
         code:       2320,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -3674,7 +3674,7 @@ module CdekApi
         code:       2321,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -3685,7 +3685,7 @@ module CdekApi
         code:       2305,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -3696,7 +3696,7 @@ module CdekApi
         code:       2306,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -3707,7 +3707,7 @@ module CdekApi
         code:       2322,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -3718,7 +3718,7 @@ module CdekApi
         code:       2326,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -3729,7 +3729,7 @@ module CdekApi
         code:       2307,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -3740,7 +3740,7 @@ module CdekApi
         code:       2323,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -3751,7 +3751,7 @@ module CdekApi
         code:       2308,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -3762,7 +3762,7 @@ module CdekApi
         code:       2325,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -3773,7 +3773,7 @@ module CdekApi
         code:       13475,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -3784,7 +3784,7 @@ module CdekApi
         code:       2426,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -3795,7 +3795,7 @@ module CdekApi
         code:       2427,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -3806,7 +3806,7 @@ module CdekApi
         code:       2428,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -3817,7 +3817,7 @@ module CdekApi
         code:       2429,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -3828,7 +3828,7 @@ module CdekApi
         code:       2430,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -3839,7 +3839,7 @@ module CdekApi
         code:       544,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -3850,7 +3850,7 @@ module CdekApi
         code:       2431,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -3861,7 +3861,7 @@ module CdekApi
         code:       2432,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -3872,7 +3872,7 @@ module CdekApi
         code:       2433,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -3883,7 +3883,7 @@ module CdekApi
         code:       2434,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -3894,7 +3894,7 @@ module CdekApi
         code:       2435,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -3905,7 +3905,7 @@ module CdekApi
         code:       1408,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -3916,7 +3916,7 @@ module CdekApi
         code:       2436,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -3927,7 +3927,7 @@ module CdekApi
         code:       2437,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -3938,7 +3938,7 @@ module CdekApi
         code:       2438,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -3949,7 +3949,7 @@ module CdekApi
         code:       2439,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -3960,7 +3960,7 @@ module CdekApi
         code:       2440,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -3971,7 +3971,7 @@ module CdekApi
         code:       2442,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -3982,7 +3982,7 @@ module CdekApi
         code:       24,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -3993,7 +3993,7 @@ module CdekApi
         code:       2443,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -4004,7 +4004,7 @@ module CdekApi
         code:       2444,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -4015,7 +4015,7 @@ module CdekApi
         code:       2445,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -4026,7 +4026,7 @@ module CdekApi
         code:       2446,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -4037,7 +4037,7 @@ module CdekApi
         code:       2447,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -4048,7 +4048,7 @@ module CdekApi
         code:       2448,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -4059,7 +4059,7 @@ module CdekApi
         code:       543,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -4070,7 +4070,7 @@ module CdekApi
         code:       2360,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -4081,7 +4081,7 @@ module CdekApi
         code:       2449,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -4092,7 +4092,7 @@ module CdekApi
         code:       2450,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -4103,7 +4103,7 @@ module CdekApi
         code:       2451,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -4114,7 +4114,7 @@ module CdekApi
         code:       2452,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -4125,7 +4125,7 @@ module CdekApi
         code:       2453,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -4136,7 +4136,7 @@ module CdekApi
         code:       2454,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -4147,7 +4147,7 @@ module CdekApi
         code:       2455,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -4158,7 +4158,7 @@ module CdekApi
         code:       230,
         address:    'Советская ул., д.28, оф.233',
         phone:      '(3012) 68-08-85, (3012) 22-30-82',
-        wotk_time:  '',
+        work_time:  'пн.-пт. 10-18',
         delivery:   ''
 
       },
@@ -4169,7 +4169,7 @@ module CdekApi
         code:       1196,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -4180,7 +4180,7 @@ module CdekApi
         code:       13811,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -4189,9 +4189,9 @@ module CdekApi
       '33-0-1-0' => {
 
         code:       94,
-        address:    'Чайковского ул., д.21а',
-        phone:      '(4922) 377003',
-        wotk_time:  '',
+        address:    '',
+        phone:      '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -4202,7 +4202,7 @@ module CdekApi
         code:       460,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -4213,7 +4213,7 @@ module CdekApi
         code:       312,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -4224,7 +4224,7 @@ module CdekApi
         code:       13000,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -4235,7 +4235,7 @@ module CdekApi
         code:       294,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -4246,7 +4246,7 @@ module CdekApi
         code:       492,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -4257,7 +4257,7 @@ module CdekApi
         code:       2479,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -4268,7 +4268,7 @@ module CdekApi
         code:       13461,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -4279,7 +4279,7 @@ module CdekApi
         code:       2487,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -4290,7 +4290,7 @@ module CdekApi
         code:       1759,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -4301,7 +4301,7 @@ module CdekApi
         code:       2484,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -4312,7 +4312,7 @@ module CdekApi
         code:       940,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -4323,7 +4323,7 @@ module CdekApi
         code:       2480,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -4334,7 +4334,7 @@ module CdekApi
         code:       14293,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -4345,7 +4345,7 @@ module CdekApi
         code:       13291,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -4356,7 +4356,7 @@ module CdekApi
         code:       2396,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -4367,7 +4367,7 @@ module CdekApi
         code:       42,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -4378,7 +4378,7 @@ module CdekApi
         code:       2482,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -4389,7 +4389,7 @@ module CdekApi
         code:       2485,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -4400,7 +4400,7 @@ module CdekApi
         code:       2483,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -4411,7 +4411,7 @@ module CdekApi
         code:       1228,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -4422,7 +4422,7 @@ module CdekApi
         code:       13173,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -4433,7 +4433,7 @@ module CdekApi
         code:       13177,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -4444,7 +4444,7 @@ module CdekApi
         code:       13179,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -4455,7 +4455,7 @@ module CdekApi
         code:       426,
         address:    'Чуйкова маршала ул., д.55',
         phone:      '+7 (8442) 551-500, 551-501, 551-505, +7-995-408-6658',
-        wotk_time:  '',
+        work_time:  'пн.-пт. 9-18, сб. 10-14',
         delivery:   ''
 
       },
@@ -4466,7 +4466,7 @@ module CdekApi
         code:       427,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -4477,7 +4477,7 @@ module CdekApi
         code:       13180,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -4488,7 +4488,7 @@ module CdekApi
         code:       13182,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -4499,7 +4499,7 @@ module CdekApi
         code:       2456,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -4510,7 +4510,7 @@ module CdekApi
         code:       1024,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -4521,7 +4521,7 @@ module CdekApi
         code:       13172,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -4532,7 +4532,7 @@ module CdekApi
         code:       13174,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -4543,7 +4543,7 @@ module CdekApi
         code:       2460,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -4554,7 +4554,7 @@ module CdekApi
         code:       324,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -4565,7 +4565,7 @@ module CdekApi
         code:       2461,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -4576,7 +4576,7 @@ module CdekApi
         code:       1573,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -4587,7 +4587,7 @@ module CdekApi
         code:       13178,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -4598,7 +4598,7 @@ module CdekApi
         code:       1572,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -4609,7 +4609,7 @@ module CdekApi
         code:       1025,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -4620,7 +4620,7 @@ module CdekApi
         code:       1577,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -4631,7 +4631,7 @@ module CdekApi
         code:       13175,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -4642,7 +4642,7 @@ module CdekApi
         code:       2458,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -4653,7 +4653,7 @@ module CdekApi
         code:       1960,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -4664,7 +4664,7 @@ module CdekApi
         code:       13183,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -4675,7 +4675,7 @@ module CdekApi
         code:       1232,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -4686,7 +4686,7 @@ module CdekApi
         code:       1144,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -4697,7 +4697,7 @@ module CdekApi
         code:       13185,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -4708,7 +4708,7 @@ module CdekApi
         code:       2459,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -4719,7 +4719,7 @@ module CdekApi
         code:       13124,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -4730,7 +4730,7 @@ module CdekApi
         code:       155,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -4741,7 +4741,7 @@ module CdekApi
         code:       13184,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -4752,7 +4752,7 @@ module CdekApi
         code:       2457,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -4763,7 +4763,7 @@ module CdekApi
         code:       1542,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -4774,7 +4774,7 @@ module CdekApi
         code:       1026,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -4785,7 +4785,7 @@ module CdekApi
         code:       2023,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -4796,7 +4796,7 @@ module CdekApi
         code:       2024,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -4807,7 +4807,7 @@ module CdekApi
         code:       992,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -4818,7 +4818,7 @@ module CdekApi
         code:       2026,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -4829,7 +4829,7 @@ module CdekApi
         code:       2027,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -4840,7 +4840,7 @@ module CdekApi
         code:       246,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -4851,7 +4851,7 @@ module CdekApi
         code:       2028,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -4862,7 +4862,7 @@ module CdekApi
         code:       2029,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -4873,7 +4873,7 @@ module CdekApi
         code:       2462,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -4884,7 +4884,7 @@ module CdekApi
         code:       2045,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -4895,7 +4895,7 @@ module CdekApi
         code:       2030,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -4906,7 +4906,7 @@ module CdekApi
         code:       1112,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -4917,7 +4917,7 @@ module CdekApi
         code:       2463,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -4928,7 +4928,7 @@ module CdekApi
         code:       2031,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -4939,7 +4939,7 @@ module CdekApi
         code:       2032,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -4950,7 +4950,7 @@ module CdekApi
         code:       2043,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -4961,7 +4961,7 @@ module CdekApi
         code:       2025,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -4972,7 +4972,7 @@ module CdekApi
         code:       2464,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -4983,7 +4983,7 @@ module CdekApi
         code:       2033,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -4994,7 +4994,7 @@ module CdekApi
         code:       2467,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -5005,7 +5005,7 @@ module CdekApi
         code:       2034,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -5016,7 +5016,7 @@ module CdekApi
         code:       1325,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -5027,7 +5027,7 @@ module CdekApi
         code:       993,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -5038,7 +5038,7 @@ module CdekApi
         code:       2044,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -5049,7 +5049,7 @@ module CdekApi
         code:       991,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -5060,7 +5060,7 @@ module CdekApi
         code:       2035,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -5071,7 +5071,7 @@ module CdekApi
         code:       2036,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -5082,7 +5082,7 @@ module CdekApi
         code:       2037,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -5093,7 +5093,7 @@ module CdekApi
         code:       2465,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -5104,7 +5104,7 @@ module CdekApi
         code:       2038,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -5115,7 +5115,7 @@ module CdekApi
         code:       2466,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -5126,7 +5126,7 @@ module CdekApi
         code:       2039,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -5137,7 +5137,7 @@ module CdekApi
         code:       2040,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -5148,7 +5148,7 @@ module CdekApi
         code:       403,
         address:    'Луначарского пр-кт, д.53а',
         phone:      '',
-        wotk_time:  '',
+        work_time:  'пн-пт 9-18',
         delivery:   ''
 
       },
@@ -5159,7 +5159,7 @@ module CdekApi
         code:       2041,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -5170,7 +5170,7 @@ module CdekApi
         code:       2042,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -5181,7 +5181,7 @@ module CdekApi
         code:       1353,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -5192,7 +5192,7 @@ module CdekApi
         code:       2469,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -5203,7 +5203,7 @@ module CdekApi
         code:       1354,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -5214,7 +5214,7 @@ module CdekApi
         code:       1355,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -5225,7 +5225,7 @@ module CdekApi
         code:       352,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -5236,7 +5236,7 @@ module CdekApi
         code:       13295,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -5247,7 +5247,7 @@ module CdekApi
         code:       2351,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -5258,7 +5258,7 @@ module CdekApi
         code:       1356,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -5269,7 +5269,7 @@ module CdekApi
         code:       1357,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -5280,7 +5280,7 @@ module CdekApi
         code:       13296,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -5291,7 +5291,7 @@ module CdekApi
         code:       506,
         address:    'Труда пр-т., д.67в',
         phone:      '',
-        wotk_time:  '',
+        work_time:  'пн.-пт. 9-18, сб. 10-14',
         delivery:   ''
 
       },
@@ -5302,7 +5302,7 @@ module CdekApi
         code:       13300,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -5313,7 +5313,7 @@ module CdekApi
         code:       1358,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -5324,7 +5324,7 @@ module CdekApi
         code:       13297,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -5335,7 +5335,7 @@ module CdekApi
         code:       382,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -5346,7 +5346,7 @@ module CdekApi
         code:       2352,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -5357,7 +5357,7 @@ module CdekApi
         code:       2468,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -5368,7 +5368,7 @@ module CdekApi
         code:       1359,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -5379,7 +5379,7 @@ module CdekApi
         code:       1360,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -5390,7 +5390,7 @@ module CdekApi
         code:       13125,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -5401,7 +5401,7 @@ module CdekApi
         code:       13298,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -5412,7 +5412,7 @@ module CdekApi
         code:       13126,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -5423,7 +5423,7 @@ module CdekApi
         code:       13127,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -5434,7 +5434,7 @@ module CdekApi
         code:       357,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -5445,7 +5445,7 @@ module CdekApi
         code:       13171,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -5456,7 +5456,7 @@ module CdekApi
         code:       13169,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -5467,7 +5467,7 @@ module CdekApi
         code:       13128,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -5478,7 +5478,7 @@ module CdekApi
         code:       1361,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -5489,7 +5489,7 @@ module CdekApi
         code:       13170,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -5500,7 +5500,7 @@ module CdekApi
         code:       557,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -5511,7 +5511,7 @@ module CdekApi
         code:       1362,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -5522,7 +5522,7 @@ module CdekApi
         code:       1363,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -5533,7 +5533,7 @@ module CdekApi
         code:       1364,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -5544,7 +5544,7 @@ module CdekApi
         code:       13299,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -5555,7 +5555,7 @@ module CdekApi
         code:       1309,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -5566,7 +5566,7 @@ module CdekApi
         code:       927,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -5577,7 +5577,7 @@ module CdekApi
         code:       1365,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -5588,7 +5588,7 @@ module CdekApi
         code:       1366,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -5599,7 +5599,7 @@ module CdekApi
         code:       13301,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -5610,7 +5610,7 @@ module CdekApi
         code:       1367,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -5621,7 +5621,7 @@ module CdekApi
         code:       1368,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -5632,7 +5632,7 @@ module CdekApi
         code:       14327,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -5643,7 +5643,7 @@ module CdekApi
         code:       537,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -5654,7 +5654,7 @@ module CdekApi
         code:       1439,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -5665,7 +5665,7 @@ module CdekApi
         code:       355,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -5676,7 +5676,7 @@ module CdekApi
         code:       13130,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -5687,7 +5687,7 @@ module CdekApi
         code:       13131,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -5698,7 +5698,7 @@ module CdekApi
         code:       13132,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -5709,7 +5709,7 @@ module CdekApi
         code:       1369,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -5720,7 +5720,7 @@ module CdekApi
         code:       13133,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -5731,7 +5731,7 @@ module CdekApi
         code:       14330,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -5742,7 +5742,7 @@ module CdekApi
         code:       1370,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -5753,7 +5753,7 @@ module CdekApi
         code:       13168,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -5764,7 +5764,7 @@ module CdekApi
         code:       1371,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -5775,7 +5775,7 @@ module CdekApi
         code:       2470,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -5786,7 +5786,7 @@ module CdekApi
         code:       59,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -5797,7 +5797,7 @@ module CdekApi
         code:       2491,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -5808,7 +5808,7 @@ module CdekApi
         code:       1870,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -5819,7 +5819,7 @@ module CdekApi
         code:       2492,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -5830,7 +5830,7 @@ module CdekApi
         code:       2488,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -5841,7 +5841,7 @@ module CdekApi
         code:       2489,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -5852,7 +5852,7 @@ module CdekApi
         code:       2490,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -5863,7 +5863,7 @@ module CdekApi
         code:       2493,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -5874,7 +5874,7 @@ module CdekApi
         code:       442,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -5885,7 +5885,7 @@ module CdekApi
         code:       2494,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -5896,7 +5896,7 @@ module CdekApi
         code:       914,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -5907,7 +5907,7 @@ module CdekApi
         code:       14336,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -5918,7 +5918,7 @@ module CdekApi
         code:       1295,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -5929,7 +5929,7 @@ module CdekApi
         code:       1106,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -5940,7 +5940,7 @@ module CdekApi
         code:       13613,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -5951,7 +5951,7 @@ module CdekApi
         code:       1434,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -5962,7 +5962,7 @@ module CdekApi
         code:       2495,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -5973,7 +5973,7 @@ module CdekApi
         code:       13067,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -5984,7 +5984,7 @@ module CdekApi
         code:       13979,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -5995,7 +5995,7 @@ module CdekApi
         code:       2498,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -6006,7 +6006,7 @@ module CdekApi
         code:       13495,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -6017,7 +6017,7 @@ module CdekApi
         code:       2362,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -6028,7 +6028,7 @@ module CdekApi
         code:       13493,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -6039,7 +6039,7 @@ module CdekApi
         code:       13492,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -6050,7 +6050,7 @@ module CdekApi
         code:       2499,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -6061,7 +6061,7 @@ module CdekApi
         code:       13496,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -6072,7 +6072,7 @@ module CdekApi
         code:       2496,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -6083,7 +6083,7 @@ module CdekApi
         code:       13016,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -6094,7 +6094,7 @@ module CdekApi
         code:       2497,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -6105,7 +6105,7 @@ module CdekApi
         code:       13062,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -6116,7 +6116,7 @@ module CdekApi
         code:       13490,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -6127,7 +6127,7 @@ module CdekApi
         code:       13494,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -6138,7 +6138,7 @@ module CdekApi
         code:       3228,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -6149,7 +6149,7 @@ module CdekApi
         code:       2361,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -6160,7 +6160,7 @@ module CdekApi
         code:       13491,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -6171,7 +6171,7 @@ module CdekApi
         code:       231,
         address:    'Богомягкова ул., д.53, оф.3',
         phone:      '(3022)35-03-67, +7-914-498-0756',
-        wotk_time:  '',
+        work_time:  'пн.-пт. 10-18',
         delivery:   ''
 
       },
@@ -6182,7 +6182,7 @@ module CdekApi
         code:       13389,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -6193,7 +6193,7 @@ module CdekApi
         code:       13093,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -6204,7 +6204,7 @@ module CdekApi
         code:       13094,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -6215,7 +6215,7 @@ module CdekApi
         code:       1238,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -6226,7 +6226,7 @@ module CdekApi
         code:       465,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -6237,7 +6237,7 @@ module CdekApi
         code:       2500,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -6248,7 +6248,7 @@ module CdekApi
         code:       164,
         address:    'Станко ул., д.36',
         phone:      '(4932) 49-68-98, 202-900',
-        wotk_time:  '',
+        work_time:  'пн.-пт. 9-18',
         delivery:   ''
 
       },
@@ -6259,7 +6259,7 @@ module CdekApi
         code:       14329,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -6270,7 +6270,7 @@ module CdekApi
         code:       462,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -6281,7 +6281,7 @@ module CdekApi
         code:       2076,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -6292,7 +6292,7 @@ module CdekApi
         code:       2077,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -6303,7 +6303,7 @@ module CdekApi
         code:       2078,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -6314,7 +6314,7 @@ module CdekApi
         code:       2079,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -6325,7 +6325,7 @@ module CdekApi
         code:       2080,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -6336,7 +6336,7 @@ module CdekApi
         code:       2081,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -6347,7 +6347,7 @@ module CdekApi
         code:       2501,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -6358,7 +6358,7 @@ module CdekApi
         code:       2082,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -6369,7 +6369,7 @@ module CdekApi
         code:       2083,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -6380,7 +6380,7 @@ module CdekApi
         code:       2084,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -6391,7 +6391,7 @@ module CdekApi
         code:       2085,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -6402,7 +6402,7 @@ module CdekApi
         code:       14,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -6413,7 +6413,7 @@ module CdekApi
         code:       463,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -6424,7 +6424,7 @@ module CdekApi
         code:       2086,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -6435,7 +6435,7 @@ module CdekApi
         code:       2356,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -6446,7 +6446,7 @@ module CdekApi
         code:       2357,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -6457,7 +6457,7 @@ module CdekApi
         code:       390,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -6468,7 +6468,7 @@ module CdekApi
         code:       1736,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -6479,7 +6479,7 @@ module CdekApi
         code:       443,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -6490,7 +6490,7 @@ module CdekApi
         code:       2016,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -6501,7 +6501,7 @@ module CdekApi
         code:       13831,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -6512,7 +6512,7 @@ module CdekApi
         code:       280,
         address:    'Мира ул, д.18',
         phone:      '(3955) 68-30-45',
-        wotk_time:  '',
+        work_time:  'пн- пт с 09.00 до 18,00',
         delivery:   ''
 
       },
@@ -6523,7 +6523,7 @@ module CdekApi
         code:       1124,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -6534,7 +6534,7 @@ module CdekApi
         code:       13833,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -6545,7 +6545,7 @@ module CdekApi
         code:       2502,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -6556,7 +6556,7 @@ module CdekApi
         code:       1160,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -6567,7 +6567,7 @@ module CdekApi
         code:       3227,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -6578,7 +6578,7 @@ module CdekApi
         code:       2503,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -6589,7 +6589,7 @@ module CdekApi
         code:       1872,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -6600,7 +6600,7 @@ module CdekApi
         code:       877,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -6611,7 +6611,7 @@ module CdekApi
         code:       1869,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -6622,7 +6622,7 @@ module CdekApi
         code:       13333,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -6633,7 +6633,7 @@ module CdekApi
         code:       13834,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -6644,7 +6644,7 @@ module CdekApi
         code:       886,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -6655,7 +6655,7 @@ module CdekApi
         code:       872,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -6666,7 +6666,7 @@ module CdekApi
         code:       874,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -6677,7 +6677,7 @@ module CdekApi
         code:       281,
         address:    'Ядринцева ул, д.1/2, оф.2',
         phone:      '(3952)702-094, 702-083',
-        wotk_time:  '',
+        work_time:  'пн.-пт. 9-19, сб. 10-16',
         delivery:   ''
 
       },
@@ -6688,7 +6688,7 @@ module CdekApi
         code:       1162,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -6699,7 +6699,7 @@ module CdekApi
         code:       13830,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -6710,7 +6710,7 @@ module CdekApi
         code:       14262,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -6721,7 +6721,7 @@ module CdekApi
         code:       888,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -6732,7 +6732,7 @@ module CdekApi
         code:       1762,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -6743,7 +6743,7 @@ module CdekApi
         code:       13832,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -6754,7 +6754,7 @@ module CdekApi
         code:       1761,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -6765,7 +6765,7 @@ module CdekApi
         code:       1915,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -6776,7 +6776,7 @@ module CdekApi
         code:       2512,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -6787,7 +6787,7 @@ module CdekApi
         code:       13835,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -6798,7 +6798,7 @@ module CdekApi
         code:       13829,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -6809,7 +6809,7 @@ module CdekApi
         code:       889,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -6820,7 +6820,7 @@ module CdekApi
         code:       13120,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -6831,7 +6831,7 @@ module CdekApi
         code:       1261,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -6842,7 +6842,7 @@ module CdekApi
         code:       2504,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -6853,7 +6853,7 @@ module CdekApi
         code:       2505,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -6864,7 +6864,7 @@ module CdekApi
         code:       875,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -6875,7 +6875,7 @@ module CdekApi
         code:       2506,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -6886,7 +6886,7 @@ module CdekApi
         code:       13151,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -6897,7 +6897,7 @@ module CdekApi
         code:       883,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -6908,7 +6908,7 @@ module CdekApi
         code:       2507,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -6919,7 +6919,7 @@ module CdekApi
         code:       1866,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -6930,7 +6930,7 @@ module CdekApi
         code:       2508,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -6941,7 +6941,7 @@ module CdekApi
         code:       873,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -6952,7 +6952,7 @@ module CdekApi
         code:       8,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -6963,7 +6963,7 @@ module CdekApi
         code:       1192,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -6974,7 +6974,7 @@ module CdekApi
         code:       1262,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -6985,7 +6985,7 @@ module CdekApi
         code:       885,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -6996,7 +6996,7 @@ module CdekApi
         code:       13836,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -7007,7 +7007,7 @@ module CdekApi
         code:       876,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -7018,7 +7018,7 @@ module CdekApi
         code:       2509,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -7029,7 +7029,7 @@ module CdekApi
         code:       880,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -7040,7 +7040,7 @@ module CdekApi
         code:       878,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -7051,7 +7051,7 @@ module CdekApi
         code:       519,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -7062,7 +7062,7 @@ module CdekApi
         code:       879,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -7073,7 +7073,7 @@ module CdekApi
         code:       881,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -7084,7 +7084,7 @@ module CdekApi
         code:       2510,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -7095,7 +7095,7 @@ module CdekApi
         code:       2371,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -7106,7 +7106,7 @@ module CdekApi
         code:       1161,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -7117,7 +7117,7 @@ module CdekApi
         code:       319,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -7128,7 +7128,7 @@ module CdekApi
         code:       2511,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -7139,7 +7139,7 @@ module CdekApi
         code:       14352,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -7150,7 +7150,7 @@ module CdekApi
         code:       2515,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -7161,7 +7161,7 @@ module CdekApi
         code:       14351,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -7172,7 +7172,7 @@ module CdekApi
         code:       13941,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -7183,7 +7183,7 @@ module CdekApi
         code:       14359,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -7194,7 +7194,7 @@ module CdekApi
         code:       2513,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -7205,7 +7205,7 @@ module CdekApi
         code:       14353,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -7216,7 +7216,7 @@ module CdekApi
         code:       14286,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -7227,7 +7227,7 @@ module CdekApi
         code:       14361,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -7238,7 +7238,7 @@ module CdekApi
         code:       14290,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -7249,7 +7249,7 @@ module CdekApi
         code:       2514,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -7260,7 +7260,7 @@ module CdekApi
         code:       13943,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -7271,7 +7271,7 @@ module CdekApi
         code:       13940,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -7282,7 +7282,7 @@ module CdekApi
         code:       13946,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -7293,7 +7293,7 @@ module CdekApi
         code:       14354,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -7304,7 +7304,7 @@ module CdekApi
         code:       2520,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -7315,7 +7315,7 @@ module CdekApi
         code:       13942,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -7326,7 +7326,7 @@ module CdekApi
         code:       14356,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -7337,7 +7337,7 @@ module CdekApi
         code:       13938,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -7348,7 +7348,7 @@ module CdekApi
         code:       14360,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -7359,7 +7359,7 @@ module CdekApi
         code:       2516,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -7370,7 +7370,7 @@ module CdekApi
         code:       14357,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -7381,7 +7381,7 @@ module CdekApi
         code:       1081,
         address:    'Темрюка идарова ул., д.129',
         phone:      '+7 (8662) 96-79-75, 89289100769',
-        wotk_time:  '',
+        work_time:  'пн-пт 9-18',
         delivery:   ''
 
       },
@@ -7392,7 +7392,7 @@ module CdekApi
         code:       14287,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -7403,7 +7403,7 @@ module CdekApi
         code:       2518,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -7414,7 +7414,7 @@ module CdekApi
         code:       2017,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -7425,7 +7425,7 @@ module CdekApi
         code:       14358,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -7436,7 +7436,7 @@ module CdekApi
         code:       13939,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -7447,7 +7447,7 @@ module CdekApi
         code:       13945,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -7458,7 +7458,7 @@ module CdekApi
         code:       14355,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -7469,7 +7469,7 @@ module CdekApi
         code:       14289,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -7480,7 +7480,7 @@ module CdekApi
         code:       2517,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -7491,7 +7491,7 @@ module CdekApi
         code:       2521,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -7502,7 +7502,7 @@ module CdekApi
         code:       14288,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -7513,7 +7513,7 @@ module CdekApi
         code:       13944,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -7524,7 +7524,7 @@ module CdekApi
         code:       2519,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -7535,7 +7535,7 @@ module CdekApi
         code:       14285,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -7546,7 +7546,7 @@ module CdekApi
         code:       14362,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -7557,7 +7557,7 @@ module CdekApi
         code:       14284,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -7568,7 +7568,7 @@ module CdekApi
         code:       13141,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -7579,7 +7579,7 @@ module CdekApi
         code:       2522,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -7590,7 +7590,7 @@ module CdekApi
         code:       2523,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -7601,7 +7601,7 @@ module CdekApi
         code:       13350,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -7612,7 +7612,7 @@ module CdekApi
         code:       2524,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -7623,7 +7623,7 @@ module CdekApi
         code:       2525,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -7634,7 +7634,7 @@ module CdekApi
         code:       2061,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -7645,7 +7645,7 @@ module CdekApi
         code:       890,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -7656,7 +7656,7 @@ module CdekApi
         code:       13347,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -7667,7 +7667,7 @@ module CdekApi
         code:       2526,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -7678,7 +7678,7 @@ module CdekApi
         code:       152,
         address:    'Ганзейский пер., д.6',
         phone:      '8(4012)777-272, 976-231, 976-230',
-        wotk_time:  '',
+        work_time:  'пн.-пт. 9-18, сб. 10-14',
         delivery:   ''
 
       },
@@ -7689,7 +7689,7 @@ module CdekApi
         code:       2531,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -7700,7 +7700,7 @@ module CdekApi
         code:       13352,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -7711,7 +7711,7 @@ module CdekApi
         code:       13351,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -7722,7 +7722,7 @@ module CdekApi
         code:       2537,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -7733,7 +7733,7 @@ module CdekApi
         code:       2532,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -7744,7 +7744,7 @@ module CdekApi
         code:       2533,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -7755,7 +7755,7 @@ module CdekApi
         code:       2534,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -7766,7 +7766,7 @@ module CdekApi
         code:       13348,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -7777,7 +7777,7 @@ module CdekApi
         code:       2527,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -7788,7 +7788,7 @@ module CdekApi
         code:       2528,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -7799,7 +7799,7 @@ module CdekApi
         code:       2530,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -7810,7 +7810,7 @@ module CdekApi
         code:       2063,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -7821,7 +7821,7 @@ module CdekApi
         code:       2538,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -7832,7 +7832,7 @@ module CdekApi
         code:       232,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -7843,7 +7843,7 @@ module CdekApi
         code:       2529,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -7854,7 +7854,7 @@ module CdekApi
         code:       2062,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -7865,7 +7865,7 @@ module CdekApi
         code:       2535,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -7876,7 +7876,7 @@ module CdekApi
         code:       2536,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -7887,7 +7887,7 @@ module CdekApi
         code:       2348,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -7898,7 +7898,7 @@ module CdekApi
         code:       13353,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -7909,7 +7909,7 @@ module CdekApi
         code:       13349,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -7920,7 +7920,7 @@ module CdekApi
         code:       2540,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -7931,7 +7931,7 @@ module CdekApi
         code:       14261,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -7942,7 +7942,7 @@ module CdekApi
         code:       2541,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -7953,7 +7953,7 @@ module CdekApi
         code:       2539,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -7964,7 +7964,7 @@ module CdekApi
         code:       207,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -7975,7 +7975,7 @@ module CdekApi
         code:       13157,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -7986,7 +7986,7 @@ module CdekApi
         code:       1916,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -7997,7 +7997,7 @@ module CdekApi
         code:       1917,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -8008,7 +8008,7 @@ module CdekApi
         code:       429,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -8019,7 +8019,7 @@ module CdekApi
         code:       1918,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -8030,7 +8030,7 @@ module CdekApi
         code:       1919,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -8041,7 +8041,7 @@ module CdekApi
         code:       1920,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -8052,7 +8052,7 @@ module CdekApi
         code:       1921,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -8063,7 +8063,7 @@ module CdekApi
         code:       1308,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -8074,7 +8074,7 @@ module CdekApi
         code:       13160,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -8085,7 +8085,7 @@ module CdekApi
         code:       1329,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -8096,7 +8096,7 @@ module CdekApi
         code:       1922,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -8107,7 +8107,7 @@ module CdekApi
         code:       1923,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -8118,7 +8118,7 @@ module CdekApi
         code:       1924,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -8129,7 +8129,7 @@ module CdekApi
         code:       1925,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -8140,7 +8140,7 @@ module CdekApi
         code:       1926,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -8151,7 +8151,7 @@ module CdekApi
         code:       1306,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -8162,7 +8162,7 @@ module CdekApi
         code:       1927,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -8171,9 +8171,9 @@ module CdekApi
       '40-0-1-0' => {
 
         code:       142,
-        address:    'Тульская ул., д.13б',
-        phone:      '(4842)53-10-38, 79-55-17',
-        wotk_time:  '',
+        address:    'Салтыкова-щедрина, д.76',
+        phone:      '(4842) 53-36-50; 53-36-88',
+        work_time:  'пн.-пт. 9-18',
         delivery:   ''
 
       },
@@ -8184,7 +8184,7 @@ module CdekApi
         code:       1947,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -8195,7 +8195,7 @@ module CdekApi
         code:       1928,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -8206,7 +8206,7 @@ module CdekApi
         code:       1188,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -8217,7 +8217,7 @@ module CdekApi
         code:       1929,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -8228,7 +8228,7 @@ module CdekApi
         code:       1930,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -8239,7 +8239,7 @@ module CdekApi
         code:       144,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -8250,7 +8250,7 @@ module CdekApi
         code:       423,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -8261,7 +8261,7 @@ module CdekApi
         code:       1931,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -8272,7 +8272,7 @@ module CdekApi
         code:       1932,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -8283,7 +8283,7 @@ module CdekApi
         code:       1933,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -8294,7 +8294,7 @@ module CdekApi
         code:       13159,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -8305,7 +8305,7 @@ module CdekApi
         code:       1276,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -8316,7 +8316,7 @@ module CdekApi
         code:       1934,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -8327,7 +8327,7 @@ module CdekApi
         code:       1935,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -8338,7 +8338,7 @@ module CdekApi
         code:       2581,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -8349,7 +8349,7 @@ module CdekApi
         code:       2580,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -8360,7 +8360,7 @@ module CdekApi
         code:       1936,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -8371,7 +8371,7 @@ module CdekApi
         code:       1937,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -8382,7 +8382,7 @@ module CdekApi
         code:       1938,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -8393,7 +8393,7 @@ module CdekApi
         code:       1939,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -8404,7 +8404,7 @@ module CdekApi
         code:       1940,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -8415,7 +8415,7 @@ module CdekApi
         code:       13158,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -8426,7 +8426,7 @@ module CdekApi
         code:       1941,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -8437,7 +8437,7 @@ module CdekApi
         code:       1942,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -8448,7 +8448,7 @@ module CdekApi
         code:       1943,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -8459,7 +8459,7 @@ module CdekApi
         code:       1945,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -8470,7 +8470,7 @@ module CdekApi
         code:       13087,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -8481,7 +8481,7 @@ module CdekApi
         code:       407,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -8492,7 +8492,7 @@ module CdekApi
         code:       2543,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -8503,7 +8503,7 @@ module CdekApi
         code:       13074,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -8514,7 +8514,7 @@ module CdekApi
         code:       13076,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -8525,7 +8525,7 @@ module CdekApi
         code:       895,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -8536,7 +8536,7 @@ module CdekApi
         code:       13086,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -8547,7 +8547,7 @@ module CdekApi
         code:       3205,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -8558,7 +8558,7 @@ module CdekApi
         code:       894,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -8569,7 +8569,7 @@ module CdekApi
         code:       13084,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -8580,7 +8580,7 @@ module CdekApi
         code:       13078,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -8591,7 +8591,7 @@ module CdekApi
         code:       3214,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -8602,7 +8602,7 @@ module CdekApi
         code:       13081,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -8613,7 +8613,7 @@ module CdekApi
         code:       13082,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -8624,7 +8624,7 @@ module CdekApi
         code:       285,
         address:    '50 лет октября пр-т., д.22, оф.1',
         phone:      '(4152) 30-78-78',
-        wotk_time:  '',
+        work_time:  'пн.-пт. 9-18, сб. 10-14',
         delivery:   ''
 
       },
@@ -8635,7 +8635,7 @@ module CdekApi
         code:       2542,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -8646,7 +8646,7 @@ module CdekApi
         code:       13085,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -8657,7 +8657,7 @@ module CdekApi
         code:       2545,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -8668,7 +8668,7 @@ module CdekApi
         code:       13080,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -8679,7 +8679,7 @@ module CdekApi
         code:       13083,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -8690,7 +8690,7 @@ module CdekApi
         code:       13564,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -8701,7 +8701,7 @@ module CdekApi
         code:       2547,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -8712,7 +8712,7 @@ module CdekApi
         code:       13590,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -8723,7 +8723,7 @@ module CdekApi
         code:       2548,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -8734,7 +8734,7 @@ module CdekApi
         code:       2546,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -8745,7 +8745,7 @@ module CdekApi
         code:       2549,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -8756,7 +8756,7 @@ module CdekApi
         code:       13593,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -8767,7 +8767,7 @@ module CdekApi
         code:       13595,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -8778,7 +8778,7 @@ module CdekApi
         code:       13605,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -8789,7 +8789,7 @@ module CdekApi
         code:       1141,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -8800,7 +8800,7 @@ module CdekApi
         code:       13596,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -8811,7 +8811,7 @@ module CdekApi
         code:       2553,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -8822,7 +8822,7 @@ module CdekApi
         code:       13597,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -8833,7 +8833,7 @@ module CdekApi
         code:       2389,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -8844,7 +8844,7 @@ module CdekApi
         code:       2550,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -8855,7 +8855,7 @@ module CdekApi
         code:       2551,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -8866,7 +8866,7 @@ module CdekApi
         code:       13594,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -8877,7 +8877,7 @@ module CdekApi
         code:       1085,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -8888,7 +8888,7 @@ module CdekApi
         code:       2552,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -8899,7 +8899,7 @@ module CdekApi
         code:       2559,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -8910,7 +8910,7 @@ module CdekApi
         code:       14279,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -8921,7 +8921,7 @@ module CdekApi
         code:       2560,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -8932,7 +8932,7 @@ module CdekApi
         code:       2561,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -8943,7 +8943,7 @@ module CdekApi
         code:       2562,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -8954,7 +8954,7 @@ module CdekApi
         code:       2554,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -8965,7 +8965,7 @@ module CdekApi
         code:       986,
         address:    'Октябрьская, д.12',
         phone:      '+7 911 419 12 17',
-        wotk_time:  '',
+        work_time:  'пн.-пт. 9-18',
         delivery:   ''
 
       },
@@ -8976,7 +8976,7 @@ module CdekApi
         code:       2563,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -8987,7 +8987,7 @@ module CdekApi
         code:       2564,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -8998,7 +8998,7 @@ module CdekApi
         code:       2557,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -9009,7 +9009,7 @@ module CdekApi
         code:       14281,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -9020,7 +9020,7 @@ module CdekApi
         code:       2565,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -9031,7 +9031,7 @@ module CdekApi
         code:       2566,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -9042,7 +9042,7 @@ module CdekApi
         code:       14280,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -9053,7 +9053,7 @@ module CdekApi
         code:       985,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -9064,7 +9064,7 @@ module CdekApi
         code:       450,
         address:    'Дзержинского ул., д.3, оф.15',
         phone:      '(8142)59-59-69, 33-01-03, 63-46-90',
-        wotk_time:  '',
+        work_time:  'пн.-пт. 9-19, сб.10-16',
         delivery:   ''
 
       },
@@ -9075,7 +9075,7 @@ module CdekApi
         code:       2567,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -9086,7 +9086,7 @@ module CdekApi
         code:       2555,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -9097,7 +9097,7 @@ module CdekApi
         code:       2568,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -9108,7 +9108,7 @@ module CdekApi
         code:       2569,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -9119,7 +9119,7 @@ module CdekApi
         code:       2570,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -9130,7 +9130,7 @@ module CdekApi
         code:       2558,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -9141,7 +9141,7 @@ module CdekApi
         code:       2556,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -9152,7 +9152,7 @@ module CdekApi
         code:       14277,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -9163,7 +9163,7 @@ module CdekApi
         code:       14278,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -9174,7 +9174,7 @@ module CdekApi
         code:       767,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -9185,7 +9185,7 @@ module CdekApi
         code:       13876,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -9196,7 +9196,7 @@ module CdekApi
         code:       14304,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -9207,7 +9207,7 @@ module CdekApi
         code:       766,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -9218,7 +9218,7 @@ module CdekApi
         code:       761,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -9229,7 +9229,7 @@ module CdekApi
         code:       760,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -9240,7 +9240,7 @@ module CdekApi
         code:       2369,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -9251,7 +9251,7 @@ module CdekApi
         code:       13868,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -9262,7 +9262,7 @@ module CdekApi
         code:       13315,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -9273,7 +9273,7 @@ module CdekApi
         code:       770,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -9284,7 +9284,7 @@ module CdekApi
         code:       1189,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -9295,7 +9295,7 @@ module CdekApi
         code:       13872,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -9306,7 +9306,7 @@ module CdekApi
         code:       13446,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -9317,7 +9317,7 @@ module CdekApi
         code:       272,
         address:    'Мичурина ул., д.43, оф.4',
         phone:      '(3842) 45-25-65',
-        wotk_time:  '',
+        work_time:  'пн.-пт. 9-18, сб. 10-14',
         delivery:   ''
 
       },
@@ -9328,7 +9328,7 @@ module CdekApi
         code:       772,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -9339,7 +9339,7 @@ module CdekApi
         code:       13873,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -9350,7 +9350,7 @@ module CdekApi
         code:       762,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -9361,7 +9361,7 @@ module CdekApi
         code:       13275,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -9372,7 +9372,7 @@ module CdekApi
         code:       299,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -9383,7 +9383,7 @@ module CdekApi
         code:       759,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -9394,7 +9394,7 @@ module CdekApi
         code:       777,
         address:    'Юности, д.10, оф.220',
         phone:      '(38475) 2-60-06',
-        wotk_time:  '',
+        work_time:  'пн.-пт. 9-18',
         delivery:   ''
 
       },
@@ -9405,7 +9405,7 @@ module CdekApi
         code:       13272,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -9416,7 +9416,7 @@ module CdekApi
         code:       776,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -9427,7 +9427,7 @@ module CdekApi
         code:       273,
         address:    'Металлургов, д.38',
         phone:      '(3843) 92-02-24, +7-903-908-3311',
-        wotk_time:  '',
+        work_time:  'пн.-пт. 9-20, сб. 9-17',
         delivery:   ''
 
       },
@@ -9438,7 +9438,7 @@ module CdekApi
         code:       775,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -9449,7 +9449,7 @@ module CdekApi
         code:       13870,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -9460,7 +9460,7 @@ module CdekApi
         code:       13871,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -9471,7 +9471,7 @@ module CdekApi
         code:       1333,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -9482,7 +9482,7 @@ module CdekApi
         code:       773,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -9493,7 +9493,7 @@ module CdekApi
         code:       758,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -9504,7 +9504,7 @@ module CdekApi
         code:       13869,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -9515,7 +9515,7 @@ module CdekApi
         code:       13267,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -9526,7 +9526,7 @@ module CdekApi
         code:       1536,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -9537,7 +9537,7 @@ module CdekApi
         code:       13388,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -9548,7 +9548,7 @@ module CdekApi
         code:       13271,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -9559,7 +9559,7 @@ module CdekApi
         code:       2366,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -9570,7 +9570,7 @@ module CdekApi
         code:       13877,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -9581,7 +9581,7 @@ module CdekApi
         code:       2571,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -9592,7 +9592,7 @@ module CdekApi
         code:       768,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -9603,7 +9603,7 @@ module CdekApi
         code:       13875,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -9614,7 +9614,7 @@ module CdekApi
         code:       2367,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -9625,7 +9625,7 @@ module CdekApi
         code:       13932,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -9636,7 +9636,7 @@ module CdekApi
         code:       765,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -9647,7 +9647,7 @@ module CdekApi
         code:       13874,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -9658,7 +9658,7 @@ module CdekApi
         code:       2368,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -9669,7 +9669,7 @@ module CdekApi
         code:       2365,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -9680,7 +9680,7 @@ module CdekApi
         code:       1768,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -9691,7 +9691,7 @@ module CdekApi
         code:       2576,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -9702,7 +9702,7 @@ module CdekApi
         code:       2572,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -9713,7 +9713,7 @@ module CdekApi
         code:       2577,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -9724,7 +9724,7 @@ module CdekApi
         code:       2578,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -9735,7 +9735,7 @@ module CdekApi
         code:       2583,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -9746,7 +9746,7 @@ module CdekApi
         code:       388,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -9757,7 +9757,7 @@ module CdekApi
         code:       13952,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -9768,7 +9768,7 @@ module CdekApi
         code:       13951,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -9779,7 +9779,7 @@ module CdekApi
         code:       13949,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -9790,7 +9790,7 @@ module CdekApi
         code:       415,
         address:    'Попова ул., д.4',
         phone:      '(8332) 341-340',
-        wotk_time:  '',
+        work_time:  'пн-пт 9-18, обед 13-14, сб 11-14',
         delivery:   ''
 
       },
@@ -9801,7 +9801,7 @@ module CdekApi
         code:       241,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -9812,7 +9812,7 @@ module CdekApi
         code:       13948,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -9823,7 +9823,7 @@ module CdekApi
         code:       13954,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -9834,7 +9834,7 @@ module CdekApi
         code:       2584,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -9845,7 +9845,7 @@ module CdekApi
         code:       13113,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -9856,7 +9856,7 @@ module CdekApi
         code:       13933,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -9867,7 +9867,7 @@ module CdekApi
         code:       2585,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -9878,7 +9878,7 @@ module CdekApi
         code:       13950,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -9889,7 +9889,7 @@ module CdekApi
         code:       2573,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -9900,7 +9900,7 @@ module CdekApi
         code:       13955,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -9911,7 +9911,7 @@ module CdekApi
         code:       2586,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -9922,7 +9922,7 @@ module CdekApi
         code:       197,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -9933,7 +9933,7 @@ module CdekApi
         code:       2587,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -9944,7 +9944,7 @@ module CdekApi
         code:       2579,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -9955,7 +9955,7 @@ module CdekApi
         code:       2588,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -9966,7 +9966,7 @@ module CdekApi
         code:       13953,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -9977,7 +9977,7 @@ module CdekApi
         code:       2589,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -9988,7 +9988,7 @@ module CdekApi
         code:       2383,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -9999,7 +9999,7 @@ module CdekApi
         code:       2590,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -10010,7 +10010,7 @@ module CdekApi
         code:       2591,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -10021,7 +10021,7 @@ module CdekApi
         code:       2575,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -10032,7 +10032,7 @@ module CdekApi
         code:       2592,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -10043,7 +10043,7 @@ module CdekApi
         code:       14283,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -10054,7 +10054,7 @@ module CdekApi
         code:       2593,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -10065,7 +10065,7 @@ module CdekApi
         code:       2582,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -10076,7 +10076,7 @@ module CdekApi
         code:       2594,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -10087,7 +10087,7 @@ module CdekApi
         code:       2604,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -10098,7 +10098,7 @@ module CdekApi
         code:       2605,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -10109,7 +10109,7 @@ module CdekApi
         code:       2595,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -10120,7 +10120,7 @@ module CdekApi
         code:       2600,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -10131,7 +10131,7 @@ module CdekApi
         code:       999,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -10142,7 +10142,7 @@ module CdekApi
         code:       2596,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -10153,7 +10153,7 @@ module CdekApi
         code:       2606,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -10164,7 +10164,7 @@ module CdekApi
         code:       2346,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -10175,7 +10175,7 @@ module CdekApi
         code:       2607,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -10186,7 +10186,7 @@ module CdekApi
         code:       2599,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -10197,7 +10197,7 @@ module CdekApi
         code:       2608,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -10208,7 +10208,7 @@ module CdekApi
         code:       2602,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -10219,7 +10219,7 @@ module CdekApi
         code:       2609,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -10230,7 +10230,7 @@ module CdekApi
         code:       998,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -10241,7 +10241,7 @@ module CdekApi
         code:       2597,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -10252,7 +10252,7 @@ module CdekApi
         code:       404,
         address:    'Гаражная ул., д.9, оф.106',
         phone:      '(8212) 29-38-82',
-        wotk_time:  '',
+        work_time:  'пн.-пт. 9-18',
         delivery:   ''
 
       },
@@ -10263,7 +10263,7 @@ module CdekApi
         code:       2603,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -10274,7 +10274,7 @@ module CdekApi
         code:       5,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -10285,7 +10285,7 @@ module CdekApi
         code:       2610,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -10296,7 +10296,7 @@ module CdekApi
         code:       1093,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -10307,7 +10307,7 @@ module CdekApi
         code:       2598,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -10318,7 +10318,7 @@ module CdekApi
         code:       2612,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -10329,7 +10329,7 @@ module CdekApi
         code:       2613,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -10340,7 +10340,7 @@ module CdekApi
         code:       941,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -10351,7 +10351,7 @@ module CdekApi
         code:       1810,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -10362,7 +10362,7 @@ module CdekApi
         code:       2611,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -10373,7 +10373,7 @@ module CdekApi
         code:       165,
         address:    'Чернореченский проезд ул., д.39, оф.1',
         phone:      '(4942)622-052',
-        wotk_time:  '',
+        work_time:  'пн.-пт. 9-18',
         delivery:   ''
 
       },
@@ -10384,7 +10384,7 @@ module CdekApi
         code:       2614,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -10395,7 +10395,7 @@ module CdekApi
         code:       2623,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -10406,7 +10406,7 @@ module CdekApi
         code:       2615,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -10417,7 +10417,7 @@ module CdekApi
         code:       2616,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -10428,7 +10428,7 @@ module CdekApi
         code:       2617,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -10439,7 +10439,7 @@ module CdekApi
         code:       2618,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -10450,7 +10450,7 @@ module CdekApi
         code:       2624,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -10461,7 +10461,7 @@ module CdekApi
         code:       2619,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -10472,7 +10472,7 @@ module CdekApi
         code:       2620,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -10483,7 +10483,7 @@ module CdekApi
         code:       2621,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -10494,7 +10494,7 @@ module CdekApi
         code:       2625,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -10505,7 +10505,7 @@ module CdekApi
         code:       2622,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -10516,7 +10516,7 @@ module CdekApi
         code:       1587,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -10527,7 +10527,7 @@ module CdekApi
         code:       1571,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -10538,7 +10538,7 @@ module CdekApi
         code:       2626,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -10549,7 +10549,7 @@ module CdekApi
         code:       326,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -10560,7 +10560,7 @@ module CdekApi
         code:       959,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -10571,7 +10571,7 @@ module CdekApi
         code:       2627,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -10582,7 +10582,7 @@ module CdekApi
         code:       1386,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -10593,7 +10593,7 @@ module CdekApi
         code:       315,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -10604,7 +10604,7 @@ module CdekApi
         code:       1589,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -10615,7 +10615,7 @@ module CdekApi
         code:       1057,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -10626,7 +10626,7 @@ module CdekApi
         code:       13334,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -10637,7 +10637,7 @@ module CdekApi
         code:       1591,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -10648,7 +10648,7 @@ module CdekApi
         code:       13,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -10659,7 +10659,7 @@ module CdekApi
         code:       1592,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -10670,7 +10670,7 @@ module CdekApi
         code:       1946,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -10681,7 +10681,7 @@ module CdekApi
         code:       2058,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -10692,7 +10692,7 @@ module CdekApi
         code:       1166,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -10703,7 +10703,7 @@ module CdekApi
         code:       13337,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -10714,7 +10714,7 @@ module CdekApi
         code:       2628,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -10725,7 +10725,7 @@ module CdekApi
         code:       2629,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -10736,7 +10736,7 @@ module CdekApi
         code:       2630,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -10747,7 +10747,7 @@ module CdekApi
         code:       2631,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -10758,7 +10758,7 @@ module CdekApi
         code:       2059,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -10769,7 +10769,7 @@ module CdekApi
         code:       2051,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -10780,7 +10780,7 @@ module CdekApi
         code:       2056,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -10791,7 +10791,7 @@ module CdekApi
         code:       2632,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -10802,7 +10802,7 @@ module CdekApi
         code:       1593,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -10813,7 +10813,7 @@ module CdekApi
         code:       2052,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -10824,7 +10824,7 @@ module CdekApi
         code:       1062,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -10835,7 +10835,7 @@ module CdekApi
         code:       2633,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -10846,7 +10846,7 @@ module CdekApi
         code:       2634,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -10857,7 +10857,7 @@ module CdekApi
         code:       2060,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -10868,7 +10868,7 @@ module CdekApi
         code:       1066,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -10879,7 +10879,7 @@ module CdekApi
         code:       13289,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -10890,7 +10890,7 @@ module CdekApi
         code:       1300,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -10901,7 +10901,7 @@ module CdekApi
         code:       14326,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -10912,7 +10912,7 @@ module CdekApi
         code:       2047,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -10923,7 +10923,7 @@ module CdekApi
         code:       2635,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -10934,7 +10934,7 @@ module CdekApi
         code:       2636,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -10945,7 +10945,7 @@ module CdekApi
         code:       3007,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -10956,7 +10956,7 @@ module CdekApi
         code:       1594,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -10967,7 +10967,7 @@ module CdekApi
         code:       2057,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -10978,7 +10978,7 @@ module CdekApi
         code:       1595,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -10989,7 +10989,7 @@ module CdekApi
         code:       13164,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -11000,7 +11000,7 @@ module CdekApi
         code:       1087,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -11011,7 +11011,7 @@ module CdekApi
         code:       1596,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -11022,7 +11022,7 @@ module CdekApi
         code:       2637,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -11033,7 +11033,7 @@ module CdekApi
         code:       13167,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -11044,7 +11044,7 @@ module CdekApi
         code:       13163,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -11055,7 +11055,7 @@ module CdekApi
         code:       2638,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -11066,7 +11066,7 @@ module CdekApi
         code:       13165,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -11077,7 +11077,7 @@ module CdekApi
         code:       2054,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -11088,7 +11088,7 @@ module CdekApi
         code:       1597,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -11099,7 +11099,7 @@ module CdekApi
         code:       2639,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -11110,7 +11110,7 @@ module CdekApi
         code:       1598,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -11121,7 +11121,7 @@ module CdekApi
         code:       1599,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -11132,7 +11132,7 @@ module CdekApi
         code:       13162,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -11143,7 +11143,7 @@ module CdekApi
         code:       2640,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -11154,7 +11154,7 @@ module CdekApi
         code:       1601,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -11165,7 +11165,7 @@ module CdekApi
         code:       2641,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -11174,9 +11174,9 @@ module CdekApi
       '23-0-1-0' => {
 
         code:       435,
-        address:    'Плановый пер, д.3',
-        phone:      '+7 (861)204-00-64, +7 (909) 444-7227',
-        wotk_time:  '',
+        address:    '',
+        phone:      '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -11187,7 +11187,7 @@ module CdekApi
         code:       2642,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -11198,7 +11198,7 @@ module CdekApi
         code:       1061,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -11209,7 +11209,7 @@ module CdekApi
         code:       1603,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -11220,7 +11220,7 @@ module CdekApi
         code:       1059,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -11231,7 +11231,7 @@ module CdekApi
         code:       13341,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -11242,7 +11242,7 @@ module CdekApi
         code:       1604,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -11253,7 +11253,7 @@ module CdekApi
         code:       1605,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -11264,7 +11264,7 @@ module CdekApi
         code:       1606,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -11275,7 +11275,7 @@ module CdekApi
         code:       2046,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -11286,7 +11286,7 @@ module CdekApi
         code:       1607,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -11297,7 +11297,7 @@ module CdekApi
         code:       2643,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -11308,7 +11308,7 @@ module CdekApi
         code:       2644,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -11319,7 +11319,7 @@ module CdekApi
         code:       13166,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -11330,7 +11330,7 @@ module CdekApi
         code:       2645,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -11341,7 +11341,7 @@ module CdekApi
         code:       2646,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -11352,7 +11352,7 @@ module CdekApi
         code:       1608,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -11363,7 +11363,7 @@ module CdekApi
         code:       2053,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -11374,7 +11374,7 @@ module CdekApi
         code:       2647,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -11385,7 +11385,7 @@ module CdekApi
         code:       2648,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -11396,7 +11396,7 @@ module CdekApi
         code:       2649,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -11407,7 +11407,7 @@ module CdekApi
         code:       1612,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -11418,7 +11418,7 @@ module CdekApi
         code:       1609,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -11429,7 +11429,7 @@ module CdekApi
         code:       2650,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -11440,7 +11440,7 @@ module CdekApi
         code:       1610,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -11451,7 +11451,7 @@ module CdekApi
         code:       1611,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -11462,7 +11462,7 @@ module CdekApi
         code:       436,
         address:    'Ленина пр-кт, д.21',
         phone:      '8(9887)699-544; 8(9887)700-113',
-        wotk_time:  '',
+        work_time:  'пн.-пт. 9-18, сб. 10-14',
         delivery:   ''
 
       },
@@ -11473,7 +11473,7 @@ module CdekApi
         code:       2651,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -11484,7 +11484,7 @@ module CdekApi
         code:       2652,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -11495,7 +11495,7 @@ module CdekApi
         code:       1639,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -11506,7 +11506,7 @@ module CdekApi
         code:       1613,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -11517,7 +11517,7 @@ module CdekApi
         code:       1614,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -11528,7 +11528,7 @@ module CdekApi
         code:       2653,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -11539,7 +11539,7 @@ module CdekApi
         code:       1615,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -11550,7 +11550,7 @@ module CdekApi
         code:       1063,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -11561,7 +11561,7 @@ module CdekApi
         code:       13999,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -11572,7 +11572,7 @@ module CdekApi
         code:       2654,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -11583,7 +11583,7 @@ module CdekApi
         code:       1616,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -11594,7 +11594,7 @@ module CdekApi
         code:       2055,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -11605,7 +11605,7 @@ module CdekApi
         code:       13114,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -11616,7 +11616,7 @@ module CdekApi
         code:       1618,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -11627,7 +11627,7 @@ module CdekApi
         code:       1740,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -11638,7 +11638,7 @@ module CdekApi
         code:       1064,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -11649,7 +11649,7 @@ module CdekApi
         code:       13335,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -11660,7 +11660,7 @@ module CdekApi
         code:       13340,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -11671,7 +11671,7 @@ module CdekApi
         code:       437,
         address:    'Пластунская улица, д.47а, оф.11 (3 этаж)',
         phone:      '(862) 261-39-62, 237-43-19',
-        wotk_time:  '',
+        work_time:  'пн.-пт. 9-18, сб. 10-14',
         delivery:   ''
 
       },
@@ -11682,7 +11682,7 @@ module CdekApi
         code:       14323,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -11693,7 +11693,7 @@ module CdekApi
         code:       1621,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -11704,7 +11704,7 @@ module CdekApi
         code:       1619,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -11715,7 +11715,7 @@ module CdekApi
         code:       1620,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -11726,7 +11726,7 @@ module CdekApi
         code:       2655,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -11737,7 +11737,7 @@ module CdekApi
         code:       1622,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -11748,7 +11748,7 @@ module CdekApi
         code:       2656,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -11759,7 +11759,7 @@ module CdekApi
         code:       1623,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -11770,7 +11770,7 @@ module CdekApi
         code:       1065,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -11781,7 +11781,7 @@ module CdekApi
         code:       1058,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -11792,7 +11792,7 @@ module CdekApi
         code:       203,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -11803,7 +11803,7 @@ module CdekApi
         code:       34,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -11814,7 +11814,7 @@ module CdekApi
         code:       2657,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -11825,7 +11825,7 @@ module CdekApi
         code:       1625,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -11836,7 +11836,7 @@ module CdekApi
         code:       1251,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -11847,7 +11847,7 @@ module CdekApi
         code:       1626,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -11858,7 +11858,7 @@ module CdekApi
         code:       13489,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -11869,7 +11869,7 @@ module CdekApi
         code:       14335,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -11880,7 +11880,7 @@ module CdekApi
         code:       13338,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -11891,7 +11891,7 @@ module CdekApi
         code:       2359,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -11902,7 +11902,7 @@ module CdekApi
         code:       13339,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -11913,7 +11913,7 @@ module CdekApi
         code:       1654,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -11924,7 +11924,7 @@ module CdekApi
         code:       843,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -11935,7 +11935,7 @@ module CdekApi
         code:       1120,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -11946,7 +11946,7 @@ module CdekApi
         code:       14269,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -11957,7 +11957,7 @@ module CdekApi
         code:       1259,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -11968,7 +11968,7 @@ module CdekApi
         code:       101,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -11979,7 +11979,7 @@ module CdekApi
         code:       849,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -11990,7 +11990,7 @@ module CdekApi
         code:       869,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -12001,7 +12001,7 @@ module CdekApi
         code:       856,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -12012,7 +12012,7 @@ module CdekApi
         code:       860,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -12023,7 +12023,7 @@ module CdekApi
         code:       14270,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -12034,7 +12034,7 @@ module CdekApi
         code:       834,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -12045,7 +12045,7 @@ module CdekApi
         code:       858,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -12056,7 +12056,7 @@ module CdekApi
         code:       864,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -12067,7 +12067,7 @@ module CdekApi
         code:       1151,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -12078,7 +12078,7 @@ module CdekApi
         code:       1152,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -12089,7 +12089,7 @@ module CdekApi
         code:       845,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -12100,7 +12100,7 @@ module CdekApi
         code:       1260,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -12111,7 +12111,7 @@ module CdekApi
         code:       828,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -12122,7 +12122,7 @@ module CdekApi
         code:       837,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -12133,7 +12133,7 @@ module CdekApi
         code:       831,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -12144,7 +12144,7 @@ module CdekApi
         code:       842,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -12155,7 +12155,7 @@ module CdekApi
         code:       2344,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -12166,7 +12166,7 @@ module CdekApi
         code:       862,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -12177,7 +12177,7 @@ module CdekApi
         code:       865,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -12188,7 +12188,7 @@ module CdekApi
         code:       2391,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -12199,7 +12199,7 @@ module CdekApi
         code:       839,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -12210,7 +12210,7 @@ module CdekApi
         code:       867,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -12221,7 +12221,7 @@ module CdekApi
         code:       868,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -12232,7 +12232,7 @@ module CdekApi
         code:       14271,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -12243,7 +12243,7 @@ module CdekApi
         code:       832,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -12254,7 +12254,7 @@ module CdekApi
         code:       1020,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -12265,7 +12265,7 @@ module CdekApi
         code:       859,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -12276,7 +12276,7 @@ module CdekApi
         code:       841,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -12287,7 +12287,7 @@ module CdekApi
         code:       1655,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -12298,7 +12298,7 @@ module CdekApi
         code:       844,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -12309,7 +12309,7 @@ module CdekApi
         code:       853,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -12320,7 +12320,7 @@ module CdekApi
         code:       408,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -12331,7 +12331,7 @@ module CdekApi
         code:       838,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -12342,7 +12342,7 @@ module CdekApi
         code:       278,
         address:    'Сурикова ул, д.12',
         phone:      '(391) 295-88-10, 274-50-92',
-        wotk_time:  '',
+        work_time:  'пн-пт. 09-21; сб, вс, с 10-18',
         delivery:   ''
 
       },
@@ -12353,7 +12353,7 @@ module CdekApi
         code:       840,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -12364,7 +12364,7 @@ module CdekApi
         code:       846,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -12375,7 +12375,7 @@ module CdekApi
         code:       2658,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -12386,7 +12386,7 @@ module CdekApi
         code:       836,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -12397,7 +12397,7 @@ module CdekApi
         code:       1154,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -12408,7 +12408,7 @@ module CdekApi
         code:       854,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -12419,7 +12419,7 @@ module CdekApi
         code:       866,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -12430,7 +12430,7 @@ module CdekApi
         code:       2050,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -12441,7 +12441,7 @@ module CdekApi
         code:       851,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -12452,7 +12452,7 @@ module CdekApi
         code:       848,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -12463,7 +12463,7 @@ module CdekApi
         code:       279,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -12474,7 +12474,7 @@ module CdekApi
         code:       1155,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -12485,7 +12485,7 @@ module CdekApi
         code:       14267,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -12496,7 +12496,7 @@ module CdekApi
         code:       833,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -12507,7 +12507,7 @@ module CdekApi
         code:       14268,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -12518,7 +12518,7 @@ module CdekApi
         code:       1156,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -12529,7 +12529,7 @@ module CdekApi
         code:       2659,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -12540,7 +12540,7 @@ module CdekApi
         code:       835,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -12551,7 +12551,7 @@ module CdekApi
         code:       1157,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -12562,7 +12562,7 @@ module CdekApi
         code:       26,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -12573,7 +12573,7 @@ module CdekApi
         code:       861,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -12584,7 +12584,7 @@ module CdekApi
         code:       829,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -12595,7 +12595,7 @@ module CdekApi
         code:       2392,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -12606,7 +12606,7 @@ module CdekApi
         code:       2370,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -12617,7 +12617,7 @@ module CdekApi
         code:       855,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -12628,7 +12628,7 @@ module CdekApi
         code:       847,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -12639,7 +12639,7 @@ module CdekApi
         code:       1656,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -12650,7 +12650,7 @@ module CdekApi
         code:       2393,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -12661,7 +12661,7 @@ module CdekApi
         code:       850,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -12672,7 +12672,7 @@ module CdekApi
         code:       852,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -12683,7 +12683,7 @@ module CdekApi
         code:       1258,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -12694,7 +12694,7 @@ module CdekApi
         code:       2663,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -12705,7 +12705,7 @@ module CdekApi
         code:       13098,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -12716,7 +12716,7 @@ module CdekApi
         code:       2661,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -12727,7 +12727,7 @@ module CdekApi
         code:       2664,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -12738,7 +12738,7 @@ module CdekApi
         code:       2665,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -12749,7 +12749,7 @@ module CdekApi
         code:       2660,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -12760,7 +12760,7 @@ module CdekApi
         code:       93,
         address:    'Клары цеткин, д.2',
         phone:      '',
-        wotk_time:  '',
+        work_time:  'пн-пт 9-18',
         delivery:   ''
 
       },
@@ -12771,7 +12771,7 @@ module CdekApi
         code:       694,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -12782,7 +12782,7 @@ module CdekApi
         code:       695,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -12793,7 +12793,7 @@ module CdekApi
         code:       2666,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -12804,7 +12804,7 @@ module CdekApi
         code:       2662,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -12815,7 +12815,7 @@ module CdekApi
         code:       13002,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -12826,7 +12826,7 @@ module CdekApi
         code:       1757,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -12837,7 +12837,7 @@ module CdekApi
         code:       13650,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -12848,7 +12848,7 @@ module CdekApi
         code:       870,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -12859,7 +12859,7 @@ module CdekApi
         code:       13658,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -12870,7 +12870,7 @@ module CdekApi
         code:       2667,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -12881,7 +12881,7 @@ module CdekApi
         code:       13665,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -12892,7 +12892,7 @@ module CdekApi
         code:       13652,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -12903,7 +12903,7 @@ module CdekApi
         code:       13659,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -12914,7 +12914,7 @@ module CdekApi
         code:       2671,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -12925,7 +12925,7 @@ module CdekApi
         code:       699,
         address:    'Запольная, д.56',
         phone:      '(4712)31-07-36',
-        wotk_time:  '',
+        work_time:  'пн.-пт. 9-18, сб. 10-14',
         delivery:   ''
 
       },
@@ -12936,7 +12936,7 @@ module CdekApi
         code:       335,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -12947,7 +12947,7 @@ module CdekApi
         code:       13660,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -12958,7 +12958,7 @@ module CdekApi
         code:       13667,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -12969,7 +12969,7 @@ module CdekApi
         code:       2672,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -12980,7 +12980,7 @@ module CdekApi
         code:       13654,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -12991,7 +12991,7 @@ module CdekApi
         code:       13661,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -13002,7 +13002,7 @@ module CdekApi
         code:       2668,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -13013,7 +13013,7 @@ module CdekApi
         code:       13655,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -13024,7 +13024,7 @@ module CdekApi
         code:       2673,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -13035,7 +13035,7 @@ module CdekApi
         code:       13656,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -13046,7 +13046,7 @@ module CdekApi
         code:       2669,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -13057,7 +13057,7 @@ module CdekApi
         code:       2674,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -13068,7 +13068,7 @@ module CdekApi
         code:       13663,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -13079,7 +13079,7 @@ module CdekApi
         code:       330,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -13090,7 +13090,7 @@ module CdekApi
         code:       2670,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -13101,7 +13101,7 @@ module CdekApi
         code:       2675,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -13112,7 +13112,7 @@ module CdekApi
         code:       2676,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -13123,7 +13123,7 @@ module CdekApi
         code:       977,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -13134,7 +13134,7 @@ module CdekApi
         code:       2677,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -13145,7 +13145,7 @@ module CdekApi
         code:       1291,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -13156,7 +13156,7 @@ module CdekApi
         code:       2678,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -13167,7 +13167,7 @@ module CdekApi
         code:       2679,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -13178,7 +13178,7 @@ module CdekApi
         code:       2680,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -13189,7 +13189,7 @@ module CdekApi
         code:       2681,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -13200,7 +13200,7 @@ module CdekApi
         code:       974,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -13211,7 +13211,7 @@ module CdekApi
         code:       980,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -13222,7 +13222,7 @@ module CdekApi
         code:       971,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -13233,7 +13233,7 @@ module CdekApi
         code:       2682,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -13242,9 +13242,9 @@ module CdekApi
       '47-7-0-30' => {
 
         code:       981,
-        address:    '',
-        phone:      '',
-        wotk_time:  '',
+        address:    '25 октября пр-кт, д.10',
+        phone:      '(81371) 99527',
+        work_time:  'пн.-пт. 10-18',
         delivery:   ''
 
       },
@@ -13255,7 +13255,7 @@ module CdekApi
         code:       2683,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -13266,7 +13266,7 @@ module CdekApi
         code:       2684,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -13277,7 +13277,7 @@ module CdekApi
         code:       2686,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -13288,7 +13288,7 @@ module CdekApi
         code:       1311,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -13299,7 +13299,7 @@ module CdekApi
         code:       2687,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -13310,7 +13310,7 @@ module CdekApi
         code:       2688,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -13321,7 +13321,7 @@ module CdekApi
         code:       138,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -13332,7 +13332,7 @@ module CdekApi
         code:       2689,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -13343,7 +13343,7 @@ module CdekApi
         code:       970,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -13354,7 +13354,7 @@ module CdekApi
         code:       973,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -13365,7 +13365,7 @@ module CdekApi
         code:       13405,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -13376,7 +13376,7 @@ module CdekApi
         code:       2690,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -13387,7 +13387,7 @@ module CdekApi
         code:       2691,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -13398,7 +13398,7 @@ module CdekApi
         code:       497,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -13409,7 +13409,7 @@ module CdekApi
         code:       2692,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -13420,7 +13420,7 @@ module CdekApi
         code:       2693,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -13431,7 +13431,7 @@ module CdekApi
         code:       2694,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -13442,7 +13442,7 @@ module CdekApi
         code:       975,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -13453,7 +13453,7 @@ module CdekApi
         code:       81,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -13464,7 +13464,7 @@ module CdekApi
         code:       2695,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -13475,7 +13475,7 @@ module CdekApi
         code:       13106,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -13486,7 +13486,7 @@ module CdekApi
         code:       2696,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -13497,7 +13497,7 @@ module CdekApi
         code:       2697,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -13508,7 +13508,7 @@ module CdekApi
         code:       2698,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -13519,7 +13519,7 @@ module CdekApi
         code:       1286,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -13530,7 +13530,7 @@ module CdekApi
         code:       1214,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -13541,7 +13541,7 @@ module CdekApi
         code:       2699,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -13552,7 +13552,7 @@ module CdekApi
         code:       2700,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -13563,7 +13563,7 @@ module CdekApi
         code:       1290,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -13574,7 +13574,7 @@ module CdekApi
         code:       13058,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -13585,7 +13585,7 @@ module CdekApi
         code:       2701,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -13596,7 +13596,7 @@ module CdekApi
         code:       2702,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -13607,7 +13607,7 @@ module CdekApi
         code:       1582,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -13618,7 +13618,7 @@ module CdekApi
         code:       2703,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -13629,7 +13629,7 @@ module CdekApi
         code:       2704,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -13640,7 +13640,7 @@ module CdekApi
         code:       984,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -13651,7 +13651,7 @@ module CdekApi
         code:       2705,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -13662,7 +13662,7 @@ module CdekApi
         code:       1212,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -13673,7 +13673,7 @@ module CdekApi
         code:       2706,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -13684,7 +13684,7 @@ module CdekApi
         code:       2707,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -13695,7 +13695,7 @@ module CdekApi
         code:       88,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -13706,7 +13706,7 @@ module CdekApi
         code:       13107,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -13717,7 +13717,7 @@ module CdekApi
         code:       976,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -13728,7 +13728,7 @@ module CdekApi
         code:       1585,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -13739,7 +13739,7 @@ module CdekApi
         code:       700,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -13750,7 +13750,7 @@ module CdekApi
         code:       2709,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -13761,7 +13761,7 @@ module CdekApi
         code:       945,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -13772,7 +13772,7 @@ module CdekApi
         code:       84,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -13783,7 +13783,7 @@ module CdekApi
         code:       2710,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -13794,7 +13794,7 @@ module CdekApi
         code:       2711,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -13805,7 +13805,7 @@ module CdekApi
         code:       2712,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -13816,7 +13816,7 @@ module CdekApi
         code:       119,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -13827,7 +13827,7 @@ module CdekApi
         code:       1209,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -13838,7 +13838,7 @@ module CdekApi
         code:       2713,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -13849,7 +13849,7 @@ module CdekApi
         code:       2714,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -13860,7 +13860,7 @@ module CdekApi
         code:       982,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -13871,7 +13871,7 @@ module CdekApi
         code:       2715,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -13882,7 +13882,7 @@ module CdekApi
         code:       2716,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -13893,7 +13893,7 @@ module CdekApi
         code:       979,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -13904,7 +13904,7 @@ module CdekApi
         code:       2717,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -13915,7 +13915,7 @@ module CdekApi
         code:       13109,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -13926,7 +13926,7 @@ module CdekApi
         code:       13110,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -13937,7 +13937,7 @@ module CdekApi
         code:       978,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -13948,7 +13948,7 @@ module CdekApi
         code:       2718,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -13959,7 +13959,7 @@ module CdekApi
         code:       78,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -13970,7 +13970,7 @@ module CdekApi
         code:       2719,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -13981,7 +13981,7 @@ module CdekApi
         code:       2720,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -13992,7 +13992,7 @@ module CdekApi
         code:       2721,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -14003,7 +14003,7 @@ module CdekApi
         code:       2722,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -14014,7 +14014,7 @@ module CdekApi
         code:       3187,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -14025,7 +14025,7 @@ module CdekApi
         code:       13409,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -14036,7 +14036,7 @@ module CdekApi
         code:       13059,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -14047,7 +14047,7 @@ module CdekApi
         code:       2734,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -14058,7 +14058,7 @@ module CdekApi
         code:       930,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -14069,7 +14069,7 @@ module CdekApi
         code:       1579,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -14080,7 +14080,7 @@ module CdekApi
         code:       358,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -14091,7 +14091,7 @@ module CdekApi
         code:       359,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -14102,7 +14102,7 @@ module CdekApi
         code:       13331,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -14113,7 +14113,7 @@ module CdekApi
         code:       362,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -14124,7 +14124,7 @@ module CdekApi
         code:       13123,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -14135,7 +14135,7 @@ module CdekApi
         code:       365,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -14146,7 +14146,7 @@ module CdekApi
         code:       13365,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -14157,7 +14157,7 @@ module CdekApi
         code:       13323,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -14168,7 +14168,7 @@ module CdekApi
         code:       13322,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -14179,7 +14179,7 @@ module CdekApi
         code:       1580,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -14190,7 +14190,7 @@ module CdekApi
         code:       13321,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -14201,7 +14201,7 @@ module CdekApi
         code:       361,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -14212,7 +14212,7 @@ module CdekApi
         code:       2736,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -14223,7 +14223,7 @@ module CdekApi
         code:       2735,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -14234,7 +14234,7 @@ module CdekApi
         code:       320,
         address:    'Площадь петра великого ул., д.5, оф.05',
         phone:      '(4742)74-44-07, 77-15-61',
-        wotk_time:  '',
+        work_time:  'пн.-пт. 9-18',
         delivery:   ''
 
       },
@@ -14245,7 +14245,7 @@ module CdekApi
         code:       1581,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -14256,7 +14256,7 @@ module CdekApi
         code:       2737,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -14267,7 +14267,7 @@ module CdekApi
         code:       13430,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -14278,7 +14278,7 @@ module CdekApi
         code:       367,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -14289,7 +14289,7 @@ module CdekApi
         code:       366,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -14300,7 +14300,7 @@ module CdekApi
         code:       370,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -14311,7 +14311,7 @@ module CdekApi
         code:       368,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -14322,7 +14322,7 @@ module CdekApi
         code:       13397,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -14333,7 +14333,7 @@ module CdekApi
         code:       314,
         address:    'Кольцевая, д.3',
         phone:      '(4132)602244',
-        wotk_time:  '',
+        work_time:  'пн.-пт. 9-18, об. 13-14',
         delivery:   ''
 
       },
@@ -14344,7 +14344,7 @@ module CdekApi
         code:       2738,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -14355,7 +14355,7 @@ module CdekApi
         code:       2741,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -14366,7 +14366,7 @@ module CdekApi
         code:       2743,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -14377,7 +14377,7 @@ module CdekApi
         code:       13142,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -14388,7 +14388,7 @@ module CdekApi
         code:       2740,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -14399,7 +14399,7 @@ module CdekApi
         code:       2744,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -14410,7 +14410,7 @@ module CdekApi
         code:       2347,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -14421,7 +14421,7 @@ module CdekApi
         code:       2742,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -14432,7 +14432,7 @@ module CdekApi
         code:       2745,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -14443,7 +14443,7 @@ module CdekApi
         code:       13731,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -14454,7 +14454,7 @@ module CdekApi
         code:       13718,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -14465,7 +14465,7 @@ module CdekApi
         code:       13737,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -14476,7 +14476,7 @@ module CdekApi
         code:       13688,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -14487,7 +14487,7 @@ module CdekApi
         code:       13768,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -14498,7 +14498,7 @@ module CdekApi
         code:       13724,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -14509,7 +14509,7 @@ module CdekApi
         code:       13725,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -14520,7 +14520,7 @@ module CdekApi
         code:       13693,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -14531,7 +14531,7 @@ module CdekApi
         code:       13732,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -14542,7 +14542,7 @@ module CdekApi
         code:       1873,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -14553,7 +14553,7 @@ module CdekApi
         code:       13760,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -14564,7 +14564,7 @@ module CdekApi
         code:       13716,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -14575,7 +14575,7 @@ module CdekApi
         code:       13761,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -14586,7 +14586,7 @@ module CdekApi
         code:       13978,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -14597,7 +14597,7 @@ module CdekApi
         code:       13762,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -14608,7 +14608,7 @@ module CdekApi
         code:       13752,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -14619,7 +14619,7 @@ module CdekApi
         code:       13720,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -14630,7 +14630,7 @@ module CdekApi
         code:       13719,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -14641,7 +14641,7 @@ module CdekApi
         code:       141,
         address:    'Пролетарская ул., д.39, оф.20',
         phone:      '(987) 712-3222, 712-3663, 8 (902) 67-07-307',
-        wotk_time:  '',
+        work_time:  'пн.-пт. 9-19, об. 13-14',
         delivery:   ''
 
       },
@@ -14652,7 +14652,7 @@ module CdekApi
         code:       13779,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -14663,7 +14663,7 @@ module CdekApi
         code:       13694,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -14674,7 +14674,7 @@ module CdekApi
         code:       13771,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -14685,7 +14685,7 @@ module CdekApi
         code:       13754,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -14696,7 +14696,7 @@ module CdekApi
         code:       13757,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -14707,7 +14707,7 @@ module CdekApi
         code:       13088,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -14718,7 +14718,7 @@ module CdekApi
         code:       13728,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -14729,7 +14729,7 @@ module CdekApi
         code:       13763,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -14740,7 +14740,7 @@ module CdekApi
         code:       13691,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -14751,7 +14751,7 @@ module CdekApi
         code:       13682,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -14762,7 +14762,7 @@ module CdekApi
         code:       13727,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -14773,7 +14773,7 @@ module CdekApi
         code:       13695,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -14784,7 +14784,7 @@ module CdekApi
         code:       13683,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -14795,7 +14795,7 @@ module CdekApi
         code:       2747,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -14806,7 +14806,7 @@ module CdekApi
         code:       13696,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -14817,7 +14817,7 @@ module CdekApi
         code:       13778,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -14828,7 +14828,7 @@ module CdekApi
         code:       13740,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -14839,7 +14839,7 @@ module CdekApi
         code:       13742,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -14850,7 +14850,7 @@ module CdekApi
         code:       13753,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -14861,7 +14861,7 @@ module CdekApi
         code:       13769,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -14872,7 +14872,7 @@ module CdekApi
         code:       13721,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -14883,7 +14883,7 @@ module CdekApi
         code:       13717,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -14894,7 +14894,7 @@ module CdekApi
         code:       2748,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -14905,7 +14905,7 @@ module CdekApi
         code:       13743,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -14916,7 +14916,7 @@ module CdekApi
         code:       13764,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -14927,7 +14927,7 @@ module CdekApi
         code:       2754,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -14938,7 +14938,7 @@ module CdekApi
         code:       13765,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -14949,7 +14949,7 @@ module CdekApi
         code:       13675,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -14960,7 +14960,7 @@ module CdekApi
         code:       13697,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -14971,7 +14971,7 @@ module CdekApi
         code:       13766,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -14982,7 +14982,7 @@ module CdekApi
         code:       13689,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -14993,7 +14993,7 @@ module CdekApi
         code:       13756,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -15004,7 +15004,7 @@ module CdekApi
         code:       13698,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -15015,7 +15015,7 @@ module CdekApi
         code:       13699,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -15026,7 +15026,7 @@ module CdekApi
         code:       13767,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -15037,7 +15037,7 @@ module CdekApi
         code:       2750,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -15048,7 +15048,7 @@ module CdekApi
         code:       13736,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -15059,7 +15059,7 @@ module CdekApi
         code:       1019,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -15070,7 +15070,7 @@ module CdekApi
         code:       2749,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -15081,7 +15081,7 @@ module CdekApi
         code:       13679,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -15092,7 +15092,7 @@ module CdekApi
         code:       13700,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -15103,7 +15103,7 @@ module CdekApi
         code:       13701,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -15114,7 +15114,7 @@ module CdekApi
         code:       13758,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -15125,7 +15125,7 @@ module CdekApi
         code:       13759,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -15136,7 +15136,7 @@ module CdekApi
         code:       13702,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -15147,7 +15147,7 @@ module CdekApi
         code:       13703,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -15158,7 +15158,7 @@ module CdekApi
         code:       14331,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -15169,7 +15169,7 @@ module CdekApi
         code:       13738,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -15180,7 +15180,7 @@ module CdekApi
         code:       2751,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -15191,7 +15191,7 @@ module CdekApi
         code:       13684,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -15202,7 +15202,7 @@ module CdekApi
         code:       13704,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -15213,7 +15213,7 @@ module CdekApi
         code:       2752,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -15224,7 +15224,7 @@ module CdekApi
         code:       13685,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -15235,7 +15235,7 @@ module CdekApi
         code:       13744,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -15246,7 +15246,7 @@ module CdekApi
         code:       13677,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -15257,7 +15257,7 @@ module CdekApi
         code:       2753,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -15268,7 +15268,7 @@ module CdekApi
         code:       13676,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -15279,7 +15279,7 @@ module CdekApi
         code:       13705,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -15290,7 +15290,7 @@ module CdekApi
         code:       13687,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -15301,7 +15301,7 @@ module CdekApi
         code:       13770,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -15312,7 +15312,7 @@ module CdekApi
         code:       13706,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -15323,7 +15323,7 @@ module CdekApi
         code:       13750,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -15334,7 +15334,7 @@ module CdekApi
         code:       13681,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -15345,7 +15345,7 @@ module CdekApi
         code:       13678,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -15356,7 +15356,7 @@ module CdekApi
         code:       13708,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -15367,7 +15367,7 @@ module CdekApi
         code:       13745,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -15378,7 +15378,7 @@ module CdekApi
         code:       13751,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -15389,7 +15389,7 @@ module CdekApi
         code:       13722,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -15400,7 +15400,7 @@ module CdekApi
         code:       13723,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -15411,7 +15411,7 @@ module CdekApi
         code:       13729,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -15422,7 +15422,7 @@ module CdekApi
         code:       13709,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -15433,7 +15433,7 @@ module CdekApi
         code:       13674,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -15444,7 +15444,7 @@ module CdekApi
         code:       13710,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -15455,7 +15455,7 @@ module CdekApi
         code:       13730,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -15466,7 +15466,7 @@ module CdekApi
         code:       13690,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -15477,7 +15477,7 @@ module CdekApi
         code:       13755,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -15488,7 +15488,7 @@ module CdekApi
         code:       13711,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -15499,7 +15499,7 @@ module CdekApi
         code:       13746,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -15510,7 +15510,7 @@ module CdekApi
         code:       13777,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -15521,7 +15521,7 @@ module CdekApi
         code:       13680,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -15532,7 +15532,7 @@ module CdekApi
         code:       13714,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -15543,7 +15543,7 @@ module CdekApi
         code:       13715,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -15554,7 +15554,7 @@ module CdekApi
         code:       2764,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -15565,7 +15565,7 @@ module CdekApi
         code:       2765,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -15576,7 +15576,7 @@ module CdekApi
         code:       2756,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -15587,7 +15587,7 @@ module CdekApi
         code:       2761,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -15598,7 +15598,7 @@ module CdekApi
         code:       2762,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -15609,7 +15609,7 @@ module CdekApi
         code:       2766,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -15620,7 +15620,7 @@ module CdekApi
         code:       2767,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -15631,7 +15631,7 @@ module CdekApi
         code:       2757,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -15642,7 +15642,7 @@ module CdekApi
         code:       2758,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -15653,7 +15653,7 @@ module CdekApi
         code:       2755,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -15664,7 +15664,7 @@ module CdekApi
         code:       1636,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -15675,7 +15675,7 @@ module CdekApi
         code:       417,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -15686,7 +15686,7 @@ module CdekApi
         code:       2763,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -15697,7 +15697,7 @@ module CdekApi
         code:       2759,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -15708,7 +15708,7 @@ module CdekApi
         code:       2760,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -15719,7 +15719,7 @@ module CdekApi
         code:       13607,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -15730,7 +15730,7 @@ module CdekApi
         code:       28,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -15741,7 +15741,7 @@ module CdekApi
         code:       2788,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -15752,7 +15752,7 @@ module CdekApi
         code:       184,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -15763,7 +15763,7 @@ module CdekApi
         code:       1697,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -15774,7 +15774,7 @@ module CdekApi
         code:       44,
         address:    'Сергия радонежского ул, д.31',
         phone:      '+7 (495) 66-55-8-99',
-        wotk_time:  '',
+        work_time:  'пн.-пт. 10-19, сб. 10-17, вс 11-18',
         delivery:   ''
 
       },
@@ -15785,7 +15785,7 @@ module CdekApi
         code:       2790,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -15796,7 +15796,7 @@ module CdekApi
         code:       148,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -15807,7 +15807,7 @@ module CdekApi
         code:       2792,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -15818,7 +15818,7 @@ module CdekApi
         code:       13330,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -15829,7 +15829,7 @@ module CdekApi
         code:       2789,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -15840,7 +15840,7 @@ module CdekApi
         code:       110,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -15851,7 +15851,7 @@ module CdekApi
         code:       1374,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -15862,7 +15862,7 @@ module CdekApi
         code:       1658,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -15873,7 +15873,7 @@ module CdekApi
         code:       1659,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -15884,7 +15884,7 @@ module CdekApi
         code:       13528,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -15895,7 +15895,7 @@ module CdekApi
         code:       1660,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -15906,7 +15906,7 @@ module CdekApi
         code:       1125,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -15917,7 +15917,7 @@ module CdekApi
         code:       1096,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -15928,7 +15928,7 @@ module CdekApi
         code:       13302,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -15939,7 +15939,7 @@ module CdekApi
         code:       483,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -15950,7 +15950,7 @@ module CdekApi
         code:       14263,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -15961,7 +15961,7 @@ module CdekApi
         code:       1661,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -15972,7 +15972,7 @@ module CdekApi
         code:       1662,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -15983,7 +15983,7 @@ module CdekApi
         code:       1663,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -15994,7 +15994,7 @@ module CdekApi
         code:       1375,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -16005,7 +16005,7 @@ module CdekApi
         code:       1097,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -16016,7 +16016,7 @@ module CdekApi
         code:       1664,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -16027,7 +16027,7 @@ module CdekApi
         code:       1665,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -16038,7 +16038,7 @@ module CdekApi
         code:       1098,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -16049,7 +16049,7 @@ module CdekApi
         code:       1666,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -16060,7 +16060,7 @@ module CdekApi
         code:       1558,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -16071,7 +16071,7 @@ module CdekApi
         code:       1852,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -16082,7 +16082,7 @@ module CdekApi
         code:       13529,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -16093,7 +16093,7 @@ module CdekApi
         code:       61,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -16104,7 +16104,7 @@ module CdekApi
         code:       1667,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -16115,7 +16115,7 @@ module CdekApi
         code:       1668,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -16126,7 +16126,7 @@ module CdekApi
         code:       1669,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -16137,7 +16137,7 @@ module CdekApi
         code:       74,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -16148,7 +16148,7 @@ module CdekApi
         code:       1301,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -16159,7 +16159,7 @@ module CdekApi
         code:       13530,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -16170,7 +16170,7 @@ module CdekApi
         code:       1099,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -16181,7 +16181,7 @@ module CdekApi
         code:       1670,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -16192,7 +16192,7 @@ module CdekApi
         code:       467,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -16203,7 +16203,7 @@ module CdekApi
         code:       1195,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -16214,7 +16214,7 @@ module CdekApi
         code:       1559,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -16225,7 +16225,7 @@ module CdekApi
         code:       1671,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -16236,7 +16236,7 @@ module CdekApi
         code:       2768,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -16247,7 +16247,7 @@ module CdekApi
         code:       1118,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -16258,7 +16258,7 @@ module CdekApi
         code:       302,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -16269,7 +16269,7 @@ module CdekApi
         code:       1100,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -16280,7 +16280,7 @@ module CdekApi
         code:       1672,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -16291,7 +16291,7 @@ module CdekApi
         code:       13531,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -16302,7 +16302,7 @@ module CdekApi
         code:       3186,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -16313,7 +16313,7 @@ module CdekApi
         code:       484,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -16324,7 +16324,7 @@ module CdekApi
         code:       13532,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -16335,7 +16335,7 @@ module CdekApi
         code:       221,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -16346,7 +16346,7 @@ module CdekApi
         code:       1203,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -16357,7 +16357,7 @@ module CdekApi
         code:       13369,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -16368,7 +16368,7 @@ module CdekApi
         code:       1673,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -16379,7 +16379,7 @@ module CdekApi
         code:       2770,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -16390,7 +16390,7 @@ module CdekApi
         code:       13533,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -16401,7 +16401,7 @@ module CdekApi
         code:       1546,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -16412,7 +16412,7 @@ module CdekApi
         code:       1101,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -16423,7 +16423,7 @@ module CdekApi
         code:       1560,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -16434,7 +16434,7 @@ module CdekApi
         code:       13366,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -16445,7 +16445,7 @@ module CdekApi
         code:       1102,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -16456,7 +16456,7 @@ module CdekApi
         code:       316,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -16467,7 +16467,7 @@ module CdekApi
         code:       1674,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -16478,7 +16478,7 @@ module CdekApi
         code:       14260,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -16489,7 +16489,7 @@ module CdekApi
         code:       1675,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -16500,7 +16500,7 @@ module CdekApi
         code:       13451,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -16511,7 +16511,7 @@ module CdekApi
         code:       1676,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -16522,7 +16522,7 @@ module CdekApi
         code:       83,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -16533,7 +16533,7 @@ module CdekApi
         code:       1677,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -16544,7 +16544,7 @@ module CdekApi
         code:       226,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -16555,7 +16555,7 @@ module CdekApi
         code:       1103,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -16566,7 +16566,7 @@ module CdekApi
         code:       478,
         address:    'Профессиональная, д.3, оф.315 а',
         phone:      '(4962) 94804, 94805',
-        wotk_time:  '',
+        work_time:  'Пн-Пт с 9-18, Сб, Вс - выходной',
         delivery:   ''
 
       },
@@ -16577,7 +16577,7 @@ module CdekApi
         code:       13534,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -16588,7 +16588,7 @@ module CdekApi
         code:       1678,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -16599,7 +16599,7 @@ module CdekApi
         code:       1679,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -16610,7 +16610,7 @@ module CdekApi
         code:       472,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -16621,7 +16621,7 @@ module CdekApi
         code:       1174,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -16632,7 +16632,7 @@ module CdekApi
         code:       1561,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -16643,7 +16643,7 @@ module CdekApi
         code:       1547,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -16654,7 +16654,7 @@ module CdekApi
         code:       13138,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -16665,7 +16665,7 @@ module CdekApi
         code:       14337,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -16676,7 +16676,7 @@ module CdekApi
         code:       65,
         address:    'Боголюбова, д.26, оф.4',
         phone:      '89853050571, (496) 219-48-04, (496)219-48-05',
-        wotk_time:  '',
+        work_time:  'пн.-пт. 9-18',
         delivery:   ''
 
       },
@@ -16687,7 +16687,7 @@ module CdekApi
         code:       13934,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -16698,7 +16698,7 @@ module CdekApi
         code:       1628,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -16709,7 +16709,7 @@ module CdekApi
         code:       13535,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -16720,7 +16720,7 @@ module CdekApi
         code:       21,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -16731,7 +16731,7 @@ module CdekApi
         code:       13536,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -16742,7 +16742,7 @@ module CdekApi
         code:       3184,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -16753,7 +16753,7 @@ module CdekApi
         code:       3185,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -16764,7 +16764,7 @@ module CdekApi
         code:       3183,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -16775,7 +16775,7 @@ module CdekApi
         code:       1680,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -16786,7 +16786,7 @@ module CdekApi
         code:       1681,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -16797,7 +16797,7 @@ module CdekApi
         code:       391,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -16808,7 +16808,7 @@ module CdekApi
         code:       1562,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -16819,7 +16819,7 @@ module CdekApi
         code:       1682,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -16830,7 +16830,7 @@ module CdekApi
         code:       538,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -16841,7 +16841,7 @@ module CdekApi
         code:       1299,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -16852,7 +16852,7 @@ module CdekApi
         code:       22,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -16863,7 +16863,7 @@ module CdekApi
         code:       1683,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -16874,7 +16874,7 @@ module CdekApi
         code:       1563,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -16885,7 +16885,7 @@ module CdekApi
         code:       1314,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -16896,7 +16896,7 @@ module CdekApi
         code:       1263,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -16907,7 +16907,7 @@ module CdekApi
         code:       2401,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -16918,7 +16918,7 @@ module CdekApi
         code:       1180,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -16929,7 +16929,7 @@ module CdekApi
         code:       2400,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -16940,7 +16940,7 @@ module CdekApi
         code:       291,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -16951,7 +16951,7 @@ module CdekApi
         code:       964,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -16962,7 +16962,7 @@ module CdekApi
         code:       1684,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -16973,7 +16973,7 @@ module CdekApi
         code:       14364,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -16984,7 +16984,7 @@ module CdekApi
         code:       702,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -16995,7 +16995,7 @@ module CdekApi
         code:       13454,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -17006,7 +17006,7 @@ module CdekApi
         code:       13537,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -17017,7 +17017,7 @@ module CdekApi
         code:       307,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -17028,7 +17028,7 @@ module CdekApi
         code:       1685,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -17039,7 +17039,7 @@ module CdekApi
         code:       1564,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -17050,7 +17050,7 @@ module CdekApi
         code:       1686,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -17061,7 +17061,7 @@ module CdekApi
         code:       2769,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -17072,7 +17072,7 @@ module CdekApi
         code:       1687,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -17083,7 +17083,7 @@ module CdekApi
         code:       13372,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -17094,7 +17094,7 @@ module CdekApi
         code:       482,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -17105,7 +17105,7 @@ module CdekApi
         code:       1688,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -17116,7 +17116,7 @@ module CdekApi
         code:       2771,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -17127,7 +17127,7 @@ module CdekApi
         code:       1737,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -17138,7 +17138,7 @@ module CdekApi
         code:       2074,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -17149,7 +17149,7 @@ module CdekApi
         code:       80,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -17160,7 +17160,7 @@ module CdekApi
         code:       1689,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -17171,7 +17171,7 @@ module CdekApi
         code:       1121,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -17182,7 +17182,7 @@ module CdekApi
         code:       253,
         address:    'Бородинский сад ул., д.1',
         phone:      '88005551291',
-        wotk_time:  '',
+        work_time:  'пн.-пт. 9-18',
         delivery:   ''
 
       },
@@ -17193,7 +17193,7 @@ module CdekApi
         code:       1376,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -17204,7 +17204,7 @@ module CdekApi
         code:       1690,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -17215,7 +17215,7 @@ module CdekApi
         code:       967,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -17226,7 +17226,7 @@ module CdekApi
         code:       1691,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -17237,7 +17237,7 @@ module CdekApi
         code:       1692,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -17248,7 +17248,7 @@ module CdekApi
         code:       205,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -17259,7 +17259,7 @@ module CdekApi
         code:       13538,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -17270,7 +17270,7 @@ module CdekApi
         code:       1090,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -17281,7 +17281,7 @@ module CdekApi
         code:       524,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -17292,7 +17292,7 @@ module CdekApi
         code:       133,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -17303,7 +17303,7 @@ module CdekApi
         code:       2772,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -17314,7 +17314,7 @@ module CdekApi
         code:       322,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -17325,7 +17325,7 @@ module CdekApi
         code:       1548,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -17336,7 +17336,7 @@ module CdekApi
         code:       521,
         address:    'Оптический пер., д.1 а, оф.теплый бетон',
         phone:      '+7 (498) 505-6546',
-        wotk_time:  '',
+        work_time:  'пн.-пт. 10-18, сб. вс.- выходной',
         delivery:   ''
 
       },
@@ -17347,7 +17347,7 @@ module CdekApi
         code:       1549,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -17358,7 +17358,7 @@ module CdekApi
         code:       1550,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -17369,7 +17369,7 @@ module CdekApi
         code:       1693,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -17380,7 +17380,7 @@ module CdekApi
         code:       13402,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -17391,7 +17391,7 @@ module CdekApi
         code:       1694,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -17402,7 +17402,7 @@ module CdekApi
         code:       1551,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -17413,7 +17413,7 @@ module CdekApi
         code:       2773,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -17424,7 +17424,7 @@ module CdekApi
         code:       1695,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -17435,7 +17435,7 @@ module CdekApi
         code:       1377,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -17446,7 +17446,7 @@ module CdekApi
         code:       1552,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -17457,7 +17457,7 @@ module CdekApi
         code:       1378,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -17468,7 +17468,7 @@ module CdekApi
         code:       13539,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -17479,7 +17479,7 @@ module CdekApi
         code:       1323,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -17490,7 +17490,7 @@ module CdekApi
         code:       13540,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -17501,7 +17501,7 @@ module CdekApi
         code:       1126,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -17512,7 +17512,7 @@ module CdekApi
         code:       2774,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -17523,7 +17523,7 @@ module CdekApi
         code:       2779,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -17534,7 +17534,7 @@ module CdekApi
         code:       1696,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -17545,7 +17545,7 @@ module CdekApi
         code:       13376,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -17556,7 +17556,7 @@ module CdekApi
         code:       523,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -17567,7 +17567,7 @@ module CdekApi
         code:       1553,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -17578,7 +17578,7 @@ module CdekApi
         code:       474,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -17589,7 +17589,7 @@ module CdekApi
         code:       536,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -17600,7 +17600,7 @@ module CdekApi
         code:       481,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -17611,7 +17611,7 @@ module CdekApi
         code:       2775,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -17622,7 +17622,7 @@ module CdekApi
         code:       2776,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -17633,7 +17633,7 @@ module CdekApi
         code:       494,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -17644,7 +17644,7 @@ module CdekApi
         code:       167,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -17655,7 +17655,7 @@ module CdekApi
         code:       1302,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -17666,7 +17666,7 @@ module CdekApi
         code:       57,
         address:    '3 почтовое отд, д.76',
         phone:      '(495) 744-93-03',
-        wotk_time:  '',
+        work_time:  'пн.-пт. 09 -18',
         delivery:   ''
 
       },
@@ -17677,7 +17677,7 @@ module CdekApi
         code:       533,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -17688,7 +17688,7 @@ module CdekApi
         code:       1764,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -17699,7 +17699,7 @@ module CdekApi
         code:       516,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -17710,7 +17710,7 @@ module CdekApi
         code:       13541,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -17721,7 +17721,7 @@ module CdekApi
         code:       13307,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -17732,7 +17732,7 @@ module CdekApi
         code:       13542,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -17743,7 +17743,7 @@ module CdekApi
         code:       2777,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -17754,7 +17754,7 @@ module CdekApi
         code:       297,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -17765,7 +17765,7 @@ module CdekApi
         code:       1698,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -17776,7 +17776,7 @@ module CdekApi
         code:       13543,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -17787,7 +17787,7 @@ module CdekApi
         code:       1699,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -17798,7 +17798,7 @@ module CdekApi
         code:       13544,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -17809,7 +17809,7 @@ module CdekApi
         code:       1187,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -17820,7 +17820,7 @@ module CdekApi
         code:       1700,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -17831,7 +17831,7 @@ module CdekApi
         code:       468,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -17842,7 +17842,7 @@ module CdekApi
         code:       1701,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -17853,7 +17853,7 @@ module CdekApi
         code:       1702,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -17864,7 +17864,7 @@ module CdekApi
         code:       486,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -17875,7 +17875,7 @@ module CdekApi
         code:       2778,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -17886,7 +17886,7 @@ module CdekApi
         code:       121,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -17897,7 +17897,7 @@ module CdekApi
         code:       534,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -17908,7 +17908,7 @@ module CdekApi
         code:       469,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -17919,7 +17919,7 @@ module CdekApi
         code:       1198,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -17930,7 +17930,7 @@ module CdekApi
         code:       1379,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -17941,7 +17941,7 @@ module CdekApi
         code:       920,
         address:    'Олимпийский пр-кт, д.15 корп. 4',
         phone:      '(498) 301-09-01;(495) 786-42-48',
-        wotk_time:  '',
+        work_time:  'пн.-пт. 9-18',
         delivery:   ''
 
       },
@@ -17952,7 +17952,7 @@ module CdekApi
         code:       13545,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -17963,7 +17963,7 @@ module CdekApi
         code:       69,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -17974,7 +17974,7 @@ module CdekApi
         code:       13458,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -17985,7 +17985,7 @@ module CdekApi
         code:       1545,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -17996,7 +17996,7 @@ module CdekApi
         code:       1703,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -18007,7 +18007,7 @@ module CdekApi
         code:       1380,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -18018,7 +18018,7 @@ module CdekApi
         code:       1252,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -18029,7 +18029,7 @@ module CdekApi
         code:       13104,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -18040,7 +18040,7 @@ module CdekApi
         code:       13457,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -18051,7 +18051,7 @@ module CdekApi
         code:       13293,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -18062,7 +18062,7 @@ module CdekApi
         code:       13546,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -18073,7 +18073,7 @@ module CdekApi
         code:       1204,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -18084,7 +18084,7 @@ module CdekApi
         code:       13547,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -18095,7 +18095,7 @@ module CdekApi
         code:       1705,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -18106,7 +18106,7 @@ module CdekApi
         code:       14339,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -18117,7 +18117,7 @@ module CdekApi
         code:       1706,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -18128,7 +18128,7 @@ module CdekApi
         code:       520,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -18139,7 +18139,7 @@ module CdekApi
         code:       1554,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -18150,7 +18150,7 @@ module CdekApi
         code:       496,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -18161,7 +18161,7 @@ module CdekApi
         code:       173,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -18172,7 +18172,7 @@ module CdekApi
         code:       475,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -18183,7 +18183,7 @@ module CdekApi
         code:       172,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -18194,7 +18194,7 @@ module CdekApi
         code:       225,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -18205,7 +18205,7 @@ module CdekApi
         code:       1381,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -18216,7 +18216,7 @@ module CdekApi
         code:       488,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -18227,7 +18227,7 @@ module CdekApi
         code:       2781,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -18238,7 +18238,7 @@ module CdekApi
         code:       13548,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -18249,7 +18249,7 @@ module CdekApi
         code:       1565,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -18260,7 +18260,7 @@ module CdekApi
         code:       210,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -18271,7 +18271,7 @@ module CdekApi
         code:       13444,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -18282,7 +18282,7 @@ module CdekApi
         code:       13549,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -18293,7 +18293,7 @@ module CdekApi
         code:       1707,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -18304,7 +18304,7 @@ module CdekApi
         code:       13286,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -18315,7 +18315,7 @@ module CdekApi
         code:       1708,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -18326,7 +18326,7 @@ module CdekApi
         code:       13550,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -18337,7 +18337,7 @@ module CdekApi
         code:       1709,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -18348,7 +18348,7 @@ module CdekApi
         code:       13551,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -18359,7 +18359,7 @@ module CdekApi
         code:       1710,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -18370,7 +18370,7 @@ module CdekApi
         code:       13305,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -18381,7 +18381,7 @@ module CdekApi
         code:       157,
         address:    'Революционный пр-кт, д.70, оф.3',
         phone:      '(4967)52-65-32',
-        wotk_time:  '',
+        work_time:  'пн.-пт. 9-18, сб. 10-14',
         delivery:   ''
 
       },
@@ -18392,7 +18392,7 @@ module CdekApi
         code:       13552,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -18403,7 +18403,7 @@ module CdekApi
         code:       13553,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -18414,7 +18414,7 @@ module CdekApi
         code:       1566,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -18425,7 +18425,7 @@ module CdekApi
         code:       13554,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -18436,7 +18436,7 @@ module CdekApi
         code:       2782,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -18447,7 +18447,7 @@ module CdekApi
         code:       1556,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -18458,7 +18458,7 @@ module CdekApi
         code:       13565,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -18469,7 +18469,7 @@ module CdekApi
         code:       1711,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -18480,7 +18480,7 @@ module CdekApi
         code:       1712,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -18491,7 +18491,7 @@ module CdekApi
         code:       17,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -18502,7 +18502,7 @@ module CdekApi
         code:       174,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -18513,7 +18513,7 @@ module CdekApi
         code:       185,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -18524,7 +18524,7 @@ module CdekApi
         code:       13484,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -18535,7 +18535,7 @@ module CdekApi
         code:       1095,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -18546,7 +18546,7 @@ module CdekApi
         code:       1713,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -18557,7 +18557,7 @@ module CdekApi
         code:       13344,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -18568,7 +18568,7 @@ module CdekApi
         code:       1714,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -18579,7 +18579,7 @@ module CdekApi
         code:       389,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -18590,7 +18590,7 @@ module CdekApi
         code:       2783,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -18601,7 +18601,7 @@ module CdekApi
         code:       13459,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -18612,7 +18612,7 @@ module CdekApi
         code:       1715,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -18623,7 +18623,7 @@ module CdekApi
         code:       13456,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -18634,7 +18634,7 @@ module CdekApi
         code:       1716,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -18645,7 +18645,7 @@ module CdekApi
         code:       1717,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -18656,7 +18656,7 @@ module CdekApi
         code:       177,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -18667,7 +18667,7 @@ module CdekApi
         code:       480,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -18678,7 +18678,7 @@ module CdekApi
         code:       1634,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -18689,7 +18689,7 @@ module CdekApi
         code:       14322,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -18700,7 +18700,7 @@ module CdekApi
         code:       1718,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -18711,7 +18711,7 @@ module CdekApi
         code:       158,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -18722,7 +18722,7 @@ module CdekApi
         code:       13555,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -18733,7 +18733,7 @@ module CdekApi
         code:       129,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -18744,7 +18744,7 @@ module CdekApi
         code:       522,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -18755,7 +18755,7 @@ module CdekApi
         code:       495,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -18766,7 +18766,7 @@ module CdekApi
         code:       169,
         address:    'Московская 1-я, д.9',
         phone:      '(4967) 38-17-10',
-        wotk_time:  '',
+        work_time:  'пн.-пт. 9-18, сб. 11-14',
         delivery:   ''
 
       },
@@ -18777,7 +18777,7 @@ module CdekApi
         code:       1719,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -18788,7 +18788,7 @@ module CdekApi
         code:       13455,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -18799,7 +18799,7 @@ module CdekApi
         code:       13556,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -18810,7 +18810,7 @@ module CdekApi
         code:       13452,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -18821,7 +18821,7 @@ module CdekApi
         code:       1720,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -18832,7 +18832,7 @@ module CdekApi
         code:       479,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -18843,7 +18843,7 @@ module CdekApi
         code:       114,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -18854,7 +18854,7 @@ module CdekApi
         code:       466,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -18865,7 +18865,7 @@ module CdekApi
         code:       2784,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -18876,7 +18876,7 @@ module CdekApi
         code:       1567,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -18887,7 +18887,7 @@ module CdekApi
         code:       1721,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -18898,7 +18898,7 @@ module CdekApi
         code:       1555,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -18909,7 +18909,7 @@ module CdekApi
         code:       1722,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -18920,7 +18920,7 @@ module CdekApi
         code:       1303,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -18931,7 +18931,7 @@ module CdekApi
         code:       1723,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -18942,7 +18942,7 @@ module CdekApi
         code:       13557,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -18953,7 +18953,7 @@ module CdekApi
         code:       13983,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -18964,7 +18964,7 @@ module CdekApi
         code:       1724,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -18975,7 +18975,7 @@ module CdekApi
         code:       122,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -18986,7 +18986,7 @@ module CdekApi
         code:       47,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -18997,7 +18997,7 @@ module CdekApi
         code:       2785,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -19008,7 +19008,7 @@ module CdekApi
         code:       477,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -19019,7 +19019,7 @@ module CdekApi
         code:       457,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -19030,7 +19030,7 @@ module CdekApi
         code:       1250,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -19041,7 +19041,7 @@ module CdekApi
         code:       510,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -19052,7 +19052,7 @@ module CdekApi
         code:       1725,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -19063,7 +19063,7 @@ module CdekApi
         code:       13558,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -19074,7 +19074,7 @@ module CdekApi
         code:       1568,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -19085,7 +19085,7 @@ module CdekApi
         code:       1569,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -19096,7 +19096,7 @@ module CdekApi
         code:       1726,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -19107,7 +19107,7 @@ module CdekApi
         code:       13116,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -19118,7 +19118,7 @@ module CdekApi
         code:       1727,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -19129,7 +19129,7 @@ module CdekApi
         code:       13559,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -19140,7 +19140,7 @@ module CdekApi
         code:       76,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -19151,7 +19151,7 @@ module CdekApi
         code:       1728,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -19162,7 +19162,7 @@ module CdekApi
         code:       45,
         address:    'Горшина ул., д.2',
         phone:      '8-925-240-27-50, 8-916-565-55-83',
-        wotk_time:  '',
+        work_time:  'пн.-пт. 09.30-18.30, сб. 10.00-14.00',
         delivery:   ''
 
       },
@@ -19173,7 +19173,7 @@ module CdekApi
         code:       13560,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -19184,7 +19184,7 @@ module CdekApi
         code:       1729,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -19195,7 +19195,7 @@ module CdekApi
         code:       966,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -19206,7 +19206,7 @@ module CdekApi
         code:       13561,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -19217,7 +19217,7 @@ module CdekApi
         code:       950,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -19228,7 +19228,7 @@ module CdekApi
         code:       1730,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -19239,7 +19239,7 @@ module CdekApi
         code:       2787,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -19250,7 +19250,7 @@ module CdekApi
         code:       2786,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -19261,7 +19261,7 @@ module CdekApi
         code:       1385,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -19272,7 +19272,7 @@ module CdekApi
         code:       171,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -19283,7 +19283,7 @@ module CdekApi
         code:       1731,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -19294,7 +19294,7 @@ module CdekApi
         code:       412,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -19305,7 +19305,7 @@ module CdekApi
         code:       1732,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -19316,7 +19316,7 @@ module CdekApi
         code:       3179,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -19327,7 +19327,7 @@ module CdekApi
         code:       3181,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -19338,7 +19338,7 @@ module CdekApi
         code:       3182,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -19349,7 +19349,7 @@ module CdekApi
         code:       3232,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -19360,7 +19360,7 @@ module CdekApi
         code:       3180,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -19371,7 +19371,7 @@ module CdekApi
         code:       3178,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -19382,7 +19382,7 @@ module CdekApi
         code:       489,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -19393,7 +19393,7 @@ module CdekApi
         code:       485,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -19404,7 +19404,7 @@ module CdekApi
         code:       13453,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -19415,7 +19415,7 @@ module CdekApi
         code:       517,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -19426,7 +19426,7 @@ module CdekApi
         code:       13562,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -19437,7 +19437,7 @@ module CdekApi
         code:       493,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -19448,7 +19448,7 @@ module CdekApi
         code:       1734,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -19459,7 +19459,7 @@ module CdekApi
         code:       162,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -19470,7 +19470,7 @@ module CdekApi
         code:       1319,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -19481,7 +19481,7 @@ module CdekApi
         code:       168,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -19492,7 +19492,7 @@ module CdekApi
         code:       1557,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -19503,7 +19503,7 @@ module CdekApi
         code:       311,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -19514,7 +19514,7 @@ module CdekApi
         code:       1735,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -19525,7 +19525,7 @@ module CdekApi
         code:       13450,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -19536,7 +19536,7 @@ module CdekApi
         code:       40,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -19547,7 +19547,7 @@ module CdekApi
         code:       2793,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -19558,7 +19558,7 @@ module CdekApi
         code:       989,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -19569,7 +19569,7 @@ module CdekApi
         code:       13621,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -19580,7 +19580,7 @@ module CdekApi
         code:       2798,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -19591,7 +19591,7 @@ module CdekApi
         code:       2799,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -19602,7 +19602,7 @@ module CdekApi
         code:       401,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -19613,7 +19613,7 @@ module CdekApi
         code:       2794,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -19624,7 +19624,7 @@ module CdekApi
         code:       2803,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -19635,7 +19635,7 @@ module CdekApi
         code:       2795,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -19646,7 +19646,7 @@ module CdekApi
         code:       2804,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -19657,7 +19657,7 @@ module CdekApi
         code:       191,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -19668,7 +19668,7 @@ module CdekApi
         code:       1758,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -19679,7 +19679,7 @@ module CdekApi
         code:       14259,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -19690,7 +19690,7 @@ module CdekApi
         code:       987,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -19701,7 +19701,7 @@ module CdekApi
         code:       265,
         address:    'Ленина пр-кт, д.3 , оф.13',
         phone:      '(8152)701-781, 701-957',
-        wotk_time:  '',
+        work_time:  'пн.-пт. 9-18',
         delivery:   ''
 
       },
@@ -19712,7 +19712,7 @@ module CdekApi
         code:       1324,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -19723,7 +19723,7 @@ module CdekApi
         code:       2800,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -19734,7 +19734,7 @@ module CdekApi
         code:       2801,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -19745,7 +19745,7 @@ module CdekApi
         code:       2802,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -19756,7 +19756,7 @@ module CdekApi
         code:       2805,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -19767,7 +19767,7 @@ module CdekApi
         code:       2796,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -19778,7 +19778,7 @@ module CdekApi
         code:       13332,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -19789,7 +19789,7 @@ module CdekApi
         code:       13623,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -19800,7 +19800,7 @@ module CdekApi
         code:       2382,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -19811,7 +19811,7 @@ module CdekApi
         code:       13624,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -19822,7 +19822,7 @@ module CdekApi
         code:       2797,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -19833,7 +19833,7 @@ module CdekApi
         code:       1657,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -19844,7 +19844,7 @@ module CdekApi
         code:       943,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -19855,7 +19855,7 @@ module CdekApi
         code:       1883,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -19866,7 +19866,7 @@ module CdekApi
         code:       1002,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -19877,7 +19877,7 @@ module CdekApi
         code:       13625,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -19888,7 +19888,7 @@ module CdekApi
         code:       13229,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -19899,7 +19899,7 @@ module CdekApi
         code:       1000,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -19910,7 +19910,7 @@ module CdekApi
         code:       13226,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -19921,7 +19921,7 @@ module CdekApi
         code:       1008,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -19932,7 +19932,7 @@ module CdekApi
         code:       13387,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -19943,7 +19943,7 @@ module CdekApi
         code:       1884,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -19954,7 +19954,7 @@ module CdekApi
         code:       13228,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -19965,7 +19965,7 @@ module CdekApi
         code:       1885,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -19976,7 +19976,7 @@ module CdekApi
         code:       1004,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -19987,7 +19987,7 @@ module CdekApi
         code:       1886,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -19998,7 +19998,7 @@ module CdekApi
         code:       1887,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -20009,7 +20009,7 @@ module CdekApi
         code:       1888,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -20020,7 +20020,7 @@ module CdekApi
         code:       1892,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -20031,7 +20031,7 @@ module CdekApi
         code:       13626,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -20042,7 +20042,7 @@ module CdekApi
         code:       1010,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -20053,7 +20053,7 @@ module CdekApi
         code:       1889,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -20064,7 +20064,7 @@ module CdekApi
         code:       13627,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -20075,7 +20075,7 @@ module CdekApi
         code:       13628,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -20086,7 +20086,7 @@ module CdekApi
         code:       1890,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -20097,7 +20097,7 @@ module CdekApi
         code:       541,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -20108,7 +20108,7 @@ module CdekApi
         code:       1891,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -20119,7 +20119,7 @@ module CdekApi
         code:       1215,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -20130,7 +20130,7 @@ module CdekApi
         code:       1893,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -20141,7 +20141,7 @@ module CdekApi
         code:       13629,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -20152,7 +20152,7 @@ module CdekApi
         code:       1014,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -20163,7 +20163,7 @@ module CdekApi
         code:       1894,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -20174,7 +20174,7 @@ module CdekApi
         code:       13630,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -20185,7 +20185,7 @@ module CdekApi
         code:       13631,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -20196,7 +20196,7 @@ module CdekApi
         code:       1005,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -20207,7 +20207,7 @@ module CdekApi
         code:       1006,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -20218,7 +20218,7 @@ module CdekApi
         code:       863,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -20229,7 +20229,7 @@ module CdekApi
         code:       1895,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -20240,7 +20240,7 @@ module CdekApi
         code:       2806,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -20251,7 +20251,7 @@ module CdekApi
         code:       13231,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -20262,7 +20262,7 @@ module CdekApi
         code:       2807,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -20273,7 +20273,7 @@ module CdekApi
         code:       1007,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -20284,7 +20284,7 @@ module CdekApi
         code:       13632,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -20295,7 +20295,7 @@ module CdekApi
         code:       2808,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -20306,7 +20306,7 @@ module CdekApi
         code:       2809,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -20317,7 +20317,7 @@ module CdekApi
         code:       13633,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -20328,7 +20328,7 @@ module CdekApi
         code:       1896,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -20339,7 +20339,7 @@ module CdekApi
         code:       1897,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -20350,7 +20350,7 @@ module CdekApi
         code:       1898,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -20361,7 +20361,7 @@ module CdekApi
         code:       1001,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -20372,7 +20372,7 @@ module CdekApi
         code:       2810,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -20383,7 +20383,7 @@ module CdekApi
         code:       1013,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -20394,7 +20394,7 @@ module CdekApi
         code:       13634,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -20405,7 +20405,7 @@ module CdekApi
         code:       1899,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -20416,7 +20416,7 @@ module CdekApi
         code:       1003,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -20427,7 +20427,7 @@ module CdekApi
         code:       13635,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -20438,7 +20438,7 @@ module CdekApi
         code:       13636,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -20449,7 +20449,7 @@ module CdekApi
         code:       1012,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -20460,7 +20460,7 @@ module CdekApi
         code:       414,
         address:    'Норильская ул, д.6',
         phone:      '',
-        wotk_time:  '',
+        work_time:  'пн.-пт. 9-18, сб. 10-14',
         delivery:   ''
 
       },
@@ -20471,7 +20471,7 @@ module CdekApi
         code:       13225,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -20482,7 +20482,7 @@ module CdekApi
         code:       13224,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -20493,7 +20493,7 @@ module CdekApi
         code:       1009,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -20504,7 +20504,7 @@ module CdekApi
         code:       13637,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -20515,7 +20515,7 @@ module CdekApi
         code:       1900,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -20526,7 +20526,7 @@ module CdekApi
         code:       1901,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -20537,7 +20537,7 @@ module CdekApi
         code:       13638,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -20548,7 +20548,7 @@ module CdekApi
         code:       1015,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -20559,7 +20559,7 @@ module CdekApi
         code:       1902,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -20570,7 +20570,7 @@ module CdekApi
         code:       13639,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -20581,7 +20581,7 @@ module CdekApi
         code:       2374,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -20592,7 +20592,7 @@ module CdekApi
         code:       13230,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -20603,7 +20603,7 @@ module CdekApi
         code:       1231,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -20614,7 +20614,7 @@ module CdekApi
         code:       13640,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -20625,7 +20625,7 @@ module CdekApi
         code:       1903,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -20636,7 +20636,7 @@ module CdekApi
         code:       1904,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -20647,7 +20647,7 @@ module CdekApi
         code:       1905,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -20658,7 +20658,7 @@ module CdekApi
         code:       13641,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -20669,7 +20669,7 @@ module CdekApi
         code:       1906,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -20680,7 +20680,7 @@ module CdekApi
         code:       13223,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -20691,7 +20691,7 @@ module CdekApi
         code:       1011,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -20702,7 +20702,7 @@ module CdekApi
         code:       1907,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -20713,7 +20713,7 @@ module CdekApi
         code:       13642,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -20724,7 +20724,7 @@ module CdekApi
         code:       13643,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -20735,7 +20735,7 @@ module CdekApi
         code:       1908,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -20746,7 +20746,7 @@ module CdekApi
         code:       1909,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -20757,7 +20757,7 @@ module CdekApi
         code:       13644,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -20768,7 +20768,7 @@ module CdekApi
         code:       1910,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -20779,7 +20779,7 @@ module CdekApi
         code:       1911,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -20790,7 +20790,7 @@ module CdekApi
         code:       13056,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -20801,7 +20801,7 @@ module CdekApi
         code:       13227,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -20812,7 +20812,7 @@ module CdekApi
         code:       1912,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -20823,7 +20823,7 @@ module CdekApi
         code:       1913,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -20834,7 +20834,7 @@ module CdekApi
         code:       1914,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -20845,7 +20845,7 @@ module CdekApi
         code:       420,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -20856,7 +20856,7 @@ module CdekApi
         code:       13645,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -20867,7 +20867,7 @@ module CdekApi
         code:       2811,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -20878,7 +20878,7 @@ module CdekApi
         code:       2358,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -20889,7 +20889,7 @@ module CdekApi
         code:       2812,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -20900,7 +20900,7 @@ module CdekApi
         code:       139,
         address:    'Санкт-петербургская б., д.39 стр 14, оф.1',
         phone:      '(8162) 22-44-40',
-        wotk_time:  '',
+        work_time:  'пн.-пт. 9-18',
         delivery:   ''
 
       },
@@ -20911,7 +20911,7 @@ module CdekApi
         code:       2813,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -20922,7 +20922,7 @@ module CdekApi
         code:       2814,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -20933,7 +20933,7 @@ module CdekApi
         code:       2815,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -20944,7 +20944,7 @@ module CdekApi
         code:       2816,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -20955,7 +20955,7 @@ module CdekApi
         code:       2817,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -20966,7 +20966,7 @@ module CdekApi
         code:       2818,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -20977,7 +20977,7 @@ module CdekApi
         code:       2819,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -20988,7 +20988,7 @@ module CdekApi
         code:       2820,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -20999,7 +20999,7 @@ module CdekApi
         code:       2821,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -21010,7 +21010,7 @@ module CdekApi
         code:       2822,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -21021,7 +21021,7 @@ module CdekApi
         code:       2823,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -21032,7 +21032,7 @@ module CdekApi
         code:       2824,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -21043,7 +21043,7 @@ module CdekApi
         code:       2825,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -21054,7 +21054,7 @@ module CdekApi
         code:       2826,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -21065,7 +21065,7 @@ module CdekApi
         code:       2827,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -21076,7 +21076,7 @@ module CdekApi
         code:       2390,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -21087,7 +21087,7 @@ module CdekApi
         code:       2828,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -21098,7 +21098,7 @@ module CdekApi
         code:       1961,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -21109,7 +21109,7 @@ module CdekApi
         code:       1962,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -21120,7 +21120,7 @@ module CdekApi
         code:       737,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -21131,7 +21131,7 @@ module CdekApi
         code:       1963,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -21142,7 +21142,7 @@ module CdekApi
         code:       745,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -21153,7 +21153,7 @@ module CdekApi
         code:       1747,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -21164,7 +21164,7 @@ module CdekApi
         code:       1964,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -21175,7 +21175,7 @@ module CdekApi
         code:       728,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -21186,7 +21186,7 @@ module CdekApi
         code:       1965,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -21197,7 +21197,7 @@ module CdekApi
         code:       733,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -21208,7 +21208,7 @@ module CdekApi
         code:       1966,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -21219,7 +21219,7 @@ module CdekApi
         code:       1967,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -21230,7 +21230,7 @@ module CdekApi
         code:       753,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -21241,7 +21241,7 @@ module CdekApi
         code:       1968,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -21252,7 +21252,7 @@ module CdekApi
         code:       1969,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -21263,7 +21263,7 @@ module CdekApi
         code:       1970,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -21274,7 +21274,7 @@ module CdekApi
         code:       1971,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -21285,7 +21285,7 @@ module CdekApi
         code:       1972,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -21296,7 +21296,7 @@ module CdekApi
         code:       1973,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -21307,7 +21307,7 @@ module CdekApi
         code:       13803,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -21318,7 +21318,7 @@ module CdekApi
         code:       738,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -21329,7 +21329,7 @@ module CdekApi
         code:       13371,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -21340,7 +21340,7 @@ module CdekApi
         code:       1974,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -21351,7 +21351,7 @@ module CdekApi
         code:       1975,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -21362,7 +21362,7 @@ module CdekApi
         code:       1976,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -21373,7 +21373,7 @@ module CdekApi
         code:       1977,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -21384,7 +21384,7 @@ module CdekApi
         code:       747,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -21395,7 +21395,7 @@ module CdekApi
         code:       1978,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -21406,7 +21406,7 @@ module CdekApi
         code:       13401,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -21417,7 +21417,7 @@ module CdekApi
         code:       70,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -21428,7 +21428,7 @@ module CdekApi
         code:       1979,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -21439,7 +21439,7 @@ module CdekApi
         code:       2009,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -21450,7 +21450,7 @@ module CdekApi
         code:       739,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -21461,7 +21461,7 @@ module CdekApi
         code:       749,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -21472,7 +21472,7 @@ module CdekApi
         code:       1980,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -21483,7 +21483,7 @@ module CdekApi
         code:       1981,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -21494,7 +21494,7 @@ module CdekApi
         code:       13809,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -21505,7 +21505,7 @@ module CdekApi
         code:       1982,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -21516,7 +21516,7 @@ module CdekApi
         code:       1983,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -21527,7 +21527,7 @@ module CdekApi
         code:       1984,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -21538,7 +21538,7 @@ module CdekApi
         code:       736,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -21549,7 +21549,7 @@ module CdekApi
         code:       1278,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -21560,7 +21560,7 @@ module CdekApi
         code:       1985,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -21571,7 +21571,7 @@ module CdekApi
         code:       1986,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -21582,7 +21582,7 @@ module CdekApi
         code:       735,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -21593,7 +21593,7 @@ module CdekApi
         code:       740,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -21604,7 +21604,7 @@ module CdekApi
         code:       741,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -21615,7 +21615,7 @@ module CdekApi
         code:       525,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -21626,7 +21626,7 @@ module CdekApi
         code:       13796,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -21637,7 +21637,7 @@ module CdekApi
         code:       13807,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -21648,7 +21648,7 @@ module CdekApi
         code:       1246,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -21659,7 +21659,7 @@ module CdekApi
         code:       1987,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -21670,7 +21670,7 @@ module CdekApi
         code:       13122,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -21681,7 +21681,7 @@ module CdekApi
         code:       1988,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -21692,7 +21692,7 @@ module CdekApi
         code:       746,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -21703,7 +21703,7 @@ module CdekApi
         code:       742,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -21714,7 +21714,7 @@ module CdekApi
         code:       754,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -21725,7 +21725,7 @@ module CdekApi
         code:       1989,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -21736,7 +21736,7 @@ module CdekApi
         code:       13804,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -21747,7 +21747,7 @@ module CdekApi
         code:       1990,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -21758,7 +21758,7 @@ module CdekApi
         code:       1991,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -21769,7 +21769,7 @@ module CdekApi
         code:       1310,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -21780,7 +21780,7 @@ module CdekApi
         code:       1992,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -21791,7 +21791,7 @@ module CdekApi
         code:       731,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -21802,7 +21802,7 @@ module CdekApi
         code:       1993,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -21813,7 +21813,7 @@ module CdekApi
         code:       13249,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -21824,7 +21824,7 @@ module CdekApi
         code:       732,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -21835,7 +21835,7 @@ module CdekApi
         code:       13810,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -21846,7 +21846,7 @@ module CdekApi
         code:       13797,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -21857,7 +21857,7 @@ module CdekApi
         code:       13252,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -21868,7 +21868,7 @@ module CdekApi
         code:       270,
         address:    'Ленина ул, д.1, тц аркада, оф. на ст. метро площадь ленина',
         phone:      '(383) 362-27-47',
-        wotk_time:  '',
+        work_time:  'пн.-пт. 9-20,обед 14-15, сб.-вс. 10-18,обед 14-15',
         delivery:   ''
 
       },
@@ -21879,7 +21879,7 @@ module CdekApi
         code:       1994,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -21890,7 +21890,7 @@ module CdekApi
         code:       378,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -21901,7 +21901,7 @@ module CdekApi
         code:       13806,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -21912,7 +21912,7 @@ module CdekApi
         code:       756,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -21923,7 +21923,7 @@ module CdekApi
         code:       743,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -21934,7 +21934,7 @@ module CdekApi
         code:       1995,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -21945,7 +21945,7 @@ module CdekApi
         code:       1996,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -21956,7 +21956,7 @@ module CdekApi
         code:       1997,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -21967,7 +21967,7 @@ module CdekApi
         code:       13798,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -21978,7 +21978,7 @@ module CdekApi
         code:       1998,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -21989,7 +21989,7 @@ module CdekApi
         code:       13808,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -22000,7 +22000,7 @@ module CdekApi
         code:       13799,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -22011,7 +22011,7 @@ module CdekApi
         code:       744,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -22022,7 +22022,7 @@ module CdekApi
         code:       13802,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -22033,7 +22033,7 @@ module CdekApi
         code:       13800,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -22044,7 +22044,7 @@ module CdekApi
         code:       13801,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -22055,7 +22055,7 @@ module CdekApi
         code:       1999,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -22066,7 +22066,7 @@ module CdekApi
         code:       2000,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -22077,7 +22077,7 @@ module CdekApi
         code:       2001,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -22088,7 +22088,7 @@ module CdekApi
         code:       730,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -22099,7 +22099,7 @@ module CdekApi
         code:       748,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -22110,7 +22110,7 @@ module CdekApi
         code:       727,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -22121,7 +22121,7 @@ module CdekApi
         code:       13118,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -22132,7 +22132,7 @@ module CdekApi
         code:       2002,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -22143,7 +22143,7 @@ module CdekApi
         code:       750,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -22154,7 +22154,7 @@ module CdekApi
         code:       2003,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -22165,7 +22165,7 @@ module CdekApi
         code:       755,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -22176,7 +22176,7 @@ module CdekApi
         code:       751,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -22187,7 +22187,7 @@ module CdekApi
         code:       2004,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -22198,7 +22198,7 @@ module CdekApi
         code:       729,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -22209,7 +22209,7 @@ module CdekApi
         code:       13614,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -22220,7 +22220,7 @@ module CdekApi
         code:       13805,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -22231,7 +22231,7 @@ module CdekApi
         code:       2005,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -22242,7 +22242,7 @@ module CdekApi
         code:       1256,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -22253,7 +22253,7 @@ module CdekApi
         code:       752,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -22264,7 +22264,7 @@ module CdekApi
         code:       734,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -22275,7 +22275,7 @@ module CdekApi
         code:       13250,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -22286,7 +22286,7 @@ module CdekApi
         code:       710,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -22297,7 +22297,7 @@ module CdekApi
         code:       13265,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -22308,7 +22308,7 @@ module CdekApi
         code:       1390,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -22319,7 +22319,7 @@ module CdekApi
         code:       13471,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -22330,7 +22330,7 @@ module CdekApi
         code:       1489,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -22341,7 +22341,7 @@ module CdekApi
         code:       13466,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -22352,7 +22352,7 @@ module CdekApi
         code:       714,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -22363,7 +22363,7 @@ module CdekApi
         code:       35,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -22374,7 +22374,7 @@ module CdekApi
         code:       972,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -22385,7 +22385,7 @@ module CdekApi
         code:       13467,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -22396,7 +22396,7 @@ module CdekApi
         code:       1317,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -22407,7 +22407,7 @@ module CdekApi
         code:       82,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -22418,7 +22418,7 @@ module CdekApi
         code:       713,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -22429,7 +22429,7 @@ module CdekApi
         code:       13316,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -22440,7 +22440,7 @@ module CdekApi
         code:       1490,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -22451,7 +22451,7 @@ module CdekApi
         code:       717,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -22462,7 +22462,7 @@ module CdekApi
         code:       1179,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -22473,7 +22473,7 @@ module CdekApi
         code:       1391,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -22484,7 +22484,7 @@ module CdekApi
         code:       1877,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -22495,7 +22495,7 @@ module CdekApi
         code:       720,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -22506,7 +22506,7 @@ module CdekApi
         code:       13139,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -22517,7 +22517,7 @@ module CdekApi
         code:       716,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -22528,7 +22528,7 @@ module CdekApi
         code:       13264,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -22539,7 +22539,7 @@ module CdekApi
         code:       1491,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -22550,7 +22550,7 @@ module CdekApi
         code:       1396,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -22561,7 +22561,7 @@ module CdekApi
         code:       1398,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -22572,7 +22572,7 @@ module CdekApi
         code:       1492,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -22583,7 +22583,7 @@ module CdekApi
         code:       1402,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -22594,7 +22594,7 @@ module CdekApi
         code:       13464,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -22605,7 +22605,7 @@ module CdekApi
         code:       715,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -22616,7 +22616,7 @@ module CdekApi
         code:       1493,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -22627,7 +22627,7 @@ module CdekApi
         code:       268,
         address:    'Сенная ул, д.34',
         phone:      '(3812)662360',
-        wotk_time:  '',
+        work_time:  'пн.-пт. 8.30-19.00, сб. 10-14 ',
         delivery:   ''
 
       },
@@ -22638,7 +22638,7 @@ module CdekApi
         code:       1494,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -22649,7 +22649,7 @@ module CdekApi
         code:       719,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -22660,7 +22660,7 @@ module CdekApi
         code:       1389,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -22671,7 +22671,7 @@ module CdekApi
         code:       13465,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -22682,7 +22682,7 @@ module CdekApi
         code:       13463,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -22693,7 +22693,7 @@ module CdekApi
         code:       1401,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -22704,7 +22704,7 @@ module CdekApi
         code:       1495,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -22715,7 +22715,7 @@ module CdekApi
         code:       13326,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -22726,7 +22726,7 @@ module CdekApi
         code:       1394,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -22737,7 +22737,7 @@ module CdekApi
         code:       711,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -22748,7 +22748,7 @@ module CdekApi
         code:       718,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -22759,7 +22759,7 @@ module CdekApi
         code:       1393,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -22770,7 +22770,7 @@ module CdekApi
         code:       13472,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -22781,7 +22781,7 @@ module CdekApi
         code:       1397,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -22792,7 +22792,7 @@ module CdekApi
         code:       1392,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -22803,7 +22803,7 @@ module CdekApi
         code:       13263,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -22814,7 +22814,7 @@ module CdekApi
         code:       13266,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -22825,7 +22825,7 @@ module CdekApi
         code:       712,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -22836,7 +22836,7 @@ module CdekApi
         code:       1395,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -22847,7 +22847,7 @@ module CdekApi
         code:       1399,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -22858,7 +22858,7 @@ module CdekApi
         code:       2837,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -22869,7 +22869,7 @@ module CdekApi
         code:       13034,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -22880,7 +22880,7 @@ module CdekApi
         code:       13035,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -22891,7 +22891,7 @@ module CdekApi
         code:       13925,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -22902,7 +22902,7 @@ module CdekApi
         code:       13050,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -22913,7 +22913,7 @@ module CdekApi
         code:       13036,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -22924,7 +22924,7 @@ module CdekApi
         code:       13051,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -22935,7 +22935,7 @@ module CdekApi
         code:       100,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -22946,7 +22946,7 @@ module CdekApi
         code:       1218,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -22957,7 +22957,7 @@ module CdekApi
         code:       1171,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -22968,7 +22968,7 @@ module CdekApi
         code:       696,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -22979,7 +22979,7 @@ module CdekApi
         code:       13119,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -22990,7 +22990,7 @@ module CdekApi
         code:       13052,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -23001,7 +23001,7 @@ module CdekApi
         code:       13420,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -23012,7 +23012,7 @@ module CdekApi
         code:       13037,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -23023,7 +23023,7 @@ module CdekApi
         code:       13211,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -23034,7 +23034,7 @@ module CdekApi
         code:       13222,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -23045,7 +23045,7 @@ module CdekApi
         code:       13038,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -23056,7 +23056,7 @@ module CdekApi
         code:       1234,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -23067,7 +23067,7 @@ module CdekApi
         code:       13039,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -23078,7 +23078,7 @@ module CdekApi
         code:       13137,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -23089,7 +23089,7 @@ module CdekApi
         code:       2832,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -23100,7 +23100,7 @@ module CdekApi
         code:       13040,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -23111,7 +23111,7 @@ module CdekApi
         code:       13215,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -23122,7 +23122,7 @@ module CdekApi
         code:       13218,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -23133,7 +23133,7 @@ module CdekApi
         code:       2838,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -23144,7 +23144,7 @@ module CdekApi
         code:       36,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -23155,7 +23155,7 @@ module CdekApi
         code:       13220,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -23166,7 +23166,7 @@ module CdekApi
         code:       13217,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -23177,7 +23177,7 @@ module CdekApi
         code:       14282,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -23188,7 +23188,7 @@ module CdekApi
         code:       2833,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -23199,7 +23199,7 @@ module CdekApi
         code:       247,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -23210,7 +23210,7 @@ module CdekApi
         code:       11,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -23221,7 +23221,7 @@ module CdekApi
         code:       13053,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -23232,7 +23232,7 @@ module CdekApi
         code:       261,
         address:    'Восточная ул, д.23',
         phone:      '(3532) 90-10-50, 90-10-60',
-        wotk_time:  '',
+        work_time:  'пн.-пт. 9-18, сб. 10-14',
         delivery:   ''
 
       },
@@ -23243,7 +23243,7 @@ module CdekApi
         code:       697,
         address:    'Радостева ул., д.10, оф.16',
         phone:      '83537299111, 83537299333, 89228509109',
-        wotk_time:  '',
+        work_time:  'пн.-пт. 9-18',
         delivery:   ''
 
       },
@@ -23254,7 +23254,7 @@ module CdekApi
         code:       13054,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -23265,7 +23265,7 @@ module CdekApi
         code:       13041,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -23276,7 +23276,7 @@ module CdekApi
         code:       13042,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -23287,7 +23287,7 @@ module CdekApi
         code:       13219,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -23298,7 +23298,7 @@ module CdekApi
         code:       13043,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -23309,7 +23309,7 @@ module CdekApi
         code:       2829,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -23320,7 +23320,7 @@ module CdekApi
         code:       13044,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -23331,7 +23331,7 @@ module CdekApi
         code:       2830,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -23342,7 +23342,7 @@ module CdekApi
         code:       12996,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -23353,7 +23353,7 @@ module CdekApi
         code:       13045,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -23364,7 +23364,7 @@ module CdekApi
         code:       13212,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -23375,7 +23375,7 @@ module CdekApi
         code:       2831,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -23386,7 +23386,7 @@ module CdekApi
         code:       2834,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -23397,7 +23397,7 @@ module CdekApi
         code:       13046,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -23408,7 +23408,7 @@ module CdekApi
         code:       2835,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -23419,7 +23419,7 @@ module CdekApi
         code:       13433,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -23430,7 +23430,7 @@ module CdekApi
         code:       13047,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -23441,7 +23441,7 @@ module CdekApi
         code:       13213,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -23452,7 +23452,7 @@ module CdekApi
         code:       13049,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -23463,7 +23463,7 @@ module CdekApi
         code:       13608,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -23474,7 +23474,7 @@ module CdekApi
         code:       13048,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -23485,7 +23485,7 @@ module CdekApi
         code:       13216,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -23496,7 +23496,7 @@ module CdekApi
         code:       2836,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -23507,7 +23507,7 @@ module CdekApi
         code:       2839,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -23518,7 +23518,7 @@ module CdekApi
         code:       2840,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -23529,7 +23529,7 @@ module CdekApi
         code:       2841,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -23540,7 +23540,7 @@ module CdekApi
         code:       13961,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -23551,7 +23551,7 @@ module CdekApi
         code:       2842,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -23562,7 +23562,7 @@ module CdekApi
         code:       2843,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -23573,7 +23573,7 @@ module CdekApi
         code:       2844,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -23584,7 +23584,7 @@ module CdekApi
         code:       2845,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -23595,7 +23595,7 @@ module CdekApi
         code:       2846,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -23606,7 +23606,7 @@ module CdekApi
         code:       440,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -23617,7 +23617,7 @@ module CdekApi
         code:       2847,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -23628,7 +23628,7 @@ module CdekApi
         code:       1115,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -23639,7 +23639,7 @@ module CdekApi
         code:       2848,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -23650,7 +23650,7 @@ module CdekApi
         code:       149,
         address:    'Степана разина ул., д.12, оф.12',
         phone:      '(4862) 73-42-08',
-        wotk_time:  '',
+        work_time:  'пн.-пт. 9-18',
         delivery:   ''
 
       },
@@ -23661,7 +23661,7 @@ module CdekApi
         code:       2849,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -23672,7 +23672,7 @@ module CdekApi
         code:       2850,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -23683,7 +23683,7 @@ module CdekApi
         code:       2851,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -23694,7 +23694,7 @@ module CdekApi
         code:       2852,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -23705,7 +23705,7 @@ module CdekApi
         code:       2853,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -23716,7 +23716,7 @@ module CdekApi
         code:       2858,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -23727,7 +23727,7 @@ module CdekApi
         code:       2854,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -23738,7 +23738,7 @@ module CdekApi
         code:       2855,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -23749,7 +23749,7 @@ module CdekApi
         code:       2860,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -23760,7 +23760,7 @@ module CdekApi
         code:       421,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -23771,7 +23771,7 @@ module CdekApi
         code:       2856,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -23782,7 +23782,7 @@ module CdekApi
         code:       2857,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -23793,7 +23793,7 @@ module CdekApi
         code:       1021,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -23804,7 +23804,7 @@ module CdekApi
         code:       13345,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -23815,7 +23815,7 @@ module CdekApi
         code:       13288,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -23826,7 +23826,7 @@ module CdekApi
         code:       504,
         address:    'Суворова ул., д.111а, оф.112',
         phone:      '(8412) 68-47-79, 68-57-48, 8-963-109-48-38',
-        wotk_time:  '',
+        work_time:  'пн.-пт. 9-18',
         delivery:   ''
 
       },
@@ -23837,7 +23837,7 @@ module CdekApi
         code:       2395,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -23848,7 +23848,7 @@ module CdekApi
         code:       2859,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -23859,7 +23859,7 @@ module CdekApi
         code:       13290,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -23870,7 +23870,7 @@ module CdekApi
         code:       1769,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -23881,7 +23881,7 @@ module CdekApi
         code:       589,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -23892,7 +23892,7 @@ module CdekApi
         code:       13851,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -23903,7 +23903,7 @@ module CdekApi
         code:       13843,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -23914,7 +23914,7 @@ module CdekApi
         code:       598,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -23925,7 +23925,7 @@ module CdekApi
         code:       564,
         address:    'Карла маркса, д.48, оф.220',
         phone:      '(3424) 20-10-28',
-        wotk_time:  '',
+        work_time:  'пн.-пт. 9-18',
         delivery:   ''
 
       },
@@ -23936,7 +23936,7 @@ module CdekApi
         code:       570,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -23947,7 +23947,7 @@ module CdekApi
         code:       13845,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -23958,7 +23958,7 @@ module CdekApi
         code:       576,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -23969,7 +23969,7 @@ module CdekApi
         code:       13235,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -23980,7 +23980,7 @@ module CdekApi
         code:       13234,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -23991,7 +23991,7 @@ module CdekApi
         code:       573,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -24002,7 +24002,7 @@ module CdekApi
         code:       13853,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -24013,7 +24013,7 @@ module CdekApi
         code:       13232,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -24024,7 +24024,7 @@ module CdekApi
         code:       1132,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -24035,7 +24035,7 @@ module CdekApi
         code:       585,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -24046,7 +24046,7 @@ module CdekApi
         code:       569,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -24057,7 +24057,7 @@ module CdekApi
         code:       567,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -24068,7 +24068,7 @@ module CdekApi
         code:       582,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -24079,7 +24079,7 @@ module CdekApi
         code:       596,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -24090,7 +24090,7 @@ module CdekApi
         code:       2861,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -24101,7 +24101,7 @@ module CdekApi
         code:       13847,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -24112,7 +24112,7 @@ module CdekApi
         code:       591,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -24123,7 +24123,7 @@ module CdekApi
         code:       597,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -24134,7 +24134,7 @@ module CdekApi
         code:       574,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -24145,7 +24145,7 @@ module CdekApi
         code:       2862,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -24156,7 +24156,7 @@ module CdekApi
         code:       1133,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -24167,7 +24167,7 @@ module CdekApi
         code:       1134,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -24178,7 +24178,7 @@ module CdekApi
         code:       565,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -24189,7 +24189,7 @@ module CdekApi
         code:       588,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -24200,7 +24200,7 @@ module CdekApi
         code:       579,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -24211,7 +24211,7 @@ module CdekApi
         code:       581,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -24222,7 +24222,7 @@ module CdekApi
         code:       13838,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -24233,7 +24233,7 @@ module CdekApi
         code:       586,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -24244,7 +24244,7 @@ module CdekApi
         code:       13852,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -24255,7 +24255,7 @@ module CdekApi
         code:       13841,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -24266,7 +24266,7 @@ module CdekApi
         code:       568,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -24277,7 +24277,7 @@ module CdekApi
         code:       2863,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -24288,7 +24288,7 @@ module CdekApi
         code:       13842,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -24299,7 +24299,7 @@ module CdekApi
         code:       2864,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -24310,7 +24310,7 @@ module CdekApi
         code:       13102,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -24321,7 +24321,7 @@ module CdekApi
         code:       13850,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -24332,7 +24332,7 @@ module CdekApi
         code:       587,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -24343,7 +24343,7 @@ module CdekApi
         code:       2865,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -24354,7 +24354,7 @@ module CdekApi
         code:       583,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -24365,7 +24365,7 @@ module CdekApi
         code:       577,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -24376,7 +24376,7 @@ module CdekApi
         code:       595,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -24387,7 +24387,7 @@ module CdekApi
         code:       594,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -24398,7 +24398,7 @@ module CdekApi
         code:       593,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -24409,7 +24409,7 @@ module CdekApi
         code:       13848,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -24420,7 +24420,7 @@ module CdekApi
         code:       13237,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -24431,7 +24431,7 @@ module CdekApi
         code:       248,
         address:    'Пушкина ул, д.116б',
         phone:      '8(342)200-90-28',
-        wotk_time:  '',
+        work_time:  'пн.-пт. 8-20, сб. 10-14',
         delivery:   ''
 
       },
@@ -24442,7 +24442,7 @@ module CdekApi
         code:       13233,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -24453,7 +24453,7 @@ module CdekApi
         code:       13844,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -24464,7 +24464,7 @@ module CdekApi
         code:       13849,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -24475,7 +24475,7 @@ module CdekApi
         code:       1342,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -24486,7 +24486,7 @@ module CdekApi
         code:       14325,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -24497,7 +24497,7 @@ module CdekApi
         code:       13854,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -24508,7 +24508,7 @@ module CdekApi
         code:       592,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -24519,7 +24519,7 @@ module CdekApi
         code:       13837,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -24530,7 +24530,7 @@ module CdekApi
         code:       572,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -24541,7 +24541,7 @@ module CdekApi
         code:       590,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -24552,7 +24552,7 @@ module CdekApi
         code:       66,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -24563,7 +24563,7 @@ module CdekApi
         code:       578,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -24574,7 +24574,7 @@ module CdekApi
         code:       2866,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -24585,7 +24585,7 @@ module CdekApi
         code:       566,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -24596,7 +24596,7 @@ module CdekApi
         code:       13839,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -24607,7 +24607,7 @@ module CdekApi
         code:       2364,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -24618,7 +24618,7 @@ module CdekApi
         code:       13236,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -24629,7 +24629,7 @@ module CdekApi
         code:       13840,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -24640,7 +24640,7 @@ module CdekApi
         code:       13846,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -24651,7 +24651,7 @@ module CdekApi
         code:       563,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -24662,7 +24662,7 @@ module CdekApi
         code:       584,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -24673,7 +24673,7 @@ module CdekApi
         code:       562,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -24684,7 +24684,7 @@ module CdekApi
         code:       580,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -24695,7 +24695,7 @@ module CdekApi
         code:       575,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -24706,7 +24706,7 @@ module CdekApi
         code:       1343,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -24717,7 +24717,7 @@ module CdekApi
         code:       1135,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -24728,7 +24728,7 @@ module CdekApi
         code:       1136,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -24739,7 +24739,7 @@ module CdekApi
         code:       2867,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -24750,7 +24750,7 @@ module CdekApi
         code:       2379,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -24761,7 +24761,7 @@ module CdekApi
         code:       53,
         address:    'Ключевая, д.1/1, оф.1',
         phone:      '+7 (914) 324-89-48, 8 (42337) 3-11-24',
-        wotk_time:  '',
+        work_time:  'пн.-пт. 9-18',
         delivery:   ''
 
       },
@@ -24772,7 +24772,7 @@ module CdekApi
         code:       904,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -24783,7 +24783,7 @@ module CdekApi
         code:       288,
         address:    'Давыдова ул, д.22а',
         phone:      '(4232) 243854, 2653864',
-        wotk_time:  '',
+        work_time:  'пн.-пт. 9-18',
         delivery:   ''
 
       },
@@ -24794,7 +24794,7 @@ module CdekApi
         code:       2380,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -24805,7 +24805,7 @@ module CdekApi
         code:       1853,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -24816,7 +24816,7 @@ module CdekApi
         code:       128,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -24827,7 +24827,7 @@ module CdekApi
         code:       13060,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -24838,7 +24838,7 @@ module CdekApi
         code:       1148,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -24849,7 +24849,7 @@ module CdekApi
         code:       2378,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -24860,7 +24860,7 @@ module CdekApi
         code:       13448,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -24871,7 +24871,7 @@ module CdekApi
         code:       13429,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -24882,7 +24882,7 @@ module CdekApi
         code:       13449,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -24893,7 +24893,7 @@ module CdekApi
         code:       2868,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -24904,7 +24904,7 @@ module CdekApi
         code:       13442,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -24915,7 +24915,7 @@ module CdekApi
         code:       13283,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -24926,7 +24926,7 @@ module CdekApi
         code:       13284,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -24937,7 +24937,7 @@ module CdekApi
         code:       2377,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -24948,7 +24948,7 @@ module CdekApi
         code:       2869,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -24959,7 +24959,7 @@ module CdekApi
         code:       2398,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -24970,7 +24970,7 @@ module CdekApi
         code:       13440,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -24981,7 +24981,7 @@ module CdekApi
         code:       2870,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -24992,7 +24992,7 @@ module CdekApi
         code:       501,
         address:    'Линейная ул., д.2а',
         phone:      '(4236) 697070',
-        wotk_time:  '',
+        work_time:  'пн.-пт.9-18',
         delivery:   ''
 
       },
@@ -25003,7 +25003,7 @@ module CdekApi
         code:       14299,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -25014,7 +25014,7 @@ module CdekApi
         code:       14298,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -25025,7 +25025,7 @@ module CdekApi
         code:       13100,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -25036,7 +25036,7 @@ module CdekApi
         code:       14301,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -25047,7 +25047,7 @@ module CdekApi
         code:       13439,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -25058,7 +25058,7 @@ module CdekApi
         code:       2394,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -25069,7 +25069,7 @@ module CdekApi
         code:       2375,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -25080,7 +25080,7 @@ module CdekApi
         code:       14295,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -25091,7 +25091,7 @@ module CdekApi
         code:       907,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -25102,7 +25102,7 @@ module CdekApi
         code:       13441,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -25113,7 +25113,7 @@ module CdekApi
         code:       14302,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -25124,7 +25124,7 @@ module CdekApi
         code:       14297,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -25135,7 +25135,7 @@ module CdekApi
         code:       2871,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -25146,7 +25146,7 @@ module CdekApi
         code:       2872,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -25157,7 +25157,7 @@ module CdekApi
         code:       14296,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -25168,7 +25168,7 @@ module CdekApi
         code:       2376,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -25179,7 +25179,7 @@ module CdekApi
         code:       13285,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -25190,7 +25190,7 @@ module CdekApi
         code:       13443,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -25201,7 +25201,7 @@ module CdekApi
         code:       13099,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -25212,7 +25212,7 @@ module CdekApi
         code:       13279,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -25223,7 +25223,7 @@ module CdekApi
         code:       955,
         address:    'Калинина, д.43, оф.2 этаж',
         phone:      '(4234) 32-48-08',
-        wotk_time:  '',
+        work_time:  'пн.-пт. 9.00-18.00',
         delivery:   ''
 
       },
@@ -25234,7 +25234,7 @@ module CdekApi
         code:       906,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -25245,7 +25245,7 @@ module CdekApi
         code:       14303,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -25256,7 +25256,7 @@ module CdekApi
         code:       14300,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -25267,7 +25267,7 @@ module CdekApi
         code:       2874,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -25278,7 +25278,7 @@ module CdekApi
         code:       14294,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -25289,7 +25289,7 @@ module CdekApi
         code:       13306,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -25300,7 +25300,7 @@ module CdekApi
         code:       13281,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -25311,7 +25311,7 @@ module CdekApi
         code:       1770,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -25322,7 +25322,7 @@ module CdekApi
         code:       136,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -25333,7 +25333,7 @@ module CdekApi
         code:       1315,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -25344,7 +25344,7 @@ module CdekApi
         code:       2875,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -25355,7 +25355,7 @@ module CdekApi
         code:       2876,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -25366,7 +25366,7 @@ module CdekApi
         code:       2877,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -25377,7 +25377,7 @@ module CdekApi
         code:       3204,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -25388,7 +25388,7 @@ module CdekApi
         code:       2878,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -25399,7 +25399,7 @@ module CdekApi
         code:       2879,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -25410,7 +25410,7 @@ module CdekApi
         code:       2880,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -25421,7 +25421,7 @@ module CdekApi
         code:       2881,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -25432,7 +25432,7 @@ module CdekApi
         code:       2882,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -25443,7 +25443,7 @@ module CdekApi
         code:       2883,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -25454,7 +25454,7 @@ module CdekApi
         code:       1168,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -25465,7 +25465,7 @@ module CdekApi
         code:       2884,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -25476,7 +25476,7 @@ module CdekApi
         code:       2885,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -25487,7 +25487,7 @@ module CdekApi
         code:       2886,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -25498,7 +25498,7 @@ module CdekApi
         code:       2887,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -25509,7 +25509,7 @@ module CdekApi
         code:       393,
         address:    'Ольгинская наб, д.5 а, оф.1-6',
         phone:      '(8112)57-00-05; 8-911-364-44-11',
-        wotk_time:  '',
+        work_time:  'пн.-чт. 9-18, пт. 9-17',
         delivery:   ''
 
       },
@@ -25520,7 +25520,7 @@ module CdekApi
         code:       968,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -25531,7 +25531,7 @@ module CdekApi
         code:       2888,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -25542,7 +25542,7 @@ module CdekApi
         code:       2889,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -25553,7 +25553,7 @@ module CdekApi
         code:       2890,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -25564,7 +25564,7 @@ module CdekApi
         code:       2891,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -25575,7 +25575,7 @@ module CdekApi
         code:       2892,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -25586,7 +25586,7 @@ module CdekApi
         code:       1068,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -25597,7 +25597,7 @@ module CdekApi
         code:       1070,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -25608,7 +25608,7 @@ module CdekApi
         code:       2893,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -25619,7 +25619,7 @@ module CdekApi
         code:       1072,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -25630,7 +25630,7 @@ module CdekApi
         code:       1543,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -25641,7 +25641,7 @@ module CdekApi
         code:       2894,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -25652,7 +25652,7 @@ module CdekApi
         code:       13161,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -25663,7 +25663,7 @@ module CdekApi
         code:       2895,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -25674,7 +25674,7 @@ module CdekApi
         code:       2896,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -25685,7 +25685,7 @@ module CdekApi
         code:       1075,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -25696,7 +25696,7 @@ module CdekApi
         code:       2897,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -25707,7 +25707,7 @@ module CdekApi
         code:       2898,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -25718,7 +25718,7 @@ module CdekApi
         code:       1316,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -25729,7 +25729,7 @@ module CdekApi
         code:       1540,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -25740,7 +25740,7 @@ module CdekApi
         code:       2899,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -25751,7 +25751,7 @@ module CdekApi
         code:       2900,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -25762,7 +25762,7 @@ module CdekApi
         code:       2901,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -25773,7 +25773,7 @@ module CdekApi
         code:       2902,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -25784,7 +25784,7 @@ module CdekApi
         code:       2904,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -25795,7 +25795,7 @@ module CdekApi
         code:       2905,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -25806,7 +25806,7 @@ module CdekApi
         code:       2906,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -25817,7 +25817,7 @@ module CdekApi
         code:       2907,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -25828,7 +25828,7 @@ module CdekApi
         code:       2908,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -25839,7 +25839,7 @@ module CdekApi
         code:       953,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -25850,7 +25850,7 @@ module CdekApi
         code:       1245,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -25861,7 +25861,7 @@ module CdekApi
         code:       2909,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -25872,7 +25872,7 @@ module CdekApi
         code:       2910,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -25883,7 +25883,7 @@ module CdekApi
         code:       1539,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -25894,7 +25894,7 @@ module CdekApi
         code:       2911,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -25905,7 +25905,7 @@ module CdekApi
         code:       2913,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -25916,7 +25916,7 @@ module CdekApi
         code:       2914,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -25927,7 +25927,7 @@ module CdekApi
         code:       1060,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -25938,7 +25938,7 @@ module CdekApi
         code:       2915,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -25949,7 +25949,7 @@ module CdekApi
         code:       2916,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -25960,7 +25960,7 @@ module CdekApi
         code:       1748,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -25971,7 +25971,7 @@ module CdekApi
         code:       1071,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -25982,7 +25982,7 @@ module CdekApi
         code:       206,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -25993,7 +25993,7 @@ module CdekApi
         code:       2917,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -26004,7 +26004,7 @@ module CdekApi
         code:       2918,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -26015,7 +26015,7 @@ module CdekApi
         code:       1738,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -26026,7 +26026,7 @@ module CdekApi
         code:       2919,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -26037,7 +26037,7 @@ module CdekApi
         code:       2920,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -26048,7 +26048,7 @@ module CdekApi
         code:       2921,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -26059,7 +26059,7 @@ module CdekApi
         code:       2922,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -26070,7 +26070,7 @@ module CdekApi
         code:       2923,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -26081,7 +26081,7 @@ module CdekApi
         code:       2924,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -26092,7 +26092,7 @@ module CdekApi
         code:       2925,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -26103,7 +26103,7 @@ module CdekApi
         code:       438,
         address:    'Ленина пр-т., д.221/20',
         phone:      '(863) 209-80-85',
-        wotk_time:  '',
+        work_time:  'пн.-пт.9-18,сб. 10-14',
         delivery:   ''
 
       },
@@ -26114,7 +26114,7 @@ module CdekApi
         code:       2926,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -26125,7 +26125,7 @@ module CdekApi
         code:       2927,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -26136,7 +26136,7 @@ module CdekApi
         code:       2928,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -26147,7 +26147,7 @@ module CdekApi
         code:       13154,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -26158,7 +26158,7 @@ module CdekApi
         code:       2929,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -26169,7 +26169,7 @@ module CdekApi
         code:       1069,
         address:    'Чехова ул., д.96',
         phone:      '(8634) 61-00-15, 365-387',
-        wotk_time:  '',
+        work_time:  'пн.-пт. 9-18, сб. 10-14',
         delivery:   ''
 
       },
@@ -26180,7 +26180,7 @@ module CdekApi
         code:       2930,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -26191,7 +26191,7 @@ module CdekApi
         code:       2931,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -26202,7 +26202,7 @@ module CdekApi
         code:       2932,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -26213,7 +26213,7 @@ module CdekApi
         code:       14264,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -26224,7 +26224,7 @@ module CdekApi
         code:       14324,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -26235,7 +26235,7 @@ module CdekApi
         code:       2933,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -26246,7 +26246,7 @@ module CdekApi
         code:       2934,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -26257,7 +26257,7 @@ module CdekApi
         code:       2935,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -26268,7 +26268,7 @@ module CdekApi
         code:       2936,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -26279,7 +26279,7 @@ module CdekApi
         code:       2349,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -26290,7 +26290,7 @@ module CdekApi
         code:       13993,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -26301,7 +26301,7 @@ module CdekApi
         code:       2943,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -26312,7 +26312,7 @@ module CdekApi
         code:       13994,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -26323,7 +26323,7 @@ module CdekApi
         code:       3233,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -26334,7 +26334,7 @@ module CdekApi
         code:       13990,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -26345,7 +26345,7 @@ module CdekApi
         code:       13995,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -26356,7 +26356,7 @@ module CdekApi
         code:       13998,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -26367,7 +26367,7 @@ module CdekApi
         code:       552,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -26378,7 +26378,7 @@ module CdekApi
         code:       13989,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -26389,7 +26389,7 @@ module CdekApi
         code:       2944,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -26400,7 +26400,7 @@ module CdekApi
         code:       2938,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -26411,7 +26411,7 @@ module CdekApi
         code:       13987,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -26422,7 +26422,7 @@ module CdekApi
         code:       13103,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -26433,7 +26433,7 @@ module CdekApi
         code:       2939,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -26444,7 +26444,7 @@ module CdekApi
         code:       13992,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -26455,7 +26455,7 @@ module CdekApi
         code:       459,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -26466,7 +26466,7 @@ module CdekApi
         code:       2940,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -26477,7 +26477,7 @@ module CdekApi
         code:       13527,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -26488,7 +26488,7 @@ module CdekApi
         code:       13991,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -26499,7 +26499,7 @@ module CdekApi
         code:       2941,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -26510,7 +26510,7 @@ module CdekApi
         code:       2945,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -26521,7 +26521,7 @@ module CdekApi
         code:       159,
         address:    'Затинная, д.31',
         phone:      '(4912) 99-18-02',
-        wotk_time:  '',
+        work_time:  'пн.-пт. 9-18',
         delivery:   ''
 
       },
@@ -26532,7 +26532,7 @@ module CdekApi
         code:       2946,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -26543,7 +26543,7 @@ module CdekApi
         code:       12997,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -26554,7 +26554,7 @@ module CdekApi
         code:       2355,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -26565,7 +26565,7 @@ module CdekApi
         code:       2947,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -26576,7 +26576,7 @@ module CdekApi
         code:       13996,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -26587,7 +26587,7 @@ module CdekApi
         code:       13092,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -26598,7 +26598,7 @@ module CdekApi
         code:       2937,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -26609,7 +26609,7 @@ module CdekApi
         code:       2942,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -26620,7 +26620,7 @@ module CdekApi
         code:       2952,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -26631,7 +26631,7 @@ module CdekApi
         code:       13988,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -26642,7 +26642,7 @@ module CdekApi
         code:       2948,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -26653,7 +26653,7 @@ module CdekApi
         code:       13997,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -26664,7 +26664,7 @@ module CdekApi
         code:       2949,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -26675,7 +26675,7 @@ module CdekApi
         code:       13986,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -26686,7 +26686,7 @@ module CdekApi
         code:       2951,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -26697,7 +26697,7 @@ module CdekApi
         code:       2950,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -26708,7 +26708,7 @@ module CdekApi
         code:       2955,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -26719,7 +26719,7 @@ module CdekApi
         code:       1053,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -26730,7 +26730,7 @@ module CdekApi
         code:       13412,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -26741,7 +26741,7 @@ module CdekApi
         code:       1221,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -26752,7 +26752,7 @@ module CdekApi
         code:       1051,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -26763,7 +26763,7 @@ module CdekApi
         code:       13427,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -26774,7 +26774,7 @@ module CdekApi
         code:       1050,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -26785,7 +26785,7 @@ module CdekApi
         code:       1047,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -26796,7 +26796,7 @@ module CdekApi
         code:       13021,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -26807,7 +26807,7 @@ module CdekApi
         code:       13413,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -26818,7 +26818,7 @@ module CdekApi
         code:       290,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -26829,7 +26829,7 @@ module CdekApi
         code:       13414,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -26840,7 +26840,7 @@ module CdekApi
         code:       13025,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -26851,7 +26851,7 @@ module CdekApi
         code:       13011,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -26862,7 +26862,7 @@ module CdekApi
         code:       1222,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -26873,7 +26873,7 @@ module CdekApi
         code:       1045,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -26884,7 +26884,7 @@ module CdekApi
         code:       13020,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -26895,7 +26895,7 @@ module CdekApi
         code:       1039,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -26906,7 +26906,7 @@ module CdekApi
         code:       1223,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -26917,7 +26917,7 @@ module CdekApi
         code:       1046,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -26928,7 +26928,7 @@ module CdekApi
         code:       1043,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -26939,7 +26939,7 @@ module CdekApi
         code:       1038,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -26950,7 +26950,7 @@ module CdekApi
         code:       13196,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -26961,7 +26961,7 @@ module CdekApi
         code:       1036,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -26972,7 +26972,7 @@ module CdekApi
         code:       1052,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -26983,7 +26983,7 @@ module CdekApi
         code:       1042,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -26994,7 +26994,7 @@ module CdekApi
         code:       13200,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -27005,7 +27005,7 @@ module CdekApi
         code:       3225,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -27016,7 +27016,7 @@ module CdekApi
         code:       13031,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -27027,7 +27027,7 @@ module CdekApi
         code:       13415,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -27038,7 +27038,7 @@ module CdekApi
         code:       1048,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -27049,7 +27049,7 @@ module CdekApi
         code:       13024,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -27060,7 +27060,7 @@ module CdekApi
         code:       13418,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -27071,7 +27071,7 @@ module CdekApi
         code:       1031,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -27082,7 +27082,7 @@ module CdekApi
         code:       13392,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -27093,7 +27093,7 @@ module CdekApi
         code:       1273,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -27104,7 +27104,7 @@ module CdekApi
         code:       1034,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -27115,7 +27115,7 @@ module CdekApi
         code:       1044,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -27126,7 +27126,7 @@ module CdekApi
         code:       1224,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -27137,7 +27137,7 @@ module CdekApi
         code:       13419,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -27148,7 +27148,7 @@ module CdekApi
         code:       13028,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -27159,7 +27159,7 @@ module CdekApi
         code:       1041,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -27170,7 +27170,7 @@ module CdekApi
         code:       1035,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -27181,7 +27181,7 @@ module CdekApi
         code:       13416,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -27192,7 +27192,7 @@ module CdekApi
         code:       13030,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -27203,7 +27203,7 @@ module CdekApi
         code:       947,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -27214,7 +27214,7 @@ module CdekApi
         code:       13022,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -27225,7 +27225,7 @@ module CdekApi
         code:       13399,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -27236,7 +27236,7 @@ module CdekApi
         code:       430,
         address:    'Чкалова ул, д.100/п, оф.17, 19',
         phone:      '(846) 222-90-12, 221-85-85',
-        wotk_time:  '',
+        work_time:  'пн. -пт - 9-18, сб. 10-14',
         delivery:   ''
 
       },
@@ -27247,7 +27247,7 @@ module CdekApi
         code:       2386,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -27258,7 +27258,7 @@ module CdekApi
         code:       13201,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -27269,7 +27269,7 @@ module CdekApi
         code:       13199,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -27280,7 +27280,7 @@ module CdekApi
         code:       13417,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -27291,7 +27291,7 @@ module CdekApi
         code:       1875,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -27302,7 +27302,7 @@ module CdekApi
         code:       13033,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -27313,7 +27313,7 @@ module CdekApi
         code:       1033,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -27324,7 +27324,7 @@ module CdekApi
         code:       13027,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -27335,7 +27335,7 @@ module CdekApi
         code:       2953,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -27346,7 +27346,7 @@ module CdekApi
         code:       13032,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -27357,7 +27357,7 @@ module CdekApi
         code:       431,
         address:    'Тополиная ул., д.18а',
         phone:      '(8482) 63-32-63, 53- 79-43',
-        wotk_time:  '',
+        work_time:  'пн.-пт. 9-18, сб. 10-14',
         delivery:   ''
 
       },
@@ -27368,7 +27368,7 @@ module CdekApi
         code:       13023,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -27379,7 +27379,7 @@ module CdekApi
         code:       13195,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -27390,7 +27390,7 @@ module CdekApi
         code:       2954,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -27401,7 +27401,7 @@ module CdekApi
         code:       13019,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -27412,7 +27412,7 @@ module CdekApi
         code:       2388,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -27423,7 +27423,7 @@ module CdekApi
         code:       13026,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -27434,7 +27434,7 @@ module CdekApi
         code:       13391,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -27445,7 +27445,7 @@ module CdekApi
         code:       2384,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -27456,7 +27456,7 @@ module CdekApi
         code:       2385,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -27467,7 +27467,7 @@ module CdekApi
         code:       2387,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -27478,7 +27478,7 @@ module CdekApi
         code:       13422,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -27489,7 +27489,7 @@ module CdekApi
         code:       13018,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -27500,7 +27500,7 @@ module CdekApi
         code:       13029,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -27511,7 +27511,7 @@ module CdekApi
         code:       13096,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -27522,7 +27522,7 @@ module CdekApi
         code:       2733,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -27533,7 +27533,7 @@ module CdekApi
         code:       13403,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -27544,7 +27544,7 @@ module CdekApi
         code:       2724,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -27555,7 +27555,7 @@ module CdekApi
         code:       2685,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -27566,7 +27566,7 @@ module CdekApi
         code:       1289,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -27577,7 +27577,7 @@ module CdekApi
         code:       2723,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -27588,7 +27588,7 @@ module CdekApi
         code:       1288,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -27599,7 +27599,7 @@ module CdekApi
         code:       1287,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -27610,7 +27610,7 @@ module CdekApi
         code:       2725,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -27621,7 +27621,7 @@ module CdekApi
         code:       1633,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -27632,7 +27632,7 @@ module CdekApi
         code:       983,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -27643,7 +27643,7 @@ module CdekApi
         code:       1285,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -27654,7 +27654,7 @@ module CdekApi
         code:       2729,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -27665,7 +27665,7 @@ module CdekApi
         code:       1388,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -27676,7 +27676,7 @@ module CdekApi
         code:       1213,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -27687,7 +27687,7 @@ module CdekApi
         code:       1211,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -27698,7 +27698,7 @@ module CdekApi
         code:       2708,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -27709,7 +27709,7 @@ module CdekApi
         code:       1210,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -27720,7 +27720,7 @@ module CdekApi
         code:       1584,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -27731,7 +27731,7 @@ module CdekApi
         code:       394,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -27742,7 +27742,7 @@ module CdekApi
         code:       396,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -27753,7 +27753,7 @@ module CdekApi
         code:       137,
         address:    'Лиговский проспект, д.50, корп.13',
         phone:      '',
-        wotk_time:  '',
+        work_time:  'пн.-пт. 8.30-20.00, сб. 10-16',
         delivery:   ''
 
       },
@@ -27764,7 +27764,7 @@ module CdekApi
         code:       1586,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -27775,7 +27775,7 @@ module CdekApi
         code:       2730,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -27786,7 +27786,7 @@ module CdekApi
         code:       1208,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -27797,7 +27797,7 @@ module CdekApi
         code:       2731,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -27808,7 +27808,7 @@ module CdekApi
         code:       2732,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -27819,7 +27819,7 @@ module CdekApi
         code:       1207,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -27830,7 +27830,7 @@ module CdekApi
         code:       2726,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -27841,7 +27841,7 @@ module CdekApi
         code:       2727,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -27852,7 +27852,7 @@ module CdekApi
         code:       2728,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -27863,7 +27863,7 @@ module CdekApi
         code:       1206,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -27874,7 +27874,7 @@ module CdekApi
         code:       13609,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -27885,7 +27885,7 @@ module CdekApi
         code:       2956,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -27896,7 +27896,7 @@ module CdekApi
         code:       2957,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -27907,7 +27907,7 @@ module CdekApi
         code:       13006,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -27918,7 +27918,7 @@ module CdekApi
         code:       1089,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -27929,7 +27929,7 @@ module CdekApi
         code:       1629,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -27940,7 +27940,7 @@ module CdekApi
         code:       13959,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -27951,7 +27951,7 @@ module CdekApi
         code:       2958,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -27962,7 +27962,7 @@ module CdekApi
         code:       2959,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -27973,7 +27973,7 @@ module CdekApi
         code:       2960,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -27984,7 +27984,7 @@ module CdekApi
         code:       2961,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -27995,7 +27995,7 @@ module CdekApi
         code:       2962,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -28006,7 +28006,7 @@ module CdekApi
         code:       2963,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -28017,7 +28017,7 @@ module CdekApi
         code:       13610,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -28028,7 +28028,7 @@ module CdekApi
         code:       2964,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -28039,7 +28039,7 @@ module CdekApi
         code:       2965,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -28050,7 +28050,7 @@ module CdekApi
         code:       222,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -28061,7 +28061,7 @@ module CdekApi
         code:       2966,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -28072,7 +28072,7 @@ module CdekApi
         code:       1028,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -28083,7 +28083,7 @@ module CdekApi
         code:       2967,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -28094,7 +28094,7 @@ module CdekApi
         code:       2968,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -28105,7 +28105,7 @@ module CdekApi
         code:       2969,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -28116,7 +28116,7 @@ module CdekApi
         code:       2970,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -28127,7 +28127,7 @@ module CdekApi
         code:       2971,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -28138,7 +28138,7 @@ module CdekApi
         code:       1851,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -28149,7 +28149,7 @@ module CdekApi
         code:       2972,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -28160,7 +28160,7 @@ module CdekApi
         code:       13005,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -28171,7 +28171,7 @@ module CdekApi
         code:       2973,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -28182,7 +28182,7 @@ module CdekApi
         code:       2974,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -28193,7 +28193,7 @@ module CdekApi
         code:       13061,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -28204,7 +28204,7 @@ module CdekApi
         code:       2975,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -28215,7 +28215,7 @@ module CdekApi
         code:       2976,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -28226,7 +28226,7 @@ module CdekApi
         code:       2977,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -28237,7 +28237,7 @@ module CdekApi
         code:       2978,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -28248,7 +28248,7 @@ module CdekApi
         code:       2979,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -28259,7 +28259,7 @@ module CdekApi
         code:       2980,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -28270,7 +28270,7 @@ module CdekApi
         code:       428,
         address:    '50 лет октября пр-т., д.110а, кор.8, оф.307',
         phone:      '(8452) 475-475',
-        wotk_time:  '',
+        work_time:  'пн.-пт. 9-18',
         delivery:   ''
 
       },
@@ -28281,7 +28281,7 @@ module CdekApi
         code:       13611,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -28292,7 +28292,7 @@ module CdekApi
         code:       2981,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -28303,7 +28303,7 @@ module CdekApi
         code:       2982,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -28314,7 +28314,7 @@ module CdekApi
         code:       2983,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -28325,7 +28325,7 @@ module CdekApi
         code:       13612,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -28336,7 +28336,7 @@ module CdekApi
         code:       2984,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -28347,7 +28347,7 @@ module CdekApi
         code:       2985,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -28358,7 +28358,7 @@ module CdekApi
         code:       2986,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -28369,7 +28369,7 @@ module CdekApi
         code:       2987,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -28380,7 +28380,7 @@ module CdekApi
         code:       2988,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -28391,7 +28391,7 @@ module CdekApi
         code:       214,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -28402,7 +28402,7 @@ module CdekApi
         code:       2989,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -28413,7 +28413,7 @@ module CdekApi
         code:       502,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -28424,7 +28424,7 @@ module CdekApi
         code:       1420,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -28435,7 +28435,7 @@ module CdekApi
         code:       13962,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -28446,7 +28446,7 @@ module CdekApi
         code:       13963,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -28457,7 +28457,7 @@ module CdekApi
         code:       1418,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -28468,7 +28468,7 @@ module CdekApi
         code:       13964,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -28479,7 +28479,7 @@ module CdekApi
         code:       1427,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -28490,7 +28490,7 @@ module CdekApi
         code:       13965,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -28501,7 +28501,7 @@ module CdekApi
         code:       19,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -28512,7 +28512,7 @@ module CdekApi
         code:       13984,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -28523,7 +28523,7 @@ module CdekApi
         code:       1428,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -28534,7 +28534,7 @@ module CdekApi
         code:       13966,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -28545,7 +28545,7 @@ module CdekApi
         code:       1465,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -28556,7 +28556,7 @@ module CdekApi
         code:       1415,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -28567,7 +28567,7 @@ module CdekApi
         code:       13967,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -28578,7 +28578,7 @@ module CdekApi
         code:       13968,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -28589,7 +28589,7 @@ module CdekApi
         code:       1416,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -28600,7 +28600,7 @@ module CdekApi
         code:       1422,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -28611,7 +28611,7 @@ module CdekApi
         code:       2995,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -28622,7 +28622,7 @@ module CdekApi
         code:       1462,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -28633,7 +28633,7 @@ module CdekApi
         code:       2994,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -28644,7 +28644,7 @@ module CdekApi
         code:       891,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -28655,7 +28655,7 @@ module CdekApi
         code:       13969,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -28666,7 +28666,7 @@ module CdekApi
         code:       1423,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -28677,7 +28677,7 @@ module CdekApi
         code:       892,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -28688,7 +28688,7 @@ module CdekApi
         code:       1463,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -28699,7 +28699,7 @@ module CdekApi
         code:       13970,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -28710,7 +28710,7 @@ module CdekApi
         code:       1429,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -28721,7 +28721,7 @@ module CdekApi
         code:       1425,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -28732,7 +28732,7 @@ module CdekApi
         code:       13971,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -28743,7 +28743,7 @@ module CdekApi
         code:       13003,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -28754,7 +28754,7 @@ module CdekApi
         code:       1488,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -28765,7 +28765,7 @@ module CdekApi
         code:       1421,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -28776,7 +28776,7 @@ module CdekApi
         code:       2990,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -28787,7 +28787,7 @@ module CdekApi
         code:       2991,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -28798,7 +28798,7 @@ module CdekApi
         code:       13972,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -28809,7 +28809,7 @@ module CdekApi
         code:       1426,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -28820,7 +28820,7 @@ module CdekApi
         code:       893,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -28831,7 +28831,7 @@ module CdekApi
         code:       1417,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -28842,7 +28842,7 @@ module CdekApi
         code:       13973,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -28853,7 +28853,7 @@ module CdekApi
         code:       1298,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -28864,7 +28864,7 @@ module CdekApi
         code:       13974,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -28875,7 +28875,7 @@ module CdekApi
         code:       13975,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -28886,7 +28886,7 @@ module CdekApi
         code:       13474,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -28897,7 +28897,7 @@ module CdekApi
         code:       13976,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -28908,7 +28908,7 @@ module CdekApi
         code:       13977,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -28919,7 +28919,7 @@ module CdekApi
         code:       2992,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -28930,7 +28930,7 @@ module CdekApi
         code:       1424,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -28941,7 +28941,7 @@ module CdekApi
         code:       1464,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -28952,7 +28952,7 @@ module CdekApi
         code:       2993,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -28963,7 +28963,7 @@ module CdekApi
         code:       13473,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -28974,7 +28974,7 @@ module CdekApi
         code:       1419,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -28985,7 +28985,7 @@ module CdekApi
         code:       283,
         address:    'Бестужева-марлинского, д.5/1, оф.вход со стороны крытого рынка',
         phone:      '8-924-765-00-63',
-        wotk_time:  '',
+        work_time:  'пн.-пт. 9-18',
         delivery:   ''
 
       },
@@ -28996,7 +28996,7 @@ module CdekApi
         code:       13960,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -29007,7 +29007,7 @@ module CdekApi
         code:       13436,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -29018,7 +29018,7 @@ module CdekApi
         code:       13563,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -29029,7 +29029,7 @@ module CdekApi
         code:       56,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -29040,7 +29040,7 @@ module CdekApi
         code:       3216,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -29051,7 +29051,7 @@ module CdekApi
         code:       2997,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -29062,7 +29062,7 @@ module CdekApi
         code:       2399,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -29073,7 +29073,7 @@ module CdekApi
         code:       2996,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -29084,7 +29084,7 @@ module CdekApi
         code:       68,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -29095,7 +29095,7 @@ module CdekApi
         code:       13425,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -29106,7 +29106,7 @@ module CdekApi
         code:       13007,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -29117,7 +29117,7 @@ module CdekApi
         code:       473,
         address:    'Мира пр-кт, д.95, оф.25',
         phone:      '(4242)43-44-44, 8-913-756-22-34 ',
-        wotk_time:  '',
+        work_time:  'пн.-пт. 9-18, сб. 10-14',
         delivery:   ''
 
       },
@@ -29128,7 +29128,7 @@ module CdekApi
         code:       1337,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -29139,7 +29139,7 @@ module CdekApi
         code:       602,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -29150,7 +29150,7 @@ module CdekApi
         code:       1191,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -29161,7 +29161,7 @@ module CdekApi
         code:       1864,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -29172,7 +29172,7 @@ module CdekApi
         code:       608,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -29183,7 +29183,7 @@ module CdekApi
         code:       1645,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -29194,7 +29194,7 @@ module CdekApi
         code:       1643,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -29205,7 +29205,7 @@ module CdekApi
         code:       610,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -29216,7 +29216,7 @@ module CdekApi
         code:       1435,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -29227,7 +29227,7 @@ module CdekApi
         code:       1373,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -29238,7 +29238,7 @@ module CdekApi
         code:       13241,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -29249,7 +29249,7 @@ module CdekApi
         code:       1541,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -29260,7 +29260,7 @@ module CdekApi
         code:       3215,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -29271,7 +29271,7 @@ module CdekApi
         code:       13008,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -29282,7 +29282,7 @@ module CdekApi
         code:       13303,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -29293,7 +29293,7 @@ module CdekApi
         code:       607,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -29304,7 +29304,7 @@ module CdekApi
         code:       609,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -29315,7 +29315,7 @@ module CdekApi
         code:       605,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -29326,7 +29326,7 @@ module CdekApi
         code:       13101,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -29337,7 +29337,7 @@ module CdekApi
         code:       1648,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -29348,7 +29348,7 @@ module CdekApi
         code:       1650,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -29359,7 +29359,7 @@ module CdekApi
         code:       1653,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -29370,7 +29370,7 @@ module CdekApi
         code:       1647,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -29381,7 +29381,7 @@ module CdekApi
         code:       13378,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -29392,7 +29392,7 @@ module CdekApi
         code:       2998,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -29403,7 +29403,7 @@ module CdekApi
         code:       13379,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -29414,7 +29414,7 @@ module CdekApi
         code:       250,
         address:    'Малышева ул, д.145',
         phone:      '(343) 278-75-28',
-        wotk_time:  '',
+        work_time:  'пн.-пт. 8.30-19.00, сб. 10-14 ',
         delivery:   ''
 
       },
@@ -29425,7 +29425,7 @@ module CdekApi
         code:       1874,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -29436,7 +29436,7 @@ module CdekApi
         code:       13145,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -29447,7 +29447,7 @@ module CdekApi
         code:       614,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -29458,7 +29458,7 @@ module CdekApi
         code:       1640,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -29469,7 +29469,7 @@ module CdekApi
         code:       1267,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -29480,7 +29480,7 @@ module CdekApi
         code:       615,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -29491,7 +29491,7 @@ module CdekApi
         code:       613,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -29502,7 +29502,7 @@ module CdekApi
         code:       1293,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -29513,7 +29513,7 @@ module CdekApi
         code:       603,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -29524,7 +29524,7 @@ module CdekApi
         code:       305,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -29535,7 +29535,7 @@ module CdekApi
         code:       13310,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -29546,7 +29546,7 @@ module CdekApi
         code:       600,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -29557,7 +29557,7 @@ module CdekApi
         code:       1651,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -29568,7 +29568,7 @@ module CdekApi
         code:       113,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -29579,7 +29579,7 @@ module CdekApi
         code:       604,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -29590,7 +29590,7 @@ module CdekApi
         code:       1403,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -29601,7 +29601,7 @@ module CdekApi
         code:       13325,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -29612,7 +29612,7 @@ module CdekApi
         code:       13383,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -29623,7 +29623,7 @@ module CdekApi
         code:       13377,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -29634,7 +29634,7 @@ module CdekApi
         code:       1335,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -29645,7 +29645,7 @@ module CdekApi
         code:       1644,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -29656,7 +29656,7 @@ module CdekApi
         code:       251,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -29667,7 +29667,7 @@ module CdekApi
         code:       72,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -29678,7 +29678,7 @@ module CdekApi
         code:       1339,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -29689,7 +29689,7 @@ module CdekApi
         code:       1649,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -29700,7 +29700,7 @@ module CdekApi
         code:       611,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -29711,7 +29711,7 @@ module CdekApi
         code:       616,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -29722,7 +29722,7 @@ module CdekApi
         code:       3203,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -29733,7 +29733,7 @@ module CdekApi
         code:       606,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -29744,7 +29744,7 @@ module CdekApi
         code:       3230,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -29755,7 +29755,7 @@ module CdekApi
         code:       306,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -29766,7 +29766,7 @@ module CdekApi
         code:       1642,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -29777,7 +29777,7 @@ module CdekApi
         code:       1436,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -29788,7 +29788,7 @@ module CdekApi
         code:       13240,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -29799,7 +29799,7 @@ module CdekApi
         code:       12999,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -29810,7 +29810,7 @@ module CdekApi
         code:       599,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -29821,7 +29821,7 @@ module CdekApi
         code:       601,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -29832,7 +29832,7 @@ module CdekApi
         code:       2397,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -29843,7 +29843,7 @@ module CdekApi
         code:       2006,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -29854,7 +29854,7 @@ module CdekApi
         code:       1641,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -29865,7 +29865,7 @@ module CdekApi
         code:       1414,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -29876,7 +29876,7 @@ module CdekApi
         code:       1632,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -29887,7 +29887,7 @@ module CdekApi
         code:       612,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -29898,7 +29898,7 @@ module CdekApi
         code:       13380,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -29909,7 +29909,7 @@ module CdekApi
         code:       1865,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -29920,7 +29920,7 @@ module CdekApi
         code:       1652,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -29931,7 +29931,7 @@ module CdekApi
         code:       2999,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -29942,7 +29942,7 @@ module CdekApi
         code:       3217,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -29953,7 +29953,7 @@ module CdekApi
         code:       1646,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -29964,7 +29964,7 @@ module CdekApi
         code:       13309,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -29975,7 +29975,7 @@ module CdekApi
         code:       13146,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -29986,7 +29986,7 @@ module CdekApi
         code:       2010,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -29997,7 +29997,7 @@ module CdekApi
         code:       2011,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -30008,7 +30008,7 @@ module CdekApi
         code:       14345,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -30019,7 +30019,7 @@ module CdekApi
         code:       2018,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -30030,7 +30030,7 @@ module CdekApi
         code:       2013,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -30041,7 +30041,7 @@ module CdekApi
         code:       1082,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -30052,7 +30052,7 @@ module CdekApi
         code:       2021,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -30063,7 +30063,7 @@ module CdekApi
         code:       2022,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -30074,7 +30074,7 @@ module CdekApi
         code:       2012,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -30085,7 +30085,7 @@ module CdekApi
         code:       14347,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -30096,7 +30096,7 @@ module CdekApi
         code:       14346,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -30107,7 +30107,7 @@ module CdekApi
         code:       14344,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -30118,7 +30118,7 @@ module CdekApi
         code:       14349,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -30129,7 +30129,7 @@ module CdekApi
         code:       14350,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -30140,7 +30140,7 @@ module CdekApi
         code:       14342,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -30151,7 +30151,7 @@ module CdekApi
         code:       2014,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -30162,7 +30162,7 @@ module CdekApi
         code:       14340,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -30173,7 +30173,7 @@ module CdekApi
         code:       2015,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -30184,7 +30184,7 @@ module CdekApi
         code:       14348,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -30195,7 +30195,7 @@ module CdekApi
         code:       14341,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -30206,7 +30206,7 @@ module CdekApi
         code:       14343,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -30217,7 +30217,7 @@ module CdekApi
         code:       2020,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -30228,7 +30228,7 @@ module CdekApi
         code:       2019,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -30239,7 +30239,7 @@ module CdekApi
         code:       3003,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -30250,7 +30250,7 @@ module CdekApi
         code:       397,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -30261,7 +30261,7 @@ module CdekApi
         code:       398,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -30272,7 +30272,7 @@ module CdekApi
         code:       3004,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -30283,7 +30283,7 @@ module CdekApi
         code:       3001,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -30294,7 +30294,7 @@ module CdekApi
         code:       3005,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -30305,7 +30305,7 @@ module CdekApi
         code:       1190,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -30316,7 +30316,7 @@ module CdekApi
         code:       13091,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -30327,7 +30327,7 @@ module CdekApi
         code:       3002,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -30338,7 +30338,7 @@ module CdekApi
         code:       3000,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -30349,7 +30349,7 @@ module CdekApi
         code:       2353,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -30360,7 +30360,7 @@ module CdekApi
         code:       395,
         address:    'Тенишевой, д.22, оф.25/2',
         phone:      '(4812) 40-40-22',
-        wotk_time:  '',
+        work_time:  'пн.-пт. 9-18, сб. 11-16',
         delivery:   ''
 
       },
@@ -30371,7 +30371,7 @@ module CdekApi
         code:       3006,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -30382,7 +30382,7 @@ module CdekApi
         code:       2354,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -30393,7 +30393,7 @@ module CdekApi
         code:       1468,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -30404,7 +30404,7 @@ module CdekApi
         code:       3008,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -30415,7 +30415,7 @@ module CdekApi
         code:       1469,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -30426,7 +30426,7 @@ module CdekApi
         code:       1470,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -30437,7 +30437,7 @@ module CdekApi
         code:       1080,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -30448,7 +30448,7 @@ module CdekApi
         code:       3009,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -30459,7 +30459,7 @@ module CdekApi
         code:       1077,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -30470,7 +30470,7 @@ module CdekApi
         code:       1088,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -30481,7 +30481,7 @@ module CdekApi
         code:       3010,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -30492,7 +30492,7 @@ module CdekApi
         code:       13574,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -30503,7 +30503,7 @@ module CdekApi
         code:       1471,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -30514,7 +30514,7 @@ module CdekApi
         code:       3011,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -30525,7 +30525,7 @@ module CdekApi
         code:       1472,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -30536,7 +30536,7 @@ module CdekApi
         code:       1473,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -30547,7 +30547,7 @@ module CdekApi
         code:       1235,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -30558,7 +30558,7 @@ module CdekApi
         code:       3012,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -30569,7 +30569,7 @@ module CdekApi
         code:       1280,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -30580,7 +30580,7 @@ module CdekApi
         code:       1474,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -30591,7 +30591,7 @@ module CdekApi
         code:       3013,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -30602,7 +30602,7 @@ module CdekApi
         code:       3014,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -30613,7 +30613,7 @@ module CdekApi
         code:       54,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -30624,7 +30624,7 @@ module CdekApi
         code:       3015,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -30635,7 +30635,7 @@ module CdekApi
         code:       1475,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -30646,7 +30646,7 @@ module CdekApi
         code:       3016,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -30657,7 +30657,7 @@ module CdekApi
         code:       62,
         address:    'Есенина ул., д.16',
         phone:      '8(7937)5-49-02; 8-928-360-48-82; 8-928-37302-93',
-        wotk_time:  '',
+        work_time:  'пн-пт 9-18',
         delivery:   ''
 
       },
@@ -30668,7 +30668,7 @@ module CdekApi
         code:       13576,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -30679,7 +30679,7 @@ module CdekApi
         code:       1476,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -30690,7 +30690,7 @@ module CdekApi
         code:       1477,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -30701,7 +30701,7 @@ module CdekApi
         code:       13570,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -30712,7 +30712,7 @@ module CdekApi
         code:       1478,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -30723,7 +30723,7 @@ module CdekApi
         code:       1479,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -30734,7 +30734,7 @@ module CdekApi
         code:       1480,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -30745,7 +30745,7 @@ module CdekApi
         code:       1076,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -30756,7 +30756,7 @@ module CdekApi
         code:       1481,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -30767,7 +30767,7 @@ module CdekApi
         code:       199,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -30778,7 +30778,7 @@ module CdekApi
         code:       1078,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -30789,7 +30789,7 @@ module CdekApi
         code:       13575,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -30800,7 +30800,7 @@ module CdekApi
         code:       1079,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -30811,7 +30811,7 @@ module CdekApi
         code:       3017,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -30822,7 +30822,7 @@ module CdekApi
         code:       3018,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -30833,7 +30833,7 @@ module CdekApi
         code:       127,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -30844,7 +30844,7 @@ module CdekApi
         code:       3019,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -30855,7 +30855,7 @@ module CdekApi
         code:       1482,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -30866,7 +30866,7 @@ module CdekApi
         code:       13582,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -30877,7 +30877,7 @@ module CdekApi
         code:       3020,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -30888,7 +30888,7 @@ module CdekApi
         code:       1483,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -30899,7 +30899,7 @@ module CdekApi
         code:       1274,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -30910,7 +30910,7 @@ module CdekApi
         code:       3021,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -30921,7 +30921,7 @@ module CdekApi
         code:       3022,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -30932,7 +30932,7 @@ module CdekApi
         code:       3023,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -30943,7 +30943,7 @@ module CdekApi
         code:       3024,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -30954,7 +30954,7 @@ module CdekApi
         code:       151,
         address:    'Московская ул., д.68а',
         phone:      '+7(8793) 320-921,407-009,  8(905)416-54-64',
-        wotk_time:  '',
+        work_time:  'пн.-пт. 9-18',
         delivery:   ''
 
       },
@@ -30965,7 +30965,7 @@ module CdekApi
         code:       13583,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -30976,7 +30976,7 @@ module CdekApi
         code:       3025,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -30987,7 +30987,7 @@ module CdekApi
         code:       1484,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -30998,7 +30998,7 @@ module CdekApi
         code:       1485,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -31009,7 +31009,7 @@ module CdekApi
         code:       1486,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -31020,7 +31020,7 @@ module CdekApi
         code:       439,
         address:    'Доваторцев ул., д.30б',
         phone:      '(8652) 22-15-21, 8-962-402-59-50',
-        wotk_time:  '',
+        work_time:  'пн.-пт. 9-18',
         delivery:   ''
 
       },
@@ -31031,7 +31031,7 @@ module CdekApi
         code:       3026,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -31042,7 +31042,7 @@ module CdekApi
         code:       13501,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -31053,7 +31053,7 @@ module CdekApi
         code:       1879,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -31064,7 +31064,7 @@ module CdekApi
         code:       3027,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -31075,7 +31075,7 @@ module CdekApi
         code:       13584,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -31086,7 +31086,7 @@ module CdekApi
         code:       13585,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -31097,7 +31097,7 @@ module CdekApi
         code:       13586,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -31108,7 +31108,7 @@ module CdekApi
         code:       3028,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -31119,7 +31119,7 @@ module CdekApi
         code:       14310,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -31130,7 +31130,7 @@ module CdekApi
         code:       3030,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -31141,7 +31141,7 @@ module CdekApi
         code:       13980,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -31152,7 +31152,7 @@ module CdekApi
         code:       3031,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -31163,7 +31163,7 @@ module CdekApi
         code:       3032,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -31174,7 +31174,7 @@ module CdekApi
         code:       3033,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -31185,7 +31185,7 @@ module CdekApi
         code:       377,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -31196,7 +31196,7 @@ module CdekApi
         code:       380,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -31207,7 +31207,7 @@ module CdekApi
         code:       14312,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -31218,7 +31218,7 @@ module CdekApi
         code:       3034,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -31229,7 +31229,7 @@ module CdekApi
         code:       14313,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -31240,7 +31240,7 @@ module CdekApi
         code:       14306,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -31251,7 +31251,7 @@ module CdekApi
         code:       3036,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -31262,7 +31262,7 @@ module CdekApi
         code:       14318,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -31273,7 +31273,7 @@ module CdekApi
         code:       14319,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -31284,7 +31284,7 @@ module CdekApi
         code:       371,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -31295,7 +31295,7 @@ module CdekApi
         code:       3035,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -31306,7 +31306,7 @@ module CdekApi
         code:       14309,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -31317,7 +31317,7 @@ module CdekApi
         code:       14315,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -31328,7 +31328,7 @@ module CdekApi
         code:       14308,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -31339,7 +31339,7 @@ module CdekApi
         code:       3029,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -31350,7 +31350,7 @@ module CdekApi
         code:       298,
         address:    'Чичканова ул., д.75, оф.4',
         phone:      '(4752) 475754, 8-953-712-13-14',
-        wotk_time:  '',
+        work_time:  'пн-пт 9-18',
         delivery:   ''
 
       },
@@ -31361,7 +31361,7 @@ module CdekApi
         code:       14311,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -31372,7 +31372,7 @@ module CdekApi
         code:       3037,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -31383,7 +31383,7 @@ module CdekApi
         code:       14314,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -31394,7 +31394,7 @@ module CdekApi
         code:       1497,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -31405,7 +31405,7 @@ module CdekApi
         code:       1498,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -31416,7 +31416,7 @@ module CdekApi
         code:       1499,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -31427,7 +31427,7 @@ module CdekApi
         code:       1500,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -31438,7 +31438,7 @@ module CdekApi
         code:       1501,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -31449,7 +31449,7 @@ module CdekApi
         code:       3038,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -31460,7 +31460,7 @@ module CdekApi
         code:       1533,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -31471,7 +31471,7 @@ module CdekApi
         code:       1054,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -31482,7 +31482,7 @@ module CdekApi
         code:       1503,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -31493,7 +31493,7 @@ module CdekApi
         code:       1504,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -31504,7 +31504,7 @@ module CdekApi
         code:       1534,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -31515,7 +31515,7 @@ module CdekApi
         code:       1506,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -31526,7 +31526,7 @@ module CdekApi
         code:       1502,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -31537,7 +31537,7 @@ module CdekApi
         code:       1507,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -31548,7 +31548,7 @@ module CdekApi
         code:       1525,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -31559,7 +31559,7 @@ module CdekApi
         code:       1527,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -31570,7 +31570,7 @@ module CdekApi
         code:       1505,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -31581,7 +31581,7 @@ module CdekApi
         code:       1514,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -31592,7 +31592,7 @@ module CdekApi
         code:       1055,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -31603,7 +31603,7 @@ module CdekApi
         code:       1508,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -31614,7 +31614,7 @@ module CdekApi
         code:       3043,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -31625,7 +31625,7 @@ module CdekApi
         code:       3044,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -31636,7 +31636,7 @@ module CdekApi
         code:       1509,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -31647,7 +31647,7 @@ module CdekApi
         code:       1018,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -31658,7 +31658,7 @@ module CdekApi
         code:       13313,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -31669,7 +31669,7 @@ module CdekApi
         code:       1510,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -31680,7 +31680,7 @@ module CdekApi
         code:       3220,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -31691,7 +31691,7 @@ module CdekApi
         code:       1056,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -31702,7 +31702,7 @@ module CdekApi
         code:       1512,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -31713,7 +31713,7 @@ module CdekApi
         code:       1513,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -31724,7 +31724,7 @@ module CdekApi
         code:       13191,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -31735,7 +31735,7 @@ module CdekApi
         code:       424,
         address:    'Сибирский тракт ул., д.34, корп. 4, оф.343, 344',
         phone:      '8(843) 567-12-34, (843) 567-12-35',
-        wotk_time:  '',
+        work_time:  'пн.-пт. 9-18, сб. 10-14',
         delivery:   ''
 
       },
@@ -31746,7 +31746,7 @@ module CdekApi
         code:       1535,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -31757,7 +31757,7 @@ module CdekApi
         code:       3221,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -31768,7 +31768,7 @@ module CdekApi
         code:       1515,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -31779,7 +31779,7 @@ module CdekApi
         code:       13445,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -31790,7 +31790,7 @@ module CdekApi
         code:       1516,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -31801,7 +31801,7 @@ module CdekApi
         code:       1517,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -31812,7 +31812,7 @@ module CdekApi
         code:       213,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -31823,7 +31823,7 @@ module CdekApi
         code:       13089,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -31834,7 +31834,7 @@ module CdekApi
         code:       13194,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -31845,7 +31845,7 @@ module CdekApi
         code:       13055,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -31856,7 +31856,7 @@ module CdekApi
         code:       1518,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -31867,7 +31867,7 @@ module CdekApi
         code:       1519,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -31878,7 +31878,7 @@ module CdekApi
         code:       1520,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -31889,7 +31889,7 @@ module CdekApi
         code:       13312,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -31900,7 +31900,7 @@ module CdekApi
         code:       1521,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -31911,7 +31911,7 @@ module CdekApi
         code:       433,
         address:    'Ахметшина, д.108',
         phone:      '(8552) 91-90-60',
-        wotk_time:  '',
+        work_time:  'пн.-пт. 9-19, сб. 10-14',
         delivery:   ''
 
       },
@@ -31922,7 +31922,7 @@ module CdekApi
         code:       153,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -31933,7 +31933,7 @@ module CdekApi
         code:       1407,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -31944,7 +31944,7 @@ module CdekApi
         code:       1522,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -31955,7 +31955,7 @@ module CdekApi
         code:       1023,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -31966,7 +31966,7 @@ module CdekApi
         code:       3041,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -31977,7 +31977,7 @@ module CdekApi
         code:       1523,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -31988,7 +31988,7 @@ module CdekApi
         code:       1524,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -31999,7 +31999,7 @@ module CdekApi
         code:       1526,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -32010,7 +32010,7 @@ module CdekApi
         code:       3040,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -32021,7 +32021,7 @@ module CdekApi
         code:       13193,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -32032,7 +32032,7 @@ module CdekApi
         code:       1528,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -32043,7 +32043,7 @@ module CdekApi
         code:       1529,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -32054,7 +32054,7 @@ module CdekApi
         code:       1531,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -32065,7 +32065,7 @@ module CdekApi
         code:       3039,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -32076,7 +32076,7 @@ module CdekApi
         code:       1530,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -32087,7 +32087,7 @@ module CdekApi
         code:       1022,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -32098,7 +32098,7 @@ module CdekApi
         code:       1511,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -32109,7 +32109,7 @@ module CdekApi
         code:       1443,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -32120,7 +32120,7 @@ module CdekApi
         code:       1771,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -32131,7 +32131,7 @@ module CdekApi
         code:       13373,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -32142,7 +32142,7 @@ module CdekApi
         code:       1304,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -32153,7 +32153,7 @@ module CdekApi
         code:       1444,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -32164,7 +32164,7 @@ module CdekApi
         code:       3045,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -32175,7 +32175,7 @@ module CdekApi
         code:       1445,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -32186,7 +32186,7 @@ module CdekApi
         code:       1446,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -32197,7 +32197,7 @@ module CdekApi
         code:       13566,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -32208,7 +32208,7 @@ module CdekApi
         code:       3046,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -32219,7 +32219,7 @@ module CdekApi
         code:       3047,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -32230,7 +32230,7 @@ module CdekApi
         code:       1447,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -32241,7 +32241,7 @@ module CdekApi
         code:       13368,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -32252,7 +32252,7 @@ module CdekApi
         code:       1448,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -32263,7 +32263,7 @@ module CdekApi
         code:       1449,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -32274,7 +32274,7 @@ module CdekApi
         code:       1450,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -32285,7 +32285,7 @@ module CdekApi
         code:       13327,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -32296,7 +32296,7 @@ module CdekApi
         code:       13308,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -32307,7 +32307,7 @@ module CdekApi
         code:       1451,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -32318,7 +32318,7 @@ module CdekApi
         code:       1452,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -32329,7 +32329,7 @@ module CdekApi
         code:       1453,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -32340,7 +32340,7 @@ module CdekApi
         code:       1454,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -32351,7 +32351,7 @@ module CdekApi
         code:       1455,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -32362,7 +32362,7 @@ module CdekApi
         code:       293,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -32373,7 +32373,7 @@ module CdekApi
         code:       13367,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -32384,7 +32384,7 @@ module CdekApi
         code:       3234,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -32395,7 +32395,7 @@ module CdekApi
         code:       1456,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -32406,7 +32406,7 @@ module CdekApi
         code:       13304,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -32417,7 +32417,7 @@ module CdekApi
         code:       3048,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -32428,7 +32428,7 @@ module CdekApi
         code:       13385,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -32439,7 +32439,7 @@ module CdekApi
         code:       1457,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -32450,7 +32450,7 @@ module CdekApi
         code:       938,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -32461,7 +32461,7 @@ module CdekApi
         code:       410,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -32472,7 +32472,7 @@ module CdekApi
         code:       1458,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -32483,7 +32483,7 @@ module CdekApi
         code:       13384,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -32494,7 +32494,7 @@ module CdekApi
         code:       3051,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -32505,7 +32505,7 @@ module CdekApi
         code:       13462,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -32516,7 +32516,7 @@ module CdekApi
         code:       3050,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -32527,7 +32527,7 @@ module CdekApi
         code:       1459,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -32538,7 +32538,7 @@ module CdekApi
         code:       245,
         address:    'Жигарева ул., д.7',
         phone:      '(4822) 76-79-24, 75-03-25',
-        wotk_time:  '',
+        work_time:  'пн.-пт. 9-18, сб. 11-15',
         delivery:   ''
 
       },
@@ -32549,7 +32549,7 @@ module CdekApi
         code:       1387,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -32560,7 +32560,7 @@ module CdekApi
         code:       1460,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -32571,7 +32571,7 @@ module CdekApi
         code:       1461,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -32582,7 +32582,7 @@ module CdekApi
         code:       3049,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -32593,7 +32593,7 @@ module CdekApi
         code:       13460,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -32604,7 +32604,7 @@ module CdekApi
         code:       3055,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -32615,7 +32615,7 @@ module CdekApi
         code:       409,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -32626,7 +32626,7 @@ module CdekApi
         code:       3056,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -32637,7 +32637,7 @@ module CdekApi
         code:       3057,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -32648,7 +32648,7 @@ module CdekApi
         code:       722,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -32659,7 +32659,7 @@ module CdekApi
         code:       310,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -32670,7 +32670,7 @@ module CdekApi
         code:       3058,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -32681,7 +32681,7 @@ module CdekApi
         code:       13857,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -32692,7 +32692,7 @@ module CdekApi
         code:       725,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -32703,7 +32703,7 @@ module CdekApi
         code:       13257,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -32714,7 +32714,7 @@ module CdekApi
         code:       3054,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -32725,7 +32725,7 @@ module CdekApi
         code:       2087,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -32736,7 +32736,7 @@ module CdekApi
         code:       726,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -32747,7 +32747,7 @@ module CdekApi
         code:       13262,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -32758,7 +32758,7 @@ module CdekApi
         code:       13858,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -32769,7 +32769,7 @@ module CdekApi
         code:       3053,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -32780,7 +32780,7 @@ module CdekApi
         code:       13258,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -32791,7 +32791,7 @@ module CdekApi
         code:       14266,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -32802,7 +32802,7 @@ module CdekApi
         code:       724,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -32813,7 +32813,7 @@ module CdekApi
         code:       3059,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -32824,7 +32824,7 @@ module CdekApi
         code:       2343,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -32835,7 +32835,7 @@ module CdekApi
         code:       3060,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -32846,7 +32846,7 @@ module CdekApi
         code:       296,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -32857,7 +32857,7 @@ module CdekApi
         code:       13855,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -32868,7 +32868,7 @@ module CdekApi
         code:       13259,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -32879,7 +32879,7 @@ module CdekApi
         code:       13856,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -32890,7 +32890,7 @@ module CdekApi
         code:       3052,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -32901,7 +32901,7 @@ module CdekApi
         code:       723,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -32912,7 +32912,7 @@ module CdekApi
         code:       13255,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -32923,7 +32923,7 @@ module CdekApi
         code:       515,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -32934,7 +32934,7 @@ module CdekApi
         code:       3061,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -32945,7 +32945,7 @@ module CdekApi
         code:       13260,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -32956,7 +32956,7 @@ module CdekApi
         code:       269,
         address:    'Енисейская ул, д.37, оф.104,105',
         phone:      '(3822)211848,211948,200548,789560',
-        wotk_time:  '',
+        work_time:  'пн.-пт. 9-18, сб. 10-14',
         delivery:   ''
 
       },
@@ -32967,7 +32967,7 @@ module CdekApi
         code:       2090,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -32978,7 +32978,7 @@ module CdekApi
         code:       2091,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -32989,7 +32989,7 @@ module CdekApi
         code:       2096,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -33000,7 +33000,7 @@ module CdekApi
         code:       2092,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -33011,7 +33011,7 @@ module CdekApi
         code:       446,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -33022,7 +33022,7 @@ module CdekApi
         code:       445,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -33033,7 +33033,7 @@ module CdekApi
         code:       2093,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -33044,7 +33044,7 @@ module CdekApi
         code:       1750,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -33055,7 +33055,7 @@ module CdekApi
         code:       1959,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -33066,7 +33066,7 @@ module CdekApi
         code:       2094,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -33077,7 +33077,7 @@ module CdekApi
         code:       444,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -33088,7 +33088,7 @@ module CdekApi
         code:       2095,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -33099,7 +33099,7 @@ module CdekApi
         code:       939,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -33110,7 +33110,7 @@ module CdekApi
         code:       2097,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -33121,7 +33121,7 @@ module CdekApi
         code:       3062,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -33132,7 +33132,7 @@ module CdekApi
         code:       2098,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -33143,7 +33143,7 @@ module CdekApi
         code:       2099,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -33154,7 +33154,7 @@ module CdekApi
         code:       3063,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -33165,7 +33165,7 @@ module CdekApi
         code:       447,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -33176,7 +33176,7 @@ module CdekApi
         code:       2100,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -33187,7 +33187,7 @@ module CdekApi
         code:       3065,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -33198,7 +33198,7 @@ module CdekApi
         code:       2101,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -33209,7 +33209,7 @@ module CdekApi
         code:       3064,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -33220,7 +33220,7 @@ module CdekApi
         code:       2106,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -33231,7 +33231,7 @@ module CdekApi
         code:       2102,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -33242,7 +33242,7 @@ module CdekApi
         code:       150,
         address:    'Первомайская, д.2',
         phone:      '(4872) 52-12-42, (953) 197-05-05',
-        wotk_time:  '',
+        work_time:  'пн.-пт. 9-19, сб. 10-14',
         delivery:   ''
 
       },
@@ -33253,7 +33253,7 @@ module CdekApi
         code:       2103,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -33264,7 +33264,7 @@ module CdekApi
         code:       2104,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -33275,7 +33275,7 @@ module CdekApi
         code:       2105,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -33286,7 +33286,7 @@ module CdekApi
         code:       449,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -33297,7 +33297,7 @@ module CdekApi
         code:       3067,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -33308,7 +33308,7 @@ module CdekApi
         code:       3073,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -33319,7 +33319,7 @@ module CdekApi
         code:       871,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -33330,7 +33330,7 @@ module CdekApi
         code:       3070,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -33341,7 +33341,7 @@ module CdekApi
         code:       3074,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -33352,7 +33352,7 @@ module CdekApi
         code:       3072,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -33363,7 +33363,7 @@ module CdekApi
         code:       3077,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -33374,7 +33374,7 @@ module CdekApi
         code:       3076,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -33385,7 +33385,7 @@ module CdekApi
         code:       3069,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -33396,7 +33396,7 @@ module CdekApi
         code:       3075,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -33407,7 +33407,7 @@ module CdekApi
         code:       3071,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -33418,7 +33418,7 @@ module CdekApi
         code:       3078,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -33429,7 +33429,7 @@ module CdekApi
         code:       3068,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -33440,7 +33440,7 @@ module CdekApi
         code:       3088,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -33451,7 +33451,7 @@ module CdekApi
         code:       3087,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -33462,7 +33462,7 @@ module CdekApi
         code:       1751,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -33473,7 +33473,7 @@ module CdekApi
         code:       14250,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -33484,7 +33484,7 @@ module CdekApi
         code:       13928,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -33495,7 +33495,7 @@ module CdekApi
         code:       13793,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -33506,7 +33506,7 @@ module CdekApi
         code:       13815,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -33517,7 +33517,7 @@ module CdekApi
         code:       3079,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -33528,7 +33528,7 @@ module CdekApi
         code:       14255,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -33539,7 +33539,7 @@ module CdekApi
         code:       14245,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -33550,7 +33550,7 @@ module CdekApi
         code:       13817,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -33561,7 +33561,7 @@ module CdekApi
         code:       922,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -33572,7 +33572,7 @@ module CdekApi
         code:       13825,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -33583,7 +33583,7 @@ module CdekApi
         code:       14252,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -33594,7 +33594,7 @@ module CdekApi
         code:       13782,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -33605,7 +33605,7 @@ module CdekApi
         code:       13354,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -33616,7 +33616,7 @@ module CdekApi
         code:       3080,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -33627,7 +33627,7 @@ module CdekApi
         code:       13860,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -33638,7 +33638,7 @@ module CdekApi
         code:       13818,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -33649,7 +33649,7 @@ module CdekApi
         code:       14242,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -33660,7 +33660,7 @@ module CdekApi
         code:       14243,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -33671,7 +33671,7 @@ module CdekApi
         code:       13783,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -33682,7 +33682,7 @@ module CdekApi
         code:       13827,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -33693,7 +33693,7 @@ module CdekApi
         code:       3082,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -33704,7 +33704,7 @@ module CdekApi
         code:       13791,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -33715,7 +33715,7 @@ module CdekApi
         code:       14248,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -33726,7 +33726,7 @@ module CdekApi
         code:       619,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -33737,7 +33737,7 @@ module CdekApi
         code:       14241,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -33748,7 +33748,7 @@ module CdekApi
         code:       13823,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -33759,7 +33759,7 @@ module CdekApi
         code:       13394,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -33770,7 +33770,7 @@ module CdekApi
         code:       620,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -33781,7 +33781,7 @@ module CdekApi
         code:       13242,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -33792,7 +33792,7 @@ module CdekApi
         code:       14239,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -33803,7 +33803,7 @@ module CdekApi
         code:       1178,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -33814,7 +33814,7 @@ module CdekApi
         code:       13788,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -33825,7 +33825,7 @@ module CdekApi
         code:       13134,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -33836,7 +33836,7 @@ module CdekApi
         code:       13355,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -33847,7 +33847,7 @@ module CdekApi
         code:       13792,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -33858,7 +33858,7 @@ module CdekApi
         code:       13824,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -33869,7 +33869,7 @@ module CdekApi
         code:       13820,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -33880,7 +33880,7 @@ module CdekApi
         code:       14251,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -33891,7 +33891,7 @@ module CdekApi
         code:       13785,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -33902,7 +33902,7 @@ module CdekApi
         code:       13428,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -33913,7 +33913,7 @@ module CdekApi
         code:       13930,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -33924,7 +33924,7 @@ module CdekApi
         code:       13245,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -33935,7 +33935,7 @@ module CdekApi
         code:       3226,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -33946,7 +33946,7 @@ module CdekApi
         code:       3083,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -33957,7 +33957,7 @@ module CdekApi
         code:       13929,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -33968,7 +33968,7 @@ module CdekApi
         code:       3084,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -33979,7 +33979,7 @@ module CdekApi
         code:       13243,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -33990,7 +33990,7 @@ module CdekApi
         code:       13794,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -34001,7 +34001,7 @@ module CdekApi
         code:       13423,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -34012,7 +34012,7 @@ module CdekApi
         code:       14240,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -34023,7 +34023,7 @@ module CdekApi
         code:       1172,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -34034,7 +34034,7 @@ module CdekApi
         code:       13859,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -34045,7 +34045,7 @@ module CdekApi
         code:       1850,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -34056,7 +34056,7 @@ module CdekApi
         code:       13828,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -34067,7 +34067,7 @@ module CdekApi
         code:       13819,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -34078,7 +34078,7 @@ module CdekApi
         code:       3085,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -34089,7 +34089,7 @@ module CdekApi
         code:       14253,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -34100,7 +34100,7 @@ module CdekApi
         code:       1849,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -34111,7 +34111,7 @@ module CdekApi
         code:       13787,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -34122,7 +34122,7 @@ module CdekApi
         code:       13826,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -34133,7 +34133,7 @@ module CdekApi
         code:       13786,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -34144,7 +34144,7 @@ module CdekApi
         code:       13246,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -34155,7 +34155,7 @@ module CdekApi
         code:       14257,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -34166,7 +34166,7 @@ module CdekApi
         code:       14256,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -34177,7 +34177,7 @@ module CdekApi
         code:       14258,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -34188,7 +34188,7 @@ module CdekApi
         code:       14254,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -34199,7 +34199,7 @@ module CdekApi
         code:       14246,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -34210,7 +34210,7 @@ module CdekApi
         code:       13790,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -34221,7 +34221,7 @@ module CdekApi
         code:       13789,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -34232,7 +34232,7 @@ module CdekApi
         code:       13319,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -34243,7 +34243,7 @@ module CdekApi
         code:       13814,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -34254,7 +34254,7 @@ module CdekApi
         code:       13822,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -34265,7 +34265,7 @@ module CdekApi
         code:       13821,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -34276,7 +34276,7 @@ module CdekApi
         code:       13816,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -34287,7 +34287,7 @@ module CdekApi
         code:       512,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -34298,7 +34298,7 @@ module CdekApi
         code:       13329,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -34309,7 +34309,7 @@ module CdekApi
         code:       252,
         address:    'Дзержинского пер, д.15, оф.101, 1этаж (напротив банка втб',
         phone:      '(3452) 560-999; доб. 7203, 7204 ',
-        wotk_time:  '',
+        work_time:  'пн.-пт. 9-19, сб 10-14',
         delivery:   ''
 
       },
@@ -34320,7 +34320,7 @@ module CdekApi
         code:       14244,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -34331,7 +34331,7 @@ module CdekApi
         code:       13497,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -34342,7 +34342,7 @@ module CdekApi
         code:       1466,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -34353,7 +34353,7 @@ module CdekApi
         code:       14247,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -34364,7 +34364,7 @@ module CdekApi
         code:       13784,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -34375,7 +34375,7 @@ module CdekApi
         code:       13424,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -34386,7 +34386,7 @@ module CdekApi
         code:       13795,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -34397,7 +34397,7 @@ module CdekApi
         code:       13813,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -34408,7 +34408,7 @@ module CdekApi
         code:       13958,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -34419,7 +34419,7 @@ module CdekApi
         code:       617,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -34430,7 +34430,7 @@ module CdekApi
         code:       3081,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -34441,7 +34441,7 @@ module CdekApi
         code:       3097,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -34452,7 +34452,7 @@ module CdekApi
         code:       3098,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -34463,7 +34463,7 @@ module CdekApi
         code:       3089,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -34474,7 +34474,7 @@ module CdekApi
         code:       561,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -34485,7 +34485,7 @@ module CdekApi
         code:       3090,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -34496,7 +34496,7 @@ module CdekApi
         code:       3091,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -34507,7 +34507,7 @@ module CdekApi
         code:       224,
         address:    '10 лет октября ул., д.32',
         phone:      '(3412)655-023, 655-024',
-        wotk_time:  '',
+        work_time:  'пн.-пт. 9-18, сб. 10-14',
         delivery:   ''
 
       },
@@ -34518,7 +34518,7 @@ module CdekApi
         code:       3099,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -34529,7 +34529,7 @@ module CdekApi
         code:       3100,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -34540,7 +34540,7 @@ module CdekApi
         code:       3092,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -34551,7 +34551,7 @@ module CdekApi
         code:       491,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -34562,7 +34562,7 @@ module CdekApi
         code:       3093,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -34573,7 +34573,7 @@ module CdekApi
         code:       3094,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -34584,7 +34584,7 @@ module CdekApi
         code:       3096,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -34595,7 +34595,7 @@ module CdekApi
         code:       3101,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -34606,7 +34606,7 @@ module CdekApi
         code:       3111,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -34617,7 +34617,7 @@ module CdekApi
         code:       3112,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -34628,7 +34628,7 @@ module CdekApi
         code:       3102,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -34639,7 +34639,7 @@ module CdekApi
         code:       3113,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -34650,7 +34650,7 @@ module CdekApi
         code:       2350,
         address:    'Промышленная ул., д.43, оф.8',
         phone:      '(84235) 9-11-44',
-        wotk_time:  '',
+        work_time:  'пн.-пт. 9-18, сб. 9-14',
         delivery:   ''
 
       },
@@ -34661,7 +34661,7 @@ module CdekApi
         code:       1635,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -34672,7 +34672,7 @@ module CdekApi
         code:       3114,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -34683,7 +34683,7 @@ module CdekApi
         code:       3103,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -34694,7 +34694,7 @@ module CdekApi
         code:       3104,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -34705,7 +34705,7 @@ module CdekApi
         code:       3115,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -34716,7 +34716,7 @@ module CdekApi
         code:       3105,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -34727,7 +34727,7 @@ module CdekApi
         code:       3116,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -34738,7 +34738,7 @@ module CdekApi
         code:       3117,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -34749,7 +34749,7 @@ module CdekApi
         code:       3106,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -34760,7 +34760,7 @@ module CdekApi
         code:       3118,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -34771,7 +34771,7 @@ module CdekApi
         code:       3119,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -34782,7 +34782,7 @@ module CdekApi
         code:       3107,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -34793,7 +34793,7 @@ module CdekApi
         code:       3120,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -34804,7 +34804,7 @@ module CdekApi
         code:       3108,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -34815,7 +34815,7 @@ module CdekApi
         code:       3109,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -34826,7 +34826,7 @@ module CdekApi
         code:       422,
         address:    'Садовая ул., д.2',
         phone:      '(8422) 72-83-81 ',
-        wotk_time:  '',
+        work_time:  'пн.-пт. 9-18',
         delivery:   ''
 
       },
@@ -34837,7 +34837,7 @@ module CdekApi
         code:       13781,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -34848,7 +34848,7 @@ module CdekApi
         code:       3110,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -34859,7 +34859,7 @@ module CdekApi
         code:       900,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -34870,7 +34870,7 @@ module CdekApi
         code:       1438,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -34881,7 +34881,7 @@ module CdekApi
         code:       3121,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -34892,7 +34892,7 @@ module CdekApi
         code:       13866,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -34903,7 +34903,7 @@ module CdekApi
         code:       13410,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -34914,7 +34914,7 @@ module CdekApi
         code:       13147,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -34925,7 +34925,7 @@ module CdekApi
         code:       29,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -34936,7 +34936,7 @@ module CdekApi
         code:       13863,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -34947,7 +34947,7 @@ module CdekApi
         code:       13935,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -34958,7 +34958,7 @@ module CdekApi
         code:       2363,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -34969,7 +34969,7 @@ module CdekApi
         code:       13862,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -34980,7 +34980,7 @@ module CdekApi
         code:       902,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -34991,7 +34991,7 @@ module CdekApi
         code:       1266,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -35002,7 +35002,7 @@ module CdekApi
         code:       3122,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -35013,7 +35013,7 @@ module CdekApi
         code:       13673,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -35024,7 +35024,7 @@ module CdekApi
         code:       3123,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -35035,7 +35035,7 @@ module CdekApi
         code:       903,
         address:    'Мира пр-кт, д.10',
         phone:      '(4217) 300052',
-        wotk_time:  '',
+        work_time:  'пн.-пт. 9:00-18:00, обед с 12:00-13:00',
         delivery:   ''
 
       },
@@ -35046,7 +35046,7 @@ module CdekApi
         code:       13861,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -35057,7 +35057,7 @@ module CdekApi
         code:       13867,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -35068,7 +35068,7 @@ module CdekApi
         code:       13438,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -35079,7 +35079,7 @@ module CdekApi
         code:       2372,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -35090,7 +35090,7 @@ module CdekApi
         code:       1487,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -35101,7 +35101,7 @@ module CdekApi
         code:       899,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -35112,7 +35112,7 @@ module CdekApi
         code:       13115,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -35123,7 +35123,7 @@ module CdekApi
         code:       13864,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -35134,7 +35134,7 @@ module CdekApi
         code:       2373,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -35145,7 +35145,7 @@ module CdekApi
         code:       3124,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -35156,7 +35156,7 @@ module CdekApi
         code:       13398,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -35167,7 +35167,7 @@ module CdekApi
         code:       13148,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -35178,7 +35178,7 @@ module CdekApi
         code:       287,
         address:    'Промышленная ул., д.20д/1',
         phone:      '(4212) 465-015, 465 -016, 623-312',
-        wotk_time:  '',
+        work_time:  'пн.-пт. 9-18, сб. 10-14',
         delivery:   ''
 
       },
@@ -35189,7 +35189,7 @@ module CdekApi
         code:       13865,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -35200,7 +35200,7 @@ module CdekApi
         code:       13500,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -35211,7 +35211,7 @@ module CdekApi
         code:       13432,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -35222,7 +35222,7 @@ module CdekApi
         code:       13672,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -35233,7 +35233,7 @@ module CdekApi
         code:       14291,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -35244,7 +35244,7 @@ module CdekApi
         code:       14272,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -35255,7 +35255,7 @@ module CdekApi
         code:       823,
         address:    'Чертыгашева ул, д.126н, оф.2',
         phone:      '+7 (3902) 32-03-24; +79532590324',
-        wotk_time:  '',
+        work_time:  'пн.-пт. 9-18',
         delivery:   ''
 
       },
@@ -35266,7 +35266,7 @@ module CdekApi
         code:       13620,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -35277,7 +35277,7 @@ module CdekApi
         code:       826,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -35288,7 +35288,7 @@ module CdekApi
         code:       14274,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -35299,7 +35299,7 @@ module CdekApi
         code:       14273,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -35310,7 +35310,7 @@ module CdekApi
         code:       14275,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -35321,7 +35321,7 @@ module CdekApi
         code:       1149,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -35332,7 +35332,7 @@ module CdekApi
         code:       13390,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -35343,7 +35343,7 @@ module CdekApi
         code:       1150,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -35354,7 +35354,7 @@ module CdekApi
         code:       14276,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -35365,7 +35365,7 @@ module CdekApi
         code:       13111,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -35376,7 +35376,7 @@ module CdekApi
         code:       827,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -35387,7 +35387,7 @@ module CdekApi
         code:       2007,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -35398,7 +35398,7 @@ module CdekApi
         code:       13619,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -35409,7 +35409,7 @@ module CdekApi
         code:       3125,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -35420,7 +35420,7 @@ module CdekApi
         code:       3126,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -35431,7 +35431,7 @@ module CdekApi
         code:       3127,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -35442,7 +35442,7 @@ module CdekApi
         code:       824,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -35453,7 +35453,7 @@ module CdekApi
         code:       825,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -35464,7 +35464,7 @@ module CdekApi
         code:       3128,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -35475,7 +35475,7 @@ module CdekApi
         code:       105,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -35486,7 +35486,7 @@ module CdekApi
         code:       1017,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -35497,7 +35497,7 @@ module CdekApi
         code:       3131,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -35508,7 +35508,7 @@ module CdekApi
         code:       13248,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -35519,7 +35519,7 @@ module CdekApi
         code:       3130,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -35530,7 +35530,7 @@ module CdekApi
         code:       13812,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -35541,7 +35541,7 @@ module CdekApi
         code:       1430,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -35552,7 +35552,7 @@ module CdekApi
         code:       1440,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -35563,7 +35563,7 @@ module CdekApi
         code:       3129,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -35574,7 +35574,7 @@ module CdekApi
         code:       623,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -35585,7 +35585,7 @@ module CdekApi
         code:       624,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -35596,7 +35596,7 @@ module CdekApi
         code:       154,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -35607,7 +35607,7 @@ module CdekApi
         code:       1137,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -35618,7 +35618,7 @@ module CdekApi
         code:       1431,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -35629,7 +35629,7 @@ module CdekApi
         code:       621,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -35640,7 +35640,7 @@ module CdekApi
         code:       255,
         address:    'Маршала жукова ул., д.5, оф.112',
         phone:      '(3466)410-887, 8 912 938 82 39',
-        wotk_time:  '',
+        work_time:  'пн.-пт. 9-18, сб. 10-14',
         delivery:   ''
 
       },
@@ -35651,7 +35651,7 @@ module CdekApi
         code:       13140,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -35662,7 +35662,7 @@ module CdekApi
         code:       626,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -35673,7 +35673,7 @@ module CdekApi
         code:       1745,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -35684,7 +35684,7 @@ module CdekApi
         code:       73,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -35695,7 +35695,7 @@ module CdekApi
         code:       13066,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -35706,7 +35706,7 @@ module CdekApi
         code:       229,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -35717,7 +35717,7 @@ module CdekApi
         code:       20,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -35728,7 +35728,7 @@ module CdekApi
         code:       13135,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -35739,7 +35739,7 @@ module CdekApi
         code:       1217,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -35750,7 +35750,7 @@ module CdekApi
         code:       13069,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -35761,7 +35761,7 @@ module CdekApi
         code:       254,
         address:    '30 лет победы ул., д.44б, оф.110 / 1',
         phone:      '(3462) 44-21-31',
-        wotk_time:  '',
+        work_time:  'пн.-пт. 9-21, сб. 10-19, вс. 12-17',
         delivery:   ''
 
       },
@@ -35772,7 +35772,7 @@ module CdekApi
         code:       540,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -35783,7 +35783,7 @@ module CdekApi
         code:       625,
         address:    'Мира, д.51, оф.1022',
         phone:      '(3467)322-311',
-        wotk_time:  '',
+        work_time:  'пн.-пт. 9-18',
         delivery:   ''
 
       },
@@ -35794,7 +35794,7 @@ module CdekApi
         code:       627,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -35805,7 +35805,7 @@ module CdekApi
         code:       13070,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -35816,7 +35816,7 @@ module CdekApi
         code:       3134,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -35827,7 +35827,7 @@ module CdekApi
         code:       13921,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -35838,7 +35838,7 @@ module CdekApi
         code:       1344,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -35849,7 +35849,7 @@ module CdekApi
         code:       688,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -35860,7 +35860,7 @@ module CdekApi
         code:       13207,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -35871,7 +35871,7 @@ module CdekApi
         code:       13903,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -35882,7 +35882,7 @@ module CdekApi
         code:       13909,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -35893,7 +35893,7 @@ module CdekApi
         code:       13890,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -35904,7 +35904,7 @@ module CdekApi
         code:       13889,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -35915,7 +35915,7 @@ module CdekApi
         code:       13913,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -35926,7 +35926,7 @@ module CdekApi
         code:       13210,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -35937,7 +35937,7 @@ module CdekApi
         code:       13900,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -35948,7 +35948,7 @@ module CdekApi
         code:       13895,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -35959,7 +35959,7 @@ module CdekApi
         code:       13902,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -35970,7 +35970,7 @@ module CdekApi
         code:       13922,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -35981,7 +35981,7 @@ module CdekApi
         code:       13880,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -35992,7 +35992,7 @@ module CdekApi
         code:       3132,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -36003,7 +36003,7 @@ module CdekApi
         code:       13985,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -36014,7 +36014,7 @@ module CdekApi
         code:       1104,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -36025,7 +36025,7 @@ module CdekApi
         code:       3135,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -36036,7 +36036,7 @@ module CdekApi
         code:       13908,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -36047,7 +36047,7 @@ module CdekApi
         code:       13153,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -36058,7 +36058,7 @@ module CdekApi
         code:       3133,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -36069,7 +36069,7 @@ module CdekApi
         code:       13891,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -36080,7 +36080,7 @@ module CdekApi
         code:       1347,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -36091,7 +36091,7 @@ module CdekApi
         code:       13887,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -36102,7 +36102,7 @@ module CdekApi
         code:       13888,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -36113,7 +36113,7 @@ module CdekApi
         code:       13912,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -36124,7 +36124,7 @@ module CdekApi
         code:       685,
         address:    'Южно-есаульская ул., д.8',
         phone:      '+7(3513)672-190; +7-922-016-07-04',
-        wotk_time:  '',
+        work_time:  'пн.-пт. 8.30-19.30, сб. 8.30-17',
         delivery:   ''
 
       },
@@ -36135,7 +36135,7 @@ module CdekApi
         code:       13906,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -36146,7 +36146,7 @@ module CdekApi
         code:       3136,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -36157,7 +36157,7 @@ module CdekApi
         code:       684,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -36168,7 +36168,7 @@ module CdekApi
         code:       686,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -36179,7 +36179,7 @@ module CdekApi
         code:       13917,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -36190,7 +36190,7 @@ module CdekApi
         code:       13918,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -36201,7 +36201,7 @@ module CdekApi
         code:       13892,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -36212,7 +36212,7 @@ module CdekApi
         code:       961,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -36223,7 +36223,7 @@ module CdekApi
         code:       1753,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -36234,7 +36234,7 @@ module CdekApi
         code:       13920,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -36245,7 +36245,7 @@ module CdekApi
         code:       13907,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -36256,7 +36256,7 @@ module CdekApi
         code:       13883,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -36267,7 +36267,7 @@ module CdekApi
         code:       13899,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -36278,7 +36278,7 @@ module CdekApi
         code:       13881,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -36289,7 +36289,7 @@ module CdekApi
         code:       3137,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -36300,7 +36300,7 @@ module CdekApi
         code:       687,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -36311,7 +36311,7 @@ module CdekApi
         code:       13894,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -36322,7 +36322,7 @@ module CdekApi
         code:       13884,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -36333,7 +36333,7 @@ module CdekApi
         code:       13010,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -36344,7 +36344,7 @@ module CdekApi
         code:       13914,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -36355,7 +36355,7 @@ module CdekApi
         code:       258,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -36366,7 +36366,7 @@ module CdekApi
         code:       13901,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -36377,7 +36377,7 @@ module CdekApi
         code:       13915,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -36388,7 +36388,7 @@ module CdekApi
         code:       13910,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -36399,7 +36399,7 @@ module CdekApi
         code:       7,
         address:    'Ильмен-тау, д.8, оф.3',
         phone:      '8(951) 124 73 07',
-        wotk_time:  '',
+        work_time:  'пн-пт с 9-18',
         delivery:   ''
 
       },
@@ -36410,7 +36410,7 @@ module CdekApi
         code:       13893,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -36421,7 +36421,7 @@ module CdekApi
         code:       13898,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -36432,7 +36432,7 @@ module CdekApi
         code:       13916,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -36443,7 +36443,7 @@ module CdekApi
         code:       13904,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -36454,7 +36454,7 @@ module CdekApi
         code:       692,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -36465,7 +36465,7 @@ module CdekApi
         code:       3138,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -36476,7 +36476,7 @@ module CdekApi
         code:       13885,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -36487,7 +36487,7 @@ module CdekApi
         code:       13886,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -36498,7 +36498,7 @@ module CdekApi
         code:       13923,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -36509,7 +36509,7 @@ module CdekApi
         code:       14328,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -36520,7 +36520,7 @@ module CdekApi
         code:       689,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -36531,7 +36531,7 @@ module CdekApi
         code:       693,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -36542,7 +36542,7 @@ module CdekApi
         code:       13924,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -36553,7 +36553,7 @@ module CdekApi
         code:       13896,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -36564,7 +36564,7 @@ module CdekApi
         code:       13911,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -36575,7 +36575,7 @@ module CdekApi
         code:       13879,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -36586,7 +36586,7 @@ module CdekApi
         code:       13878,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -36597,7 +36597,7 @@ module CdekApi
         code:       3218,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -36608,7 +36608,7 @@ module CdekApi
         code:       690,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -36619,7 +36619,7 @@ module CdekApi
         code:       3139,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -36630,7 +36630,7 @@ module CdekApi
         code:       3140,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -36641,7 +36641,7 @@ module CdekApi
         code:       13009,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -36652,7 +36652,7 @@ module CdekApi
         code:       13882,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -36663,7 +36663,7 @@ module CdekApi
         code:       13897,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -36674,7 +36674,7 @@ module CdekApi
         code:       1754,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -36685,7 +36685,7 @@ module CdekApi
         code:       3219,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -36696,7 +36696,7 @@ module CdekApi
         code:       259,
         address:    'Ленина пр-т., д.15',
         phone:      '(351) 225-01-84',
-        wotk_time:  '',
+        work_time:  'пн.-пт. 9-20, сб.-вс. 9-18',
         delivery:   ''
 
       },
@@ -36707,7 +36707,7 @@ module CdekApi
         code:       3141,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -36718,7 +36718,7 @@ module CdekApi
         code:       13208,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -36729,7 +36729,7 @@ module CdekApi
         code:       962,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -36740,7 +36740,7 @@ module CdekApi
         code:       13919,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -36751,7 +36751,7 @@ module CdekApi
         code:       3143,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -36762,7 +36762,7 @@ module CdekApi
         code:       3142,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -36773,7 +36773,7 @@ module CdekApi
         code:       3152,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -36784,7 +36784,7 @@ module CdekApi
         code:       441,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -36795,7 +36795,7 @@ module CdekApi
         code:       3144,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -36806,7 +36806,7 @@ module CdekApi
         code:       3145,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -36817,7 +36817,7 @@ module CdekApi
         code:       3150,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -36828,7 +36828,7 @@ module CdekApi
         code:       3154,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -36839,7 +36839,7 @@ module CdekApi
         code:       3146,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -36850,7 +36850,7 @@ module CdekApi
         code:       3147,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -36861,7 +36861,7 @@ module CdekApi
         code:       3148,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -36872,7 +36872,7 @@ module CdekApi
         code:       3153,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -36883,7 +36883,7 @@ module CdekApi
         code:       3151,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -36894,7 +36894,7 @@ module CdekApi
         code:       3149,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -36905,7 +36905,7 @@ module CdekApi
         code:       3159,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -36916,7 +36916,7 @@ module CdekApi
         code:       3189,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -36927,7 +36927,7 @@ module CdekApi
         code:       3190,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -36938,7 +36938,7 @@ module CdekApi
         code:       3191,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -36949,7 +36949,7 @@ module CdekApi
         code:       3192,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -36960,7 +36960,7 @@ module CdekApi
         code:       3160,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -36971,7 +36971,7 @@ module CdekApi
         code:       3193,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -36982,7 +36982,7 @@ module CdekApi
         code:       3194,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -36993,7 +36993,7 @@ module CdekApi
         code:       3195,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -37004,7 +37004,7 @@ module CdekApi
         code:       3155,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -37015,7 +37015,7 @@ module CdekApi
         code:       3157,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -37026,7 +37026,7 @@ module CdekApi
         code:       3196,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -37037,7 +37037,7 @@ module CdekApi
         code:       387,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -37048,7 +37048,7 @@ module CdekApi
         code:       3197,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -37059,7 +37059,7 @@ module CdekApi
         code:       3198,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -37070,7 +37070,7 @@ module CdekApi
         code:       3199,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -37081,7 +37081,7 @@ module CdekApi
         code:       419,
         address:    'Ильбекова ул., д.4, оф.202',
         phone:      '(8352)64-17-30,677-678,211-444',
-        wotk_time:  '',
+        work_time:  'пн.-пт. 9-18, сб. 11-15',
         delivery:   ''
 
       },
@@ -37092,7 +37092,7 @@ module CdekApi
         code:       3200,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -37103,7 +37103,7 @@ module CdekApi
         code:       3188,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -37114,7 +37114,7 @@ module CdekApi
         code:       1749,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -37125,7 +37125,7 @@ module CdekApi
         code:       3158,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -37136,7 +37136,7 @@ module CdekApi
         code:       3201,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -37147,7 +37147,7 @@ module CdekApi
         code:       3202,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -37158,7 +37158,7 @@ module CdekApi
         code:       2381,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -37169,7 +37169,7 @@ module CdekApi
         code:       3163,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -37180,7 +37180,7 @@ module CdekApi
         code:       3164,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -37191,7 +37191,7 @@ module CdekApi
         code:       3166,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -37202,7 +37202,7 @@ module CdekApi
         code:       13149,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -37213,7 +37213,7 @@ module CdekApi
         code:       3162,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -37224,7 +37224,7 @@ module CdekApi
         code:       3165,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -37235,7 +37235,7 @@ module CdekApi
         code:       1741,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -37246,7 +37246,7 @@ module CdekApi
         code:       618,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -37257,7 +37257,7 @@ module CdekApi
         code:       1441,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -37268,7 +37268,7 @@ module CdekApi
         code:       680,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -37279,7 +37279,7 @@ module CdekApi
         code:       1442,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -37290,7 +37290,7 @@ module CdekApi
         code:       678,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -37301,7 +37301,7 @@ module CdekApi
         code:       681,
         address:    '13 проезд, д.промзона, панел, оф.20',
         phone:      '+7 (3499)597897,  8-951-992-9282',
-        wotk_time:  '',
+        work_time:  'пн.-пт. 9-18, обед с 12:30 до 14:00',
         delivery:   ''
 
       },
@@ -37312,7 +37312,7 @@ module CdekApi
         code:       12,
         address:    'Оптимистов мкр, д.4/3, оф.85',
         phone:      '(3494) 24-50-59, 24-50-77',
-        wotk_time:  '',
+        work_time:  'пн.-пт. 9-18, сб. 10-14',
         delivery:   ''
 
       },
@@ -37323,7 +37323,7 @@ module CdekApi
         code:       679,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -37334,7 +37334,7 @@ module CdekApi
         code:       3211,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -37345,7 +37345,7 @@ module CdekApi
         code:       13486,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -37356,7 +37356,7 @@ module CdekApi
         code:       3212,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -37367,7 +37367,7 @@ module CdekApi
         code:       51,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -37378,7 +37378,7 @@ module CdekApi
         code:       677,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -37389,7 +37389,7 @@ module CdekApi
         code:       13485,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -37400,7 +37400,7 @@ module CdekApi
         code:       1340,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -37411,7 +37411,7 @@ module CdekApi
         code:       682,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -37422,7 +37422,7 @@ module CdekApi
         code:       13150,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -37433,7 +37433,7 @@ module CdekApi
         code:       3167,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -37444,7 +37444,7 @@ module CdekApi
         code:       2008,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -37455,7 +37455,7 @@ module CdekApi
         code:       3231,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -37466,7 +37466,7 @@ module CdekApi
         code:       1338,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -37477,7 +37477,7 @@ module CdekApi
         code:       3175,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -37488,7 +37488,7 @@ module CdekApi
         code:       13063,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -37499,7 +37499,7 @@ module CdekApi
         code:       1437,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -37510,7 +37510,7 @@ module CdekApi
         code:       531,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -37521,7 +37521,7 @@ module CdekApi
         code:       3168,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -37532,7 +37532,7 @@ module CdekApi
         code:       3176,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -37543,7 +37543,7 @@ module CdekApi
         code:       1412,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -37554,7 +37554,7 @@ module CdekApi
         code:       3169,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -37565,7 +37565,7 @@ module CdekApi
         code:       3170,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -37576,7 +37576,7 @@ module CdekApi
         code:       3171,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -37587,7 +37587,7 @@ module CdekApi
         code:       13156,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -37598,7 +37598,7 @@ module CdekApi
         code:       1411,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -37609,7 +37609,7 @@ module CdekApi
         code:       3172,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -37620,7 +37620,7 @@ module CdekApi
         code:       3177,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -37631,7 +37631,7 @@ module CdekApi
         code:       187,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -37642,7 +37642,7 @@ module CdekApi
         code:       1413,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -37653,7 +37653,7 @@ module CdekApi
         code:       1410,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -37664,7 +37664,7 @@ module CdekApi
         code:       434,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -37675,7 +37675,7 @@ module CdekApi
         code:       147,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -37686,7 +37686,7 @@ module CdekApi
         code:       3173,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -37697,7 +37697,7 @@ module CdekApi
         code:       1409,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -37708,7 +37708,7 @@ module CdekApi
         code:       1110,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -37719,7 +37719,7 @@ module CdekApi
         code:       3174,
         address:    '',
         phone:      '',
-        wotk_time:  '',
+        work_time:  '',
         delivery:   ''
 
       },
@@ -37730,7 +37730,7 @@ module CdekApi
         code:       146,
         address:    'Карабулина ул., д.33/72, оф.105',
         phone:      '(4852) 45-15-25, 42-95-85',
-        wotk_time:  '',
+        work_time:  'пн.-чт. 9-17, пт. 9-16',
         delivery:   ''
 
       }
