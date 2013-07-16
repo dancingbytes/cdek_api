@@ -1,6 +1,8 @@
 # encoding: utf-8
 module CdekApi
 
-  VERSION = "0.0.2"
+  class Delivery
+
+  end # Delivery
 
 end # CdekApi
