@@ -25,12 +25,16 @@ module CdekApi
 
       block_run do |http|
 
-        uri = request("pvzlist", {
+        uri = url_for("pvzlist", {
           cityid: city_id
         })
 
         ::CdekApi.log("[pvz_list] => #{uri}")
-        res  = http.get(uri)
+
+        res = request do
+          http.get(uri)
+        end
+
         ::CdekApi.log("[pvz_list] <= #{res.body}")
 
         result = answer(res.body, ".//PvzList/Pvz", ".//PvzList") do |node|
@@ -86,7 +90,7 @@ module CdekApi
 
     end # answer
 
-    def request(func = nil, datas = {})
+    def url_for(func = nil, datas = {})
 
       datas.delete_if { |k, v| v.nil? || v == '' }
 
@@ -100,7 +104,7 @@ module CdekApi
 
       uri
 
-    end # request
+    end # url_for
 
     def block_run
 
@@ -122,6 +126,25 @@ module CdekApi
       self
 
     end # block_run
+
+    def request
+
+      try_count = ::CdekApi::RETRY
+
+      res = yield
+      while(try_count > 0 && res.code.to_i >= 300)
+
+        ::CdekApi.log("[retry] #{try_count}. Wait #{::CdekApi::WAIT_TIME} sec.")
+
+        res = yield
+        try_count -= 1
+        sleep ::CdekApi::WAIT_TIME
+
+      end # while
+
+      res
+
+    end # request
 
   end # Base
 

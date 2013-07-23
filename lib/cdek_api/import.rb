@@ -55,16 +55,28 @@ module CdekApi
 
             end
 
-            file.write("      # #{city.name}\n")
-            file.write("      '#{city.region_code}-#{city.district_code}-#{city.area_code}-#{city.village_code}' => {\n\n")
-            file.write("        code:       #{code},\n")
-            file.write("        address:    '#{address}',\n")
-            file.write("        phone:      '#{phone}',\n")
-            file.write("        work_time:  '#{work_time}',\n")
-            file.write("        delivery:   ''\n\n")
-            file.write("      },\n\n")
+            data = ::CdekApi.best_tariff(code)
 
-          end
+            if data
+
+              tariff   = data[:tariff] || 0
+              delivery = "#{data[:min]} - #{data[:max]}"
+              cost     = data[:price] || 0
+
+              file.write("      # #{city.name}\n")
+              file.write("      '#{city.region_code}-#{city.district_code}-#{city.area_code}-#{city.village_code}' => {\n\n")
+              file.write("        code:       #{code},\n")
+              file.write("        tariff:     #{tariff},\n")
+              file.write("        address:    '#{address}',\n")
+              file.write("        phone:      '#{phone}',\n")
+              file.write("        work_time:  '#{work_time}',\n")
+              file.write("        delivery:   '#{delivery}',\n")
+              file.write("        cost:       #{cost}\n\n")
+              file.write("      },\n\n")
+
+            end # if
+
+          end # if
 
         end # each
 

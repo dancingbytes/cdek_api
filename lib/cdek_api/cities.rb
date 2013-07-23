@@ -9,10 +9,12 @@ module CdekApi
       '1-0-2-0' => {
 
         code:       1588,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '8 - 11',
+        cost:       1370
 
       },
 
@@ -20,10 +22,12 @@ module CdekApi
       '1-5-0-3' => {
 
         code:       1590,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '8 - 11',
+        cost:       1370
 
       },
 
@@ -31,10 +35,12 @@ module CdekApi
       '1-5-0-5' => {
 
         code:       1600,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '8 - 11',
+        cost:       1370
 
       },
 
@@ -42,10 +48,12 @@ module CdekApi
       '1-2-0-1' => {
 
         code:       1229,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '8 - 11',
+        cost:       1370
 
       },
 
@@ -53,10 +61,12 @@ module CdekApi
       '1-0-1-0' => {
 
         code:       1233,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '6 - 8',
+        cost:       960
 
       },
 
@@ -64,10 +74,12 @@ module CdekApi
       '1-2-0-12' => {
 
         code:       1083,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '8 - 11',
+        cost:       1370
 
       },
 
@@ -75,10 +87,12 @@ module CdekApi
       '1-0-2-2' => {
 
         code:       1617,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '8 - 11',
+        cost:       1370
 
       },
 
@@ -86,10 +100,12 @@ module CdekApi
       '1-5-0-1' => {
 
         code:       1350,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '8 - 11',
+        cost:       1370
 
       },
 
@@ -97,10 +113,12 @@ module CdekApi
       '1-6-0-25' => {
 
         code:       1624,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '8 - 11',
+        cost:       1370
 
       },
 
@@ -108,10 +126,12 @@ module CdekApi
       '1-5-0-4' => {
 
         code:       1627,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '8 - 11',
+        cost:       1370
 
       },
 
@@ -119,10 +139,12 @@ module CdekApi
       '1-5-0-16' => {
 
         code:       323,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '8 - 11',
+        cost:       1370
 
       },
 
@@ -130,43 +152,12 @@ module CdekApi
       '4-5-0-1' => {
 
         code:       13481,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
-
-      },
-
-      # Барангол
-      '4-3-0-16' => {
-
-        code:       13516,
-        address:    '',
-        phone:      '',
-        work_time:  '',
-        delivery:   ''
-
-      },
-
-      # Барлак
-      '4-11-0-18' => {
-
-        code:       13523,
-        address:    '',
-        phone:      '',
-        work_time:  '',
-        delivery:   ''
-
-      },
-
-      # Бирюля
-      '4-3-0-4' => {
-
-        code:       13504,
-        address:    '',
-        phone:      '',
-        work_time:  '',
-        delivery:   ''
+        delivery:   '4 - 6',
+        cost:       3190
 
       },
 
@@ -174,43 +165,12 @@ module CdekApi
       '4-0-1-0' => {
 
         code:       822,
+        tariff:     136,
         address:    'Чорос-гуркина ул, д.39/12, оф.303',
         phone:      '8(38822)2-32-40,8(38822)9-40-60,8-913-999-40-60',
         work_time:  'пн.-пт. 9-18',
-        delivery:   ''
-
-      },
-
-      # Дубровка
-      '4-3-0-20' => {
-
-        code:       13512,
-        address:    '',
-        phone:      '',
-        work_time:  '',
-        delivery:   ''
-
-      },
-
-      # Известковый
-      '4-3-0-22' => {
-
-        code:       13514,
-        address:    '',
-        phone:      '',
-        work_time:  '',
-        delivery:   ''
-
-      },
-
-      # Камлак
-      '4-11-0-8' => {
-
-        code:       13521,
-        address:    '',
-        phone:      '',
-        work_time:  '',
-        delivery:   ''
+        delivery:   '6 - 7',
+        cost:       175
 
       },
 
@@ -218,10 +178,12 @@ module CdekApi
       '4-3-0-1' => {
 
         code:       77,
+        tariff:     137,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '6 - 9',
+        cost:       495
 
       },
 
@@ -229,21 +191,12 @@ module CdekApi
       '4-3-0-9' => {
 
         code:       13476,
+        tariff:     137,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
-
-      },
-
-      # Мыюта
-      '4-11-0-32' => {
-
-        code:       13524,
-        address:    '',
-        phone:      '',
-        work_time:  '',
-        delivery:   ''
+        delivery:   '6 - 10',
+        cost:       915
 
       },
 
@@ -251,43 +204,12 @@ module CdekApi
       '4-4-0-1' => {
 
         code:       13482,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
-
-      },
-
-      # Паспаул
-      '4-10-0-3' => {
-
-        code:       13505,
-        address:    '',
-        phone:      '',
-        work_time:  '',
-        delivery:   ''
-
-      },
-
-      # Подгорное
-      '4-3-0-34' => {
-
-        code:       13506,
-        address:    '',
-        phone:      '',
-        work_time:  '',
-        delivery:   ''
-
-      },
-
-      # Рыбалка
-      '4-3-0-35' => {
-
-        code:       13513,
-        address:    '',
-        phone:      '',
-        work_time:  '',
-        delivery:   ''
+        delivery:   '4 - 6',
+        cost:       3590
 
       },
 
@@ -295,43 +217,12 @@ module CdekApi
       '4-3-0-10' => {
 
         code:       13483,
+        tariff:     137,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
-
-      },
-
-      # Аскат
-      '4-9-0-10' => {
-
-        code:       13519,
-        address:    '',
-        phone:      '',
-        work_time:  '',
-        delivery:   ''
-
-      },
-
-      # Усть-Муны
-      '4-3-0-13' => {
-
-        code:       13515,
-        address:    '',
-        phone:      '',
-        work_time:  '',
-        delivery:   ''
-
-      },
-
-      # Усть-Сема
-      '4-9-0-20' => {
-
-        code:       13525,
-        address:    '',
-        phone:      '',
-        work_time:  '',
-        delivery:   ''
+        delivery:   '6 - 10',
+        cost:       495
 
       },
 
@@ -339,43 +230,12 @@ module CdekApi
       '4-9-0-1' => {
 
         code:       13478,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
-
-      },
-
-      # Чепош
-      '4-9-0-5' => {
-
-        code:       13517,
-        address:    '',
-        phone:      '',
-        work_time:  '',
-        delivery:   ''
-
-      },
-
-      # Актел
-      '4-9-0-2' => {
-
-        code:       13522,
-        address:    '',
-        phone:      '',
-        work_time:  '',
-        delivery:   ''
-
-      },
-
-      # Чоя
-      '4-10-0-1' => {
-
-        code:       13503,
-        address:    '',
-        phone:      '',
-        work_time:  '',
-        delivery:   ''
+        delivery:   '4 - 6',
+        cost:       2490
 
       },
 
@@ -383,21 +243,12 @@ module CdekApi
       '4-9-0-12' => {
 
         code:       13479,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
-
-      },
-
-      # Элекмонар
-      '4-9-0-6' => {
-
-        code:       13520,
-        address:    '',
-        phone:      '',
-        work_time:  '',
-        delivery:   ''
+        delivery:   '4 - 6',
+        cost:       2690
 
       },
 
@@ -405,10 +256,12 @@ module CdekApi
       '22-0-2-0' => {
 
         code:       795,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '4 - 7',
+        cost:       1260
 
       },
 
@@ -416,10 +269,12 @@ module CdekApi
       '22-3-0-1' => {
 
         code:       6,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '4 - 7',
+        cost:       1260
 
       },
 
@@ -427,10 +282,12 @@ module CdekApi
       '22-3-0-2' => {
 
         code:       13480,
+        tariff:     137,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '6 - 10',
+        cost:       915
 
       },
 
@@ -438,10 +295,12 @@ module CdekApi
       '22-4-0-1' => {
 
         code:       1856,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '4 - 7',
+        cost:       1260
 
       },
 
@@ -449,10 +308,12 @@ module CdekApi
       '22-0-1-0' => {
 
         code:       274,
+        tariff:     136,
         address:    'Строителей пр-кт, д.29',
         phone:      '',
         work_time:  'пн.-пт. 9-18, сб. 10-14',
-        delivery:   ''
+        delivery:   '4 - 6',
+        cost:       175
 
       },
 
@@ -460,10 +321,12 @@ module CdekApi
       '22-0-3-0' => {
 
         code:       814,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '4 - 7',
+        cost:       1260
 
       },
 
@@ -471,10 +334,12 @@ module CdekApi
       '22-0-4-0' => {
 
         code:       275,
+        tariff:     136,
         address:    'Льва толстого ул., д.141, оф.11',
         phone:      '8(3854)555-017, 335-253, 8-962-790-49-01, 8-962-810-75-96',
         work_time:  'пн.-пт. 9-18',
-        delivery:   ''
+        delivery:   '4 - 6',
+        cost:       175
 
       },
 
@@ -482,10 +347,12 @@ module CdekApi
       '4-3-0-13' => {
 
         code:       13477,
+        tariff:     137,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '6 - 10',
+        cost:       1015
 
       },
 
@@ -493,10 +360,12 @@ module CdekApi
       '22-6-0-1' => {
 
         code:       803,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '4 - 7',
+        cost:       1260
 
       },
 
@@ -504,10 +373,12 @@ module CdekApi
       '22-58-0-2' => {
 
         code:       13502,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '4 - 7',
+        cost:       1330
 
       },
 
@@ -515,10 +386,12 @@ module CdekApi
       '22-7-0-1' => {
 
         code:       809,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '4 - 7',
+        cost:       1260
 
       },
 
@@ -526,21 +399,12 @@ module CdekApi
       '22-8-0-2' => {
 
         code:       808,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
-
-      },
-
-      # Верх-Ая
-      '22-3-0-8' => {
-
-        code:       13510,
-        address:    '',
-        phone:      '',
-        work_time:  '',
-        delivery:   ''
+        delivery:   '4 - 7',
+        cost:       1260
 
       },
 
@@ -548,10 +412,12 @@ module CdekApi
       '22-6-0-2' => {
 
         code:       2334,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '4 - 7',
+        cost:       1260
 
       },
 
@@ -559,10 +425,12 @@ module CdekApi
       '22-40-0-8' => {
 
         code:       49,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '4 - 7',
+        cost:       1260
 
       },
 
@@ -570,10 +438,12 @@ module CdekApi
       '22-0-1-6' => {
 
         code:       13276,
+        tariff:     137,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '7 - 11',
+        cost:       555
 
       },
 
@@ -581,10 +451,12 @@ module CdekApi
       '22-9-0-1' => {
 
         code:       804,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '4 - 7',
+        cost:       1260
 
       },
 
@@ -592,10 +464,12 @@ module CdekApi
       '22-30-0-1' => {
 
         code:       792,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '4 - 7',
+        cost:       1260
 
       },
 
@@ -603,21 +477,12 @@ module CdekApi
       '22-27-1-0' => {
 
         code:       783,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
-
-      },
-
-      # Долина Свободы
-      '22-21-0-7' => {
-
-        code:       13507,
-        address:    '',
-        phone:      '',
-        work_time:  '',
-        delivery:   ''
+        delivery:   '4 - 7',
+        cost:       1260
 
       },
 
@@ -625,10 +490,12 @@ module CdekApi
       '22-55-0-8' => {
 
         code:       2335,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '4 - 7',
+        cost:       1260
 
       },
 
@@ -636,10 +503,12 @@ module CdekApi
       '22-12-0-1' => {
 
         code:       801,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '4 - 7',
+        cost:       1260
 
       },
 
@@ -647,10 +516,12 @@ module CdekApi
       '22-13-0-1' => {
 
         code:       1858,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '4 - 7',
+        cost:       1260
 
       },
 
@@ -658,10 +529,12 @@ module CdekApi
       '22-0-11-0' => {
 
         code:       98,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '4 - 7',
+        cost:       1260
 
       },
 
@@ -669,10 +542,12 @@ module CdekApi
       '22-15-1-0' => {
 
         code:       784,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '4 - 7',
+        cost:       1260
 
       },
 
@@ -680,10 +555,12 @@ module CdekApi
       '22-16-0-1' => {
 
         code:       787,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '4 - 7',
+        cost:       1260
 
       },
 
@@ -691,10 +568,12 @@ module CdekApi
       '22-17-0-1' => {
 
         code:       701,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '4 - 7',
+        cost:       1260
 
       },
 
@@ -702,21 +581,12 @@ module CdekApi
       '22-0-7-0' => {
 
         code:       786,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
-
-      },
-
-      # Катунь
-      '22-3-0-14' => {
-
-        code:       13508,
-        address:    '',
-        phone:      '',
-        work_time:  '',
-        delivery:   ''
+        delivery:   '4 - 7',
+        cost:       1260
 
       },
 
@@ -724,10 +594,12 @@ module CdekApi
       '55-0-1-0' => {
 
         code:       815,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '4 - 7',
+        cost:       1260
 
       },
 
@@ -735,10 +607,12 @@ module CdekApi
       '22-20-0-1' => {
 
         code:       1861,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '4 - 7',
+        cost:       1260
 
       },
 
@@ -746,10 +620,12 @@ module CdekApi
       '22-21-0-1' => {
 
         code:       791,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '4 - 7',
+        cost:       1260
 
       },
 
@@ -757,10 +633,12 @@ module CdekApi
       '22-22-0-1' => {
 
         code:       812,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '4 - 7',
+        cost:       1260
 
       },
 
@@ -768,10 +646,12 @@ module CdekApi
       '22-23-0-1' => {
 
         code:       1857,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '4 - 7',
+        cost:       1260
 
       },
 
@@ -779,10 +659,12 @@ module CdekApi
       '22-24-0-1' => {
 
         code:       805,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '4 - 7',
+        cost:       1260
 
       },
 
@@ -790,10 +672,12 @@ module CdekApi
       '22-25-0-1' => {
 
         code:       813,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '4 - 7',
+        cost:       1260
 
       },
 
@@ -801,10 +685,12 @@ module CdekApi
       '22-26-0-1' => {
 
         code:       816,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '4 - 7',
+        cost:       1260
 
       },
 
@@ -812,10 +698,12 @@ module CdekApi
       '22-5-0-15' => {
 
         code:       1271,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '4 - 7',
+        cost:       1260
 
       },
 
@@ -823,10 +711,12 @@ module CdekApi
       '22-28-0-1' => {
 
         code:       782,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '4 - 7',
+        cost:       1260
 
       },
 
@@ -834,10 +724,12 @@ module CdekApi
       '22-29-0-1' => {
 
         code:       1147,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '4 - 7',
+        cost:       1260
 
       },
 
@@ -845,10 +737,12 @@ module CdekApi
       '22-31-0-1' => {
 
         code:       796,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '4 - 7',
+        cost:       1260
 
       },
 
@@ -856,10 +750,12 @@ module CdekApi
       '22-0-8-0' => {
 
         code:       788,
+        tariff:     137,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '6 - 9',
+        cost:       545
 
       },
 
@@ -867,10 +763,12 @@ module CdekApi
       '22-10-0-1' => {
 
         code:       1859,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '4 - 7',
+        cost:       1260
 
       },
 
@@ -878,10 +776,12 @@ module CdekApi
       '22-0-1-0' => {
 
         code:       13278,
+        tariff:     137,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '7 - 11',
+        cost:       555
 
       },
 
@@ -889,10 +789,12 @@ module CdekApi
       '22-32-0-1' => {
 
         code:       780,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '4 - 7',
+        cost:       1260
 
       },
 
@@ -900,10 +802,12 @@ module CdekApi
       '22-33-0-1' => {
 
         code:       779,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '4 - 7',
+        cost:       1260
 
       },
 
@@ -911,21 +815,12 @@ module CdekApi
       '22-35-0-1' => {
 
         code:       810,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
-
-      },
-
-      # Платово
-      '22-43-0-11' => {
-
-        code:       13511,
-        address:    '',
-        phone:      '',
-        work_time:  '',
-        delivery:   ''
+        delivery:   '4 - 7',
+        cost:       1260
 
       },
 
@@ -933,10 +828,12 @@ module CdekApi
       '22-36-0-1' => {
 
         code:       797,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '4 - 7',
+        cost:       1260
 
       },
 
@@ -944,10 +841,12 @@ module CdekApi
       '22-37-0-1' => {
 
         code:       781,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '4 - 7',
+        cost:       1260
 
       },
 
@@ -955,10 +854,12 @@ module CdekApi
       '22-38-0-1' => {
 
         code:       802,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '4 - 7',
+        cost:       1260
 
       },
 
@@ -966,10 +867,12 @@ module CdekApi
       '22-39-0-1' => {
 
         code:       800,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '4 - 7',
+        cost:       1260
 
       },
 
@@ -977,10 +880,12 @@ module CdekApi
       '22-0-9-0' => {
 
         code:       798,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '4 - 6',
+        cost:       1060
 
       },
 
@@ -988,10 +893,12 @@ module CdekApi
       '22-0-0-1' => {
 
         code:       13090,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '3 - 6',
+        cost:       1145
 
       },
 
@@ -999,10 +906,12 @@ module CdekApi
       '22-0-10-0' => {
 
         code:       806,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '4 - 7',
+        cost:       1260
 
       },
 
@@ -1010,10 +919,12 @@ module CdekApi
       '22-43-0-1' => {
 
         code:       1860,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '4 - 7',
+        cost:       1260
 
       },
 
@@ -1021,10 +932,12 @@ module CdekApi
       '22-44-0-1' => {
 
         code:       2336,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '4 - 7',
+        cost:       1260
 
       },
 
@@ -1032,10 +945,12 @@ module CdekApi
       '22-21-0-13' => {
 
         code:       2332,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '4 - 7',
+        cost:       1260
 
       },
 
@@ -1043,10 +958,12 @@ module CdekApi
       '22-51-0-1' => {
 
         code:       799,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '4 - 7',
+        cost:       1260
 
       },
 
@@ -1054,10 +971,12 @@ module CdekApi
       '22-6-0-25' => {
 
         code:       954,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '4 - 7',
+        cost:       1260
 
       },
 
@@ -1065,10 +984,12 @@ module CdekApi
       '22-47-0-1' => {
 
         code:       1863,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '4 - 7',
+        cost:       1260
 
       },
 
@@ -1076,10 +997,12 @@ module CdekApi
       '22-48-0-1' => {
 
         code:       817,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '4 - 7',
+        cost:       1260
 
       },
 
@@ -1087,10 +1010,12 @@ module CdekApi
       '22-49-0-1' => {
 
         code:       820,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '4 - 7',
+        cost:       1260
 
       },
 
@@ -1098,10 +1023,12 @@ module CdekApi
       '22-50-0-1' => {
 
         code:       794,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '4 - 7',
+        cost:       1260
 
       },
 
@@ -1109,10 +1036,12 @@ module CdekApi
       '22-52-0-1' => {
 
         code:       790,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '4 - 7',
+        cost:       1260
 
       },
 
@@ -1120,10 +1049,12 @@ module CdekApi
       '22-53-0-1' => {
 
         code:       785,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '4 - 7',
+        cost:       1260
 
       },
 
@@ -1131,10 +1062,12 @@ module CdekApi
       '22-54-0-1' => {
 
         code:       2337,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '4 - 7',
+        cost:       1260
 
       },
 
@@ -1142,10 +1075,12 @@ module CdekApi
       '22-55-0-1' => {
 
         code:       2330,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '4 - 7',
+        cost:       1260
 
       },
 
@@ -1153,10 +1088,12 @@ module CdekApi
       '22-56-0-1' => {
 
         code:       2331,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '4 - 7',
+        cost:       1260
 
       },
 
@@ -1164,10 +1101,12 @@ module CdekApi
       '22-57-0-1' => {
 
         code:       807,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '4 - 7',
+        cost:       1260
 
       },
 
@@ -1175,10 +1114,12 @@ module CdekApi
       '22-58-0-1' => {
 
         code:       2333,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '4 - 7',
+        cost:       1260
 
       },
 
@@ -1186,10 +1127,12 @@ module CdekApi
       '22-59-0-1' => {
 
         code:       811,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '4 - 7',
+        cost:       1260
 
       },
 
@@ -1197,10 +1140,12 @@ module CdekApi
       '22-60-0-1' => {
 
         code:       1862,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '4 - 7',
+        cost:       1260
 
       },
 
@@ -1208,10 +1153,12 @@ module CdekApi
       '22-61-0-1' => {
 
         code:       793,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '4 - 7',
+        cost:       1260
 
       },
 
@@ -1219,10 +1166,12 @@ module CdekApi
       '22-0-1-0' => {
 
         code:       13277,
+        tariff:     137,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '7 - 11',
+        cost:       555
 
       },
 
@@ -1230,10 +1179,12 @@ module CdekApi
       '22-0-12-0' => {
 
         code:       778,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '4 - 7',
+        cost:       1260
 
       },
 
@@ -1241,10 +1192,12 @@ module CdekApi
       '28-3-0-40' => {
 
         code:       896,
+        tariff:     137,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '6 - 10',
+        cost:       895
 
       },
 
@@ -1252,10 +1205,12 @@ module CdekApi
       '28-0-1-0' => {
 
         code:       286,
+        tariff:     136,
         address:    '50 лет октября ул., д.94',
         phone:      '(4162) 779-445,387-445',
         work_time:  'пн-пт 9-18, сб 9-14',
-        delivery:   ''
+        delivery:   '6 - 8',
+        cost:       415
 
       },
 
@@ -1263,10 +1218,12 @@ module CdekApi
       '28-7-0-5' => {
 
         code:       918,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '5 - 9',
+        cost:       1980
 
       },
 
@@ -1274,10 +1231,12 @@ module CdekApi
       '28-4-0-6' => {
 
         code:       13488,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '5 - 9',
+        cost:       1980
 
       },
 
@@ -1285,10 +1244,12 @@ module CdekApi
       '28-9-0-4' => {
 
         code:       13370,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '5 - 9',
+        cost:       1980
 
       },
 
@@ -1296,10 +1257,12 @@ module CdekApi
       '28-5-0-2' => {
 
         code:       3224,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '4 - 8',
+        cost:       1980
 
       },
 
@@ -1307,10 +1270,12 @@ module CdekApi
       '28-9-0-6' => {
 
         code:       2329,
+        tariff:     137,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '6 - 11',
+        cost:       1065
 
       },
 
@@ -1318,10 +1283,12 @@ module CdekApi
       '28-7-0-1' => {
 
         code:       13328,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '4 - 7',
+        cost:       1810
 
       },
 
@@ -1329,21 +1296,12 @@ module CdekApi
       '28-9-0-1' => {
 
         code:       13012,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
-
-      },
-
-      # Большой Невер
-      '28-17-0-9' => {
-
-        code:       13065,
-        address:    '',
-        phone:      '',
-        work_time:  '',
-        delivery:   ''
+        delivery:   '5 - 9',
+        cost:       1980
 
       },
 
@@ -1351,10 +1309,12 @@ module CdekApi
       '28-18-0-18' => {
 
         code:       13936,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '5 - 8',
+        cost:       1980
 
       },
 
@@ -1362,10 +1322,12 @@ module CdekApi
       '28-4-0-1' => {
 
         code:       13447,
+        tariff:     137,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '6 - 11',
+        cost:       1065
 
       },
 
@@ -1373,10 +1335,12 @@ module CdekApi
       '28-0-2-0' => {
 
         code:       13013,
+        tariff:     137,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '6 - 10',
+        cost:       895
 
       },
 
@@ -1384,10 +1348,12 @@ module CdekApi
       '28-14-0-50' => {
 
         code:       3229,
+        tariff:     137,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '6 - 10',
+        cost:       895
 
       },
 
@@ -1395,10 +1361,12 @@ module CdekApi
       '28-16-0-4' => {
 
         code:       13396,
+        tariff:     137,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '6 - 11',
+        cost:       1065
 
       },
 
@@ -1406,10 +1374,12 @@ module CdekApi
       '28-17-1-0' => {
 
         code:       13064,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '5 - 9',
+        cost:       1980
 
       },
 
@@ -1417,10 +1387,12 @@ module CdekApi
       '27-0-1-4' => {
 
         code:       1763,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '4 - 8',
+        cost:       1980
 
       },
 
@@ -1428,10 +1400,12 @@ module CdekApi
       '28-18-0-1' => {
 
         code:       13937,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '4 - 7',
+        cost:       1810
 
       },
 
@@ -1439,10 +1413,12 @@ module CdekApi
       '28-9-0-10' => {
 
         code:       13294,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '5 - 9',
+        cost:       1810
 
       },
 
@@ -1450,10 +1426,12 @@ module CdekApi
       '28-0-6-0' => {
 
         code:       318,
+        tariff:     137,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '7 - 12',
+        cost:       1065
 
       },
 
@@ -1461,10 +1439,12 @@ module CdekApi
       '28-0-0-1' => {
 
         code:       13395,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '4 - 8',
+        cost:       1980
 
       },
 
@@ -1472,10 +1452,12 @@ module CdekApi
       '28-15-0-12' => {
 
         code:       13931,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '5 - 10',
+        cost:       2180
 
       },
 
@@ -1483,10 +1465,12 @@ module CdekApi
       '28-0-7-0' => {
 
         code:       1760,
+        tariff:     137,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '7 - 12',
+        cost:       1065
 
       },
 
@@ -1494,21 +1478,12 @@ module CdekApi
       '29-0-1-0' => {
 
         code:       402,
+        tariff:     11,
         address:    'Выучейского, д.25',
         phone:      '',
         work_time:  'пн-пт 9-17',
-        delivery:   ''
-
-      },
-
-      # Архангельск
-      '29-0-1-0' => {
-
-        code:       13292,
-        address:    '',
-        phone:      '',
-        work_time:  '',
-        delivery:   ''
+        delivery:   '4 - 6',
+        cost:       960
 
       },
 
@@ -1516,10 +1491,12 @@ module CdekApi
       '29-5-0-1' => {
 
         code:       1952,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '6 - 11',
+        cost:       1370
 
       },
 
@@ -1527,10 +1504,12 @@ module CdekApi
       '29-1-0-219' => {
 
         code:       1955,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '6 - 11',
+        cost:       1370
 
       },
 
@@ -1538,10 +1517,12 @@ module CdekApi
       '29-2-0-64' => {
 
         code:       994,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '6 - 11',
+        cost:       1370
 
       },
 
@@ -1549,10 +1530,12 @@ module CdekApi
       '29-3-0-1' => {
 
         code:       1953,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '6 - 11',
+        cost:       1370
 
       },
 
@@ -1560,10 +1543,12 @@ module CdekApi
       '29-4-0-1' => {
 
         code:       2342,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '6 - 11',
+        cost:       1370
 
       },
 
@@ -1571,10 +1556,12 @@ module CdekApi
       '29-6-0-13' => {
 
         code:       1954,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '6 - 11',
+        cost:       1370
 
       },
 
@@ -1582,10 +1569,12 @@ module CdekApi
       '29-7-0-1' => {
 
         code:       1948,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '6 - 11',
+        cost:       1370
 
       },
 
@@ -1593,21 +1582,12 @@ module CdekApi
       '29-0-5-0' => {
 
         code:       1170,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
-
-      },
-
-      # Костылево
-      '29-17-0-45' => {
-
-        code:       14316,
-        address:    '',
-        phone:      '',
-        work_time:  '',
-        delivery:   ''
+        delivery:   '6 - 11',
+        cost:       1370
 
       },
 
@@ -1615,10 +1595,12 @@ module CdekApi
       '29-8-0-37' => {
 
         code:       1756,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '6 - 11',
+        cost:       1370
 
       },
 
@@ -1626,21 +1608,12 @@ module CdekApi
       '29-9-0-1' => {
 
         code:       2340,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
-
-      },
-
-      # Мезень
-      '29-12-1-0' => {
-
-        code:       13014,
-        address:    '',
-        phone:      '',
-        work_time:  '',
-        delivery:   ''
+        delivery:   '6 - 11',
+        cost:       1370
 
       },
 
@@ -1648,21 +1621,12 @@ module CdekApi
       '29-0-2-0' => {
 
         code:       1951,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
-
-      },
-
-      # Мухонская
-      '29-4-0-94' => {
-
-        code:       13095,
-        address:    '',
-        phone:      '',
-        work_time:  '',
-        delivery:   ''
+        delivery:   '6 - 11',
+        cost:       1370
 
       },
 
@@ -1670,10 +1634,12 @@ module CdekApi
       '29-0-3-0' => {
 
         code:       997,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '6 - 11',
+        cost:       1370
 
       },
 
@@ -1681,10 +1647,12 @@ module CdekApi
       '29-13-0-37' => {
 
         code:       1949,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '6 - 11',
+        cost:       1370
 
       },
 
@@ -1692,10 +1660,12 @@ module CdekApi
       '29-16-0-122' => {
 
         code:       1957,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '6 - 11',
+        cost:       1370
 
       },
 
@@ -1703,10 +1673,12 @@ module CdekApi
       '29-17-0-1' => {
 
         code:       2341,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '6 - 11',
+        cost:       1370
 
       },
 
@@ -1714,10 +1686,12 @@ module CdekApi
       '29-14-0-4' => {
 
         code:       1950,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '6 - 11',
+        cost:       1370
 
       },
 
@@ -1725,10 +1699,12 @@ module CdekApi
       '29-16-0-1' => {
 
         code:       406,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '6 - 11',
+        cost:       1370
 
       },
 
@@ -1736,10 +1712,12 @@ module CdekApi
       '29-16-0-2' => {
 
         code:       2339,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '6 - 11',
+        cost:       1370
 
       },
 
@@ -1747,43 +1725,12 @@ module CdekApi
       '29-0-4-0' => {
 
         code:       996,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
-
-      },
-
-      # Икса
-      '29-16-0-76' => {
-
-        code:       13411,
-        address:    '',
-        phone:      '',
-        work_time:  '',
-        delivery:   ''
-
-      },
-
-      # Соловецкий
-      '29-20-0-1' => {
-
-        code:       13017,
-        address:    '',
-        phone:      '',
-        work_time:  '',
-        delivery:   ''
-
-      },
-
-      # Вандыш
-      '29-10-0-22' => {
-
-        code:       14317,
-        address:    '',
-        phone:      '',
-        work_time:  '',
-        delivery:   ''
+        delivery:   '6 - 11',
+        cost:       1370
 
       },
 
@@ -1791,10 +1738,12 @@ module CdekApi
       '29-18-0-1' => {
 
         code:       2338,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '6 - 11',
+        cost:       1370
 
       },
 
@@ -1802,10 +1751,12 @@ module CdekApi
       '29-0-1-0' => {
 
         code:       1956,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '6 - 11',
+        cost:       1370
 
       },
 
@@ -1813,10 +1764,12 @@ module CdekApi
       '29-8-0-30' => {
 
         code:       13726,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '6 - 11',
+        cost:       1370
 
       },
 
@@ -1824,10 +1777,12 @@ module CdekApi
       '30-0-1-0' => {
 
         code:       432,
+        tariff:     10,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '3 - 4',
+        cost:       810
 
       },
 
@@ -1835,10 +1790,12 @@ module CdekApi
       '30-2-1-0' => {
 
         code:       145,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '5 - 7',
+        cost:       1500
 
       },
 
@@ -1846,10 +1803,12 @@ module CdekApi
       '30-2-0-5' => {
 
         code:       2402,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '5 - 7',
+        cost:       1430
 
       },
 
@@ -1857,10 +1816,12 @@ module CdekApi
       '30-3-0-1' => {
 
         code:       2403,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '5 - 7',
+        cost:       1500
 
       },
 
@@ -1868,10 +1829,12 @@ module CdekApi
       '30-4-0-1' => {
 
         code:       2404,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '5 - 7',
+        cost:       1500
 
       },
 
@@ -1879,10 +1842,12 @@ module CdekApi
       '30-4-0-18' => {
 
         code:       2405,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '5 - 7',
+        cost:       1500
 
       },
 
@@ -1890,10 +1855,12 @@ module CdekApi
       '30-0-2-0' => {
 
         code:       2406,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '5 - 7',
+        cost:       1430
 
       },
 
@@ -1901,10 +1868,12 @@ module CdekApi
       '30-5-0-1' => {
 
         code:       2407,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '5 - 7',
+        cost:       1500
 
       },
 
@@ -1912,10 +1881,12 @@ module CdekApi
       '30-6-1-0' => {
 
         code:       2408,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '5 - 7',
+        cost:       1500
 
       },
 
@@ -1923,10 +1894,12 @@ module CdekApi
       '30-5-0-27' => {
 
         code:       2409,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '5 - 7',
+        cost:       1500
 
       },
 
@@ -1934,10 +1907,12 @@ module CdekApi
       '30-7-0-1' => {
 
         code:       13112,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '5 - 7',
+        cost:       1500
 
       },
 
@@ -1945,10 +1920,12 @@ module CdekApi
       '30-8-0-1' => {
 
         code:       2410,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '5 - 7',
+        cost:       1430
 
       },
 
@@ -1956,10 +1933,12 @@ module CdekApi
       '30-9-1-0' => {
 
         code:       2411,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '5 - 7',
+        cost:       1500
 
       },
 
@@ -1967,10 +1946,12 @@ module CdekApi
       '30-10-0-1' => {
 
         code:       2412,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '5 - 7',
+        cost:       1500
 
       },
 
@@ -1978,21 +1959,12 @@ module CdekApi
       '30-2-0-10' => {
 
         code:       2413,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
-
-      },
-
-      # Осыпной Бугор
-      '30-10-0-31' => {
-
-        code:       13287,
-        address:    '',
-        phone:      '',
-        work_time:  '',
-        delivery:   ''
+        delivery:   '5 - 7',
+        cost:       1430
 
       },
 
@@ -2000,10 +1972,12 @@ module CdekApi
       '30-2-0-24' => {
 
         code:       2414,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '5 - 7',
+        cost:       1430
 
       },
 
@@ -2011,10 +1985,12 @@ module CdekApi
       '30-11-1-0' => {
 
         code:       13121,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '5 - 7',
+        cost:       1430
 
       },
 
@@ -2022,10 +1998,12 @@ module CdekApi
       '30-12-0-1' => {
 
         code:       2415,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '5 - 7',
+        cost:       1500
 
       },
 
@@ -2033,10 +2011,12 @@ module CdekApi
       '2-1-0-50' => {
 
         code:       13097,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '2 - 4',
+        cost:       720
 
       },
 
@@ -2044,10 +2024,12 @@ module CdekApi
       '2-0-2-0' => {
 
         code:       634,
+        tariff:     137,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '5 - 7',
+        cost:       560
 
       },
 
@@ -2055,10 +2037,12 @@ module CdekApi
       '2-3-0-30' => {
 
         code:       1767,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '2 - 4',
+        cost:       720
 
       },
 
@@ -2066,10 +2050,12 @@ module CdekApi
       '2-9-0-11' => {
 
         code:       2416,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '2 - 4',
+        cost:       720
 
       },
 
@@ -2077,10 +2063,12 @@ module CdekApi
       '2-2-0-4' => {
 
         code:       2417,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '2 - 4',
+        cost:       720
 
       },
 
@@ -2088,10 +2076,12 @@ module CdekApi
       '2-6-0-76' => {
 
         code:       90,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '2 - 4',
+        cost:       720
 
       },
 
@@ -2099,10 +2089,12 @@ module CdekApi
       '2-48-0-1' => {
 
         code:       651,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '2 - 4',
+        cost:       720
 
       },
 
@@ -2110,10 +2102,12 @@ module CdekApi
       '2-12-0-12' => {
 
         code:       13136,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '2 - 4',
+        cost:       720
 
       },
 
@@ -2121,21 +2115,12 @@ module CdekApi
       '2-0-3-5' => {
 
         code:       13616,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
-
-      },
-
-      # Большекачаково
-      '2-27-0-25' => {
-
-        code:       13499,
-        address:    '',
-        phone:      '',
-        work_time:  '',
-        delivery:   ''
+        delivery:   '3 - 5',
+        cost:       1070
 
       },
 
@@ -2143,10 +2128,12 @@ module CdekApi
       '2-3-0-1' => {
 
         code:       663,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '2 - 4',
+        cost:       720
 
       },
 
@@ -2154,10 +2141,12 @@ module CdekApi
       '2-53-0-1' => {
 
         code:       648,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '2 - 4',
+        cost:       720
 
       },
 
@@ -2165,10 +2154,12 @@ module CdekApi
       '2-4-0-1' => {
 
         code:       661,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '2 - 4',
+        cost:       720
 
       },
 
@@ -2176,10 +2167,12 @@ module CdekApi
       '2-1-1-5' => {
 
         code:       13203,
+        tariff:     137,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '5 - 8',
+        cost:       500
 
       },
 
@@ -2187,10 +2180,12 @@ module CdekApi
       '2-6-1-0' => {
 
         code:       646,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '2 - 4',
+        cost:       720
 
       },
 
@@ -2198,10 +2193,12 @@ module CdekApi
       '2-7-0-1' => {
 
         code:       637,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '2 - 4',
+        cost:       720
 
       },
 
@@ -2209,10 +2206,12 @@ module CdekApi
       '2-9-1-0' => {
 
         code:       631,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '2 - 4',
+        cost:       720
 
       },
 
@@ -2220,10 +2219,12 @@ module CdekApi
       '2-11-1-0' => {
 
         code:       249,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '2 - 4',
+        cost:       720
 
       },
 
@@ -2231,10 +2232,12 @@ module CdekApi
       '2-12-0-1' => {
 
         code:       638,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '2 - 4',
+        cost:       720
 
       },
 
@@ -2242,10 +2245,12 @@ module CdekApi
       '2-13-1-0' => {
 
         code:       548,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '2 - 4',
+        cost:       720
 
       },
 
@@ -2253,10 +2258,12 @@ module CdekApi
       '2-15-0-2' => {
 
         code:       656,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '2 - 4',
+        cost:       720
 
       },
 
@@ -2264,10 +2271,12 @@ module CdekApi
       '2-36-0-1' => {
 
         code:       660,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '2 - 4',
+        cost:       720
 
       },
 
@@ -2275,10 +2284,12 @@ module CdekApi
       '2-16-0-1' => {
 
         code:       662,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '2 - 4',
+        cost:       720
 
       },
 
@@ -2286,10 +2297,12 @@ module CdekApi
       '2-17-0-1' => {
 
         code:       649,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '2 - 4',
+        cost:       720
 
       },
 
@@ -2297,10 +2310,12 @@ module CdekApi
       '2-19-0-37' => {
 
         code:       14307,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '2 - 4',
+        cost:       720
 
       },
 
@@ -2308,10 +2323,12 @@ module CdekApi
       '2-25-0-1' => {
 
         code:       654,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '2 - 4',
+        cost:       720
 
       },
 
@@ -2319,10 +2336,12 @@ module CdekApi
       '2-30-0-1' => {
 
         code:       643,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '2 - 4',
+        cost:       720
 
       },
 
@@ -2330,10 +2349,12 @@ module CdekApi
       '2-43-0-1' => {
 
         code:       667,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '2 - 4',
+        cost:       720
 
       },
 
@@ -2341,10 +2362,12 @@ module CdekApi
       '2-59-0-79' => {
 
         code:       658,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '2 - 4',
+        cost:       720
 
       },
 
@@ -2352,10 +2375,12 @@ module CdekApi
       '2-50-0-95' => {
 
         code:       13202,
+        tariff:     137,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '5 - 8',
+        cost:       500
 
       },
 
@@ -2363,10 +2388,12 @@ module CdekApi
       '2-13-1-0' => {
 
         code:       405,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '2 - 4',
+        cost:       720
 
       },
 
@@ -2374,10 +2401,12 @@ module CdekApi
       '2-21-0-1' => {
 
         code:       636,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '2 - 4',
+        cost:       720
 
       },
 
@@ -2385,10 +2414,12 @@ module CdekApi
       '2-33-0-1' => {
 
         code:       650,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '2 - 4',
+        cost:       720
 
       },
 
@@ -2396,10 +2427,12 @@ module CdekApi
       '2-1-0-18' => {
 
         code:       2418,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '2 - 4',
+        cost:       720
 
       },
 
@@ -2407,10 +2440,12 @@ module CdekApi
       '2-23-0-1' => {
 
         code:       647,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '2 - 4',
+        cost:       720
 
       },
 
@@ -2418,10 +2453,12 @@ module CdekApi
       '2-1-0-23' => {
 
         code:       13004,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '2 - 4',
+        cost:       650
 
       },
 
@@ -2429,10 +2466,12 @@ module CdekApi
       '2-24-0-1' => {
 
         code:       673,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '2 - 4',
+        cost:       720
 
       },
 
@@ -2440,10 +2479,12 @@ module CdekApi
       '2-22-0-1' => {
 
         code:       630,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '2 - 4',
+        cost:       720
 
       },
 
@@ -2451,10 +2492,12 @@ module CdekApi
       '2-26-1-0' => {
 
         code:       672,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '3 - 5',
+        cost:       1330
 
       },
 
@@ -2462,10 +2505,12 @@ module CdekApi
       '2-27-0-1' => {
 
         code:       668,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '2 - 4',
+        cost:       720
 
       },
 
@@ -2473,10 +2518,12 @@ module CdekApi
       '2-28-0-1' => {
 
         code:       639,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '2 - 4',
+        cost:       720
 
       },
 
@@ -2484,10 +2531,12 @@ module CdekApi
       '2-52-0-25' => {
 
         code:       13498,
+        tariff:     137,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '4 - 6',
+        cost:       420
 
       },
 
@@ -2495,10 +2544,12 @@ module CdekApi
       '2-29-0-1' => {
 
         code:       655,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '2 - 4',
+        cost:       720
 
       },
 
@@ -2506,10 +2557,12 @@ module CdekApi
       '2-38-0-1' => {
 
         code:       632,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '2 - 4',
+        cost:       720
 
       },
 
@@ -2517,10 +2570,12 @@ module CdekApi
       '2-39-0-1' => {
 
         code:       665,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '2 - 4',
+        cost:       720
 
       },
 
@@ -2528,10 +2583,12 @@ module CdekApi
       '2-19-0-1' => {
 
         code:       635,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '2 - 4',
+        cost:       720
 
       },
 
@@ -2539,21 +2596,12 @@ module CdekApi
       '2-39-0-6' => {
 
         code:       12998,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
-
-      },
-
-      # Кумертау
-      '2-0-7-0' => {
-
-        code:       653,
-        address:    '',
-        phone:      '',
-        work_time:  '',
-        delivery:   ''
+        delivery:   '2 - 4',
+        cost:       720
 
       },
 
@@ -2561,10 +2609,12 @@ module CdekApi
       '2-1-0-51' => {
 
         code:       1265,
+        tariff:     137,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '5 - 8',
+        cost:       570
 
       },
 
@@ -2572,10 +2622,12 @@ module CdekApi
       '2-34-0-1' => {
 
         code:       669,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '2 - 4',
+        cost:       720
 
       },
 
@@ -2583,10 +2635,12 @@ module CdekApi
       '2-43-0-27' => {
 
         code:       303,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '2 - 4',
+        cost:       720
 
       },
 
@@ -2594,10 +2648,12 @@ module CdekApi
       '2-38-0-46' => {
 
         code:       13205,
+        tariff:     137,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '5 - 8',
+        cost:       500
 
       },
 
@@ -2605,10 +2661,12 @@ module CdekApi
       '2-40-0-1' => {
 
         code:       666,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '2 - 4',
+        cost:       720
 
       },
 
@@ -2616,21 +2674,12 @@ module CdekApi
       '2-0-8-0' => {
 
         code:       2419,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
-
-      },
-
-      # Мелеуз
-      '2-35-1-0' => {
-
-        code:       946,
-        address:    '',
-        phone:      '',
-        work_time:  '',
-        delivery:   ''
+        delivery:   '2 - 4',
+        cost:       720
 
       },
 
@@ -2638,10 +2687,12 @@ module CdekApi
       '2-20-0-1' => {
 
         code:       1139,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '2 - 4',
+        cost:       720
 
       },
 
@@ -2649,10 +2700,12 @@ module CdekApi
       '2-20-0-32' => {
 
         code:       2420,
+        tariff:     137,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '5 - 8',
+        cost:       570
 
       },
 
@@ -2660,10 +2713,12 @@ module CdekApi
       '2-36-0-50' => {
 
         code:       644,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '2 - 4',
+        cost:       720
 
       },
 
@@ -2671,10 +2726,12 @@ module CdekApi
       '2-1-1-39' => {
 
         code:       1351,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '2 - 4',
+        cost:       720
 
       },
 
@@ -2682,10 +2739,12 @@ module CdekApi
       '2-32-0-1' => {
 
         code:       633,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '2 - 4',
+        cost:       720
 
       },
 
@@ -2693,10 +2752,12 @@ module CdekApi
       '2-0-3-0' => {
 
         code:       629,
+        tariff:     136,
         address:    'Ленина ул., д.8б',
         phone:      '8(34783) 4-400-4, 8-917-770-1920, 8-927-089-6845',
         work_time:  'пн.-пт. 9-19, об. 13-14, сб. 10-15',
-        delivery:   ''
+        delivery:   '5 - 6',
+        cost:       340
 
       },
 
@@ -2704,10 +2765,12 @@ module CdekApi
       '2-2-0-34' => {
 
         code:       2421,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '2 - 4',
+        cost:       720
 
       },
 
@@ -2715,10 +2778,12 @@ module CdekApi
       '2-31-0-1' => {
 
         code:       652,
+        tariff:     137,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '5 - 7',
+        cost:       380
 
       },
 
@@ -2726,10 +2791,12 @@ module CdekApi
       '2-10-0-1' => {
 
         code:       645,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '2 - 4',
+        cost:       720
 
       },
 
@@ -2737,10 +2804,12 @@ module CdekApi
       '2-36-0-38' => {
 
         code:       13382,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '3 - 5',
+        cost:       720
 
       },
 
@@ -2748,10 +2817,12 @@ module CdekApi
       '2-1-0-58' => {
 
         code:       2422,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '2 - 4',
+        cost:       720
 
       },
 
@@ -2759,10 +2830,12 @@ module CdekApi
       '2-0-4-0' => {
 
         code:       657,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '2 - 4',
+        cost:       720
 
       },
 
@@ -2770,10 +2843,12 @@ module CdekApi
       '2-29-0-4' => {
 
         code:       2423,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '2 - 4',
+        cost:       720
 
       },
 
@@ -2781,10 +2856,12 @@ module CdekApi
       '2-9-0-118' => {
 
         code:       13001,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '2 - 4',
+        cost:       720
 
       },
 
@@ -2792,10 +2869,12 @@ module CdekApi
       '2-2-0-1' => {
 
         code:       1138,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '2 - 4',
+        cost:       720
 
       },
 
@@ -2803,10 +2882,12 @@ module CdekApi
       '2-0-5-0' => {
 
         code:       111,
+        tariff:     11,
         address:    'Нуриманова ул, д.20л',
         phone:      '(927)953-70-72, (987)612-09-91',
         work_time:  'пн.-пт. 9-18, сб. 10-14',
-        delivery:   ''
+        delivery:   '2 - 4',
+        cost:       720
 
       },
 
@@ -2814,10 +2895,12 @@ module CdekApi
       '2-0-6-0' => {
 
         code:       664,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '2 - 4',
+        cost:       720
 
       },
 
@@ -2825,10 +2908,12 @@ module CdekApi
       '2-8-0-1' => {
 
         code:       1405,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '2 - 4',
+        cost:       720
 
       },
 
@@ -2836,10 +2921,12 @@ module CdekApi
       '2-18-0-1' => {
 
         code:       1406,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '2 - 4',
+        cost:       720
 
       },
 
@@ -2847,10 +2934,12 @@ module CdekApi
       '2-41-0-1' => {
 
         code:       671,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '2 - 4',
+        cost:       720
 
       },
 
@@ -2858,10 +2947,12 @@ module CdekApi
       '2-42-1-0' => {
 
         code:       257,
-        address:    '',
-        phone:      '',
-        work_time:  '',
-        delivery:   ''
+        tariff:     136,
+        address:    'Коммунистическая ул., д.46',
+        phone:      '(3473) 23-55-33',
+        work_time:  'пн-пт 9-18, сб 10-14',
+        delivery:   '5 - 8',
+        cost:       340
 
       },
 
@@ -2869,10 +2960,12 @@ module CdekApi
       '2-5-0-1' => {
 
         code:       640,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '2 - 4',
+        cost:       720
 
       },
 
@@ -2880,10 +2973,12 @@ module CdekApi
       '2-44-1-0' => {
 
         code:       628,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '2 - 4',
+        cost:       720
 
       },
 
@@ -2891,10 +2986,12 @@ module CdekApi
       '2-1-1-0' => {
 
         code:       256,
+        tariff:     136,
         address:    'Кирова ул, д.107',
         phone:      '(347) 224-20-91',
         work_time:  'пн.-пт. 9.00-18.30, сб. 10-14',
-        delivery:   ''
+        delivery:   '1 - 3',
+        cost:       160
 
       },
 
@@ -2902,10 +2999,12 @@ module CdekApi
       '2-46-1-0' => {
 
         code:       670,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '2 - 4',
+        cost:       720
 
       },
 
@@ -2913,10 +3012,12 @@ module CdekApi
       '2-47-0-1' => {
 
         code:       641,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '2 - 4',
+        cost:       720
 
       },
 
@@ -2924,10 +3025,12 @@ module CdekApi
       '2-34-0-69' => {
 
         code:       674,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '2 - 4',
+        cost:       720
 
       },
 
@@ -2935,10 +3038,12 @@ module CdekApi
       '2-1-0-78' => {
 
         code:       13204,
+        tariff:     137,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '5 - 8',
+        cost:       500
 
       },
 
@@ -2946,10 +3051,12 @@ module CdekApi
       '2-50-0-1' => {
 
         code:       675,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '2 - 4',
+        cost:       720
 
       },
 
@@ -2957,10 +3064,12 @@ module CdekApi
       '2-24-0-17' => {
 
         code:       13247,
+        tariff:     137,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '5 - 8',
+        cost:       500
 
       },
 
@@ -2968,10 +3077,12 @@ module CdekApi
       '2-51-0-1' => {
 
         code:       659,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '2 - 4',
+        cost:       720
 
       },
 
@@ -2979,10 +3090,12 @@ module CdekApi
       '2-32-0-24' => {
 
         code:       2424,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '2 - 4',
+        cost:       720
 
       },
 
@@ -2990,10 +3103,12 @@ module CdekApi
       '2-1-0-87' => {
 
         code:       2425,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '2 - 4',
+        cost:       720
 
       },
 
@@ -3001,10 +3116,12 @@ module CdekApi
       '2-14-0-1' => {
 
         code:       642,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '2 - 4',
+        cost:       720
 
       },
 
@@ -3012,10 +3129,12 @@ module CdekApi
       '2-52-1-0' => {
 
         code:       2345,
+        tariff:     137,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '5 - 8',
+        cost:       760
 
       },
 
@@ -3023,10 +3142,12 @@ module CdekApi
       '31-2-1-0' => {
 
         code:       342,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '4 - 7',
+        cost:       1180
 
       },
 
@@ -3034,10 +3155,12 @@ module CdekApi
       '31-0-1-0' => {
 
         code:       337,
+        tariff:     136,
         address:    'Попова ул., д.76а',
         phone:      '(4722)500-290, 903-642-02-90',
         work_time:  'пн.-пт. 9:00 - 17:30, сб.9-14, вс. 14-18',
-        delivery:   ''
+        delivery:   '4 - 6',
+        cost:       335
 
       },
 
@@ -3045,10 +3168,12 @@ module CdekApi
       '31-12-0-53' => {
 
         code:       2065,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '4 - 7',
+        cost:       1180
 
       },
 
@@ -3056,10 +3181,12 @@ module CdekApi
       '31-3-0-1' => {
 
         code:       2471,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '4 - 7',
+        cost:       1180
 
       },
 
@@ -3067,10 +3194,12 @@ module CdekApi
       '31-4-1-0' => {
 
         code:       344,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '4 - 7',
+        cost:       1180
 
       },
 
@@ -3078,10 +3207,12 @@ module CdekApi
       '31-5-0-1' => {
 
         code:       2477,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '4 - 7',
+        cost:       1180
 
       },
 
@@ -3089,10 +3220,12 @@ module CdekApi
       '31-22-0-16' => {
 
         code:       338,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '4 - 7',
+        cost:       1180
 
       },
 
@@ -3100,10 +3233,12 @@ module CdekApi
       '31-6-0-1' => {
 
         code:       2475,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '4 - 7',
+        cost:       1180
 
       },
 
@@ -3111,10 +3246,12 @@ module CdekApi
       '31-7-0-7' => {
 
         code:       2064,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '4 - 7',
+        cost:       1180
 
       },
 
@@ -3122,10 +3259,12 @@ module CdekApi
       '31-0-4-0' => {
 
         code:       1230,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '4 - 7',
+        cost:       620
 
       },
 
@@ -3133,10 +3272,12 @@ module CdekApi
       '31-22-0-24' => {
 
         code:       2071,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '4 - 7',
+        cost:       1180
 
       },
 
@@ -3144,10 +3285,12 @@ module CdekApi
       '31-10-1-0' => {
 
         code:       2472,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '4 - 7',
+        cost:       1180
 
       },
 
@@ -3155,10 +3298,12 @@ module CdekApi
       '31-13-0-1' => {
 
         code:       2066,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '4 - 7',
+        cost:       1180
 
       },
 
@@ -3166,10 +3311,12 @@ module CdekApi
       '31-22-0-34' => {
 
         code:       131,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '4 - 7',
+        cost:       1180
 
       },
 
@@ -3177,21 +3324,12 @@ module CdekApi
       '31-18-0-12' => {
 
         code:       39,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
-
-      },
-
-      # Архангельское
-      '31-20-0-6' => {
-
-        code:       13927,
-        address:    '',
-        phone:      '',
-        work_time:  '',
-        delivery:   ''
+        delivery:   '4 - 7',
+        cost:       1180
 
       },
 
@@ -3199,10 +3337,12 @@ module CdekApi
       '31-14-1-0' => {
 
         code:       341,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '4 - 7',
+        cost:       1180
 
       },
 
@@ -3210,10 +3350,12 @@ module CdekApi
       '31-22-0-13' => {
 
         code:       2067,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '4 - 7',
+        cost:       1180
 
       },
 
@@ -3221,10 +3363,12 @@ module CdekApi
       '31-16-0-13' => {
 
         code:       2072,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '4 - 7',
+        cost:       1180
 
       },
 
@@ -3232,10 +3376,12 @@ module CdekApi
       '31-15-0-1' => {
 
         code:       2473,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '4 - 7',
+        cost:       1180
 
       },
 
@@ -3243,10 +3389,12 @@ module CdekApi
       '31-6-0-31' => {
 
         code:       2068,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '4 - 7',
+        cost:       1180
 
       },
 
@@ -3254,10 +3402,12 @@ module CdekApi
       '31-22-0-30' => {
 
         code:       2069,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '4 - 7',
+        cost:       1180
 
       },
 
@@ -3265,10 +3415,12 @@ module CdekApi
       '31-16-0-1' => {
 
         code:       2476,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '4 - 7',
+        cost:       1180
 
       },
 
@@ -3276,10 +3428,12 @@ module CdekApi
       '31-17-0-1' => {
 
         code:       2478,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '4 - 7',
+        cost:       1180
 
       },
 
@@ -3287,10 +3441,12 @@ module CdekApi
       '31-22-0-73' => {
 
         code:       2073,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '4 - 7',
+        cost:       1180
 
       },
 
@@ -3298,10 +3454,12 @@ module CdekApi
       '31-0-1-0' => {
 
         code:       372,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '4 - 7',
+        cost:       1180
 
       },
 
@@ -3309,10 +3467,12 @@ module CdekApi
       '31-0-2-0' => {
 
         code:       132,
+        tariff:     136,
         address:    'Металлургов пр., д.6, оф.12',
         phone:      '(4725) 48-72-78; 8-910-329-10-19',
         work_time:  'пн.-пт. 9-18',
-        delivery:   ''
+        delivery:   '4 - 6',
+        cost:       335
 
       },
 
@@ -3320,10 +3480,12 @@ module CdekApi
       '31-21-1-0' => {
 
         code:       2474,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '4 - 7',
+        cost:       1180
 
       },
 
@@ -3331,10 +3493,12 @@ module CdekApi
       '31-0-3-0' => {
 
         code:       957,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '4 - 7',
+        cost:       1180
 
       },
 
@@ -3342,10 +3506,12 @@ module CdekApi
       '32-0-1-0' => {
 
         code:       2309,
+        tariff:     137,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '6 - 9',
+        cost:       745
 
       },
 
@@ -3353,10 +3519,12 @@ module CdekApi
       '32-0-1-0' => {
 
         code:       2328,
+        tariff:     137,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '6 - 9',
+        cost:       745
 
       },
 
@@ -3364,10 +3532,12 @@ module CdekApi
       '32-2-0-1' => {
 
         code:       2310,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '4 - 7',
+        cost:       1370
 
       },
 
@@ -3375,10 +3545,12 @@ module CdekApi
       '32-0-1-0' => {
 
         code:       220,
+        tariff:     136,
         address:    'Трудовая, д.5',
         phone:      '(4832) 777124,777129',
         work_time:  'пн.-пт. 9-18, сб. 9-12',
-        delivery:   ''
+        delivery:   '4 - 6',
+        cost:       335
 
       },
 
@@ -3386,21 +3558,12 @@ module CdekApi
       '32-3-0-1' => {
 
         code:       2311,
+        tariff:     137,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
-
-      },
-
-      # Балдыж
-      '32-1-0-4' => {
-
-        code:       3223,
-        address:    '',
-        phone:      '',
-        work_time:  '',
-        delivery:   ''
+        delivery:   '6 - 9',
+        cost:       745
 
       },
 
@@ -3408,10 +3571,12 @@ module CdekApi
       '32-1-0-25' => {
 
         code:       2327,
+        tariff:     137,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '6 - 9',
+        cost:       745
 
       },
 
@@ -3419,10 +3584,12 @@ module CdekApi
       '32-5-0-1' => {
 
         code:       2312,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '4 - 7',
+        cost:       1370
 
       },
 
@@ -3430,10 +3597,12 @@ module CdekApi
       '32-6-0-7' => {
 
         code:       2301,
+        tariff:     137,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '6 - 9',
+        cost:       745
 
       },
 
@@ -3441,10 +3610,12 @@ module CdekApi
       '32-23-0-11' => {
 
         code:       97,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '4 - 7',
+        cost:       1370
 
       },
 
@@ -3452,10 +3623,12 @@ module CdekApi
       '32-7-0-1' => {
 
         code:       2324,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '4 - 7',
+        cost:       1370
 
       },
 
@@ -3463,10 +3636,12 @@ module CdekApi
       '32-8-0-18' => {
 
         code:       2313,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '4 - 7',
+        cost:       1370
 
       },
 
@@ -3474,10 +3649,12 @@ module CdekApi
       '32-9-0-29' => {
 
         code:       2302,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '4 - 7',
+        cost:       1370
 
       },
 
@@ -3485,10 +3662,12 @@ module CdekApi
       '32-10-0-84' => {
 
         code:       2303,
+        tariff:     137,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '6 - 9',
+        cost:       745
 
       },
 
@@ -3496,10 +3675,12 @@ module CdekApi
       '32-11-0-1' => {
 
         code:       2317,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '4 - 7',
+        cost:       1370
 
       },
 
@@ -3507,10 +3688,12 @@ module CdekApi
       '32-12-0-1' => {
 
         code:       2315,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '4 - 7',
+        cost:       1370
 
       },
 
@@ -3518,10 +3701,12 @@ module CdekApi
       '32-0-3-0' => {
 
         code:       416,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '4 - 7',
+        cost:       1370
 
       },
 
@@ -3529,10 +3714,12 @@ module CdekApi
       '32-23-0-18' => {
 
         code:       166,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '4 - 7',
+        cost:       1370
 
       },
 
@@ -3540,10 +3727,12 @@ module CdekApi
       '32-14-0-1' => {
 
         code:       2314,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '4 - 7',
+        cost:       1370
 
       },
 
@@ -3551,32 +3740,12 @@ module CdekApi
       '32-15-0-1' => {
 
         code:       2316,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
-
-      },
-
-      # Верный Путь
-      '32-1-0-14' => {
-
-        code:       13431,
-        address:    '',
-        phone:      '',
-        work_time:  '',
-        delivery:   ''
-
-      },
-
-      # Локоть
-      '32-2-0-1' => {
-
-        code:       3222,
-        address:    '',
-        phone:      '',
-        work_time:  '',
-        delivery:   ''
+        delivery:   '4 - 7',
+        cost:       1370
 
       },
 
@@ -3584,10 +3753,12 @@ module CdekApi
       '32-16-1-0' => {
 
         code:       2318,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '4 - 7',
+        cost:       1370
 
       },
 
@@ -3595,10 +3766,12 @@ module CdekApi
       '32-1-0-45' => {
 
         code:       13364,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '4 - 7',
+        cost:       1370
 
       },
 
@@ -3606,10 +3779,12 @@ module CdekApi
       '32-17-0-1' => {
 
         code:       2319,
+        tariff:     137,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '6 - 9',
+        cost:       745
 
       },
 
@@ -3617,21 +3792,12 @@ module CdekApi
       '32-0-4-0' => {
 
         code:       418,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
-
-      },
-
-      # Елисеевичи
-      '32-1-0-29' => {
-
-        code:       13068,
-        address:    '',
-        phone:      '',
-        work_time:  '',
-        delivery:   ''
+        delivery:   '4 - 7',
+        cost:       1370
 
       },
 
@@ -3639,10 +3805,12 @@ module CdekApi
       '32-19-0-1' => {
 
         code:       2304,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '4 - 7',
+        cost:       1370
 
       },
 
@@ -3650,10 +3818,12 @@ module CdekApi
       '32-20-0-65' => {
 
         code:       1882,
+        tariff:     137,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '6 - 9',
+        cost:       745
 
       },
 
@@ -3661,10 +3831,12 @@ module CdekApi
       '32-5-0-59' => {
 
         code:       2320,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '4 - 7',
+        cost:       1370
 
       },
 
@@ -3672,10 +3844,12 @@ module CdekApi
       '32-22-0-22' => {
 
         code:       2321,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '4 - 7',
+        cost:       1370
 
       },
 
@@ -3683,10 +3857,12 @@ module CdekApi
       '32-0-2-0' => {
 
         code:       2305,
+        tariff:     137,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '6 - 9',
+        cost:       745
 
       },
 
@@ -3694,10 +3870,12 @@ module CdekApi
       '32-23-0-9' => {
 
         code:       2306,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '4 - 7',
+        cost:       1370
 
       },
 
@@ -3705,10 +3883,12 @@ module CdekApi
       '32-24-0-1' => {
 
         code:       2322,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '4 - 7',
+        cost:       1370
 
       },
 
@@ -3716,10 +3896,12 @@ module CdekApi
       '32-1-0-2' => {
 
         code:       2326,
+        tariff:     137,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '6 - 9',
+        cost:       745
 
       },
 
@@ -3727,10 +3909,12 @@ module CdekApi
       '32-25-0-37' => {
 
         code:       2307,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '4 - 7',
+        cost:       1370
 
       },
 
@@ -3738,10 +3922,12 @@ module CdekApi
       '32-26-0-45' => {
 
         code:       2323,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '4 - 7',
+        cost:       1370
 
       },
 
@@ -3749,10 +3935,12 @@ module CdekApi
       '32-27-0-67' => {
 
         code:       2308,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '4 - 7',
+        cost:       1370
 
       },
 
@@ -3760,21 +3948,12 @@ module CdekApi
       '32-6-2-0' => {
 
         code:       2325,
+        tariff:     137,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
-
-      },
-
-      # Аршан
-      '3-20-0-2' => {
-
-        code:       13475,
-        address:    '',
-        phone:      '',
-        work_time:  '',
-        delivery:   ''
+        delivery:   '6 - 9',
+        cost:       745
 
       },
 
@@ -3782,10 +3961,12 @@ module CdekApi
       '3-9-0-40' => {
 
         code:       2426,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '5 - 8',
+        cost:       1980
 
       },
 
@@ -3793,10 +3974,12 @@ module CdekApi
       '3-2-0-1' => {
 
         code:       2427,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '5 - 8',
+        cost:       1980
 
       },
 
@@ -3804,10 +3987,12 @@ module CdekApi
       '3-22-0-1' => {
 
         code:       2428,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '5 - 8',
+        cost:       1980
 
       },
 
@@ -3815,10 +4000,12 @@ module CdekApi
       '3-16-0-6' => {
 
         code:       2429,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '5 - 8',
+        cost:       1980
 
       },
 
@@ -3826,10 +4013,12 @@ module CdekApi
       '3-8-0-5' => {
 
         code:       2430,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '5 - 8',
+        cost:       1980
 
       },
 
@@ -3837,10 +4026,12 @@ module CdekApi
       '3-18-1-0' => {
 
         code:       544,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '5 - 8',
+        cost:       1980
 
       },
 
@@ -3848,10 +4039,12 @@ module CdekApi
       '3-0-1-0' => {
 
         code:       2431,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '5 - 8',
+        cost:       1980
 
       },
 
@@ -3859,10 +4052,12 @@ module CdekApi
       '3-0-1-30' => {
 
         code:       2432,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '5 - 8',
+        cost:       1980
 
       },
 
@@ -3870,10 +4065,12 @@ module CdekApi
       '3-6-0-1' => {
 
         code:       2433,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '5 - 8',
+        cost:       1980
 
       },
 
@@ -3881,10 +4078,12 @@ module CdekApi
       '3-7-1-0' => {
 
         code:       2434,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '5 - 8',
+        cost:       1980
 
       },
 
@@ -3892,10 +4091,12 @@ module CdekApi
       '3-0-1-0' => {
 
         code:       2435,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '5 - 8',
+        cost:       1980
 
       },
 
@@ -3903,10 +4104,12 @@ module CdekApi
       '3-8-0-1' => {
 
         code:       1408,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '5 - 8',
+        cost:       1980
 
       },
 
@@ -3914,10 +4117,12 @@ module CdekApi
       '3-9-0-1' => {
 
         code:       2436,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '5 - 8',
+        cost:       1980
 
       },
 
@@ -3925,10 +4130,12 @@ module CdekApi
       '3-9-0-1' => {
 
         code:       2437,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '5 - 8',
+        cost:       1980
 
       },
 
@@ -3936,10 +4143,12 @@ module CdekApi
       '3-9-0-19' => {
 
         code:       2438,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '5 - 8',
+        cost:       1980
 
       },
 
@@ -3947,10 +4156,12 @@ module CdekApi
       '3-11-0-1' => {
 
         code:       2439,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '5 - 8',
+        cost:       1980
 
       },
 
@@ -3958,10 +4169,12 @@ module CdekApi
       '3-12-0-6' => {
 
         code:       2440,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '5 - 8',
+        cost:       1980
 
       },
 
@@ -3969,10 +4182,12 @@ module CdekApi
       '3-12-0-17' => {
 
         code:       2442,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '5 - 8',
+        cost:       1980
 
       },
 
@@ -3980,10 +4195,12 @@ module CdekApi
       '3-17-0-1' => {
 
         code:       24,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '5 - 8',
+        cost:       1980
 
       },
 
@@ -3991,10 +4208,12 @@ module CdekApi
       '3-6-0-17' => {
 
         code:       2443,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '5 - 8',
+        cost:       1980
 
       },
 
@@ -4002,10 +4221,12 @@ module CdekApi
       '3-19-0-7' => {
 
         code:       2444,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '5 - 8',
+        cost:       1980
 
       },
 
@@ -4013,10 +4234,12 @@ module CdekApi
       '3-8-0-1' => {
 
         code:       2445,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '5 - 8',
+        cost:       1980
 
       },
 
@@ -4024,10 +4247,12 @@ module CdekApi
       '3-10-0-14' => {
 
         code:       2446,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '5 - 8',
+        cost:       1980
 
       },
 
@@ -4035,10 +4260,12 @@ module CdekApi
       '3-6-0-21' => {
 
         code:       2447,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '5 - 8',
+        cost:       1980
 
       },
 
@@ -4046,10 +4273,12 @@ module CdekApi
       '3-14-0-15' => {
 
         code:       2448,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '5 - 8',
+        cost:       1980
 
       },
 
@@ -4057,10 +4286,12 @@ module CdekApi
       '3-0-2-0' => {
 
         code:       543,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '5 - 8',
+        cost:       1980
 
       },
 
@@ -4068,10 +4299,12 @@ module CdekApi
       '3-9-0-55' => {
 
         code:       2360,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '5 - 8',
+        cost:       1980
 
       },
 
@@ -4079,10 +4312,12 @@ module CdekApi
       '3-0-1-35' => {
 
         code:       2449,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '5 - 8',
+        cost:       1980
 
       },
 
@@ -4090,10 +4325,12 @@ module CdekApi
       '3-8-0-18' => {
 
         code:       2450,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '5 - 8',
+        cost:       1980
 
       },
 
@@ -4101,10 +4338,12 @@ module CdekApi
       '3-8-0-19' => {
 
         code:       2451,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '5 - 8',
+        cost:       1980
 
       },
 
@@ -4112,10 +4351,12 @@ module CdekApi
       '3-13-0-1' => {
 
         code:       2452,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '5 - 8',
+        cost:       1980
 
       },
 
@@ -4123,10 +4364,12 @@ module CdekApi
       '3-16-0-30' => {
 
         code:       2453,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '5 - 8',
+        cost:       1980
 
       },
 
@@ -4134,10 +4377,12 @@ module CdekApi
       '3-0-1-0' => {
 
         code:       2454,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '5 - 8',
+        cost:       1980
 
       },
 
@@ -4145,10 +4390,12 @@ module CdekApi
       '3-16-0-1' => {
 
         code:       2455,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '5 - 8',
+        cost:       1980
 
       },
 
@@ -4156,10 +4403,12 @@ module CdekApi
       '3-0-1-0' => {
 
         code:       230,
+        tariff:     136,
         address:    'Советская ул., д.28, оф.233',
         phone:      '(3012) 68-08-85, (3012) 22-30-82',
         work_time:  'пн.-пт. 10-18',
-        delivery:   ''
+        delivery:   '5 - 8',
+        cost:       415
 
       },
 
@@ -4167,10 +4416,12 @@ module CdekApi
       '33-2-0-49' => {
 
         code:       1196,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '4 - 6',
+        cost:       1440
 
       },
 
@@ -4178,10 +4429,12 @@ module CdekApi
       '33-16-0-2' => {
 
         code:       13811,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '3 - 4',
+        cost:       1300
 
       },
 
@@ -4189,10 +4442,12 @@ module CdekApi
       '33-0-1-0' => {
 
         code:       94,
-        address:    '',
-        phone:      '',
-        work_time:  '',
-        delivery:   ''
+        tariff:     136,
+        address:    'Чайковского ул., д.21а',
+        phone:      '(4922) 377003',
+        work_time:  'пн.-пт. 9-18, сб. 10-14',
+        delivery:   '4 - 6',
+        cost:       335
 
       },
 
@@ -4200,10 +4455,12 @@ module CdekApi
       '33-0-3-0' => {
 
         code:       460,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '4 - 6',
+        cost:       1340
 
       },
 
@@ -4211,10 +4468,12 @@ module CdekApi
       '33-2-0-14' => {
 
         code:       312,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '4 - 6',
+        cost:       1300
 
       },
 
@@ -4222,10 +4481,12 @@ module CdekApi
       '33-7-0-8' => {
 
         code:       13000,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '4 - 6',
+        cost:       1440
 
       },
 
@@ -4233,10 +4494,12 @@ module CdekApi
       '33-0-4-0' => {
 
         code:       294,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '4 - 6',
+        cost:       1340
 
       },
 
@@ -4244,10 +4507,12 @@ module CdekApi
       '33-9-1-0' => {
 
         code:       492,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '4 - 6',
+        cost:       1440
 
       },
 
@@ -4255,10 +4520,12 @@ module CdekApi
       '33-14-2-0' => {
 
         code:       2479,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '3 - 4',
+        cost:       1300
 
       },
 
@@ -4266,10 +4533,12 @@ module CdekApi
       '33-10-0-104' => {
 
         code:       13461,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '4 - 6',
+        cost:       1480
 
       },
 
@@ -4277,10 +4546,12 @@ module CdekApi
       '33-3-0-9' => {
 
         code:       2487,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '4 - 6',
+        cost:       1370
 
       },
 
@@ -4288,10 +4559,12 @@ module CdekApi
       '33-0-5-0' => {
 
         code:       1759,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '4 - 6',
+        cost:       1370
 
       },
 
@@ -4299,10 +4572,12 @@ module CdekApi
       '33-12-0-25' => {
 
         code:       2484,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '4 - 6',
+        cost:       1340
 
       },
 
@@ -4310,10 +4585,12 @@ module CdekApi
       '33-12-0-35' => {
 
         code:       940,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '4 - 6',
+        cost:       1370
 
       },
 
@@ -4321,10 +4598,12 @@ module CdekApi
       '33-0-2-0' => {
 
         code:       2480,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '3 - 4',
+        cost:       1300
 
       },
 
@@ -4332,10 +4611,12 @@ module CdekApi
       '33-14-0-19' => {
 
         code:       14293,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '4 - 6',
+        cost:       1360
 
       },
 
@@ -4343,10 +4624,12 @@ module CdekApi
       '33-2-0-45' => {
 
         code:       13291,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '4 - 6',
+        cost:       1480
 
       },
 
@@ -4354,10 +4637,12 @@ module CdekApi
       '33-15-0-43' => {
 
         code:       2396,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '4 - 6',
+        cost:       1360
 
       },
 
@@ -4365,10 +4650,12 @@ module CdekApi
       '33-16-0-155' => {
 
         code:       42,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '3 - 4',
+        cost:       1260
 
       },
 
@@ -4376,10 +4663,12 @@ module CdekApi
       '33-15-0-30' => {
 
         code:       2482,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '3 - 4',
+        cost:       1260
 
       },
 
@@ -4387,10 +4676,12 @@ module CdekApi
       '33-17-0-4' => {
 
         code:       2485,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '4 - 6',
+        cost:       1440
 
       },
 
@@ -4398,10 +4689,12 @@ module CdekApi
       '33-0-1-5' => {
 
         code:       2483,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '4 - 6',
+        cost:       1300
 
       },
 
@@ -4409,10 +4702,12 @@ module CdekApi
       '34-22-0-3' => {
 
         code:       1228,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '4 - 6',
+        cost:       1180
 
       },
 
@@ -4420,10 +4715,12 @@ module CdekApi
       '34-0-1-23' => {
 
         code:       13173,
+        tariff:     137,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '7 - 10',
+        cost:       260
 
       },
 
@@ -4431,10 +4728,12 @@ module CdekApi
       '34-0-1-25' => {
 
         code:       13177,
+        tariff:     137,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '7 - 10',
+        cost:       260
 
       },
 
@@ -4442,10 +4741,12 @@ module CdekApi
       '34-0-1-9' => {
 
         code:       13179,
+        tariff:     137,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '7 - 10',
+        cost:       260
 
       },
 
@@ -4453,10 +4754,12 @@ module CdekApi
       '34-0-1-0' => {
 
         code:       426,
+        tariff:     136,
         address:    'Чуйкова маршала ул., д.55',
         phone:      '+7 (8442) 551-500, 551-501, 551-505, +7-995-408-6658',
         work_time:  'пн.-пт. 9-18, сб. 10-14',
-        delivery:   ''
+        delivery:   '5 - 6',
+        cost:       340
 
       },
 
@@ -4464,10 +4767,12 @@ module CdekApi
       '34-0-2-0' => {
 
         code:       427,
+        tariff:     137,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '7 - 10',
+        cost:       330
 
       },
 
@@ -4475,10 +4780,12 @@ module CdekApi
       '34-0-1-16' => {
 
         code:       13180,
+        tariff:     137,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '7 - 10',
+        cost:       260
 
       },
 
@@ -4486,10 +4793,12 @@ module CdekApi
       '34-0-1-14' => {
 
         code:       13182,
+        tariff:     137,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '7 - 10',
+        cost:       260
 
       },
 
@@ -4497,10 +4806,12 @@ module CdekApi
       '34-4-0-1' => {
 
         code:       2456,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '4 - 6',
+        cost:       1180
 
       },
 
@@ -4508,10 +4819,12 @@ module CdekApi
       '34-0-1-8' => {
 
         code:       1024,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '4 - 6',
+        cost:       1180
 
       },
 
@@ -4519,10 +4832,12 @@ module CdekApi
       '34-0-1-1' => {
 
         code:       13172,
+        tariff:     137,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '7 - 10',
+        cost:       260
 
       },
 
@@ -4530,10 +4845,12 @@ module CdekApi
       '34-34-0-1' => {
 
         code:       13174,
+        tariff:     137,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '7 - 10',
+        cost:       260
 
       },
 
@@ -4541,10 +4858,12 @@ module CdekApi
       '34-5-0-1' => {
 
         code:       2460,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '4 - 6',
+        cost:       1180
 
       },
 
@@ -4552,10 +4871,12 @@ module CdekApi
       '34-11-0-19' => {
 
         code:       324,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '4 - 6',
+        cost:       1180
 
       },
 
@@ -4563,10 +4884,12 @@ module CdekApi
       '34-7-0-1' => {
 
         code:       2461,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '4 - 6',
+        cost:       1180
 
       },
 
@@ -4574,10 +4897,12 @@ module CdekApi
       '34-8-1-0' => {
 
         code:       1573,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '3 - 6',
+        cost:       1180
 
       },
 
@@ -4585,10 +4910,12 @@ module CdekApi
       '34-0-1-10' => {
 
         code:       13178,
+        tariff:     137,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '7 - 10',
+        cost:       260
 
       },
 
@@ -4596,10 +4923,12 @@ module CdekApi
       '34-9-0-1' => {
 
         code:       1572,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '4 - 6',
+        cost:       1180
 
       },
 
@@ -4607,10 +4936,12 @@ module CdekApi
       '34-0-3-0' => {
 
         code:       1025,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '4 - 6',
+        cost:       1180
 
       },
 
@@ -4618,10 +4949,12 @@ module CdekApi
       '34-14-1-0' => {
 
         code:       1577,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '4 - 6',
+        cost:       1180
 
       },
 
@@ -4629,10 +4962,12 @@ module CdekApi
       '34-0-1-19' => {
 
         code:       13175,
+        tariff:     137,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '7 - 10',
+        cost:       260
 
       },
 
@@ -4640,10 +4975,12 @@ module CdekApi
       '34-17-0-34' => {
 
         code:       2458,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '4 - 6',
+        cost:       1180
 
       },
 
@@ -4651,10 +4988,12 @@ module CdekApi
       '34-8-0-17' => {
 
         code:       1960,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '4 - 6',
+        cost:       1180
 
       },
 
@@ -4662,10 +5001,12 @@ module CdekApi
       '34-0-1-18' => {
 
         code:       13183,
+        tariff:     137,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '7 - 10',
+        cost:       260
 
       },
 
@@ -4673,10 +5014,12 @@ module CdekApi
       '34-0-4-0' => {
 
         code:       1232,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '4 - 6',
+        cost:       1180
 
       },
 
@@ -4684,10 +5027,12 @@ module CdekApi
       '34-34-0-23' => {
 
         code:       1144,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '4 - 6',
+        cost:       1180
 
       },
 
@@ -4695,10 +5040,12 @@ module CdekApi
       '34-9-0-27' => {
 
         code:       13185,
+        tariff:     137,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '7 - 10',
+        cost:       260
 
       },
 
@@ -4706,10 +5053,12 @@ module CdekApi
       '34-11-2-0' => {
 
         code:       2459,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '4 - 6',
+        cost:       1180
 
       },
 
@@ -4717,10 +5066,12 @@ module CdekApi
       '34-25-0-1' => {
 
         code:       13124,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '3 - 5',
+        cost:       1055
 
       },
 
@@ -4728,10 +5079,12 @@ module CdekApi
       '34-26-0-1' => {
 
         code:       155,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '4 - 6',
+        cost:       1180
 
       },
 
@@ -4739,10 +5092,12 @@ module CdekApi
       '34-0-1-30' => {
 
         code:       13184,
+        tariff:     137,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '7 - 10',
+        cost:       260
 
       },
 
@@ -4750,10 +5105,12 @@ module CdekApi
       '34-28-0-1' => {
 
         code:       2457,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '4 - 6',
+        cost:       1180
 
       },
 
@@ -4761,10 +5118,12 @@ module CdekApi
       '34-0-5-0' => {
 
         code:       1542,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '4 - 6',
+        cost:       1180
 
       },
 
@@ -4772,10 +5131,12 @@ module CdekApi
       '34-0-6-0' => {
 
         code:       1026,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '4 - 6',
+        cost:       1180
 
       },
 
@@ -4783,10 +5144,12 @@ module CdekApi
       '35-2-0-359' => {
 
         code:       2023,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '4 - 7',
+        cost:       1330
 
       },
 
@@ -4794,10 +5157,12 @@ module CdekApi
       '35-4-1-0' => {
 
         code:       2024,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '4 - 7',
+        cost:       1330
 
       },
 
@@ -4805,10 +5170,12 @@ module CdekApi
       '35-6-0-474' => {
 
         code:       992,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '4 - 7',
+        cost:       1360
 
       },
 
@@ -4816,10 +5183,12 @@ module CdekApi
       '35-7-0-1' => {
 
         code:       2026,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '4 - 7',
+        cost:       1330
 
       },
 
@@ -4827,10 +5196,12 @@ module CdekApi
       '35-8-0-1' => {
 
         code:       2027,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '4 - 7',
+        cost:       1330
 
       },
 
@@ -4838,10 +5209,12 @@ module CdekApi
       '35-0-1-0' => {
 
         code:       246,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '2 - 4',
+        cost:       960
 
       },
 
@@ -4849,10 +5222,12 @@ module CdekApi
       '35-9-0-122' => {
 
         code:       2028,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '4 - 7',
+        cost:       1330
 
       },
 
@@ -4860,10 +5235,12 @@ module CdekApi
       '35-10-0-330' => {
 
         code:       2029,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '4 - 7',
+        cost:       1330
 
       },
 
@@ -4871,10 +5248,12 @@ module CdekApi
       '35-1-0-184' => {
 
         code:       2462,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '4 - 7',
+        cost:       1330
 
       },
 
@@ -4882,10 +5261,12 @@ module CdekApi
       '35-17-0-13' => {
 
         code:       2045,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '4 - 7',
+        cost:       1330
 
       },
 
@@ -4893,10 +5274,12 @@ module CdekApi
       '35-11-0-1' => {
 
         code:       2030,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '4 - 7',
+        cost:       1330
 
       },
 
@@ -4904,10 +5287,12 @@ module CdekApi
       '35-26-0-17' => {
 
         code:       1112,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '4 - 7',
+        cost:       1330
 
       },
 
@@ -4915,10 +5300,12 @@ module CdekApi
       '35-1-0-6' => {
 
         code:       2463,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '4 - 7',
+        cost:       1330
 
       },
 
@@ -4926,10 +5313,12 @@ module CdekApi
       '35-12-1-0' => {
 
         code:       2031,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '4 - 7',
+        cost:       1330
 
       },
 
@@ -4937,10 +5326,12 @@ module CdekApi
       '35-13-0-1' => {
 
         code:       2032,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '4 - 7',
+        cost:       1330
 
       },
 
@@ -4948,10 +5339,12 @@ module CdekApi
       '35-6-0-29' => {
 
         code:       2043,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '4 - 7',
+        cost:       1330
 
       },
 
@@ -4959,10 +5352,12 @@ module CdekApi
       '35-5-0-1' => {
 
         code:       2025,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '4 - 7',
+        cost:       1330
 
       },
 
@@ -4970,10 +5365,12 @@ module CdekApi
       '35-0-1-2' => {
 
         code:       2464,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '4 - 7',
+        cost:       1330
 
       },
 
@@ -4981,10 +5378,12 @@ module CdekApi
       '35-15-1-0' => {
 
         code:       2033,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '4 - 7',
+        cost:       1330
 
       },
 
@@ -4992,10 +5391,12 @@ module CdekApi
       '35-6-0-14' => {
 
         code:       2467,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '4 - 7',
+        cost:       1330
 
       },
 
@@ -5003,10 +5404,12 @@ module CdekApi
       '35-16-0-1' => {
 
         code:       2034,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '4 - 7',
+        cost:       1330
 
       },
 
@@ -5014,10 +5417,12 @@ module CdekApi
       '35-0-1-0' => {
 
         code:       1325,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '4 - 7',
+        cost:       1330
 
       },
 
@@ -5025,10 +5430,12 @@ module CdekApi
       '35-1-0-687' => {
 
         code:       993,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '4 - 7',
+        cost:       1330
 
       },
 
@@ -5036,10 +5443,12 @@ module CdekApi
       '35-24-0-6' => {
 
         code:       2044,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '4 - 7',
+        cost:       1330
 
       },
 
@@ -5047,10 +5456,12 @@ module CdekApi
       '35-17-1-0' => {
 
         code:       991,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '4 - 7',
+        cost:       1330
 
       },
 
@@ -5058,10 +5469,12 @@ module CdekApi
       '35-18-0-1' => {
 
         code:       2035,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '4 - 7',
+        cost:       1330
 
       },
 
@@ -5069,10 +5482,12 @@ module CdekApi
       '35-3-0-17' => {
 
         code:       2036,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '4 - 7',
+        cost:       1330
 
       },
 
@@ -5080,10 +5495,12 @@ module CdekApi
       '35-3-0-57' => {
 
         code:       2037,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '4 - 7',
+        cost:       1330
 
       },
 
@@ -5091,10 +5508,12 @@ module CdekApi
       '35-21-0-1' => {
 
         code:       2465,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '4 - 7',
+        cost:       1330
 
       },
 
@@ -5102,10 +5521,12 @@ module CdekApi
       '35-22-0-15' => {
 
         code:       2038,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '4 - 7',
+        cost:       1330
 
       },
 
@@ -5113,10 +5534,12 @@ module CdekApi
       '35-1-0-25' => {
 
         code:       2466,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '4 - 7',
+        cost:       1330
 
       },
 
@@ -5124,10 +5547,12 @@ module CdekApi
       '35-23-0-13' => {
 
         code:       2039,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '4 - 7',
+        cost:       1330
 
       },
 
@@ -5135,10 +5560,12 @@ module CdekApi
       '35-24-0-1' => {
 
         code:       2040,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '4 - 7',
+        cost:       1300
 
       },
 
@@ -5146,10 +5573,12 @@ module CdekApi
       '35-0-2-0' => {
 
         code:       403,
+        tariff:     11,
         address:    'Луначарского пр-кт, д.53а',
         phone:      '',
         work_time:  'пн-пт 9-18',
-        delivery:   ''
+        delivery:   '3 - 4',
+        cost:       720
 
       },
 
@@ -5157,10 +5586,12 @@ module CdekApi
       '35-26-0-1' => {
 
         code:       2041,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '4 - 7',
+        cost:       1330
 
       },
 
@@ -5168,10 +5599,12 @@ module CdekApi
       '35-14-0-1' => {
 
         code:       2042,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '4 - 7',
+        cost:       1330
 
       },
 
@@ -5179,10 +5612,12 @@ module CdekApi
       '36-2-0-1' => {
 
         code:       1353,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '3 - 6',
+        cost:       1230
 
       },
 
@@ -5190,10 +5625,12 @@ module CdekApi
       '36-17-0-10' => {
 
         code:       2469,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '4 - 6',
+        cost:       1230
 
       },
 
@@ -5201,10 +5638,12 @@ module CdekApi
       '36-3-0-49' => {
 
         code:       1354,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '4 - 6',
+        cost:       1230
 
       },
 
@@ -5212,10 +5651,12 @@ module CdekApi
       '36-4-1-0' => {
 
         code:       1355,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '4 - 6',
+        cost:       1230
 
       },
 
@@ -5223,21 +5664,12 @@ module CdekApi
       '36-5-1-0' => {
 
         code:       352,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
-
-      },
-
-      # Воронеж
-      '36-0-1-0' => {
-
-        code:       13295,
-        address:    '',
-        phone:      '',
-        work_time:  '',
-        delivery:   ''
+        delivery:   '4 - 6',
+        cost:       1230
 
       },
 
@@ -5245,10 +5677,12 @@ module CdekApi
       '36-6-1-0' => {
 
         code:       2351,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '4 - 6',
+        cost:       1230
 
       },
 
@@ -5256,10 +5690,12 @@ module CdekApi
       '36-7-0-1' => {
 
         code:       1356,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '4 - 6',
+        cost:       1230
 
       },
 
@@ -5267,21 +5703,12 @@ module CdekApi
       '36-8-0-1' => {
 
         code:       1357,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
-
-      },
-
-      # Воробьевка
-      '36-9-0-1' => {
-
-        code:       13296,
-        address:    '',
-        phone:      '',
-        work_time:  '',
-        delivery:   ''
+        delivery:   '4 - 6',
+        cost:       1230
 
       },
 
@@ -5289,21 +5716,12 @@ module CdekApi
       '36-0-1-0' => {
 
         code:       506,
+        tariff:     136,
         address:    'Труда пр-т., д.67в',
         phone:      '',
         work_time:  'пн.-пт. 9-18, сб. 10-14',
-        delivery:   ''
-
-      },
-
-      # Воронцовка
-      '36-21-0-12' => {
-
-        code:       13300,
-        address:    '',
-        phone:      '',
-        work_time:  '',
-        delivery:   ''
+        delivery:   '4 - 6',
+        cost:       335
 
       },
 
@@ -5311,21 +5729,12 @@ module CdekApi
       '36-10-0-1' => {
 
         code:       1358,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
-
-      },
-
-      # Давыдовка
-      '36-15-0-9' => {
-
-        code:       13297,
-        address:    '',
-        phone:      '',
-        work_time:  '',
-        delivery:   ''
+        delivery:   '4 - 6',
+        cost:       1230
 
       },
 
@@ -5333,10 +5742,12 @@ module CdekApi
       '36-33-0-14' => {
 
         code:       382,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '4 - 6',
+        cost:       1230
 
       },
 
@@ -5344,10 +5755,12 @@ module CdekApi
       '36-11-1-0' => {
 
         code:       2352,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '4 - 6',
+        cost:       1230
 
       },
 
@@ -5355,10 +5768,12 @@ module CdekApi
       '36-12-0-1' => {
 
         code:       2468,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '4 - 6',
+        cost:       1230
 
       },
 
@@ -5366,10 +5781,12 @@ module CdekApi
       '36-13-0-1' => {
 
         code:       1359,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '4 - 6',
+        cost:       1230
 
       },
 
@@ -5377,10 +5794,12 @@ module CdekApi
       '36-14-0-1' => {
 
         code:       1360,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '4 - 6',
+        cost:       1230
 
       },
 
@@ -5388,21 +5807,12 @@ module CdekApi
       '36-14-0-37' => {
 
         code:       13125,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
-
-      },
-
-      # Аверино
-      '36-20-0-2' => {
-
-        code:       13298,
-        address:    '',
-        phone:      '',
-        work_time:  '',
-        delivery:   ''
+        delivery:   '3 - 5',
+        cost:       1230
 
       },
 
@@ -5410,10 +5820,12 @@ module CdekApi
       '36-0-1-0' => {
 
         code:       13126,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '3 - 5',
+        cost:       1230
 
       },
 
@@ -5421,10 +5833,12 @@ module CdekApi
       '36-29-0-13' => {
 
         code:       13127,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '3 - 5',
+        cost:       1230
 
       },
 
@@ -5432,10 +5846,12 @@ module CdekApi
       '36-15-0-33' => {
 
         code:       357,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '4 - 6',
+        cost:       1230
 
       },
 
@@ -5443,10 +5859,12 @@ module CdekApi
       '36-0-1-0' => {
 
         code:       13171,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '3 - 5',
+        cost:       1230
 
       },
 
@@ -5454,10 +5872,12 @@ module CdekApi
       '36-0-1-0' => {
 
         code:       13169,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '3 - 5',
+        cost:       1230
 
       },
 
@@ -5465,10 +5885,12 @@ module CdekApi
       '36-16-0-1' => {
 
         code:       13128,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '3 - 6',
+        cost:       1230
 
       },
 
@@ -5476,10 +5898,12 @@ module CdekApi
       '36-6-0-25' => {
 
         code:       1361,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '4 - 6',
+        cost:       1230
 
       },
 
@@ -5487,10 +5911,12 @@ module CdekApi
       '36-0-1-0' => {
 
         code:       13170,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '3 - 5',
+        cost:       1230
 
       },
 
@@ -5498,10 +5924,12 @@ module CdekApi
       '36-17-0-1' => {
 
         code:       557,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '4 - 6',
+        cost:       1230
 
       },
 
@@ -5509,10 +5937,12 @@ module CdekApi
       '36-0-3-0' => {
 
         code:       1362,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '4 - 6',
+        cost:       1230
 
       },
 
@@ -5520,10 +5950,12 @@ module CdekApi
       '36-18-1-0' => {
 
         code:       1363,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '4 - 6',
+        cost:       1230
 
       },
 
@@ -5531,21 +5963,12 @@ module CdekApi
       '36-19-0-1' => {
 
         code:       1364,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
-
-      },
-
-      # Опытной станции ВНИИК
-      '36-32-0-22' => {
-
-        code:       13299,
-        address:    '',
-        phone:      '',
-        work_time:  '',
-        delivery:   ''
+        delivery:   '4 - 6',
+        cost:       1230
 
       },
 
@@ -5553,10 +5976,12 @@ module CdekApi
       '36-20-0-110' => {
 
         code:       1309,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '4 - 6',
+        cost:       1230
 
       },
 
@@ -5564,10 +5989,12 @@ module CdekApi
       '36-21-1-0' => {
 
         code:       927,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '4 - 6',
+        cost:       1230
 
       },
 
@@ -5575,10 +6002,12 @@ module CdekApi
       '36-22-0-1' => {
 
         code:       1365,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '4 - 6',
+        cost:       1230
 
       },
 
@@ -5586,21 +6015,12 @@ module CdekApi
       '36-24-1-0' => {
 
         code:       1366,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
-
-      },
-
-      # Подгоренский
-      '36-25-0-1' => {
-
-        code:       13301,
-        address:    '',
-        phone:      '',
-        work_time:  '',
-        delivery:   ''
+        delivery:   '4 - 6',
+        cost:       1230
 
       },
 
@@ -5608,10 +6028,12 @@ module CdekApi
       '36-25-0-51' => {
 
         code:       1367,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '4 - 6',
+        cost:       1230
 
       },
 
@@ -5619,21 +6041,12 @@ module CdekApi
       '36-26-0-1' => {
 
         code:       1368,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
-
-      },
-
-      # Репьевка
-      '36-27-0-1' => {
-
-        code:       14327,
-        address:    '',
-        phone:      '',
-        work_time:  '',
-        delivery:   ''
+        delivery:   '4 - 6',
+        cost:       1230
 
       },
 
@@ -5641,10 +6054,12 @@ module CdekApi
       '36-28-0-53' => {
 
         code:       537,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '4 - 6',
+        cost:       1230
 
       },
 
@@ -5652,10 +6067,12 @@ module CdekApi
       '36-33-0-45' => {
 
         code:       1439,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '4 - 6',
+        cost:       1230
 
       },
 
@@ -5663,10 +6080,12 @@ module CdekApi
       '36-29-0-106' => {
 
         code:       355,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '4 - 6',
+        cost:       1230
 
       },
 
@@ -5674,10 +6093,12 @@ module CdekApi
       '36-26-0-16' => {
 
         code:       13130,
+        tariff:     137,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '6 - 9',
+        cost:       795
 
       },
 
@@ -5685,10 +6106,12 @@ module CdekApi
       '36-0-1-0' => {
 
         code:       13131,
+        tariff:     137,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '6 - 9',
+        cost:       795
 
       },
 
@@ -5696,10 +6119,12 @@ module CdekApi
       '36-29-0-59' => {
 
         code:       13132,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '4 - 6',
+        cost:       1230
 
       },
 
@@ -5707,10 +6132,12 @@ module CdekApi
       '36-30-0-1' => {
 
         code:       1369,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '4 - 6',
+        cost:       1230
 
       },
 
@@ -5718,10 +6145,12 @@ module CdekApi
       '36-28-0-84' => {
 
         code:       13133,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '4 - 6',
+        cost:       1230
 
       },
 
@@ -5729,10 +6158,12 @@ module CdekApi
       '36-32-0-41' => {
 
         code:       14330,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '4 - 6',
+        cost:       1230
 
       },
 
@@ -5740,10 +6171,12 @@ module CdekApi
       '36-32-0-1' => {
 
         code:       1370,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '4 - 6',
+        cost:       1230
 
       },
 
@@ -5751,10 +6184,12 @@ module CdekApi
       '36-0-1-0' => {
 
         code:       13168,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '3 - 5',
+        cost:       1230
 
       },
 
@@ -5762,10 +6197,12 @@ module CdekApi
       '36-33-1-0' => {
 
         code:       1371,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '4 - 6',
+        cost:       1230
 
       },
 
@@ -5773,10 +6210,12 @@ module CdekApi
       '36-26-0-14' => {
 
         code:       2470,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '4 - 6',
+        cost:       1230
 
       },
 
@@ -5784,10 +6223,12 @@ module CdekApi
       '5-0-1-5' => {
 
         code:       59,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '6 - 10',
+        cost:       1615
 
       },
 
@@ -5795,10 +6236,12 @@ module CdekApi
       '5-6-0-1' => {
 
         code:       2491,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '6 - 10',
+        cost:       1740
 
       },
 
@@ -5806,10 +6249,12 @@ module CdekApi
       '5-0-10-0' => {
 
         code:       1870,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '6 - 9',
+        cost:       2130
 
       },
 
@@ -5817,10 +6262,12 @@ module CdekApi
       '5-0-6-0' => {
 
         code:       2492,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '6 - 9',
+        cost:       2230
 
       },
 
@@ -5828,10 +6275,12 @@ module CdekApi
       '5-0-3-0' => {
 
         code:       2488,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '6 - 9',
+        cost:       2030
 
       },
 
@@ -5839,10 +6288,12 @@ module CdekApi
       '5-0-4-0' => {
 
         code:       2489,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '6 - 9',
+        cost:       1740
 
       },
 
@@ -5850,10 +6301,12 @@ module CdekApi
       '5-0-7-0' => {
 
         code:       2490,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '6 - 9',
+        cost:       2130
 
       },
 
@@ -5861,10 +6314,12 @@ module CdekApi
       '5-0-8-0' => {
 
         code:       2493,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '6 - 10',
+        cost:       2230
 
       },
 
@@ -5872,10 +6327,12 @@ module CdekApi
       '5-0-1-0' => {
 
         code:       442,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '4 - 6',
+        cost:       1330
 
       },
 
@@ -5883,10 +6340,12 @@ module CdekApi
       '5-7-0-33' => {
 
         code:       2494,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '6 - 9',
+        cost:       2230
 
       },
 
@@ -5894,10 +6353,12 @@ module CdekApi
       '79-0-1-0' => {
 
         code:       914,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '3 - 5',
+        cost:       1330
 
       },
 
@@ -5905,10 +6366,12 @@ module CdekApi
       '79-3-0-9' => {
 
         code:       14336,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '4 - 7',
+        cost:       1970
 
       },
 
@@ -5916,10 +6379,12 @@ module CdekApi
       '79-5-0-1' => {
 
         code:       1295,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '5 - 9',
+        cost:       1980
 
       },
 
@@ -5927,10 +6392,12 @@ module CdekApi
       '79-1-0-17' => {
 
         code:       1106,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '5 - 9',
+        cost:       1980
 
       },
 
@@ -5938,10 +6405,12 @@ module CdekApi
       '79-3-0-19' => {
 
         code:       13613,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '5 - 9',
+        cost:       1980
 
       },
 
@@ -5949,10 +6418,12 @@ module CdekApi
       '75-129-0-1' => {
 
         code:       1434,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '4 - 7',
+        cost:       1740
 
       },
 
@@ -5960,10 +6431,12 @@ module CdekApi
       '75-1-0-5' => {
 
         code:       2495,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '4 - 7',
+        cost:       1740
 
       },
 
@@ -5971,10 +6444,12 @@ module CdekApi
       '75-4-1-0' => {
 
         code:       13067,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '4 - 7',
+        cost:       1465
 
       },
 
@@ -5982,10 +6457,12 @@ module CdekApi
       '75-5-1-0' => {
 
         code:       13979,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '4 - 7',
+        cost:       1740
 
       },
 
@@ -5993,21 +6470,12 @@ module CdekApi
       '75-10-0-6' => {
 
         code:       2498,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
-
-      },
-
-      # Домна
-      '75-1-0-13' => {
-
-        code:       13495,
-        address:    '',
-        phone:      '',
-        work_time:  '',
-        delivery:   ''
+        delivery:   '4 - 7',
+        cost:       1740
 
       },
 
@@ -6015,54 +6483,12 @@ module CdekApi
       '75-7-0-1' => {
 
         code:       2362,
+        tariff:     137,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
-
-      },
-
-      # Чита
-      '75-0-1-0' => {
-
-        code:       13493,
-        address:    '',
-        phone:      '',
-        work_time:  '',
-        delivery:   ''
-
-      },
-
-      # Забайкальский
-      '75-1-0-19' => {
-
-        code:       13492,
-        address:    '',
-        phone:      '',
-        work_time:  '',
-        delivery:   ''
-
-      },
-
-      # Краснокаменск
-      '75-11-1-0' => {
-
-        code:       2499,
-        address:    '',
-        phone:      '',
-        work_time:  '',
-        delivery:   ''
-
-      },
-
-      # Лесной Городок
-      '75-1-0-36' => {
-
-        code:       13496,
-        address:    '',
-        phone:      '',
-        work_time:  '',
-        delivery:   ''
+        delivery:   '7 - 11',
+        cost:       620
 
       },
 
@@ -6070,10 +6496,12 @@ module CdekApi
       '75-1-0-37' => {
 
         code:       2496,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '4 - 7',
+        cost:       1740
 
       },
 
@@ -6081,10 +6509,12 @@ module CdekApi
       '75-14-0-26' => {
 
         code:       13016,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '4 - 7',
+        cost:       1465
 
       },
 
@@ -6092,54 +6522,12 @@ module CdekApi
       '75-1-0-45' => {
 
         code:       2497,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
-
-      },
-
-      # Оловянная
-      '75-17-0-1' => {
-
-        code:       13062,
-        address:    '',
-        phone:      '',
-        work_time:  '',
-        delivery:   ''
-
-      },
-
-      # Чита
-      '75-0-1-0' => {
-
-        code:       13490,
-        address:    '',
-        phone:      '',
-        work_time:  '',
-        delivery:   ''
-
-      },
-
-      # Смоленка
-      '75-1-0-53' => {
-
-        code:       13494,
-        address:    '',
-        phone:      '',
-        work_time:  '',
-        delivery:   ''
-
-      },
-
-      # Улеты
-      '75-24-0-1' => {
-
-        code:       3228,
-        address:    '',
-        phone:      '',
-        work_time:  '',
-        delivery:   ''
+        delivery:   '4 - 7',
+        cost:       1740
 
       },
 
@@ -6147,21 +6535,12 @@ module CdekApi
       '75-25-0-2' => {
 
         code:       2361,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
-
-      },
-
-      # Чита
-      '75-0-1-0' => {
-
-        code:       13491,
-        address:    '',
-        phone:      '',
-        work_time:  '',
-        delivery:   ''
+        delivery:   '4 - 7',
+        cost:       1740
 
       },
 
@@ -6169,10 +6548,12 @@ module CdekApi
       '16-34-0-70' => {
 
         code:       231,
+        tariff:     136,
         address:    'Богомягкова ул., д.53, оф.3',
         phone:      '(3022)35-03-67, +7-914-498-0756',
         work_time:  'пн.-пт. 10-18',
-        delivery:   ''
+        delivery:   '5 - 8',
+        cost:       415
 
       },
 
@@ -6180,10 +6561,12 @@ module CdekApi
       '75-5-0-6' => {
 
         code:       13389,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '4 - 7',
+        cost:       1740
 
       },
 
@@ -6191,21 +6574,12 @@ module CdekApi
       '75-28-0-4' => {
 
         code:       13093,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
-
-      },
-
-      # Ясногорск
-      '75-17-0-3' => {
-
-        code:       13094,
-        address:    '',
-        phone:      '',
-        work_time:  '',
-        delivery:   ''
+        delivery:   '4 - 8',
+        cost:       1740
 
       },
 
@@ -6213,10 +6587,12 @@ module CdekApi
       '37-6-0-4' => {
 
         code:       1238,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '5 - 8',
+        cost:       1300
 
       },
 
@@ -6224,10 +6600,12 @@ module CdekApi
       '37-3-0-94' => {
 
         code:       465,
+        tariff:     137,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '6 - 10',
+        cost:       795
 
       },
 
@@ -6235,10 +6613,12 @@ module CdekApi
       '37-5-0-19' => {
 
         code:       2500,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '5 - 8',
+        cost:       1300
 
       },
 
@@ -6246,21 +6626,12 @@ module CdekApi
       '37-0-1-0' => {
 
         code:       164,
+        tariff:     136,
         address:    'Станко ул., д.36',
         phone:      '(4932) 49-68-98, 202-900',
         work_time:  'пн.-пт. 9-18',
-        delivery:   ''
-
-      },
-
-      # Иваново
-      '37-0-1-0' => {
-
-        code:       14329,
-        address:    '',
-        phone:      '',
-        work_time:  '',
-        delivery:   ''
+        delivery:   '4 - 6',
+        cost:       335
 
       },
 
@@ -6268,10 +6639,12 @@ module CdekApi
       '37-7-1-0' => {
 
         code:       462,
+        tariff:     137,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '6 - 10',
+        cost:       935
 
       },
 
@@ -6279,10 +6652,12 @@ module CdekApi
       '37-8-0-24' => {
 
         code:       2076,
+        tariff:     137,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '6 - 10',
+        cost:       825
 
       },
 
@@ -6290,10 +6665,12 @@ module CdekApi
       '37-1-0-17' => {
 
         code:       2077,
+        tariff:     137,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '6 - 10',
+        cost:       745
 
       },
 
@@ -6301,10 +6678,12 @@ module CdekApi
       '37-9-0-5' => {
 
         code:       2078,
+        tariff:     137,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '6 - 10',
+        cost:       745
 
       },
 
@@ -6312,10 +6691,12 @@ module CdekApi
       '37-10-0-1' => {
 
         code:       2079,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '5 - 8',
+        cost:       1300
 
       },
 
@@ -6323,10 +6704,12 @@ module CdekApi
       '37-7-0-172' => {
 
         code:       2080,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '5 - 8',
+        cost:       1620
 
       },
 
@@ -6334,10 +6717,12 @@ module CdekApi
       '37-17-0-17' => {
 
         code:       2081,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '5 - 8',
+        cost:       1740
 
       },
 
@@ -6345,10 +6730,12 @@ module CdekApi
       '37-1-0-3' => {
 
         code:       2501,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '5 - 8',
+        cost:       1300
 
       },
 
@@ -6356,10 +6743,12 @@ module CdekApi
       '37-8-0-25' => {
 
         code:       2082,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '5 - 8',
+        cost:       1300
 
       },
 
@@ -6367,10 +6756,12 @@ module CdekApi
       '37-8-0-2' => {
 
         code:       2083,
+        tariff:     137,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '6 - 10',
+        cost:       745
 
       },
 
@@ -6378,10 +6769,12 @@ module CdekApi
       '37-13-0-16' => {
 
         code:       2084,
+        tariff:     137,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '6 - 10',
+        cost:       815
 
       },
 
@@ -6389,10 +6782,12 @@ module CdekApi
       '37-13-0-17' => {
 
         code:       2085,
+        tariff:     137,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '6 - 10',
+        cost:       825
 
       },
 
@@ -6400,10 +6795,12 @@ module CdekApi
       '37-14-0-28' => {
 
         code:       14,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '5 - 8',
+        cost:       1750
 
       },
 
@@ -6411,10 +6808,12 @@ module CdekApi
       '37-15-0-1' => {
 
         code:       463,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '5 - 8',
+        cost:       1300
 
       },
 
@@ -6422,10 +6821,12 @@ module CdekApi
       '37-3-0-12' => {
 
         code:       2086,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '5 - 8',
+        cost:       1300
 
       },
 
@@ -6433,10 +6834,12 @@ module CdekApi
       '37-17-0-5' => {
 
         code:       2356,
+        tariff:     137,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '6 - 10',
+        cost:       745
 
       },
 
@@ -6444,10 +6847,12 @@ module CdekApi
       '37-18-0-3' => {
 
         code:       2357,
+        tariff:     137,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '6 - 10',
+        cost:       745
 
       },
 
@@ -6455,10 +6860,12 @@ module CdekApi
       '37-16-0-33' => {
 
         code:       390,
+        tariff:     137,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '6 - 10',
+        cost:       745
 
       },
 
@@ -6466,10 +6873,12 @@ module CdekApi
       '6-0-1-0' => {
 
         code:       1736,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '6 - 8',
+        cost:       1810
 
       },
 
@@ -6477,10 +6886,12 @@ module CdekApi
       '6-0-3-0' => {
 
         code:       443,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '5 - 7',
+        cost:       1500
 
       },
 
@@ -6488,21 +6899,12 @@ module CdekApi
       '6-1-0-13' => {
 
         code:       2016,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
-
-      },
-
-      # Алехино
-      '38-25-0-2' => {
-
-        code:       13831,
-        address:    '',
-        phone:      '',
-        work_time:  '',
-        delivery:   ''
+        delivery:   '8 - 11',
+        cost:       2180
 
       },
 
@@ -6510,10 +6912,12 @@ module CdekApi
       '38-0-4-0' => {
 
         code:       280,
+        tariff:     136,
         address:    'Мира ул, д.18',
         phone:      '(3955) 68-30-45',
         work_time:  'пн- пт с 09.00 до 18,00',
-        delivery:   ''
+        delivery:   '5 - 8',
+        cost:       415
 
       },
 
@@ -6521,21 +6925,12 @@ module CdekApi
       '38-18-0-7' => {
 
         code:       1124,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
-
-      },
-
-      # Баклаши
-      '38-27-0-2' => {
-
-        code:       13833,
-        address:    '',
-        phone:      '',
-        work_time:  '',
-        delivery:   ''
+        delivery:   '4 - 8',
+        cost:       1540
 
       },
 
@@ -6543,10 +6938,12 @@ module CdekApi
       '38-21-0-6' => {
 
         code:       2502,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '4 - 8',
+        cost:       1540
 
       },
 
@@ -6554,21 +6951,12 @@ module CdekApi
       '38-0-6-0' => {
 
         code:       1160,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
-
-      },
-
-      # Бозой
-      '38-133-0-4' => {
-
-        code:       3227,
-        address:    '',
-        phone:      '',
-        work_time:  '',
-        delivery:   ''
+        delivery:   '7 - 11',
+        cost:       2360
 
       },
 
@@ -6576,10 +6964,12 @@ module CdekApi
       '38-1-0-2' => {
 
         code:       2503,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '4 - 8',
+        cost:       1540
 
       },
 
@@ -6587,10 +6977,12 @@ module CdekApi
       '38-27-0-4' => {
 
         code:       1872,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '5 - 9',
+        cost:       1924
 
       },
 
@@ -6598,10 +6990,12 @@ module CdekApi
       '38-0-5-0' => {
 
         code:       877,
+        tariff:     137,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '8 - 14',
+        cost:       730
 
       },
 
@@ -6609,10 +7003,12 @@ module CdekApi
       '38-5-2-0' => {
 
         code:       1869,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '5 - 9',
+        cost:       1800
 
       },
 
@@ -6620,21 +7016,12 @@ module CdekApi
       '38-1-0-16' => {
 
         code:       13333,
+        tariff:     137,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
-
-      },
-
-      # Косая Степь
-      '38-17-0-9' => {
-
-        code:       13834,
-        address:    '',
-        phone:      '',
-        work_time:  '',
-        delivery:   ''
+        delivery:   '7 - 12',
+        cost:       770
 
       },
 
@@ -6642,10 +7029,12 @@ module CdekApi
       '38-15-1-0' => {
 
         code:       886,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '4 - 8',
+        cost:       1995
 
       },
 
@@ -6653,10 +7042,12 @@ module CdekApi
       '38-7-0-1' => {
 
         code:       872,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '4 - 8',
+        cost:       1800
 
       },
 
@@ -6664,10 +7055,12 @@ module CdekApi
       '38-0-7-0' => {
 
         code:       874,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '4 - 8',
+        cost:       1800
 
       },
 
@@ -6675,10 +7068,12 @@ module CdekApi
       '38-0-3-0' => {
 
         code:       281,
+        tariff:     136,
         address:    'Ядринцева ул, д.1/2, оф.2',
         phone:      '(3952)702-094, 702-083',
         work_time:  'пн.-пт. 9-19, сб. 10-16',
-        delivery:   ''
+        delivery:   '6 - 8',
+        cost:       415
 
       },
 
@@ -6686,10 +7081,12 @@ module CdekApi
       '38-9-0-1' => {
 
         code:       1162,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '5 - 9',
+        cost:       1925
 
       },
 
@@ -6697,10 +7094,12 @@ module CdekApi
       '38-1-0-23' => {
 
         code:       13830,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '5 - 9',
+        cost:       1925
 
       },
 
@@ -6708,10 +7107,12 @@ module CdekApi
       '38-11-0-1' => {
 
         code:       14262,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '5 - 9',
+        cost:       1925
 
       },
 
@@ -6719,10 +7120,12 @@ module CdekApi
       '38-12-0-8' => {
 
         code:       888,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '4 - 8',
+        cost:       1800
 
       },
 
@@ -6730,10 +7133,12 @@ module CdekApi
       '38-13-0-1' => {
 
         code:       1762,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '5 - 9',
+        cost:       1925
 
       },
 
@@ -6741,10 +7146,12 @@ module CdekApi
       '38-18-3-0' => {
 
         code:       13832,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '5 - 9',
+        cost:       1925
 
       },
 
@@ -6752,10 +7159,12 @@ module CdekApi
       '38-128-0-1' => {
 
         code:       1761,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '5 - 9',
+        cost:       1925
 
       },
 
@@ -6763,10 +7172,12 @@ module CdekApi
       '38-1-0-87' => {
 
         code:       1915,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '4 - 8',
+        cost:       1600
 
       },
 
@@ -6774,21 +7185,12 @@ module CdekApi
       '38-9-0-9' => {
 
         code:       2512,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
-
-      },
-
-      # Майская
-      '38-132-0-12' => {
-
-        code:       13835,
-        address:    '',
-        phone:      '',
-        work_time:  '',
-        delivery:   ''
+        delivery:   '5 - 8',
+        cost:       1740
 
       },
 
@@ -6796,21 +7198,12 @@ module CdekApi
       '38-1-0-3' => {
 
         code:       13829,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
-
-      },
-
-      # Мама
-      '38-14-1-0' => {
-
-        code:       889,
-        address:    '',
-        phone:      '',
-        work_time:  '',
-        delivery:   ''
+        delivery:   '5 - 9',
+        cost:       1925
 
       },
 
@@ -6818,10 +7211,12 @@ module CdekApi
       '38-1-0-79' => {
 
         code:       13120,
+        tariff:     137,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '8 - 14',
+        cost:       1280
 
       },
 
@@ -6829,10 +7224,12 @@ module CdekApi
       '38-23-0-6' => {
 
         code:       1261,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '4 - 7',
+        cost:       1470
 
       },
 
@@ -6840,21 +7237,12 @@ module CdekApi
       '38-2-2-0' => {
 
         code:       2504,
+        tariff:     137,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
-
-      },
-
-      # Молодежный
-      '38-6-0-24' => {
-
-        code:       2505,
-        address:    '',
-        phone:      '',
-        work_time:  '',
-        delivery:   ''
+        delivery:   '7 - 11',
+        cost:       745
 
       },
 
@@ -6862,10 +7250,12 @@ module CdekApi
       '38-16-0-93' => {
 
         code:       875,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '4 - 8',
+        cost:       1670
 
       },
 
@@ -6873,21 +7263,12 @@ module CdekApi
       '38-1-0-87' => {
 
         code:       2506,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
-
-      },
-
-      # Новолисиха
-      '38-1-0-39' => {
-
-        code:       13151,
-        address:    '',
-        phone:      '',
-        work_time:  '',
-        delivery:   ''
+        delivery:   '4 - 8',
+        cost:       1540
 
       },
 
@@ -6895,10 +7276,12 @@ module CdekApi
       '38-131-0-1' => {
 
         code:       883,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '5 - 9',
+        cost:       1925
 
       },
 
@@ -6906,10 +7289,12 @@ module CdekApi
       '38-1-0-10' => {
 
         code:       2507,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '4 - 8',
+        cost:       1370
 
       },
 
@@ -6917,10 +7302,12 @@ module CdekApi
       '38-132-0-1' => {
 
         code:       1866,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '5 - 9',
+        cost:       1925
 
       },
 
@@ -6928,10 +7315,12 @@ module CdekApi
       '38-1-0-13' => {
 
         code:       2508,
+        tariff:     137,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '7 - 11',
+        cost:       825
 
       },
 
@@ -6939,10 +7328,12 @@ module CdekApi
       '38-0-2-0' => {
 
         code:       873,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '4 - 8',
+        cost:       1670
 
       },
 
@@ -6950,10 +7341,12 @@ module CdekApi
       '38-0-16-0' => {
 
         code:       8,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '5 - 9',
+        cost:       1925
 
       },
 
@@ -6961,10 +7354,12 @@ module CdekApi
       '38-18-1-0' => {
 
         code:       1192,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '4 - 8',
+        cost:       1600
 
       },
 
@@ -6972,10 +7367,12 @@ module CdekApi
       '38-1-0-35' => {
 
         code:       1262,
+        tariff:     137,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '6 - 10',
+        cost:       1065
 
       },
 
@@ -6983,21 +7380,12 @@ module CdekApi
       '38-0-9-0' => {
 
         code:       885,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
-
-      },
-
-      # Тихоновка
-      '38-130-0-17' => {
-
-        code:       13836,
-        address:    '',
-        phone:      '',
-        work_time:  '',
-        delivery:   ''
+        delivery:   '4 - 8',
+        cost:       1670
 
       },
 
@@ -7005,10 +7393,12 @@ module CdekApi
       '38-0-10-0' => {
 
         code:       876,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '4 - 8',
+        cost:       1670
 
       },
 
@@ -7016,10 +7406,12 @@ module CdekApi
       '38-1-0-15' => {
 
         code:       2509,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '4 - 8',
+        cost:       1600
 
       },
 
@@ -7027,10 +7419,12 @@ module CdekApi
       '38-0-11-0' => {
 
         code:       880,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '4 - 8',
+        cost:       1470
 
       },
 
@@ -7038,10 +7432,12 @@ module CdekApi
       '38-0-12-0' => {
 
         code:       878,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '4 - 8',
+        cost:       1670
 
       },
 
@@ -7049,10 +7445,12 @@ module CdekApi
       '38-0-13-0' => {
 
         code:       519,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '4 - 8',
+        cost:       1670
 
       },
 
@@ -7060,21 +7458,12 @@ module CdekApi
       '38-133-0-6' => {
 
         code:       879,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
-
-      },
-
-      # Усть-Уда
-      '38-24-0-1' => {
-
-        code:       881,
-        address:    '',
-        phone:      '',
-        work_time:  '',
-        delivery:   ''
+        delivery:   '4 - 8',
+        cost:       1540
 
       },
 
@@ -7082,10 +7471,12 @@ module CdekApi
       '38-1-0-23' => {
 
         code:       2510,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '4 - 7',
+        cost:       1360
 
       },
 
@@ -7093,10 +7484,12 @@ module CdekApi
       '38-21-0-7' => {
 
         code:       2371,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '4 - 8',
+        cost:       1540
 
       },
 
@@ -7104,10 +7497,12 @@ module CdekApi
       '38-26-0-1' => {
 
         code:       1161,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '5 - 9',
+        cost:       1925
 
       },
 
@@ -7115,10 +7510,12 @@ module CdekApi
       '38-27-0-5' => {
 
         code:       319,
+        tariff:     137,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '7 - 11',
+        cost:       805
 
       },
 
@@ -7126,10 +7523,12 @@ module CdekApi
       '38-0-5-0' => {
 
         code:       2511,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '5 - 9',
+        cost:       1690
 
       },
 
@@ -7137,10 +7536,12 @@ module CdekApi
       '7-5-0-3' => {
 
         code:       14352,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '3 - 5',
+        cost:       1240
 
       },
 
@@ -7148,10 +7549,12 @@ module CdekApi
       '7-11-0-1' => {
 
         code:       2515,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '5 - 8',
+        cost:       1540
 
       },
 
@@ -7159,10 +7562,12 @@ module CdekApi
       '7-11-0-2' => {
 
         code:       14351,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '5 - 8',
+        cost:       1490
 
       },
 
@@ -7170,10 +7575,12 @@ module CdekApi
       '7-2-0-12' => {
 
         code:       13941,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '3 - 5',
+        cost:       1240
 
       },
 
@@ -7181,10 +7588,12 @@ module CdekApi
       '7-9-0-1' => {
 
         code:       14359,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '5 - 8',
+        cost:       1490
 
       },
 
@@ -7192,10 +7601,12 @@ module CdekApi
       '7-2-1-0' => {
 
         code:       2513,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '5 - 8',
+        cost:       1500
 
       },
 
@@ -7203,10 +7614,12 @@ module CdekApi
       '7-2-0-2' => {
 
         code:       14353,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '5 - 8',
+        cost:       1490
 
       },
 
@@ -7214,10 +7627,12 @@ module CdekApi
       '7-0-1-3' => {
 
         code:       14286,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '5 - 8',
+        cost:       1390
 
       },
 
@@ -7225,10 +7640,12 @@ module CdekApi
       '7-7-0-5' => {
 
         code:       14361,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '5 - 8',
+        cost:       1490
 
       },
 
@@ -7236,10 +7653,12 @@ module CdekApi
       '7-9-0-7' => {
 
         code:       14290,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '5 - 8',
+        cost:       1540
 
       },
 
@@ -7247,10 +7666,12 @@ module CdekApi
       '7-3-0-1' => {
 
         code:       2514,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '3 - 8',
+        cost:       1430
 
       },
 
@@ -7258,10 +7679,12 @@ module CdekApi
       '7-2-0-6' => {
 
         code:       13943,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '3 - 5',
+        cost:       1240
 
       },
 
@@ -7269,10 +7692,12 @@ module CdekApi
       '7-2-0-7' => {
 
         code:       13940,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '3 - 5',
+        cost:       1240
 
       },
 
@@ -7280,10 +7705,12 @@ module CdekApi
       '7-3-0-7' => {
 
         code:       13946,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '3 - 5',
+        cost:       1240
 
       },
 
@@ -7291,10 +7718,12 @@ module CdekApi
       '7-7-0-7' => {
 
         code:       14354,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '5 - 8',
+        cost:       1510
 
       },
 
@@ -7302,10 +7731,12 @@ module CdekApi
       '7-9-0-1' => {
 
         code:       2520,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '5 - 8',
+        cost:       1540
 
       },
 
@@ -7313,10 +7744,12 @@ module CdekApi
       '7-0-1-5' => {
 
         code:       13942,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '4 - 6',
+        cost:       1090
 
       },
 
@@ -7324,10 +7757,12 @@ module CdekApi
       '7-2-0-10' => {
 
         code:       14356,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '5 - 8',
+        cost:       1540
 
       },
 
@@ -7335,10 +7770,12 @@ module CdekApi
       '7-2-0-11' => {
 
         code:       13938,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '4 - 6',
+        cost:       1090
 
       },
 
@@ -7346,10 +7783,12 @@ module CdekApi
       '7-8-0-4' => {
 
         code:       14360,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '5 - 8',
+        cost:       1500
 
       },
 
@@ -7357,10 +7796,12 @@ module CdekApi
       '7-4-1-0' => {
 
         code:       2516,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '3 - 8',
+        cost:       1850
 
       },
 
@@ -7368,10 +7809,12 @@ module CdekApi
       '7-3-0-11' => {
 
         code:       14357,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '5 - 8',
+        cost:       1540
 
       },
 
@@ -7379,10 +7822,12 @@ module CdekApi
       '7-0-1-0' => {
 
         code:       1081,
+        tariff:     136,
         address:    'Темрюка идарова ул., д.129',
         phone:      '+7 (8662) 96-79-75, 89289100769',
         work_time:  'пн-пт 9-18',
-        delivery:   ''
+        delivery:   '5 - 7',
+        cost:       340
 
       },
 
@@ -7390,10 +7835,12 @@ module CdekApi
       '7-8-0-5' => {
 
         code:       14287,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '5 - 8',
+        cost:       1390
 
       },
 
@@ -7401,10 +7848,12 @@ module CdekApi
       '7-7-0-5' => {
 
         code:       2518,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '3 - 8',
+        cost:       1694
 
       },
 
@@ -7412,10 +7861,12 @@ module CdekApi
       '7-5-0-13' => {
 
         code:       2017,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '3 - 8',
+        cost:       1694
 
       },
 
@@ -7423,10 +7874,12 @@ module CdekApi
       '7-7-0-12' => {
 
         code:       14358,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '5 - 8',
+        cost:       1500
 
       },
 
@@ -7434,10 +7887,12 @@ module CdekApi
       '7-2-0-16' => {
 
         code:       13939,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '4 - 6',
+        cost:       1090
 
       },
 
@@ -7445,10 +7900,12 @@ module CdekApi
       '7-3-0-15' => {
 
         code:       13945,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '3 - 5',
+        cost:       1240
 
       },
 
@@ -7456,10 +7913,12 @@ module CdekApi
       '7-5-0-34' => {
 
         code:       14355,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '5 - 8',
+        cost:       1540
 
       },
 
@@ -7467,10 +7926,12 @@ module CdekApi
       '7-7-0-16' => {
 
         code:       14289,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '5 - 8',
+        cost:       1500
 
       },
 
@@ -7478,10 +7939,12 @@ module CdekApi
       '7-6-1-0' => {
 
         code:       2517,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '3 - 8',
+        cost:       1910
 
       },
 
@@ -7489,10 +7952,12 @@ module CdekApi
       '7-10-1-0' => {
 
         code:       2521,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '3 - 8',
+        cost:       1910
 
       },
 
@@ -7500,10 +7965,12 @@ module CdekApi
       '7-7-0-18' => {
 
         code:       14288,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '4 - 6',
+        cost:       1090
 
       },
 
@@ -7511,10 +7978,12 @@ module CdekApi
       '7-0-1-10' => {
 
         code:       13944,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '4 - 6',
+        cost:       1090
 
       },
 
@@ -7522,10 +7991,12 @@ module CdekApi
       '7-8-0-10' => {
 
         code:       2519,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '3 - 8',
+        cost:       1490
 
       },
 
@@ -7533,10 +8004,12 @@ module CdekApi
       '7-8-0-9' => {
 
         code:       14285,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '5 - 8',
+        cost:       1390
 
       },
 
@@ -7544,10 +8017,12 @@ module CdekApi
       '7-7-0-21' => {
 
         code:       14362,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '5 - 8',
+        cost:       1490
 
       },
 
@@ -7555,10 +8030,12 @@ module CdekApi
       '7-8-0-3' => {
 
         code:       14284,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '5 - 8',
+        cost:       1390
 
       },
 
@@ -7566,10 +8043,12 @@ module CdekApi
       '39-0-1-0' => {
 
         code:       13141,
+        tariff:     137,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '6 - 9',
+        cost:       675
 
       },
 
@@ -7577,10 +8056,12 @@ module CdekApi
       '39-2-0-2' => {
 
         code:       2522,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '5 - 7',
+        cost:       1050
 
       },
 
@@ -7588,10 +8069,12 @@ module CdekApi
       '39-15-2-0' => {
 
         code:       2523,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '5 - 7',
+        cost:       1050
 
       },
 
@@ -7599,10 +8082,12 @@ module CdekApi
       '39-4-0-12' => {
 
         code:       13350,
+        tariff:     137,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '6 - 9',
+        cost:       675
 
       },
 
@@ -7610,10 +8095,12 @@ module CdekApi
       '39-4-0-15' => {
 
         code:       2524,
+        tariff:     137,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '6 - 9',
+        cost:       675
 
       },
 
@@ -7621,10 +8108,12 @@ module CdekApi
       '39-3-0-17' => {
 
         code:       2525,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '5 - 7',
+        cost:       1050
 
       },
 
@@ -7632,10 +8121,12 @@ module CdekApi
       '39-4-1-0' => {
 
         code:       2061,
+        tariff:     137,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '6 - 9',
+        cost:       675
 
       },
 
@@ -7643,10 +8134,12 @@ module CdekApi
       '39-5-1-0' => {
 
         code:       890,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '5 - 7',
+        cost:       1050
 
       },
 
@@ -7654,10 +8147,12 @@ module CdekApi
       '39-12-0-10' => {
 
         code:       13347,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '4 - 6',
+        cost:       1050
 
       },
 
@@ -7665,10 +8160,12 @@ module CdekApi
       '39-6-0-16' => {
 
         code:       2526,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '5 - 7',
+        cost:       1050
 
       },
 
@@ -7676,10 +8173,12 @@ module CdekApi
       '39-0-1-0' => {
 
         code:       152,
+        tariff:     136,
         address:    'Ганзейский пер., д.6',
         phone:      '8(4012)777-272, 976-231, 976-230',
         work_time:  'пн.-пт. 9-18, сб. 10-14',
-        delivery:   ''
+        delivery:   '4 - 6',
+        cost:       415
 
       },
 
@@ -7687,10 +8186,12 @@ module CdekApi
       '39-7-0-3' => {
 
         code:       2531,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '5 - 7',
+        cost:       1050
 
       },
 
@@ -7698,10 +8199,12 @@ module CdekApi
       '39-0-8-0' => {
 
         code:       13352,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '4 - 6',
+        cost:       1050
 
       },
 
@@ -7709,10 +8212,12 @@ module CdekApi
       '39-4-0-68' => {
 
         code:       13351,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '4 - 5',
+        cost:       950
 
       },
 
@@ -7720,10 +8225,12 @@ module CdekApi
       '39-0-9-0' => {
 
         code:       2537,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '5 - 7',
+        cost:       1050
 
       },
 
@@ -7731,10 +8238,12 @@ module CdekApi
       '39-8-0-50' => {
 
         code:       2532,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '5 - 7',
+        cost:       1050
 
       },
 
@@ -7742,10 +8251,12 @@ module CdekApi
       '39-9-0-7' => {
 
         code:       2533,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '5 - 7',
+        cost:       1050
 
       },
 
@@ -7753,10 +8264,12 @@ module CdekApi
       '39-10-1-0' => {
 
         code:       2534,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '5 - 7',
+        cost:       1050
 
       },
 
@@ -7764,10 +8277,12 @@ module CdekApi
       '39-0-6-6' => {
 
         code:       13348,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '4 - 6',
+        cost:       1050
 
       },
 
@@ -7775,10 +8290,12 @@ module CdekApi
       '39-0-3-0' => {
 
         code:       2527,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '5 - 7',
+        cost:       1050
 
       },
 
@@ -7786,10 +8303,12 @@ module CdekApi
       '39-11-1-0' => {
 
         code:       2528,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '5 - 7',
+        cost:       1050
 
       },
 
@@ -7797,10 +8316,12 @@ module CdekApi
       '39-12-0-4' => {
 
         code:       2530,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '5 - 7',
+        cost:       1050
 
       },
 
@@ -7808,10 +8329,12 @@ module CdekApi
       '39-0-1-0' => {
 
         code:       2063,
+        tariff:     137,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '6 - 9',
+        cost:       675
 
       },
 
@@ -7819,10 +8342,12 @@ module CdekApi
       '39-15-2-0' => {
 
         code:       2538,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '5 - 7',
+        cost:       1050
 
       },
 
@@ -7830,10 +8355,12 @@ module CdekApi
       '39-16-0-6' => {
 
         code:       232,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '5 - 7',
+        cost:       1030
 
       },
 
@@ -7841,10 +8368,12 @@ module CdekApi
       '39-16-1-0' => {
 
         code:       2529,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '5 - 7',
+        cost:       1050
 
       },
 
@@ -7852,10 +8381,12 @@ module CdekApi
       '39-0-6-0' => {
 
         code:       2062,
+        tariff:     137,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '7 - 11',
+        cost:       775
 
       },
 
@@ -7863,10 +8394,12 @@ module CdekApi
       '39-13-0-34' => {
 
         code:       2535,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '5 - 7',
+        cost:       1050
 
       },
 
@@ -7874,10 +8407,12 @@ module CdekApi
       '39-0-7-0' => {
 
         code:       2536,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '5 - 7',
+        cost:       1050
 
       },
 
@@ -7885,10 +8420,12 @@ module CdekApi
       '39-14-1-0' => {
 
         code:       2348,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '5 - 7',
+        cost:       1050
 
       },
 
@@ -7896,10 +8433,12 @@ module CdekApi
       '39-0-1-0' => {
 
         code:       13353,
+        tariff:     137,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '6 - 9',
+        cost:       675
 
       },
 
@@ -7907,10 +8446,12 @@ module CdekApi
       '39-4-0-144' => {
 
         code:       13349,
+        tariff:     137,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '6 - 9',
+        cost:       675
 
       },
 
@@ -7918,21 +8459,12 @@ module CdekApi
       '8-2-1-0' => {
 
         code:       2540,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
-
-      },
-
-      # Комсомольский
-      '8-12-0-1' => {
-
-        code:       14261,
-        address:    '',
-        phone:      '',
-        work_time:  '',
-        delivery:   ''
+        delivery:   '7 - 10',
+        cost:       1740
 
       },
 
@@ -7940,10 +8472,12 @@ module CdekApi
       '8-6-1-0' => {
 
         code:       2541,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '7 - 10',
+        cost:       1740
 
       },
 
@@ -7951,10 +8485,12 @@ module CdekApi
       '8-0-1-3' => {
 
         code:       2539,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '7 - 10',
+        cost:       1740
 
       },
 
@@ -7962,10 +8498,12 @@ module CdekApi
       '8-0-1-0' => {
 
         code:       207,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '5 - 7',
+        cost:       1330
 
       },
 
@@ -7973,10 +8511,12 @@ module CdekApi
       '40-0-1-5' => {
 
         code:       13157,
+        tariff:     137,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '6 - 9',
+        cost:       675
 
       },
 
@@ -7984,10 +8524,12 @@ module CdekApi
       '40-2-0-1' => {
 
         code:       1916,
+        tariff:     137,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '6 - 9',
+        cost:       905
 
       },
 
@@ -7995,10 +8537,12 @@ module CdekApi
       '40-4-2-0' => {
 
         code:       1917,
+        tariff:     137,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '6 - 9',
+        cost:       745
 
       },
 
@@ -8006,10 +8550,12 @@ module CdekApi
       '40-3-0-1' => {
 
         code:       429,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '4 - 6',
+        cost:       1300
 
       },
 
@@ -8017,10 +8563,12 @@ module CdekApi
       '40-9-0-5' => {
 
         code:       1918,
+        tariff:     137,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '6 - 9',
+        cost:       745
 
       },
 
@@ -8028,10 +8576,12 @@ module CdekApi
       '40-13-0-1' => {
 
         code:       1919,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '4 - 6',
+        cost:       1300
 
       },
 
@@ -8039,10 +8589,12 @@ module CdekApi
       '40-4-0-8' => {
 
         code:       1920,
+        tariff:     137,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '6 - 9',
+        cost:       835
 
       },
 
@@ -8050,10 +8602,12 @@ module CdekApi
       '40-19-0-6' => {
 
         code:       1921,
+        tariff:     137,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '6 - 9',
+        cost:       745
 
       },
 
@@ -8061,10 +8615,12 @@ module CdekApi
       '40-4-0-7' => {
 
         code:       1308,
+        tariff:     137,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '6 - 9',
+        cost:       835
 
       },
 
@@ -8072,10 +8628,12 @@ module CdekApi
       '40-0-1-0' => {
 
         code:       13160,
+        tariff:     137,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '6 - 9',
+        cost:       675
 
       },
 
@@ -8083,10 +8641,12 @@ module CdekApi
       '40-15-0-4' => {
 
         code:       1329,
+        tariff:     137,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '6 - 9',
+        cost:       745
 
       },
 
@@ -8094,10 +8654,12 @@ module CdekApi
       '40-7-0-1' => {
 
         code:       1922,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '4 - 6',
+        cost:       1300
 
       },
 
@@ -8105,10 +8667,12 @@ module CdekApi
       '40-4-4-0' => {
 
         code:       1923,
+        tariff:     137,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '6 - 9',
+        cost:       745
 
       },
 
@@ -8116,10 +8680,12 @@ module CdekApi
       '40-8-0-10' => {
 
         code:       1924,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '4 - 6',
+        cost:       1300
 
       },
 
@@ -8127,10 +8693,12 @@ module CdekApi
       '40-6-0-6' => {
 
         code:       1925,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '4 - 6',
+        cost:       1300
 
       },
 
@@ -8138,10 +8706,12 @@ module CdekApi
       '40-0-2-0' => {
 
         code:       1926,
+        tariff:     137,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '6 - 9',
+        cost:       745
 
       },
 
@@ -8149,10 +8719,12 @@ module CdekApi
       '40-9-0-3' => {
 
         code:       1306,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '4 - 6',
+        cost:       1300
 
       },
 
@@ -8160,10 +8732,12 @@ module CdekApi
       '40-10-0-1' => {
 
         code:       1927,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '4 - 6',
+        cost:       1300
 
       },
 
@@ -8171,10 +8745,12 @@ module CdekApi
       '40-0-1-0' => {
 
         code:       142,
+        tariff:     136,
         address:    'Салтыкова-щедрина, д.76',
         phone:      '(4842) 53-36-50; 53-36-88',
         work_time:  'пн.-пт. 9-18',
-        delivery:   ''
+        delivery:   '4 - 6',
+        cost:       335
 
       },
 
@@ -8182,10 +8758,12 @@ module CdekApi
       '40-11-1-0' => {
 
         code:       1947,
+        tariff:     137,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '6 - 9',
+        cost:       1025
 
       },
 
@@ -8193,10 +8771,12 @@ module CdekApi
       '40-12-1-0' => {
 
         code:       1928,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '4 - 6',
+        cost:       1300
 
       },
 
@@ -8204,10 +8784,12 @@ module CdekApi
       '40-6-1-0' => {
 
         code:       1188,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '4 - 6',
+        cost:       1300
 
       },
 
@@ -8215,10 +8797,12 @@ module CdekApi
       '40-9-0-109' => {
 
         code:       1929,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '4 - 6',
+        cost:       1640
 
       },
 
@@ -8226,10 +8810,12 @@ module CdekApi
       '40-6-0-12' => {
 
         code:       1930,
+        tariff:     137,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '6 - 9',
+        cost:       745
 
       },
 
@@ -8237,10 +8823,12 @@ module CdekApi
       '40-14-1-0' => {
 
         code:       144,
+        tariff:     137,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '6 - 9',
+        cost:       1025
 
       },
 
@@ -8248,10 +8836,12 @@ module CdekApi
       '40-15-0-269' => {
 
         code:       423,
+        tariff:     137,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '6 - 9',
+        cost:       745
 
       },
 
@@ -8259,10 +8849,12 @@ module CdekApi
       '40-16-1-0' => {
 
         code:       1931,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '4 - 6',
+        cost:       1300
 
       },
 
@@ -8270,10 +8862,12 @@ module CdekApi
       '40-17-0-9' => {
 
         code:       1932,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '4 - 6',
+        cost:       1300
 
       },
 
@@ -8281,10 +8875,12 @@ module CdekApi
       '40-18-0-4' => {
 
         code:       1933,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '4 - 6',
+        cost:       1300
 
       },
 
@@ -8292,10 +8888,12 @@ module CdekApi
       '40-0-1-0' => {
 
         code:       13159,
+        tariff:     137,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '6 - 9',
+        cost:       675
 
       },
 
@@ -8303,10 +8901,12 @@ module CdekApi
       '40-0-2-0' => {
 
         code:       1276,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '2 - 4',
+        cost:       550
 
       },
 
@@ -8314,10 +8914,12 @@ module CdekApi
       '40-19-0-1' => {
 
         code:       1934,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '4 - 6',
+        cost:       1300
 
       },
 
@@ -8325,10 +8927,12 @@ module CdekApi
       '40-6-0-17' => {
 
         code:       1935,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '4 - 6',
+        cost:       1300
 
       },
 
@@ -8336,10 +8940,12 @@ module CdekApi
       '40-0-2-2' => {
 
         code:       2581,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '4 - 6',
+        cost:       1300
 
       },
 
@@ -8347,10 +8953,12 @@ module CdekApi
       '40-0-1-77' => {
 
         code:       2580,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '4 - 6',
+        cost:       1300
 
       },
 
@@ -8358,10 +8966,12 @@ module CdekApi
       '40-12-2-0' => {
 
         code:       1936,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '4 - 6',
+        cost:       1300
 
       },
 
@@ -8369,10 +8979,12 @@ module CdekApi
       '40-5-0-7' => {
 
         code:       1937,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '4 - 6',
+        cost:       1300
 
       },
 
@@ -8380,10 +8992,12 @@ module CdekApi
       '40-20-1-0' => {
 
         code:       1938,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '4 - 6',
+        cost:       1300
 
       },
 
@@ -8391,10 +9005,12 @@ module CdekApi
       '40-21-1-0' => {
 
         code:       1939,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '4 - 6',
+        cost:       1300
 
       },
 
@@ -8402,10 +9018,12 @@ module CdekApi
       '40-10-0-12' => {
 
         code:       1940,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '4 - 6',
+        cost:       1300
 
       },
 
@@ -8413,10 +9031,12 @@ module CdekApi
       '40-0-1-89' => {
 
         code:       13158,
+        tariff:     137,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '6 - 9',
+        cost:       675
 
       },
 
@@ -8424,10 +9044,12 @@ module CdekApi
       '40-22-0-1' => {
 
         code:       1941,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '4 - 6',
+        cost:       1300
 
       },
 
@@ -8435,10 +9057,12 @@ module CdekApi
       '40-0-1-609' => {
 
         code:       1942,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '4 - 6',
+        cost:       1300
 
       },
 
@@ -8446,10 +9070,12 @@ module CdekApi
       '40-24-0-1' => {
 
         code:       1943,
+        tariff:     137,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '6 - 9',
+        cost:       1175
 
       },
 
@@ -8457,10 +9083,12 @@ module CdekApi
       '40-25-0-2' => {
 
         code:       1945,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '4 - 6',
+        cost:       1300
 
       },
 
@@ -8468,10 +9096,12 @@ module CdekApi
       '72-0-1-0' => {
 
         code:       13087,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '4 - 7',
+        cost:       2030
 
       },
 
@@ -8479,10 +9109,12 @@ module CdekApi
       '41-0-2-0' => {
 
         code:       407,
+        tariff:     137,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '6 - 10',
+        cost:       1105
 
       },
 
@@ -8490,10 +9122,12 @@ module CdekApi
       '41-5-0-3' => {
 
         code:       2543,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '4 - 7',
+        cost:       2170
 
       },
 
@@ -8501,10 +9135,12 @@ module CdekApi
       '41-5-0-2' => {
 
         code:       13074,
+        tariff:     137,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '6 - 10',
+        cost:       1105
 
       },
 
@@ -8512,10 +9148,12 @@ module CdekApi
       '41-6-0-3' => {
 
         code:       13076,
+        tariff:     137,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '6 - 10',
+        cost:       1105
 
       },
 
@@ -8523,10 +9161,12 @@ module CdekApi
       '41-5-0-16' => {
 
         code:       895,
+        tariff:     137,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '6 - 10',
+        cost:       1105
 
       },
 
@@ -8534,21 +9174,12 @@ module CdekApi
       '41-5-0-6' => {
 
         code:       13086,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
-
-      },
-
-      # Ключи
-      '41-9-0-6' => {
-
-        code:       3205,
-        address:    '',
-        phone:      '',
-        work_time:  '',
-        delivery:   ''
+        delivery:   '4 - 7',
+        cost:       2030
 
       },
 
@@ -8556,10 +9187,12 @@ module CdekApi
       '41-11-0-5' => {
 
         code:       894,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '4 - 7',
+        cost:       2170
 
       },
 
@@ -8567,10 +9200,12 @@ module CdekApi
       '41-5-0-8' => {
 
         code:       13084,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '4 - 7',
+        cost:       1860
 
       },
 
@@ -8578,21 +9213,12 @@ module CdekApi
       '41-5-0-9' => {
 
         code:       13078,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
-
-      },
-
-      # Мильково
-      '41-6-0-1' => {
-
-        code:       3214,
-        address:    '',
-        phone:      '',
-        work_time:  '',
-        delivery:   ''
+        delivery:   '4 - 7',
+        cost:       1860
 
       },
 
@@ -8600,10 +9226,12 @@ module CdekApi
       '41-5-0-14' => {
 
         code:       13081,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '4 - 7',
+        cost:       1860
 
       },
 
@@ -8611,10 +9239,12 @@ module CdekApi
       '41-5-0-16' => {
 
         code:       13082,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '4 - 7',
+        cost:       1860
 
       },
 
@@ -8622,10 +9252,12 @@ module CdekApi
       '41-0-1-0' => {
 
         code:       285,
+        tariff:     136,
         address:    '50 лет октября пр-т., д.22, оф.1',
         phone:      '(4152) 30-78-78',
         work_time:  'пн.-пт. 9-18, сб. 10-14',
-        delivery:   ''
+        delivery:   '5 - 8',
+        cost:       755
 
       },
 
@@ -8633,10 +9265,12 @@ module CdekApi
       '41-5-0-18' => {
 
         code:       2542,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '4 - 7',
+        cost:       2170
 
       },
 
@@ -8644,10 +9278,12 @@ module CdekApi
       '41-5-0-7' => {
 
         code:       13085,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '4 - 7',
+        cost:       1860
 
       },
 
@@ -8655,10 +9291,12 @@ module CdekApi
       '41-5-0-20' => {
 
         code:       2545,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '4 - 7',
+        cost:       2170
 
       },
 
@@ -8666,10 +9304,12 @@ module CdekApi
       '41-5-0-22' => {
 
         code:       13080,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '4 - 7',
+        cost:       1860
 
       },
 
@@ -8677,10 +9317,12 @@ module CdekApi
       '41-5-0-23' => {
 
         code:       13083,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '4 - 7',
+        cost:       1860
 
       },
 
@@ -8688,10 +9330,12 @@ module CdekApi
       '41-9-0-1' => {
 
         code:       13564,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '4 - 7',
+        cost:       2170
 
       },
 
@@ -8699,10 +9343,12 @@ module CdekApi
       '9-2-0-1' => {
 
         code:       2547,
+        tariff:     137,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '6 - 10',
+        cost:       1516
 
       },
 
@@ -8710,10 +9356,12 @@ module CdekApi
       '9-6-0-3' => {
 
         code:       13590,
+        tariff:     137,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '6 - 10',
+        cost:       1432
 
       },
 
@@ -8721,10 +9369,12 @@ module CdekApi
       '9-3-0-1' => {
 
         code:       2548,
+        tariff:     137,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '6 - 10',
+        cost:       1540
 
       },
 
@@ -8732,10 +9382,12 @@ module CdekApi
       '9-6-0-1' => {
 
         code:       2546,
+        tariff:     137,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '6 - 10',
+        cost:       1180
 
       },
 
@@ -8743,10 +9395,12 @@ module CdekApi
       '9-0-2-0' => {
 
         code:       2549,
+        tariff:     137,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '6 - 10',
+        cost:       1340
 
       },
 
@@ -8754,10 +9408,12 @@ module CdekApi
       '9-5-0-4' => {
 
         code:       13593,
+        tariff:     137,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '6 - 10',
+        cost:       1432
 
       },
 
@@ -8765,21 +9421,12 @@ module CdekApi
       '9-5-0-5' => {
 
         code:       13595,
+        tariff:     137,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
-
-      },
-
-      # Мара-Аягъы
-      '9-0-2-7' => {
-
-        code:       13605,
-        address:    '',
-        phone:      '',
-        work_time:  '',
-        delivery:   ''
+        delivery:   '6 - 10',
+        cost:       904
 
       },
 
@@ -8787,10 +9434,12 @@ module CdekApi
       '9-3-0-11' => {
 
         code:       1141,
+        tariff:     137,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '6 - 10',
+        cost:       1540
 
       },
 
@@ -8798,10 +9447,12 @@ module CdekApi
       '9-5-0-7' => {
 
         code:       13596,
+        tariff:     137,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '6 - 10',
+        cost:       1036
 
       },
 
@@ -8809,10 +9460,12 @@ module CdekApi
       '9-4-2-0' => {
 
         code:       2553,
+        tariff:     137,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '6 - 10',
+        cost:       1540
 
       },
 
@@ -8820,10 +9473,12 @@ module CdekApi
       '9-5-0-9' => {
 
         code:       13597,
+        tariff:     137,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '6 - 10',
+        cost:       1036
 
       },
 
@@ -8831,10 +9486,12 @@ module CdekApi
       '9-8-1-0' => {
 
         code:       2389,
+        tariff:     137,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '6 - 10',
+        cost:       1320
 
       },
 
@@ -8842,21 +9499,12 @@ module CdekApi
       '9-5-0-1' => {
 
         code:       2550,
+        tariff:     137,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
-
-      },
-
-      # Хабез
-      '9-9-0-1' => {
-
-        code:       2551,
-        address:    '',
-        phone:      '',
-        work_time:  '',
-        delivery:   ''
+        delivery:   '6 - 10',
+        cost:       964
 
       },
 
@@ -8864,10 +9512,12 @@ module CdekApi
       '9-6-0-27' => {
 
         code:       13594,
+        tariff:     137,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '6 - 10',
+        cost:       1432
 
       },
 
@@ -8875,10 +9525,12 @@ module CdekApi
       '9-0-1-0' => {
 
         code:       1085,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '2 - 5',
+        cost:       770
 
       },
 
@@ -8886,10 +9538,12 @@ module CdekApi
       '9-11-0-4' => {
 
         code:       2552,
+        tariff:     137,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '6 - 10',
+        cost:       1320
 
       },
 
@@ -8897,21 +9551,12 @@ module CdekApi
       '10-2-0-12' => {
 
         code:       2559,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
-
-      },
-
-      # Вилга
-      '10-1-0-52' => {
-
-        code:       14279,
-        address:    '',
-        phone:      '',
-        work_time:  '',
-        delivery:   ''
+        delivery:   '5 - 8',
+        cost:       1710
 
       },
 
@@ -8919,10 +9564,12 @@ module CdekApi
       '10-0-7-2' => {
 
         code:       2560,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '5 - 8',
+        cost:       1710
 
       },
 
@@ -8930,10 +9577,12 @@ module CdekApi
       '10-3-0-1' => {
 
         code:       2561,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '5 - 8',
+        cost:       1710
 
       },
 
@@ -8941,10 +9590,12 @@ module CdekApi
       '10-4-0-11' => {
 
         code:       2562,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '5 - 8',
+        cost:       1710
 
       },
 
@@ -8952,10 +9603,12 @@ module CdekApi
       '10-5-0-9' => {
 
         code:       2554,
+        tariff:     137,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '7 - 12',
+        cost:       1165
 
       },
 
@@ -8963,10 +9616,12 @@ module CdekApi
       '10-0-4-0' => {
 
         code:       986,
+        tariff:     136,
         address:    'Октябрьская, д.12',
         phone:      '+7 911 419 12 17',
         work_time:  'пн.-пт. 9-18',
-        delivery:   ''
+        delivery:   '7 - 11',
+        cost:       415
 
       },
 
@@ -8974,10 +9629,12 @@ module CdekApi
       '10-6-1-0' => {
 
         code:       2563,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '5 - 8',
+        cost:       1710
 
       },
 
@@ -8985,10 +9642,12 @@ module CdekApi
       '10-7-0-1' => {
 
         code:       2564,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '5 - 8',
+        cost:       1710
 
       },
 
@@ -8996,21 +9655,12 @@ module CdekApi
       '10-8-0-42' => {
 
         code:       2557,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
-
-      },
-
-      # Мелиоративный
-      '10-1-0-7' => {
-
-        code:       14281,
-        address:    '',
-        phone:      '',
-        work_time:  '',
-        delivery:   ''
+        delivery:   '5 - 8',
+        cost:       1710
 
       },
 
@@ -9018,10 +9668,12 @@ module CdekApi
       '10-9-0-1' => {
 
         code:       2565,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '5 - 8',
+        cost:       1710
 
       },
 
@@ -9029,21 +9681,12 @@ module CdekApi
       '10-14-0-4' => {
 
         code:       2566,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
-
-      },
-
-      # Новая Вилга
-      '10-1-0-8' => {
-
-        code:       14280,
-        address:    '',
-        phone:      '',
-        work_time:  '',
-        delivery:   ''
+        delivery:   '5 - 8',
+        cost:       1710
 
       },
 
@@ -9051,10 +9694,12 @@ module CdekApi
       '10-0-7-0' => {
 
         code:       985,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '5 - 8',
+        cost:       1710
 
       },
 
@@ -9062,10 +9707,12 @@ module CdekApi
       '10-0-1-0' => {
 
         code:       450,
+        tariff:     136,
         address:    'Дзержинского ул., д.3, оф.15',
         phone:      '(8142)59-59-69, 33-01-03, 63-46-90',
         work_time:  'пн.-пт. 9-19, сб.10-16',
-        delivery:   ''
+        delivery:   '5 - 7',
+        cost:       415
 
       },
 
@@ -9073,10 +9720,12 @@ module CdekApi
       '10-11-0-28' => {
 
         code:       2567,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '5 - 8',
+        cost:       1710
 
       },
 
@@ -9084,10 +9733,12 @@ module CdekApi
       '10-12-0-1' => {
 
         code:       2555,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '5 - 8',
+        cost:       1710
 
       },
 
@@ -9095,10 +9746,12 @@ module CdekApi
       '10-13-0-63' => {
 
         code:       2568,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '5 - 8',
+        cost:       1710
 
       },
 
@@ -9106,10 +9759,12 @@ module CdekApi
       '10-14-0-11' => {
 
         code:       2569,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '5 - 8',
+        cost:       1710
 
       },
 
@@ -9117,10 +9772,12 @@ module CdekApi
       '10-0-7-1' => {
 
         code:       2570,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '5 - 8',
+        cost:       1710
 
       },
 
@@ -9128,10 +9785,12 @@ module CdekApi
       '10-15-0-20' => {
 
         code:       2558,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '5 - 8',
+        cost:       1710
 
       },
 
@@ -9139,32 +9798,12 @@ module CdekApi
       '10-1-0-13' => {
 
         code:       2556,
+        tariff:     137,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
-
-      },
-
-      # Шуя
-      '10-1-0-13' => {
-
-        code:       14277,
-        address:    '',
-        phone:      '',
-        work_time:  '',
-        delivery:   ''
-
-      },
-
-      # Янишполе
-      '10-5-0-11' => {
-
-        code:       14278,
-        address:    '',
-        phone:      '',
-        work_time:  '',
-        delivery:   ''
+        delivery:   '7 - 12',
+        cost:       1165
 
       },
 
@@ -9172,10 +9811,12 @@ module CdekApi
       '42-0-2-0' => {
 
         code:       767,
+        tariff:     137,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '8 - 11',
+        cost:       665
 
       },
 
@@ -9183,21 +9824,12 @@ module CdekApi
       '42-9-0-8' => {
 
         code:       13876,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
-
-      },
-
-      # Барачаты
-      '42-5-0-5' => {
-
-        code:       14304,
-        address:    '',
-        phone:      '',
-        work_time:  '',
-        delivery:   ''
+        delivery:   '5 - 7',
+        cost:       1260
 
       },
 
@@ -9205,10 +9837,12 @@ module CdekApi
       '42-0-15-0' => {
 
         code:       766,
+        tariff:     137,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '7 - 10',
+        cost:       665
 
       },
 
@@ -9216,10 +9850,12 @@ module CdekApi
       '66-0-3-0' => {
 
         code:       761,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '5 - 7',
+        cost:       1260
 
       },
 
@@ -9227,10 +9863,12 @@ module CdekApi
       '42-16-0-12' => {
 
         code:       760,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '5 - 7',
+        cost:       1260
 
       },
 
@@ -9238,10 +9876,12 @@ module CdekApi
       '42-3-1-0' => {
 
         code:       2369,
+        tariff:     137,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '8 - 11',
+        cost:       665
 
       },
 
@@ -9249,10 +9889,12 @@ module CdekApi
       '42-1-0-12' => {
 
         code:       13868,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '5 - 7',
+        cost:       1260
 
       },
 
@@ -9260,10 +9902,12 @@ module CdekApi
       '42-1-0-2' => {
 
         code:       13315,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '5 - 7',
+        cost:       1150
 
       },
 
@@ -9271,10 +9915,12 @@ module CdekApi
       '42-4-1-0' => {
 
         code:       770,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '5 - 7',
+        cost:       1260
 
       },
 
@@ -9282,10 +9928,12 @@ module CdekApi
       '42-0-4-0' => {
 
         code:       1189,
+        tariff:     137,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '6 - 9',
+        cost:       760
 
       },
 
@@ -9293,10 +9941,12 @@ module CdekApi
       '42-10-0-16' => {
 
         code:       13872,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '5 - 7',
+        cost:       1260
 
       },
 
@@ -9304,10 +9954,12 @@ module CdekApi
       '42-12-5-0' => {
 
         code:       13446,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '4 - 6',
+        cost:       1260
 
       },
 
@@ -9315,10 +9967,12 @@ module CdekApi
       '42-0-9-0' => {
 
         code:       272,
+        tariff:     136,
         address:    'Мичурина ул., д.43, оф.4',
         phone:      '(3842) 45-25-65',
         work_time:  'пн.-пт. 9-18, сб. 10-14',
-        delivery:   ''
+        delivery:   '4 - 6',
+        cost:       175
 
       },
 
@@ -9326,10 +9980,12 @@ module CdekApi
       '42-0-5-0' => {
 
         code:       772,
+        tariff:     137,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '7 - 10',
+        cost:       760
 
       },
 
@@ -9337,10 +9993,12 @@ module CdekApi
       '42-10-0-31' => {
 
         code:       13873,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '5 - 7',
+        cost:       1260
 
       },
 
@@ -9348,10 +10006,12 @@ module CdekApi
       '42-5-0-24' => {
 
         code:       762,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '5 - 7',
+        cost:       1260
 
       },
 
@@ -9359,10 +10019,12 @@ module CdekApi
       '42-6-0-22' => {
 
         code:       13275,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '5 - 7',
+        cost:       1150
 
       },
 
@@ -9370,10 +10032,12 @@ module CdekApi
       '42-0-10-0' => {
 
         code:       299,
+        tariff:     137,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '7 - 10',
+        cost:       665
 
       },
 
@@ -9381,10 +10045,12 @@ module CdekApi
       '42-7-1-0' => {
 
         code:       759,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '6 - 8',
+        cost:       1260
 
       },
 
@@ -9392,10 +10058,12 @@ module CdekApi
       '42-0-16-0' => {
 
         code:       777,
+        tariff:     137,
         address:    'Юности, д.10, оф.220',
         phone:      '(38475) 2-60-06',
         work_time:  'пн.-пт. 9-18',
-        delivery:   ''
+        delivery:   '6 - 9',
+        cost:       425
 
       },
 
@@ -9403,10 +10071,12 @@ module CdekApi
       '42-1-0-30' => {
 
         code:       13272,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '5 - 7',
+        cost:       1150
 
       },
 
@@ -9414,10 +10084,12 @@ module CdekApi
       '42-0-6-0' => {
 
         code:       776,
+        tariff:     137,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '6 - 9',
+        cost:       425
 
       },
 
@@ -9425,10 +10097,12 @@ module CdekApi
       '42-0-12-0' => {
 
         code:       273,
+        tariff:     136,
         address:    'Металлургов, д.38',
         phone:      '(3843) 92-02-24, +7-903-908-3311',
         work_time:  'пн.-пт. 9-20, сб. 9-17',
-        delivery:   ''
+        delivery:   '4 - 6',
+        cost:       175
 
       },
 
@@ -9436,10 +10110,12 @@ module CdekApi
       '42-0-7-0' => {
 
         code:       775,
+        tariff:     137,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '6 - 9',
+        cost:       760
 
       },
 
@@ -9447,10 +10123,12 @@ module CdekApi
       '42-11-0-29' => {
 
         code:       13870,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '5 - 7',
+        cost:       1260
 
       },
 
@@ -9458,10 +10136,12 @@ module CdekApi
       '42-6-0-42' => {
 
         code:       13871,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '5 - 7',
+        cost:       1260
 
       },
 
@@ -9469,10 +10149,12 @@ module CdekApi
       '42-0-11-0' => {
 
         code:       1333,
+        tariff:     137,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '7 - 10',
+        cost:       665
 
       },
 
@@ -9480,10 +10162,12 @@ module CdekApi
       '42-0-13-0' => {
 
         code:       773,
+        tariff:     137,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '6 - 9',
+        cost:       760
 
       },
 
@@ -9491,10 +10175,12 @@ module CdekApi
       '42-11-0-13' => {
 
         code:       758,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '5 - 7',
+        cost:       1260
 
       },
 
@@ -9502,10 +10188,12 @@ module CdekApi
       '42-14-0-40' => {
 
         code:       13869,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '5 - 7',
+        cost:       1260
 
       },
 
@@ -9513,10 +10201,12 @@ module CdekApi
       '42-19-0-42' => {
 
         code:       13267,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '5 - 7',
+        cost:       1150
 
       },
 
@@ -9524,10 +10214,12 @@ module CdekApi
       '42-12-4-0' => {
 
         code:       1536,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '5 - 7',
+        cost:       1260
 
       },
 
@@ -9535,10 +10227,12 @@ module CdekApi
       '42-18-0-31' => {
 
         code:       13388,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '5 - 7',
+        cost:       1500
 
       },
 
@@ -9546,10 +10240,12 @@ module CdekApi
       '42-1-0-30' => {
 
         code:       13271,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '5 - 7',
+        cost:       1150
 
       },
 
@@ -9557,10 +10253,12 @@ module CdekApi
       '42-0-8-0' => {
 
         code:       2366,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '5 - 7',
+        cost:       1260
 
       },
 
@@ -9568,10 +10266,12 @@ module CdekApi
       '42-9-0-105' => {
 
         code:       13877,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '5 - 7',
+        cost:       1260
 
       },
 
@@ -9579,10 +10279,12 @@ module CdekApi
       '42-12-0-9' => {
 
         code:       2571,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '5 - 7',
+        cost:       1260
 
       },
 
@@ -9590,10 +10292,12 @@ module CdekApi
       '42-14-0-11' => {
 
         code:       768,
+        tariff:     137,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '7 - 10',
+        cost:       665
 
       },
 
@@ -9601,10 +10305,12 @@ module CdekApi
       '42-10-0-2' => {
 
         code:       13875,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '5 - 7',
+        cost:       1260
 
       },
 
@@ -9612,21 +10318,12 @@ module CdekApi
       '42-15-0-17' => {
 
         code:       2367,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
-
-      },
-
-      # Шерегеш
-      '42-12-6-0' => {
-
-        code:       13932,
-        address:    '',
-        phone:      '',
-        work_time:  '',
-        delivery:   ''
+        delivery:   '5 - 7',
+        cost:       1260
 
       },
 
@@ -9634,10 +10331,12 @@ module CdekApi
       '42-0-14-0' => {
 
         code:       765,
+        tariff:     137,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '8 - 11',
+        cost:       665
 
       },
 
@@ -9645,10 +10344,12 @@ module CdekApi
       '42-10-0-29' => {
 
         code:       13874,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '5 - 7',
+        cost:       1260
 
       },
 
@@ -9656,10 +10357,12 @@ module CdekApi
       '42-19-0-47' => {
 
         code:       2368,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '5 - 7',
+        cost:       1260
 
       },
 
@@ -9667,10 +10370,12 @@ module CdekApi
       '42-18-0-6' => {
 
         code:       2365,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '5 - 7',
+        cost:       1260
 
       },
 
@@ -9678,10 +10383,12 @@ module CdekApi
       '43-30-0-1' => {
 
         code:       1768,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '4 - 6',
+        cost:       1375
 
       },
 
@@ -9689,10 +10396,12 @@ module CdekApi
       '43-4-0-5' => {
 
         code:       2576,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '4 - 6',
+        cost:       1500
 
       },
 
@@ -9700,10 +10409,12 @@ module CdekApi
       '43-13-0-21' => {
 
         code:       2572,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '4 - 6',
+        cost:       1500
 
       },
 
@@ -9711,10 +10422,12 @@ module CdekApi
       '43-31-0-2' => {
 
         code:       2577,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '4 - 6',
+        cost:       1500
 
       },
 
@@ -9722,10 +10435,12 @@ module CdekApi
       '43-7-0-1' => {
 
         code:       2578,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '4 - 6',
+        cost:       1500
 
       },
 
@@ -9733,10 +10448,12 @@ module CdekApi
       '16-14-0-14' => {
 
         code:       2583,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '4 - 6',
+        cost:       1500
 
       },
 
@@ -9744,43 +10461,12 @@ module CdekApi
       '43-8-0-15' => {
 
         code:       388,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
-
-      },
-
-      # Киров
-      '43-0-1-0' => {
-
-        code:       13952,
-        address:    '',
-        phone:      '',
-        work_time:  '',
-        delivery:   ''
-
-      },
-
-      # Киров
-      '43-0-1-0' => {
-
-        code:       13951,
-        address:    '',
-        phone:      '',
-        work_time:  '',
-        delivery:   ''
-
-      },
-
-      # Кильмезь
-      '43-12-0-1' => {
-
-        code:       13949,
-        address:    '',
-        phone:      '',
-        work_time:  '',
-        delivery:   ''
+        delivery:   '4 - 6',
+        cost:       1500
 
       },
 
@@ -9788,10 +10474,12 @@ module CdekApi
       '43-0-1-0' => {
 
         code:       415,
-        address:    'Попова ул., д.4',
+        tariff:     136,
+        address:    'Октябрьский проспект, д.114',
         phone:      '(8332) 341-340',
-        work_time:  'пн-пт 9-18, обед 13-14, сб 11-14',
-        delivery:   ''
+        work_time:  'пн-пт 9-18, обед 13-14, сб 10-15',
+        delivery:   '5 - 7',
+        cost:       340
 
       },
 
@@ -9799,32 +10487,12 @@ module CdekApi
       '43-13-0-77' => {
 
         code:       241,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
-
-      },
-
-      # Фосфоритная
-      '43-6-0-89' => {
-
-        code:       13948,
-        address:    '',
-        phone:      '',
-        work_time:  '',
-        delivery:   ''
-
-      },
-
-      # Киров
-      '43-0-1-0' => {
-
-        code:       13954,
-        address:    '',
-        phone:      '',
-        work_time:  '',
-        delivery:   ''
+        delivery:   '4 - 6',
+        cost:       1500
 
       },
 
@@ -9832,10 +10500,12 @@ module CdekApi
       '43-14-0-111' => {
 
         code:       2584,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '4 - 6',
+        cost:       1500
 
       },
 
@@ -9843,10 +10513,12 @@ module CdekApi
       '43-8-0-15' => {
 
         code:       13113,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '4 - 6',
+        cost:       1500
 
       },
 
@@ -9854,10 +10526,12 @@ module CdekApi
       '43-0-1-0' => {
 
         code:       13933,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '3 - 6',
+        cost:       1500
 
       },
 
@@ -9865,21 +10539,12 @@ module CdekApi
       '43-18-0-14' => {
 
         code:       2585,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
-
-      },
-
-      # Алексеевское
-      '43-19-0-3' => {
-
-        code:       13950,
-        address:    '',
-        phone:      '',
-        work_time:  '',
-        delivery:   ''
+        delivery:   '4 - 6',
+        cost:       1500
 
       },
 
@@ -9887,21 +10552,12 @@ module CdekApi
       '43-39-0-90' => {
 
         code:       2573,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
-
-      },
-
-      # Киров
-      '43-0-1-0' => {
-
-        code:       13955,
-        address:    '',
-        phone:      '',
-        work_time:  '',
-        delivery:   ''
+        delivery:   '4 - 6',
+        cost:       1500
 
       },
 
@@ -9909,10 +10565,12 @@ module CdekApi
       '43-22-0-6' => {
 
         code:       2586,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '4 - 6',
+        cost:       1500
 
       },
 
@@ -9920,10 +10578,12 @@ module CdekApi
       '43-23-0-5' => {
 
         code:       197,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '4 - 6',
+        cost:       1500
 
       },
 
@@ -9931,10 +10591,12 @@ module CdekApi
       '43-25-0-1' => {
 
         code:       2587,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '4 - 6',
+        cost:       1500
 
       },
 
@@ -9942,10 +10604,12 @@ module CdekApi
       '43-26-0-4' => {
 
         code:       2579,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '4 - 6',
+        cost:       1500
 
       },
 
@@ -9953,21 +10617,12 @@ module CdekApi
       '43-27-0-1' => {
 
         code:       2588,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
-
-      },
-
-      # Киров
-      '43-0-1-0' => {
-
-        code:       13953,
-        address:    '',
-        phone:      '',
-        work_time:  '',
-        delivery:   ''
+        delivery:   '4 - 6',
+        cost:       1500
 
       },
 
@@ -9975,10 +10630,12 @@ module CdekApi
       '43-30-0-1' => {
 
         code:       2589,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '4 - 6',
+        cost:       1500
 
       },
 
@@ -9986,10 +10643,12 @@ module CdekApi
       '43-31-0-18' => {
 
         code:       2383,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '4 - 6',
+        cost:       1500
 
       },
 
@@ -9997,10 +10656,12 @@ module CdekApi
       '43-32-0-47' => {
 
         code:       2590,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '4 - 6',
+        cost:       1500
 
       },
 
@@ -10008,10 +10669,12 @@ module CdekApi
       '43-8-2-0' => {
 
         code:       2591,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '4 - 6',
+        cost:       1500
 
       },
 
@@ -10019,10 +10682,12 @@ module CdekApi
       '43-25-0-25' => {
 
         code:       2575,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '4 - 6',
+        cost:       1500
 
       },
 
@@ -10030,10 +10695,12 @@ module CdekApi
       '43-34-0-1' => {
 
         code:       2592,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '4 - 6',
+        cost:       1500
 
       },
 
@@ -10041,10 +10708,12 @@ module CdekApi
       '43-35-0-1' => {
 
         code:       14283,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '4 - 6',
+        cost:       1500
 
       },
 
@@ -10052,10 +10721,12 @@ module CdekApi
       '43-36-0-8' => {
 
         code:       2593,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '4 - 6',
+        cost:       1500
 
       },
 
@@ -10063,10 +10734,12 @@ module CdekApi
       '43-39-0-1' => {
 
         code:       2582,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '4 - 6',
+        cost:       1500
 
       },
 
@@ -10074,10 +10747,12 @@ module CdekApi
       '43-40-0-3' => {
 
         code:       2594,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '4 - 6',
+        cost:       1500
 
       },
 
@@ -10085,10 +10760,12 @@ module CdekApi
       '11-17-0-1' => {
 
         code:       2604,
+        tariff:     137,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '6 - 12',
+        cost:       570
 
       },
 
@@ -10096,10 +10773,12 @@ module CdekApi
       '11-13-0-1' => {
 
         code:       2605,
+        tariff:     137,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '6 - 12',
+        cost:       570
 
       },
 
@@ -10107,10 +10786,12 @@ module CdekApi
       '11-0-8-3' => {
 
         code:       2595,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '5 - 11',
+        cost:       1500
 
       },
 
@@ -10118,10 +10799,12 @@ module CdekApi
       '11-0-2-3' => {
 
         code:       2600,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '5 - 11',
+        cost:       1500
 
       },
 
@@ -10129,10 +10812,12 @@ module CdekApi
       '11-0-2-0' => {
 
         code:       999,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '5 - 11',
+        cost:       1500
 
       },
 
@@ -10140,10 +10825,12 @@ module CdekApi
       '11-12-0-1' => {
 
         code:       2596,
+        tariff:     137,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '6 - 12',
+        cost:       570
 
       },
 
@@ -10151,10 +10838,12 @@ module CdekApi
       '11-6-0-60' => {
 
         code:       2606,
+        tariff:     137,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '6 - 12',
+        cost:       570
 
       },
 
@@ -10162,10 +10851,12 @@ module CdekApi
       '11-0-4-0' => {
 
         code:       2346,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '5 - 11',
+        cost:       1500
 
       },
 
@@ -10173,10 +10864,12 @@ module CdekApi
       '11-7-0-1' => {
 
         code:       2607,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '5 - 11',
+        cost:       1500
 
       },
 
@@ -10184,10 +10877,12 @@ module CdekApi
       '11-8-0-1' => {
 
         code:       2599,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '5 - 11',
+        cost:       1500
 
       },
 
@@ -10195,10 +10890,12 @@ module CdekApi
       '11-17-0-41' => {
 
         code:       2608,
+        tariff:     137,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '6 - 12',
+        cost:       570
 
       },
 
@@ -10206,10 +10903,12 @@ module CdekApi
       '11-0-6-20' => {
 
         code:       2602,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '5 - 11',
+        cost:       1500
 
       },
 
@@ -10217,10 +10916,12 @@ module CdekApi
       '11-10-0-1' => {
 
         code:       2609,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '5 - 11',
+        cost:       1500
 
       },
 
@@ -10228,10 +10929,12 @@ module CdekApi
       '11-0-5-0' => {
 
         code:       998,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '5 - 11',
+        cost:       1500
 
       },
 
@@ -10239,10 +10942,12 @@ module CdekApi
       '11-0-6-0' => {
 
         code:       2597,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '5 - 11',
+        cost:       1500
 
       },
 
@@ -10250,10 +10955,12 @@ module CdekApi
       '11-0-1-0' => {
 
         code:       404,
+        tariff:     136,
         address:    'Гаражная ул., д.9, оф.106',
         phone:      '(8212) 29-38-82',
         work_time:  'пн.-пт. 9-18',
-        delivery:   ''
+        delivery:   '5 - 7',
+        cost:       340
 
       },
 
@@ -10261,10 +10968,12 @@ module CdekApi
       '11-14-0-1' => {
 
         code:       2603,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '5 - 11',
+        cost:       1500
 
       },
 
@@ -10272,10 +10981,12 @@ module CdekApi
       '11-0-7-0' => {
 
         code:       5,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '5 - 11',
+        cost:       1500
 
       },
 
@@ -10283,10 +10994,12 @@ module CdekApi
       '11-18-0-1' => {
 
         code:       2610,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '5 - 11',
+        cost:       1500
 
       },
 
@@ -10294,10 +11007,12 @@ module CdekApi
       '11-0-8-0' => {
 
         code:       1093,
+        tariff:     137,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '5 - 8',
+        cost:       570
 
       },
 
@@ -10305,10 +11020,12 @@ module CdekApi
       '11-0-8-10' => {
 
         code:       2598,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '5 - 11',
+        cost:       1500
 
       },
 
@@ -10316,10 +11033,12 @@ module CdekApi
       '44-3-1-0' => {
 
         code:       2612,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '4 - 6',
+        cost:       1370
 
       },
 
@@ -10327,10 +11046,12 @@ module CdekApi
       '44-24-1-3' => {
 
         code:       2613,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '4 - 6',
+        cost:       1370
 
       },
 
@@ -10338,10 +11059,12 @@ module CdekApi
       '44-0-2-0' => {
 
         code:       941,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '4 - 6',
+        cost:       1370
 
       },
 
@@ -10349,10 +11072,12 @@ module CdekApi
       '44-5-1-0' => {
 
         code:       1810,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '4 - 6',
+        cost:       1370
 
       },
 
@@ -10360,10 +11085,12 @@ module CdekApi
       '44-1-0-86' => {
 
         code:       2611,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '4 - 6',
+        cost:       1370
 
       },
 
@@ -10371,10 +11098,12 @@ module CdekApi
       '44-1-1-0' => {
 
         code:       165,
+        tariff:     136,
         address:    'Чернореченский проезд ул., д.39, оф.1',
         phone:      '(4942)622-052',
         work_time:  'пн.-пт. 9-18',
-        delivery:   ''
+        delivery:   '4 - 6',
+        cost:       335
 
       },
 
@@ -10382,10 +11111,12 @@ module CdekApi
       '44-8-0-1' => {
 
         code:       2614,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '4 - 6',
+        cost:       1370
 
       },
 
@@ -10393,10 +11124,12 @@ module CdekApi
       '44-9-1-0' => {
 
         code:       2623,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '4 - 6',
+        cost:       1370
 
       },
 
@@ -10404,10 +11137,12 @@ module CdekApi
       '44-10-0-28' => {
 
         code:       2615,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '4 - 6',
+        cost:       1370
 
       },
 
@@ -10415,10 +11150,12 @@ module CdekApi
       '44-13-0-185' => {
 
         code:       2616,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '4 - 6',
+        cost:       1370
 
       },
 
@@ -10426,10 +11163,12 @@ module CdekApi
       '44-1-0-41' => {
 
         code:       2617,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '4 - 6',
+        cost:       1370
 
       },
 
@@ -10437,10 +11176,12 @@ module CdekApi
       '44-15-0-1' => {
 
         code:       2618,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '4 - 6',
+        cost:       1370
 
       },
 
@@ -10448,10 +11189,12 @@ module CdekApi
       '44-20-0-5' => {
 
         code:       2624,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '4 - 6',
+        cost:       1370
 
       },
 
@@ -10459,10 +11202,12 @@ module CdekApi
       '44-21-0-1' => {
 
         code:       2619,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '4 - 6',
+        cost:       1370
 
       },
 
@@ -10470,10 +11215,12 @@ module CdekApi
       '44-22-0-1' => {
 
         code:       2620,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '4 - 6',
+        cost:       1370
 
       },
 
@@ -10481,10 +11228,12 @@ module CdekApi
       '44-3-0-256' => {
 
         code:       2621,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '4 - 6',
+        cost:       1370
 
       },
 
@@ -10492,10 +11241,12 @@ module CdekApi
       '44-23-0-4' => {
 
         code:       2625,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '4 - 6',
+        cost:       1370
 
       },
 
@@ -10503,10 +11254,12 @@ module CdekApi
       '44-24-0-24' => {
 
         code:       2622,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '4 - 6',
+        cost:       1370
 
       },
 
@@ -10514,10 +11267,12 @@ module CdekApi
       '23-2-0-6' => {
 
         code:       1587,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '4 - 6',
+        cost:       1200
 
       },
 
@@ -10525,21 +11280,12 @@ module CdekApi
       '23-0-6-1' => {
 
         code:       1571,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
-
-      },
-
-      # Агой
-      '23-36-0-3' => {
-
-        code:       2626,
-        address:    '',
-        phone:      '',
-        work_time:  '',
-        delivery:   ''
+        delivery:   '4 - 6',
+        cost:       1180
 
       },
 
@@ -10547,10 +11293,12 @@ module CdekApi
       '23-0-7-0' => {
 
         code:       326,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '3 - 4',
+        cost:       1320
 
       },
 
@@ -10558,10 +11306,12 @@ module CdekApi
       '23-3-0-2' => {
 
         code:       959,
+        tariff:     137,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '7 - 12',
+        cost:       550
 
       },
 
@@ -10569,10 +11319,12 @@ module CdekApi
       '23-3-0-3' => {
 
         code:       2627,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '4 - 6',
+        cost:       1180
 
       },
 
@@ -10580,10 +11332,12 @@ module CdekApi
       '23-4-0-15' => {
 
         code:       1386,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '4 - 6',
+        cost:       1200
 
       },
 
@@ -10591,10 +11345,12 @@ module CdekApi
       '23-0-2-0' => {
 
         code:       315,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '4 - 6',
+        cost:       1200
 
       },
 
@@ -10602,10 +11358,12 @@ module CdekApi
       '23-0-3-3' => {
 
         code:       1589,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '4 - 6',
+        cost:       1320
 
       },
 
@@ -10613,21 +11371,12 @@ module CdekApi
       '23-29-0-7' => {
 
         code:       1057,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
-
-      },
-
-      # Сочи
-      '23-0-7-0' => {
-
-        code:       13334,
-        address:    '',
-        phone:      '',
-        work_time:  '',
-        delivery:   ''
+        delivery:   '3 - 5',
+        cost:       1100
 
       },
 
@@ -10635,10 +11384,12 @@ module CdekApi
       '23-5-0-1' => {
 
         code:       1591,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '4 - 7',
+        cost:       1200
 
       },
 
@@ -10646,10 +11397,12 @@ module CdekApi
       '23-6-1-0' => {
 
         code:       13,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '4 - 6',
+        cost:       1200
 
       },
 
@@ -10657,32 +11410,12 @@ module CdekApi
       '23-8-0-7' => {
 
         code:       1592,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
-
-      },
-
-      # Благовещенская
-      '23-3-1-2' => {
-
-        code:       1946,
-        address:    '',
-        phone:      '',
-        work_time:  '',
-        delivery:   ''
-
-      },
-
-      # Большой Утриш
-      '23-3-0-57' => {
-
-        code:       2058,
-        address:    '',
-        phone:      '',
-        work_time:  '',
-        delivery:   ''
+        delivery:   '4 - 7',
+        cost:       1305
 
       },
 
@@ -10690,10 +11423,12 @@ module CdekApi
       '23-7-0-1' => {
 
         code:       1166,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '4 - 6',
+        cost:       1200
 
       },
 
@@ -10701,21 +11436,12 @@ module CdekApi
       '23-0-7-0' => {
 
         code:       13337,
+        tariff:     137,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
-
-      },
-
-      # Васюринская
-      '23-10-0-5' => {
-
-        code:       2628,
-        address:    '',
-        phone:      '',
-        work_time:  '',
-        delivery:   ''
+        delivery:   '6 - 9',
+        cost:       620
 
       },
 
@@ -10723,10 +11449,12 @@ module CdekApi
       '23-0-6-5' => {
 
         code:       2629,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '5 - 8',
+        cost:       1450
 
       },
 
@@ -10734,10 +11462,12 @@ module CdekApi
       '23-0-7-30' => {
 
         code:       2630,
+        tariff:     137,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '6 - 9',
+        cost:       590
 
       },
 
@@ -10745,10 +11475,12 @@ module CdekApi
       '23-3-0-9' => {
 
         code:       2631,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '4 - 6',
+        cost:       1180
 
       },
 
@@ -10756,21 +11488,12 @@ module CdekApi
       '23-3-0-30' => {
 
         code:       2059,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
-
-      },
-
-      # Владимировка
-      '23-0-6-6' => {
-
-        code:       2051,
-        address:    '',
-        phone:      '',
-        work_time:  '',
-        delivery:   ''
+        delivery:   '4 - 6',
+        cost:       1180
 
       },
 
@@ -10778,21 +11501,12 @@ module CdekApi
       '23-0-3-7' => {
 
         code:       2056,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
-
-      },
-
-      # Волковка
-      '23-0-7-31' => {
-
-        code:       2632,
-        address:    '',
-        phone:      '',
-        work_time:  '',
-        delivery:   ''
+        delivery:   '4 - 6',
+        cost:       1180
 
       },
 
@@ -10800,10 +11514,12 @@ module CdekApi
       '23-8-0-1' => {
 
         code:       1593,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '4 - 6',
+        cost:       1200
 
       },
 
@@ -10811,10 +11527,12 @@ module CdekApi
       '23-0-6-7' => {
 
         code:       2052,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '4 - 6',
+        cost:       1180
 
       },
 
@@ -10822,10 +11540,12 @@ module CdekApi
       '23-0-3-0' => {
 
         code:       1062,
+        tariff:     137,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '7 - 12',
+        cost:       550
 
       },
 
@@ -10833,10 +11553,12 @@ module CdekApi
       '23-9-0-12' => {
 
         code:       2633,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '4 - 7',
+        cost:       1375
 
       },
 
@@ -10844,21 +11566,12 @@ module CdekApi
       '23-33-0-14' => {
 
         code:       2634,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
-
-      },
-
-      # Горный
-      '23-0-6-9' => {
-
-        code:       2060,
-        address:    '',
-        phone:      '',
-        work_time:  '',
-        delivery:   ''
+        delivery:   '4 - 7',
+        cost:       1370
 
       },
 
@@ -10866,21 +11579,12 @@ module CdekApi
       '23-0-4-0' => {
 
         code:       1066,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
-
-      },
-
-      # Губская
-      '23-23-0-13' => {
-
-        code:       13289,
-        address:    '',
-        phone:      '',
-        work_time:  '',
-        delivery:   ''
+        delivery:   '4 - 6',
+        cost:       1200
 
       },
 
@@ -10888,21 +11592,12 @@ module CdekApi
       '23-9-1-0' => {
 
         code:       1300,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
-
-      },
-
-      # Гусаровское
-      '23-26-0-8' => {
-
-        code:       14326,
-        address:    '',
-        phone:      '',
-        work_time:  '',
-        delivery:   ''
+        delivery:   '4 - 6',
+        cost:       1200
 
       },
 
@@ -10910,10 +11605,12 @@ module CdekApi
       '23-0-7-0' => {
 
         code:       2047,
+        tariff:     137,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '6 - 9',
+        cost:       620
 
       },
 
@@ -10921,32 +11618,12 @@ module CdekApi
       '23-38-0-11' => {
 
         code:       2635,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
-
-      },
-
-      # Дедеркой
-      '23-36-0-22' => {
-
-        code:       2636,
-        address:    '',
-        phone:      '',
-        work_time:  '',
-        delivery:   ''
-
-      },
-
-      # Дербентский
-      '23-34-0-7' => {
-
-        code:       3007,
-        address:    '',
-        phone:      '',
-        work_time:  '',
-        delivery:   ''
+        delivery:   '4 - 7',
+        cost:       1375
 
       },
 
@@ -10954,10 +11631,12 @@ module CdekApi
       '23-36-0-10' => {
 
         code:       1594,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '4 - 7',
+        cost:       1270
 
       },
 
@@ -10965,10 +11644,12 @@ module CdekApi
       '23-0-3-9' => {
 
         code:       2057,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '4 - 6',
+        cost:       1180
 
       },
 
@@ -10976,10 +11657,12 @@ module CdekApi
       '23-10-0-1' => {
 
         code:       1595,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '3 - 5',
+        cost:       1100
 
       },
 
@@ -10987,10 +11670,12 @@ module CdekApi
       '23-0-1-0' => {
 
         code:       13164,
+        tariff:     137,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '7 - 10',
+        cost:       680
 
       },
 
@@ -10998,10 +11683,12 @@ module CdekApi
       '23-11-1-0' => {
 
         code:       1087,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '4 - 6',
+        cost:       1200
 
       },
 
@@ -11009,10 +11696,12 @@ module CdekApi
       '23-0-1-13' => {
 
         code:       1596,
+        tariff:     137,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '7 - 10',
+        cost:       680
 
       },
 
@@ -11020,21 +11709,12 @@ module CdekApi
       '23-0-2-7' => {
 
         code:       2637,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
-
-      },
-
-      # Зеленопольский
-      '23-0-1-14' => {
-
-        code:       13167,
-        address:    '',
-        phone:      '',
-        work_time:  '',
-        delivery:   ''
+        delivery:   '4 - 6',
+        cost:       1370
 
       },
 
@@ -11042,10 +11722,12 @@ module CdekApi
       '23-0-1-0' => {
 
         code:       13163,
+        tariff:     137,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '7 - 10',
+        cost:       680
 
       },
 
@@ -11053,10 +11735,12 @@ module CdekApi
       '23-29-0-17' => {
 
         code:       2638,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '4 - 6',
+        cost:       1150
 
       },
 
@@ -11064,10 +11748,12 @@ module CdekApi
       '23-0-1-16' => {
 
         code:       13165,
+        tariff:     137,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '7 - 10',
+        cost:       680
 
       },
 
@@ -11075,10 +11761,12 @@ module CdekApi
       '23-0-3-10' => {
 
         code:       2054,
+        tariff:     137,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '7 - 12',
+        cost:       550
 
       },
 
@@ -11086,10 +11774,12 @@ module CdekApi
       '23-12-0-1' => {
 
         code:       1597,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '4 - 6',
+        cost:       1200
 
       },
 
@@ -11097,10 +11787,12 @@ module CdekApi
       '23-12-0-9' => {
 
         code:       2639,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '4 - 6',
+        cost:       1305
 
       },
 
@@ -11108,10 +11800,12 @@ module CdekApi
       '23-13-0-1' => {
 
         code:       1598,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '4 - 6',
+        cost:       1200
 
       },
 
@@ -11119,10 +11813,12 @@ module CdekApi
       '23-14-0-1' => {
 
         code:       1599,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '4 - 6',
+        cost:       1200
 
       },
 
@@ -11130,10 +11826,12 @@ module CdekApi
       '23-0-1-0' => {
 
         code:       13162,
+        tariff:     137,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '7 - 10',
+        cost:       680
 
       },
 
@@ -11141,10 +11839,12 @@ module CdekApi
       '23-37-0-10' => {
 
         code:       2640,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '4 - 7',
+        cost:       1370
 
       },
 
@@ -11152,10 +11852,12 @@ module CdekApi
       '23-15-1-0' => {
 
         code:       1601,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '4 - 6',
+        cost:       1220
 
       },
 
@@ -11163,10 +11865,12 @@ module CdekApi
       '23-0-7-0' => {
 
         code:       2641,
+        tariff:     137,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '6 - 9',
+        cost:       730
 
       },
 
@@ -11174,10 +11878,12 @@ module CdekApi
       '23-0-1-0' => {
 
         code:       435,
-        address:    '',
-        phone:      '',
-        work_time:  '',
-        delivery:   ''
+        tariff:     136,
+        address:    'Плановый пер, д.3',
+        phone:      '+7 (861)204-00-64, +7 (909) 444-7227',
+        work_time:  'пн.-пт. 9-18, сб. 10-14',
+        delivery:   '4 - 6',
+        cost:       340
 
       },
 
@@ -11185,10 +11891,12 @@ module CdekApi
       '23-9-0-29' => {
 
         code:       2642,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '4 - 6',
+        cost:       1305
 
       },
 
@@ -11196,10 +11904,12 @@ module CdekApi
       '23-12-1-0' => {
 
         code:       1061,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '4 - 6',
+        cost:       1200
 
       },
 
@@ -11207,10 +11917,12 @@ module CdekApi
       '23-17-0-1' => {
 
         code:       1603,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '4 - 6',
+        cost:       1200
 
       },
 
@@ -11218,10 +11930,12 @@ module CdekApi
       '23-18-1-0' => {
 
         code:       1059,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '4 - 6',
+        cost:       1200
 
       },
 
@@ -11229,10 +11943,12 @@ module CdekApi
       '23-0-7-0' => {
 
         code:       13341,
+        tariff:     137,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '6 - 9',
+        cost:       620
 
       },
 
@@ -11240,10 +11956,12 @@ module CdekApi
       '23-19-1-0' => {
 
         code:       1604,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '4 - 6',
+        cost:       1250
 
       },
 
@@ -11251,10 +11969,12 @@ module CdekApi
       '23-20-0-1' => {
 
         code:       1605,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '4 - 6',
+        cost:       1200
 
       },
 
@@ -11262,10 +11982,12 @@ module CdekApi
       '23-19-0-41' => {
 
         code:       1606,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '4 - 6',
+        cost:       1250
 
       },
 
@@ -11273,10 +11995,12 @@ module CdekApi
       '23-0-7-0' => {
 
         code:       2046,
+        tariff:     137,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '7 - 10',
+        cost:       730
 
       },
 
@@ -11284,10 +12008,12 @@ module CdekApi
       '23-22-0-1' => {
 
         code:       1607,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '4 - 6',
+        cost:       1200
 
       },
 
@@ -11295,10 +12021,12 @@ module CdekApi
       '23-36-0-38' => {
 
         code:       2643,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '4 - 6',
+        cost:       1270
 
       },
 
@@ -11306,10 +12034,12 @@ module CdekApi
       '23-0-7-0' => {
 
         code:       2644,
+        tariff:     137,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '6 - 9',
+        cost:       620
 
       },
 
@@ -11317,10 +12047,12 @@ module CdekApi
       '23-0-1-27' => {
 
         code:       13166,
+        tariff:     137,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '7 - 10',
+        cost:       680
 
       },
 
@@ -11328,10 +12060,12 @@ module CdekApi
       '23-16-0-23' => {
 
         code:       2645,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '4 - 6',
+        cost:       1170
 
       },
 
@@ -11339,10 +12073,12 @@ module CdekApi
       '23-34-0-28' => {
 
         code:       2646,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '4 - 6',
+        cost:       1150
 
       },
 
@@ -11350,10 +12086,12 @@ module CdekApi
       '23-23-0-1' => {
 
         code:       1608,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '4 - 6',
+        cost:       1250
 
       },
 
@@ -11361,10 +12099,12 @@ module CdekApi
       '23-0-6-14' => {
 
         code:       2053,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '4 - 6',
+        cost:       1180
 
       },
 
@@ -11372,10 +12112,12 @@ module CdekApi
       '23-0-6-15' => {
 
         code:       2647,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '4 - 6',
+        cost:       1180
 
       },
 
@@ -11383,10 +12125,12 @@ module CdekApi
       '23-36-0-47' => {
 
         code:       2648,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '4 - 6',
+        cost:       1375
 
       },
 
@@ -11394,21 +12138,12 @@ module CdekApi
       '23-18-0-13' => {
 
         code:       2649,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
-
-      },
-
-      # Албаши
-      '23-14-0-2' => {
-
-        code:       1612,
-        address:    '',
-        phone:      '',
-        work_time:  '',
-        delivery:   ''
+        delivery:   '4 - 6',
+        cost:       1180
 
       },
 
@@ -11416,10 +12151,12 @@ module CdekApi
       '23-24-0-5' => {
 
         code:       1609,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '4 - 6',
+        cost:       1270
 
       },
 
@@ -11427,10 +12164,12 @@ module CdekApi
       '23-14-0-11' => {
 
         code:       2650,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '4 - 6',
+        cost:       1375
 
       },
 
@@ -11438,10 +12177,12 @@ module CdekApi
       '23-36-0-48' => {
 
         code:       1610,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '4 - 6',
+        cost:       1270
 
       },
 
@@ -11449,10 +12190,12 @@ module CdekApi
       '23-25-0-1' => {
 
         code:       1611,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '4 - 6',
+        cost:       1200
 
       },
 
@@ -11460,10 +12203,12 @@ module CdekApi
       '23-0-6-0' => {
 
         code:       436,
+        tariff:     136,
         address:    'Ленина пр-кт, д.21',
         phone:      '8(9887)699-544; 8(9887)700-113',
         work_time:  'пн.-пт. 9-18, сб. 10-14',
-        delivery:   ''
+        delivery:   '4 - 6',
+        cost:       340
 
       },
 
@@ -11471,32 +12216,12 @@ module CdekApi
       '23-10-0-27' => {
 
         code:       2651,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
-
-      },
-
-      # Октябрьский
-      '23-36-0-49' => {
-
-        code:       2652,
-        address:    '',
-        phone:      '',
-        work_time:  '',
-        delivery:   ''
-
-      },
-
-      # д/о Кубань
-      '23-36-0-35' => {
-
-        code:       1639,
-        address:    '',
-        phone:      '',
-        work_time:  '',
-        delivery:   ''
+        delivery:   '4 - 6',
+        cost:       1200
 
       },
 
@@ -11504,10 +12229,12 @@ module CdekApi
       '23-26-0-1' => {
 
         code:       1613,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '4 - 6',
+        cost:       1250
 
       },
 
@@ -11515,21 +12242,12 @@ module CdekApi
       '23-27-0-1' => {
 
         code:       1614,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
-
-      },
-
-      # Краснодар
-      '23-0-1-0' => {
-
-        code:       2653,
-        address:    '',
-        phone:      '',
-        work_time:  '',
-        delivery:   ''
+        delivery:   '4 - 6',
+        cost:       1200
 
       },
 
@@ -11537,10 +12255,12 @@ module CdekApi
       '23-16-0-1' => {
 
         code:       1615,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '4 - 6',
+        cost:       1180
 
       },
 
@@ -11548,10 +12268,12 @@ module CdekApi
       '23-28-0-2' => {
 
         code:       1063,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '4 - 6',
+        cost:       1200
 
       },
 
@@ -11559,10 +12281,12 @@ module CdekApi
       '23-12-0-6' => {
 
         code:       13999,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '4 - 6',
+        cost:       1180
 
       },
 
@@ -11570,21 +12294,12 @@ module CdekApi
       '23-24-0-39' => {
 
         code:       2654,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
-
-      },
-
-      # Псебай
-      '23-23-0-31' => {
-
-        code:       1616,
-        address:    '',
-        phone:      '',
-        work_time:  '',
-        delivery:   ''
+        delivery:   '4 - 7',
+        cost:       1370
 
       },
 
@@ -11592,21 +12307,12 @@ module CdekApi
       '23-0-6-18' => {
 
         code:       2055,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
-
-      },
-
-      # Зеленая Роща
-      '23-11-0-10' => {
-
-        code:       13114,
-        address:    '',
-        phone:      '',
-        work_time:  '',
-        delivery:   ''
+        delivery:   '4 - 6',
+        cost:       1180
 
       },
 
@@ -11614,10 +12320,12 @@ module CdekApi
       '23-29-0-1' => {
 
         code:       1618,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '4 - 6',
+        cost:       1170
 
       },
 
@@ -11625,10 +12333,12 @@ module CdekApi
       '23-33-0-32' => {
 
         code:       1740,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '4 - 7',
+        cost:       1450
 
       },
 
@@ -11636,32 +12346,12 @@ module CdekApi
       '23-30-0-16' => {
 
         code:       1064,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
-
-      },
-
-      # Сочи
-      '23-0-7-0' => {
-
-        code:       13335,
-        address:    '',
-        phone:      '',
-        work_time:  '',
-        delivery:   ''
-
-      },
-
-      # Сочи
-      '23-0-7-0' => {
-
-        code:       13340,
-        address:    '',
-        phone:      '',
-        work_time:  '',
-        delivery:   ''
+        delivery:   '4 - 6',
+        cost:       1200
 
       },
 
@@ -11669,21 +12359,12 @@ module CdekApi
       '23-0-7-0' => {
 
         code:       437,
+        tariff:     136,
         address:    'Пластунская улица, д.47а, оф.11 (3 этаж)',
         phone:      '(862) 261-39-62, 237-43-19',
         work_time:  'пн.-пт. 9-18, сб. 10-14',
-        delivery:   ''
-
-      },
-
-      # Новомышастовская
-      '23-16-0-26' => {
-
-        code:       14323,
-        address:    '',
-        phone:      '',
-        work_time:  '',
-        delivery:   ''
+        delivery:   '5 - 7',
+        cost:       340
 
       },
 
@@ -11691,10 +12372,12 @@ module CdekApi
       '23-14-0-42' => {
 
         code:       1621,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '4 - 7',
+        cost:       1305
 
       },
 
@@ -11702,10 +12385,12 @@ module CdekApi
       '23-31-0-1' => {
 
         code:       1619,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '4 - 6',
+        cost:       1200
 
       },
 
@@ -11713,10 +12398,12 @@ module CdekApi
       '23-10-0-36' => {
 
         code:       1620,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '4 - 6',
+        cost:       1370
 
       },
 
@@ -11724,10 +12411,12 @@ module CdekApi
       '23-33-0-34' => {
 
         code:       2655,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '4 - 7',
+        cost:       1450
 
       },
 
@@ -11735,10 +12424,12 @@ module CdekApi
       '23-39-0-1' => {
 
         code:       1622,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '4 - 6',
+        cost:       1200
 
       },
 
@@ -11746,10 +12437,12 @@ module CdekApi
       '23-33-0-37' => {
 
         code:       2656,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '4 - 7',
+        cost:       1200
 
       },
 
@@ -11757,10 +12450,12 @@ module CdekApi
       '23-32-0-1' => {
 
         code:       1623,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '4 - 6',
+        cost:       1200
 
       },
 
@@ -11768,10 +12463,12 @@ module CdekApi
       '23-33-1-0' => {
 
         code:       1065,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '4 - 6',
+        cost:       1250
 
       },
 
@@ -11779,10 +12476,12 @@ module CdekApi
       '23-34-1-0' => {
 
         code:       1058,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '4 - 6',
+        cost:       1200
 
       },
 
@@ -11790,10 +12489,12 @@ module CdekApi
       '23-35-0-55' => {
 
         code:       203,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '4 - 6',
+        cost:       1200
 
       },
 
@@ -11801,10 +12502,12 @@ module CdekApi
       '23-36-0-34' => {
 
         code:       34,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '4 - 6',
+        cost:       1200
 
       },
 
@@ -11812,10 +12515,12 @@ module CdekApi
       '23-36-0-67' => {
 
         code:       2657,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '4 - 7',
+        cost:       1450
 
       },
 
@@ -11823,10 +12528,12 @@ module CdekApi
       '23-24-0-35' => {
 
         code:       1625,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '4 - 7',
+        cost:       1200
 
       },
 
@@ -11834,10 +12541,12 @@ module CdekApi
       '23-38-1-0' => {
 
         code:       1251,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '4 - 6',
+        cost:       1220
 
       },
 
@@ -11845,10 +12554,12 @@ module CdekApi
       '23-4-0-42' => {
 
         code:       1626,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '4 - 6',
+        cost:       1250
 
       },
 
@@ -11856,32 +12567,12 @@ module CdekApi
       '23-0-6-3' => {
 
         code:       13489,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
-
-      },
-
-      # Веселый
-      '23-14-0-9' => {
-
-        code:       14335,
-        address:    '',
-        phone:      '',
-        work_time:  '',
-        delivery:   ''
-
-      },
-
-      # Сочи
-      '23-0-7-0' => {
-
-        code:       13338,
-        address:    '',
-        phone:      '',
-        work_time:  '',
-        delivery:   ''
+        delivery:   '4 - 6',
+        cost:       1855
 
       },
 
@@ -11889,21 +12580,12 @@ module CdekApi
       '23-29-0-19' => {
 
         code:       2359,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
-
-      },
-
-      # Сочи
-      '23-0-7-0' => {
-
-        code:       13339,
-        address:    '',
-        phone:      '',
-        work_time:  '',
-        delivery:   ''
+        delivery:   '4 - 6',
+        cost:       1200
 
       },
 
@@ -11911,10 +12593,12 @@ module CdekApi
       '24-2-0-1' => {
 
         code:       1654,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '3 - 6',
+        cost:       1185
 
       },
 
@@ -11922,10 +12606,12 @@ module CdekApi
       '24-34-0-1' => {
 
         code:       843,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '4 - 7',
+        cost:       1520
 
       },
 
@@ -11933,21 +12619,12 @@ module CdekApi
       '24-0-9-3' => {
 
         code:       1120,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
-
-      },
-
-      # Атаманово
-      '24-36-0-2' => {
-
-        code:       14269,
-        address:    '',
-        phone:      '',
-        work_time:  '',
-        delivery:   ''
+        delivery:   '5 - 7',
+        cost:       1870
 
       },
 
@@ -11955,10 +12632,12 @@ module CdekApi
       '24-0-12-0' => {
 
         code:       1259,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '4 - 7',
+        cost:       1520
 
       },
 
@@ -11966,10 +12645,12 @@ module CdekApi
       '24-44-0-10' => {
 
         code:       101,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '7 - 10',
+        cost:       1405
 
       },
 
@@ -11977,10 +12658,12 @@ module CdekApi
       '24-4-0-1' => {
 
         code:       849,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '4 - 7',
+        cost:       1520
 
       },
 
@@ -11988,10 +12671,12 @@ module CdekApi
       '24-10-0-2' => {
 
         code:       869,
+        tariff:     137,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '7 - 12',
+        cost:       660
 
       },
 
@@ -11999,10 +12684,12 @@ module CdekApi
       '24-0-13-0' => {
 
         code:       856,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '4 - 7',
+        cost:       1520
 
       },
 
@@ -12010,21 +12697,12 @@ module CdekApi
       '24-8-0-1' => {
 
         code:       860,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
-
-      },
-
-      # Большая Ирба
-      '24-24-0-63' => {
-
-        code:       14270,
-        address:    '',
-        phone:      '',
-        work_time:  '',
-        delivery:   ''
+        delivery:   '4 - 7',
+        cost:       1520
 
       },
 
@@ -12032,10 +12710,12 @@ module CdekApi
       '24-9-0-1' => {
 
         code:       834,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '4 - 7',
+        cost:       1520
 
       },
 
@@ -12043,10 +12723,12 @@ module CdekApi
       '24-10-0-1' => {
 
         code:       858,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '4 - 7',
+        cost:       1520
 
       },
 
@@ -12054,10 +12736,12 @@ module CdekApi
       '24-0-2-0' => {
 
         code:       864,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '4 - 7',
+        cost:       1520
 
       },
 
@@ -12065,10 +12749,12 @@ module CdekApi
       '24-44-0-22' => {
 
         code:       1151,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '5 - 7',
+        cost:       1870
 
       },
 
@@ -12076,10 +12762,12 @@ module CdekApi
       '24-11-0-1' => {
 
         code:       1152,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '4 - 6',
+        cost:       1275
 
       },
 
@@ -12087,10 +12775,12 @@ module CdekApi
       '24-0-3-0' => {
 
         code:       845,
+        tariff:     137,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '7 - 12',
+        cost:       660
 
       },
 
@@ -12098,10 +12788,12 @@ module CdekApi
       '24-48-0-1' => {
 
         code:       1260,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '5 - 7',
+        cost:       2240
 
       },
 
@@ -12109,10 +12801,12 @@ module CdekApi
       '24-48-1-0' => {
 
         code:       828,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '8 - 11',
+        cost:       2310
 
       },
 
@@ -12120,10 +12814,12 @@ module CdekApi
       '24-12-0-1' => {
 
         code:       837,
+        tariff:     137,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '7 - 13',
+        cost:       1170
 
       },
 
@@ -12131,10 +12827,12 @@ module CdekApi
       '24-0-14-0' => {
 
         code:       831,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '4 - 7',
+        cost:       1520
 
       },
 
@@ -12142,10 +12840,12 @@ module CdekApi
       '24-14-0-1' => {
 
         code:       842,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '4 - 6',
+        cost:       1285
 
       },
 
@@ -12153,10 +12853,12 @@ module CdekApi
       '24-0-4-0' => {
 
         code:       2344,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '4 - 7',
+        cost:       1520
 
       },
 
@@ -12164,10 +12866,12 @@ module CdekApi
       '24-33-0-2' => {
 
         code:       862,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '4 - 7',
+        cost:       1520
 
       },
 
@@ -12175,10 +12879,12 @@ module CdekApi
       '24-0-5-0' => {
 
         code:       865,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '4 - 7',
+        cost:       1520
 
       },
 
@@ -12186,10 +12892,12 @@ module CdekApi
       '24-0-5-0' => {
 
         code:       2391,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '7 - 10',
+        cost:       1520
 
       },
 
@@ -12197,10 +12905,12 @@ module CdekApi
       '24-15-0-1' => {
 
         code:       839,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '4 - 7',
+        cost:       1285
 
       },
 
@@ -12208,10 +12918,12 @@ module CdekApi
       '24-16-0-35' => {
 
         code:       867,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '4 - 7',
+        cost:       1520
 
       },
 
@@ -12219,10 +12931,12 @@ module CdekApi
       '24-17-0-1' => {
 
         code:       868,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '4 - 7',
+        cost:       1520
 
       },
 
@@ -12230,10 +12944,12 @@ module CdekApi
       '24-43-0-11' => {
 
         code:       14271,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '4 - 8',
+        cost:       1710
 
       },
 
@@ -12241,10 +12957,12 @@ module CdekApi
       '24-18-0-1' => {
 
         code:       832,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '4 - 7',
+        cost:       1520
 
       },
 
@@ -12252,10 +12970,12 @@ module CdekApi
       '24-0-9-0' => {
 
         code:       1020,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '4 - 6',
+        cost:       1790
 
       },
 
@@ -12263,10 +12983,12 @@ module CdekApi
       '24-0-16-0' => {
 
         code:       859,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '4 - 7',
+        cost:       1520
 
       },
 
@@ -12274,10 +12996,12 @@ module CdekApi
       '24-20-0-1' => {
 
         code:       841,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '4 - 7',
+        cost:       1275
 
       },
 
@@ -12285,10 +13009,12 @@ module CdekApi
       '24-0-21-0' => {
 
         code:       1655,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '4 - 7',
+        cost:       1520
 
       },
 
@@ -12296,10 +13022,12 @@ module CdekApi
       '24-21-1-0' => {
 
         code:       844,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '4 - 7',
+        cost:       1520
 
       },
 
@@ -12307,10 +13035,12 @@ module CdekApi
       '24-22-0-1' => {
 
         code:       853,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '4 - 7',
+        cost:       1520
 
       },
 
@@ -12318,10 +13048,12 @@ module CdekApi
       '24-24-0-43' => {
 
         code:       408,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '4 - 7',
+        cost:       1520
 
       },
 
@@ -12329,10 +13061,12 @@ module CdekApi
       '24-23-0-4' => {
 
         code:       838,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '4 - 6',
+        cost:       1450
 
       },
 
@@ -12340,10 +13074,12 @@ module CdekApi
       '24-0-1-0' => {
 
         code:       278,
+        tariff:     136,
         address:    'Сурикова ул, д.12',
         phone:      '(391) 295-88-10, 274-50-92',
         work_time:  'пн-пт. 09-21; сб, вс, с 10-18',
-        delivery:   ''
+        delivery:   '4 - 6',
+        cost:       175
 
       },
 
@@ -12351,10 +13087,12 @@ module CdekApi
       '24-24-0-1' => {
 
         code:       840,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '4 - 7',
+        cost:       1520
 
       },
 
@@ -12362,10 +13100,12 @@ module CdekApi
       '24-0-8-0' => {
 
         code:       846,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '4 - 7',
+        cost:       1520
 
       },
 
@@ -12373,10 +13113,12 @@ module CdekApi
       '24-43-0-18' => {
 
         code:       2658,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '4 - 7',
+        cost:       1520
 
       },
 
@@ -12384,10 +13126,12 @@ module CdekApi
       '24-0-17-0' => {
 
         code:       836,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '4 - 8',
+        cost:       1510
 
       },
 
@@ -12395,10 +13139,12 @@ module CdekApi
       '24-27-0-1' => {
 
         code:       1154,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '4 - 6',
+        cost:       1560
 
       },
 
@@ -12406,10 +13152,12 @@ module CdekApi
       '24-0-18-0' => {
 
         code:       854,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '4 - 7',
+        cost:       1520
 
       },
 
@@ -12417,10 +13165,12 @@ module CdekApi
       '24-29-0-1' => {
 
         code:       866,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '4 - 6',
+        cost:       1285
 
       },
 
@@ -12428,10 +13178,12 @@ module CdekApi
       '24-29-0-5' => {
 
         code:       2050,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '4 - 7',
+        cost:       1520
 
       },
 
@@ -12439,10 +13191,12 @@ module CdekApi
       '24-6-0-1' => {
 
         code:       851,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '4 - 7',
+        cost:       1520
 
       },
 
@@ -12450,10 +13204,12 @@ module CdekApi
       '24-30-0-1' => {
 
         code:       848,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '4 - 7',
+        cost:       1520
 
       },
 
@@ -12461,10 +13217,12 @@ module CdekApi
       '24-0-9-0' => {
 
         code:       279,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '2 - 4',
+        cost:       880
 
       },
 
@@ -12472,21 +13230,12 @@ module CdekApi
       '24-31-0-1' => {
 
         code:       1155,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
-
-      },
-
-      # Переясловка
-      '24-33-0-32' => {
-
-        code:       14267,
-        address:    '',
-        phone:      '',
-        work_time:  '',
-        delivery:   ''
+        delivery:   '4 - 7',
+        cost:       1520
 
       },
 
@@ -12494,21 +13243,12 @@ module CdekApi
       '24-32-0-1' => {
 
         code:       833,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
-
-      },
-
-      # Рыбное
-      '24-33-0-33' => {
-
-        code:       14268,
-        address:    '',
-        phone:      '',
-        work_time:  '',
-        delivery:   ''
+        delivery:   '4 - 7',
+        cost:       1520
 
       },
 
@@ -12516,10 +13256,12 @@ module CdekApi
       '24-35-0-1' => {
 
         code:       1156,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '4 - 6',
+        cost:       1560
 
       },
 
@@ -12527,10 +13269,12 @@ module CdekApi
       '24-12-0-55' => {
 
         code:       2659,
+        tariff:     137,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '7 - 12',
+        cost:       685
 
       },
 
@@ -12538,10 +13282,12 @@ module CdekApi
       '24-0-10-0' => {
 
         code:       835,
+        tariff:     137,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '7 - 12',
+        cost:       850
 
       },
 
@@ -12549,10 +13295,12 @@ module CdekApi
       '24-36-0-1' => {
 
         code:       1157,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '4 - 7',
+        cost:       1520
 
       },
 
@@ -12560,10 +13308,12 @@ module CdekApi
       '24-0-9-0' => {
 
         code:       26,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '5 - 7',
+        cost:       1870
 
       },
 
@@ -12571,10 +13321,12 @@ module CdekApi
       '24-37-0-1' => {
 
         code:       861,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '4 - 7',
+        cost:       1275
 
       },
 
@@ -12582,10 +13334,12 @@ module CdekApi
       '24-44-0-1' => {
 
         code:       829,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '5 - 8',
+        cost:       1790
 
       },
 
@@ -12593,10 +13347,12 @@ module CdekApi
       '24-38-0-1' => {
 
         code:       2392,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '7 - 10',
+        cost:       1520
 
       },
 
@@ -12604,10 +13360,12 @@ module CdekApi
       '24-39-0-1' => {
 
         code:       2370,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '4 - 7',
+        cost:       1520
 
       },
 
@@ -12615,10 +13373,12 @@ module CdekApi
       '24-40-0-17' => {
 
         code:       855,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '4 - 6',
+        cost:       1185
 
       },
 
@@ -12626,10 +13386,12 @@ module CdekApi
       '24-41-0-14' => {
 
         code:       847,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '4 - 7',
+        cost:       1520
 
       },
 
@@ -12637,10 +13399,12 @@ module CdekApi
       '24-19-0-10' => {
 
         code:       1656,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '4 - 7',
+        cost:       1520
 
       },
 
@@ -12648,10 +13412,12 @@ module CdekApi
       '24-48-0-15' => {
 
         code:       2393,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '4 - 7',
+        cost:       1520
 
       },
 
@@ -12659,10 +13425,12 @@ module CdekApi
       '24-25-0-1' => {
 
         code:       850,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '4 - 7',
+        cost:       1520
 
       },
 
@@ -12670,10 +13438,12 @@ module CdekApi
       '24-0-19-0' => {
 
         code:       852,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '4 - 7',
+        cost:       1520
 
       },
 
@@ -12681,10 +13451,12 @@ module CdekApi
       '24-43-0-1' => {
 
         code:       1258,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '4 - 8',
+        cost:       1760
 
       },
 
@@ -12692,10 +13464,12 @@ module CdekApi
       '45-2-0-1' => {
 
         code:       2663,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '3 - 5',
+        cost:       940
 
       },
 
@@ -12703,10 +13477,12 @@ module CdekApi
       '45-9-0-3' => {
 
         code:       13098,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '3 - 5',
+        cost:       825
 
       },
 
@@ -12714,10 +13490,12 @@ module CdekApi
       '45-17-0-1' => {
 
         code:       2661,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '3 - 5',
+        cost:       940
 
       },
 
@@ -12725,10 +13503,12 @@ module CdekApi
       '45-5-0-12' => {
 
         code:       2664,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '3 - 5',
+        cost:       940
 
       },
 
@@ -12736,10 +13516,12 @@ module CdekApi
       '45-6-0-1' => {
 
         code:       2665,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '3 - 5',
+        cost:       940
 
       },
 
@@ -12747,10 +13529,12 @@ module CdekApi
       '45-8-0-13' => {
 
         code:       2660,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '3 - 5',
+        cost:       940
 
       },
 
@@ -12758,10 +13542,12 @@ module CdekApi
       '45-0-1-0' => {
 
         code:       93,
+        tariff:     5,
         address:    'Клары цеткин, д.2',
         phone:      '',
         work_time:  'пн-пт 9-18',
-        delivery:   ''
+        delivery:   '2 - 3',
+        cost:       360
 
       },
 
@@ -12769,10 +13555,12 @@ module CdekApi
       '45-15-0-9' => {
 
         code:       694,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '3 - 5',
+        cost:       940
 
       },
 
@@ -12780,10 +13568,12 @@ module CdekApi
       '45-0-2-0' => {
 
         code:       695,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '3 - 5',
+        cost:       940
 
       },
 
@@ -12791,10 +13581,12 @@ module CdekApi
       '45-22-0-1' => {
 
         code:       2666,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '3 - 5',
+        cost:       940
 
       },
 
@@ -12802,10 +13594,12 @@ module CdekApi
       '45-23-0-30' => {
 
         code:       2662,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '3 - 5',
+        cost:       940
 
       },
 
@@ -12813,10 +13607,12 @@ module CdekApi
       '45-25-0-1' => {
 
         code:       13002,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '3 - 5',
+        cost:       940
 
       },
 
@@ -12824,21 +13620,12 @@ module CdekApi
       '46-29-0-40' => {
 
         code:       1757,
+        tariff:     137,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
-
-      },
-
-      # Глушково
-      '46-4-0-1' => {
-
-        code:       13650,
-        address:    '',
-        phone:      '',
-        work_time:  '',
-        delivery:   ''
+        delivery:   '6 - 9',
+        cost:       745
 
       },
 
@@ -12846,21 +13633,12 @@ module CdekApi
       '46-7-0-5' => {
 
         code:       870,
+        tariff:     137,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
-
-      },
-
-      # Кукуевка
-      '46-29-0-91' => {
-
-        code:       13658,
-        address:    '',
-        phone:      '',
-        work_time:  '',
-        delivery:   ''
+        delivery:   '6 - 9',
+        cost:       745
 
       },
 
@@ -12868,43 +13646,12 @@ module CdekApi
       '46-8-0-1' => {
 
         code:       2667,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
-
-      },
-
-      # Искра
-      '46-29-0-71' => {
-
-        code:       13665,
-        address:    '',
-        phone:      '',
-        work_time:  '',
-        delivery:   ''
-
-      },
-
-      # Волобуевка
-      '46-29-0-37' => {
-
-        code:       13652,
-        address:    '',
-        phone:      '',
-        work_time:  '',
-        delivery:   ''
-
-      },
-
-      # Касиновский
-      '46-29-0-77' => {
-
-        code:       13659,
-        address:    '',
-        phone:      '',
-        work_time:  '',
-        delivery:   ''
+        delivery:   '4 - 6',
+        cost:       1300
 
       },
 
@@ -12912,10 +13659,12 @@ module CdekApi
       '46-11-0-1' => {
 
         code:       2671,
+        tariff:     137,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '6 - 9',
+        cost:       745
 
       },
 
@@ -12923,10 +13672,12 @@ module CdekApi
       '46-0-1-0' => {
 
         code:       699,
+        tariff:     136,
         address:    'Запольная, д.56',
         phone:      '(4712)31-07-36',
         work_time:  'пн.-пт. 9-18, сб. 10-14',
-        delivery:   ''
+        delivery:   '4 - 6',
+        cost:       335
 
       },
 
@@ -12934,32 +13685,12 @@ module CdekApi
       '46-12-0-4' => {
 
         code:       335,
+        tariff:     137,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
-
-      },
-
-      # Винниково 1-е
-      '46-29-0-31' => {
-
-        code:       13660,
-        address:    '',
-        phone:      '',
-        work_time:  '',
-        delivery:   ''
-
-      },
-
-      # Саблин
-      '46-29-0-150' => {
-
-        code:       13667,
-        address:    '',
-        phone:      '',
-        work_time:  '',
-        delivery:   ''
+        delivery:   '6 - 9',
+        cost:       745
 
       },
 
@@ -12967,32 +13698,12 @@ module CdekApi
       '46-13-0-69' => {
 
         code:       2672,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
-
-      },
-
-      # Курск
-      '46-0-1-0' => {
-
-        code:       13654,
-        address:    '',
-        phone:      '',
-        work_time:  '',
-        delivery:   ''
-
-      },
-
-      # Долгое
-      '46-29-0-49' => {
-
-        code:       13661,
-        address:    '',
-        phone:      '',
-        work_time:  '',
-        delivery:   ''
+        delivery:   '4 - 6',
+        cost:       1300
 
       },
 
@@ -13000,21 +13711,12 @@ module CdekApi
       '46-15-0-1' => {
 
         code:       2668,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
-
-      },
-
-      # Безлесное 1-е
-      '46-29-0-9' => {
-
-        code:       13655,
-        address:    '',
-        phone:      '',
-        work_time:  '',
-        delivery:   ''
+        delivery:   '4 - 6',
+        cost:       1300
 
       },
 
@@ -13022,21 +13724,12 @@ module CdekApi
       '46-16-0-33' => {
 
         code:       2673,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
-
-      },
-
-      # Курск
-      '46-0-1-0' => {
-
-        code:       13656,
-        address:    '',
-        phone:      '',
-        work_time:  '',
-        delivery:   ''
+        delivery:   '4 - 6',
+        cost:       1300
 
       },
 
@@ -13044,10 +13737,12 @@ module CdekApi
       '46-17-0-1' => {
 
         code:       2669,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '4 - 6',
+        cost:       1300
 
       },
 
@@ -13055,21 +13750,12 @@ module CdekApi
       '46-20-0-39' => {
 
         code:       2674,
+        tariff:     137,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
-
-      },
-
-      # Голубицкое
-      '46-29-0-44' => {
-
-        code:       13663,
-        address:    '',
-        phone:      '',
-        work_time:  '',
-        delivery:   ''
+        delivery:   '6 - 9',
+        cost:       745
 
       },
 
@@ -13077,10 +13763,12 @@ module CdekApi
       '46-23-0-16' => {
 
         code:       330,
+        tariff:     137,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '6 - 9',
+        cost:       745
 
       },
 
@@ -13088,10 +13776,12 @@ module CdekApi
       '46-25-1-0' => {
 
         code:       2670,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '4 - 6',
+        cost:       1300
 
       },
 
@@ -13099,10 +13789,12 @@ module CdekApi
       '46-28-0-65' => {
 
         code:       2675,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '4 - 6',
+        cost:       1300
 
       },
 
@@ -13110,10 +13802,12 @@ module CdekApi
       '47-12-0-2' => {
 
         code:       2676,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '4 - 6',
+        cost:       650
 
       },
 
@@ -13121,10 +13815,12 @@ module CdekApi
       '47-2-0-6' => {
 
         code:       977,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '7 - 10',
+        cost:       980
 
       },
 
@@ -13132,10 +13828,12 @@ module CdekApi
       '47-12-0-3' => {
 
         code:       2677,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '5 - 8',
+        cost:       720
 
       },
 
@@ -13143,10 +13841,12 @@ module CdekApi
       '47-5-0-8' => {
 
         code:       1291,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '4 - 6',
+        cost:       650
 
       },
 
@@ -13154,10 +13854,12 @@ module CdekApi
       '47-5-0-13' => {
 
         code:       2678,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '5 - 8',
+        cost:       720
 
       },
 
@@ -13165,10 +13867,12 @@ module CdekApi
       '47-12-0-4' => {
 
         code:       2679,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '5 - 8',
+        cost:       650
 
       },
 
@@ -13176,10 +13880,12 @@ module CdekApi
       '47-7-0-17' => {
 
         code:       2680,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '5 - 8',
+        cost:       720
 
       },
 
@@ -13187,10 +13893,12 @@ module CdekApi
       '47-3-0-40' => {
 
         code:       2681,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '5 - 8',
+        cost:       850
 
       },
 
@@ -13198,10 +13906,12 @@ module CdekApi
       '47-4-1-0' => {
 
         code:       974,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '5 - 8',
+        cost:       980
 
       },
 
@@ -13209,10 +13919,12 @@ module CdekApi
       '47-5-0-34' => {
 
         code:       980,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '4 - 6',
+        cost:       650
 
       },
 
@@ -13220,10 +13932,12 @@ module CdekApi
       '47-6-1-0' => {
 
         code:       971,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '5 - 8',
+        cost:       850
 
       },
 
@@ -13231,10 +13945,12 @@ module CdekApi
       '47-6-2-0' => {
 
         code:       2682,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '5 - 8',
+        cost:       850
 
       },
 
@@ -13242,10 +13958,12 @@ module CdekApi
       '47-7-0-30' => {
 
         code:       981,
+        tariff:     11,
         address:    '25 октября пр-кт, д.10',
         phone:      '(81371) 99527',
         work_time:  'пн.-пт. 10-18',
-        delivery:   ''
+        delivery:   '4 - 6',
+        cost:       720
 
       },
 
@@ -13253,10 +13971,12 @@ module CdekApi
       '47-12-0-6' => {
 
         code:       2683,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '4 - 6',
+        cost:       650
 
       },
 
@@ -13264,10 +13984,12 @@ module CdekApi
       '47-8-0-270' => {
 
         code:       2684,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '5 - 8',
+        cost:       850
 
       },
 
@@ -13275,10 +13997,12 @@ module CdekApi
       '47-8-0-435' => {
 
         code:       2686,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '7 - 10',
+        cost:       980
 
       },
 
@@ -13286,21 +14010,12 @@ module CdekApi
       '47-4-0-8' => {
 
         code:       1311,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
-
-      },
-
-      # Каменка
-      '47-6-0-150' => {
-
-        code:       2687,
-        address:    '',
-        phone:      '',
-        work_time:  '',
-        delivery:   ''
+        delivery:   '5 - 8',
+        cost:       980
 
       },
 
@@ -13308,10 +14023,12 @@ module CdekApi
       '47-6-3-0' => {
 
         code:       2688,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '7 - 10',
+        cost:       980
 
       },
 
@@ -13319,10 +14036,12 @@ module CdekApi
       '47-8-0-255' => {
 
         code:       138,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '4 - 6',
+        cost:       850
 
       },
 
@@ -13330,10 +14049,12 @@ module CdekApi
       '47-6-0-11' => {
 
         code:       2689,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '7 - 10',
+        cost:       850
 
       },
 
@@ -13341,10 +14062,12 @@ module CdekApi
       '47-9-1-0' => {
 
         code:       970,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '5 - 8',
+        cost:       980
 
       },
 
@@ -13352,10 +14075,12 @@ module CdekApi
       '47-10-1-0' => {
 
         code:       973,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '4 - 6',
+        cost:       720
 
       },
 
@@ -13363,10 +14088,12 @@ module CdekApi
       '47-5-0-43' => {
 
         code:       13405,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '4 - 6',
+        cost:       650
 
       },
 
@@ -13374,10 +14101,12 @@ module CdekApi
       '47-7-0-127' => {
 
         code:       2690,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '5 - 8',
+        cost:       650
 
       },
 
@@ -13385,10 +14114,12 @@ module CdekApi
       '47-12-0-10' => {
 
         code:       2691,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '7 - 10',
+        cost:       850
 
       },
 
@@ -13396,10 +14127,12 @@ module CdekApi
       '47-18-0-2' => {
 
         code:       497,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '5 - 8',
+        cost:       650
 
       },
 
@@ -13407,10 +14140,12 @@ module CdekApi
       '47-5-0-5' => {
 
         code:       2692,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '4 - 6',
+        cost:       650
 
       },
 
@@ -13418,10 +14153,12 @@ module CdekApi
       '47-12-0-11' => {
 
         code:       2693,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '5 - 8',
+        cost:       650
 
       },
 
@@ -13429,10 +14166,12 @@ module CdekApi
       '78-0-9-0' => {
 
         code:       2694,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '5 - 8',
+        cost:       720
 
       },
 
@@ -13440,10 +14179,12 @@ module CdekApi
       '47-11-0-19' => {
 
         code:       975,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '7 - 10',
+        cost:       980
 
       },
 
@@ -13451,10 +14192,12 @@ module CdekApi
       '47-13-0-525' => {
 
         code:       81,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '5 - 8',
+        cost:       850
 
       },
 
@@ -13462,21 +14205,12 @@ module CdekApi
       '47-18-0-700' => {
 
         code:       2695,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
-
-      },
-
-      # Большое Райково
-      '47-8-0-302' => {
-
-        code:       13106,
-        address:    '',
-        phone:      '',
-        work_time:  '',
-        delivery:   ''
+        delivery:   '5 - 8',
+        cost:       850
 
       },
 
@@ -13484,10 +14218,12 @@ module CdekApi
       '47-12-0-17' => {
 
         code:       2696,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '5 - 8',
+        cost:       650
 
       },
 
@@ -13495,10 +14231,12 @@ module CdekApi
       '47-7-0-21' => {
 
         code:       2697,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '4 - 6',
+        cost:       650
 
       },
 
@@ -13506,10 +14244,12 @@ module CdekApi
       '47-7-0-123' => {
 
         code:       2698,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '5 - 8',
+        cost:       720
 
       },
 
@@ -13517,10 +14257,12 @@ module CdekApi
       '47-10-0-3' => {
 
         code:       1286,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '5 - 8',
+        cost:       720
 
       },
 
@@ -13528,10 +14270,12 @@ module CdekApi
       '47-5-0-76' => {
 
         code:       1214,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '4 - 6',
+        cost:       650
 
       },
 
@@ -13539,10 +14283,12 @@ module CdekApi
       '47-18-3-0' => {
 
         code:       2699,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '5 - 8',
+        cost:       650
 
       },
 
@@ -13550,10 +14296,12 @@ module CdekApi
       '47-4-0-55' => {
 
         code:       2700,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '5 - 8',
+        cost:       850
 
       },
 
@@ -13561,10 +14309,12 @@ module CdekApi
       '47-5-0-62' => {
 
         code:       1290,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '4 - 6',
+        cost:       650
 
       },
 
@@ -13572,10 +14322,12 @@ module CdekApi
       '47-5-0-27' => {
 
         code:       13058,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '4 - 6',
+        cost:       650
 
       },
 
@@ -13583,10 +14335,12 @@ module CdekApi
       '47-12-0-15' => {
 
         code:       2701,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '4 - 6',
+        cost:       980
 
       },
 
@@ -13594,10 +14348,12 @@ module CdekApi
       '47-7-0-97' => {
 
         code:       2702,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '5 - 8',
+        cost:       720
 
       },
 
@@ -13605,10 +14361,12 @@ module CdekApi
       '47-12-0-14' => {
 
         code:       1582,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '4 - 6',
+        cost:       650
 
       },
 
@@ -13616,10 +14374,12 @@ module CdekApi
       '47-8-0-295' => {
 
         code:       2703,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '4 - 6',
+        cost:       850
 
       },
 
@@ -13627,10 +14387,12 @@ module CdekApi
       '47-13-0-27' => {
 
         code:       2704,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '4 - 6',
+        cost:       980
 
       },
 
@@ -13638,10 +14400,12 @@ module CdekApi
       '47-10-2-0' => {
 
         code:       984,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '5 - 8',
+        cost:       650
 
       },
 
@@ -13649,10 +14413,12 @@ module CdekApi
       '47-10-0-6' => {
 
         code:       2705,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '5 - 8',
+        cost:       650
 
       },
 
@@ -13660,10 +14426,12 @@ module CdekApi
       '47-6-0-3' => {
 
         code:       1212,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '4 - 6',
+        cost:       650
 
       },
 
@@ -13671,10 +14439,12 @@ module CdekApi
       '47-6-0-19' => {
 
         code:       2706,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '7 - 10',
+        cost:       720
 
       },
 
@@ -13682,10 +14452,12 @@ module CdekApi
       '47-6-0-157' => {
 
         code:       2707,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '7 - 10',
+        cost:       720
 
       },
 
@@ -13693,10 +14465,12 @@ module CdekApi
       '47-2-2-0' => {
 
         code:       88,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '7 - 10',
+        cost:       980
 
       },
 
@@ -13704,10 +14478,12 @@ module CdekApi
       '47-18-0-577' => {
 
         code:       13107,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '5 - 8',
+        cost:       720
 
       },
 
@@ -13715,10 +14491,12 @@ module CdekApi
       '47-14-0-10' => {
 
         code:       976,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '7 - 10',
+        cost:       980
 
       },
 
@@ -13726,10 +14504,12 @@ module CdekApi
       '47-5-0-116' => {
 
         code:       1585,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '4 - 6',
+        cost:       650
 
       },
 
@@ -13737,10 +14517,12 @@ module CdekApi
       '47-7-0-179' => {
 
         code:       700,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '5 - 8',
+        cost:       850
 
       },
 
@@ -13748,10 +14530,12 @@ module CdekApi
       '47-10-0-7' => {
 
         code:       2709,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '5 - 8',
+        cost:       720
 
       },
 
@@ -13759,10 +14543,12 @@ module CdekApi
       '47-6-4-0' => {
 
         code:       945,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '7 - 10',
+        cost:       850
 
       },
 
@@ -13770,10 +14556,12 @@ module CdekApi
       '47-15-0-64' => {
 
         code:       84,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '7 - 10',
+        cost:       850
 
       },
 
@@ -13781,10 +14569,12 @@ module CdekApi
       '47-6-0-21' => {
 
         code:       2710,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '5 - 8',
+        cost:       720
 
       },
 
@@ -13792,10 +14582,12 @@ module CdekApi
       '47-12-0-20' => {
 
         code:       2711,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '7 - 10',
+        cost:       650
 
       },
 
@@ -13803,10 +14595,12 @@ module CdekApi
       '47-6-5-0' => {
 
         code:       2712,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '7 - 10',
+        cost:       980
 
       },
 
@@ -13814,10 +14608,12 @@ module CdekApi
       '47-2-0-188' => {
 
         code:       119,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '7 - 10',
+        cost:       980
 
       },
 
@@ -13825,10 +14621,12 @@ module CdekApi
       '47-5-0-118' => {
 
         code:       1209,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '4 - 6',
+        cost:       650
 
       },
 
@@ -13836,10 +14634,12 @@ module CdekApi
       '47-7-0-15' => {
 
         code:       2713,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '5 - 8',
+        cost:       720
 
       },
 
@@ -13847,10 +14647,12 @@ module CdekApi
       '47-10-0-10' => {
 
         code:       2714,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '5 - 8',
+        cost:       650
 
       },
 
@@ -13858,10 +14660,12 @@ module CdekApi
       '47-16-0-4' => {
 
         code:       982,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '7 - 10',
+        cost:       980
 
       },
 
@@ -13869,10 +14673,12 @@ module CdekApi
       '47-6-0-23' => {
 
         code:       2715,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '7 - 10',
+        cost:       850
 
       },
 
@@ -13880,10 +14686,12 @@ module CdekApi
       '47-15-0-24' => {
 
         code:       2716,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '7 - 10',
+        cost:       720
 
       },
 
@@ -13891,10 +14699,12 @@ module CdekApi
       '47-0-4-0' => {
 
         code:       979,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '5 - 8',
+        cost:       850
 
       },
 
@@ -13902,10 +14712,12 @@ module CdekApi
       '47-4-0-5' => {
 
         code:       2717,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '7 - 10',
+        cost:       980
 
       },
 
@@ -13913,10 +14725,12 @@ module CdekApi
       '47-7-0-7' => {
 
         code:       13109,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '5 - 8',
+        cost:       650
 
       },
 
@@ -13924,10 +14738,12 @@ module CdekApi
       '47-18-0-10' => {
 
         code:       13110,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '4 - 6',
+        cost:       650
 
       },
 
@@ -13935,10 +14751,12 @@ module CdekApi
       '47-17-0-79' => {
 
         code:       978,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '7 - 10',
+        cost:       980
 
       },
 
@@ -13946,10 +14764,12 @@ module CdekApi
       '47-5-0-32' => {
 
         code:       2718,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '5 - 8',
+        cost:       650
 
       },
 
@@ -13957,10 +14777,12 @@ module CdekApi
       '47-18-0-534' => {
 
         code:       78,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '5 - 8',
+        cost:       720
 
       },
 
@@ -13968,10 +14790,12 @@ module CdekApi
       '47-18-0-11' => {
 
         code:       2719,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '5 - 8',
+        cost:       650
 
       },
 
@@ -13979,10 +14803,12 @@ module CdekApi
       '47-8-0-219' => {
 
         code:       2720,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '7 - 10',
+        cost:       980
 
       },
 
@@ -13990,10 +14816,12 @@ module CdekApi
       '47-18-0-14' => {
 
         code:       2721,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '5 - 8',
+        cost:       720
 
       },
 
@@ -14001,10 +14829,12 @@ module CdekApi
       '47-10-3-0' => {
 
         code:       2722,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '4 - 6',
+        cost:       650
 
       },
 
@@ -14012,10 +14842,12 @@ module CdekApi
       '47-10-0-14' => {
 
         code:       3187,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '5 - 8',
+        cost:       850
 
       },
 
@@ -14023,10 +14855,12 @@ module CdekApi
       '47-5-0-48' => {
 
         code:       13409,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '3 - 6',
+        cost:       650
 
       },
 
@@ -14034,10 +14868,12 @@ module CdekApi
       '47-5-0-29' => {
 
         code:       13059,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '4 - 6',
+        cost:       650
 
       },
 
@@ -14045,10 +14881,12 @@ module CdekApi
       '48-19-0-7' => {
 
         code:       2734,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '4 - 7',
+        cost:       1180
 
       },
 
@@ -14056,10 +14894,12 @@ module CdekApi
       '48-3-1-0' => {
 
         code:       930,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '4 - 7',
+        cost:       1180
 
       },
 
@@ -14067,10 +14907,12 @@ module CdekApi
       '48-4-0-10' => {
 
         code:       1579,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '4 - 7',
+        cost:       1180
 
       },
 
@@ -14078,10 +14920,12 @@ module CdekApi
       '48-5-0-108' => {
 
         code:       358,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '4 - 7',
+        cost:       1180
 
       },
 
@@ -14089,10 +14933,12 @@ module CdekApi
       '48-6-0-1' => {
 
         code:       359,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '4 - 7',
+        cost:       1180
 
       },
 
@@ -14100,10 +14946,12 @@ module CdekApi
       '48-7-0-1' => {
 
         code:       13331,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '3 - 7',
+        cost:       1120
 
       },
 
@@ -14111,10 +14959,12 @@ module CdekApi
       '48-0-2-0' => {
 
         code:       362,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '4 - 7',
+        cost:       1180
 
       },
 
@@ -14122,10 +14972,12 @@ module CdekApi
       '48-7-0-11' => {
 
         code:       13123,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '4 - 7',
+        cost:       1055
 
       },
 
@@ -14133,10 +14985,12 @@ module CdekApi
       '48-9-0-14' => {
 
         code:       365,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '4 - 7',
+        cost:       1180
 
       },
 
@@ -14144,10 +14998,12 @@ module CdekApi
       '48-10-0-1' => {
 
         code:       13365,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '3 - 7',
+        cost:       1265
 
       },
 
@@ -14155,10 +15011,12 @@ module CdekApi
       '48-3-0-26' => {
 
         code:       13323,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '3 - 6',
+        cost:       1010
 
       },
 
@@ -14166,10 +15024,12 @@ module CdekApi
       '48-19-0-32' => {
 
         code:       13322,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '4 - 6',
+        cost:       1125
 
       },
 
@@ -14177,10 +15037,12 @@ module CdekApi
       '48-11-0-1' => {
 
         code:       1580,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '4 - 7',
+        cost:       1180
 
       },
 
@@ -14188,10 +15050,12 @@ module CdekApi
       '48-0-1-0' => {
 
         code:       13321,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '3 - 6',
+        cost:       1370
 
       },
 
@@ -14199,10 +15063,12 @@ module CdekApi
       '48-12-0-36' => {
 
         code:       361,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '4 - 7',
+        cost:       1180
 
       },
 
@@ -14210,10 +15076,12 @@ module CdekApi
       '48-13-0-1' => {
 
         code:       2736,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '4 - 7',
+        cost:       1180
 
       },
 
@@ -14221,10 +15089,12 @@ module CdekApi
       '48-19-0-22' => {
 
         code:       2735,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '4 - 7',
+        cost:       1180
 
       },
 
@@ -14232,10 +15102,12 @@ module CdekApi
       '48-0-1-0' => {
 
         code:       320,
+        tariff:     136,
         address:    'Площадь петра великого ул., д.5, оф.05',
         phone:      '(4742)74-44-07, 77-15-61',
         work_time:  'пн.-пт. 9-18',
-        delivery:   ''
+        delivery:   '4 - 6',
+        cost:       335
 
       },
 
@@ -14243,10 +15115,12 @@ module CdekApi
       '48-0-1-0' => {
 
         code:       1581,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '4 - 7',
+        cost:       1180
 
       },
 
@@ -14254,10 +15128,12 @@ module CdekApi
       '48-0-1-0' => {
 
         code:       2737,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '4 - 7',
+        cost:       1180
 
       },
 
@@ -14265,10 +15141,12 @@ module CdekApi
       '48-14-0-1' => {
 
         code:       13430,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '3 - 7',
+        cost:       1070
 
       },
 
@@ -14276,10 +15154,12 @@ module CdekApi
       '48-15-0-1' => {
 
         code:       367,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '4 - 7',
+        cost:       1180
 
       },
 
@@ -14287,10 +15167,12 @@ module CdekApi
       '48-16-0-67' => {
 
         code:       366,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '4 - 7',
+        cost:       1180
 
       },
 
@@ -14298,10 +15180,12 @@ module CdekApi
       '48-17-0-1' => {
 
         code:       370,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '4 - 7',
+        cost:       1180
 
       },
 
@@ -14309,10 +15193,12 @@ module CdekApi
       '48-18-1-0' => {
 
         code:       368,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '4 - 7',
+        cost:       1180
 
       },
 
@@ -14320,10 +15206,12 @@ module CdekApi
       '48-0-1-0' => {
 
         code:       13397,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '3 - 6',
+        cost:       1090
 
       },
 
@@ -14331,10 +15219,12 @@ module CdekApi
       '49-0-1-0' => {
 
         code:       314,
+        tariff:     136,
         address:    'Кольцевая, д.3',
         phone:      '(4132)602244',
         work_time:  'пн.-пт. 9-18, об. 13-14',
-        delivery:   ''
+        delivery:   '6 - 9',
+        cost:       755
 
       },
 
@@ -14342,10 +15232,12 @@ module CdekApi
       '49-2-0-1' => {
 
         code:       2738,
+        tariff:     137,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '7 - 16',
+        cost:       1705
 
       },
 
@@ -14353,10 +15245,12 @@ module CdekApi
       '49-3-0-1' => {
 
         code:       2741,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '5 - 12',
+        cost:       1810
 
       },
 
@@ -14364,21 +15258,12 @@ module CdekApi
       '49-8-0-1' => {
 
         code:       2743,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
-
-      },
-
-      # Заречный
-      '49-2-0-14' => {
-
-        code:       13142,
-        address:    '',
-        phone:      '',
-        work_time:  '',
-        delivery:   ''
+        delivery:   '5 - 12',
+        cost:       2160
 
       },
 
@@ -14386,10 +15271,12 @@ module CdekApi
       '49-0-1-2' => {
 
         code:       2740,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '5 - 12',
+        cost:       2160
 
       },
 
@@ -14397,10 +15284,12 @@ module CdekApi
       '49-8-0-4' => {
 
         code:       2744,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '5 - 12',
+        cost:       2160
 
       },
 
@@ -14408,10 +15297,12 @@ module CdekApi
       '49-6-1-0' => {
 
         code:       2347,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '5 - 12',
+        cost:       2160
 
       },
 
@@ -14419,10 +15310,12 @@ module CdekApi
       '49-0-1-3' => {
 
         code:       2742,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '5 - 12',
+        cost:       2160
 
       },
 
@@ -14430,109 +15323,12 @@ module CdekApi
       '49-8-0-6' => {
 
         code:       2745,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
-
-      },
-
-      # Азаново
-      '12-8-0-2' => {
-
-        code:       13731,
-        address:    '',
-        phone:      '',
-        work_time:  '',
-        delivery:   ''
-
-      },
-
-      # Большая Орша
-      '12-11-0-7' => {
-
-        code:       13718,
-        address:    '',
-        phone:      '',
-        work_time:  '',
-        delivery:   ''
-
-      },
-
-      # Большие Шапы
-      '12-8-0-9' => {
-
-        code:       13737,
-        address:    '',
-        phone:      '',
-        work_time:  '',
-        delivery:   ''
-
-      },
-
-      # Большой Кундыш
-      '12-5-0-11' => {
-
-        code:       13688,
-        address:    '',
-        phone:      '',
-        work_time:  '',
-        delivery:   ''
-
-      },
-
-      # Васильевское
-      '12-15-0-7' => {
-
-        code:       13768,
-        address:    '',
-        phone:      '',
-        work_time:  '',
-        delivery:   ''
-
-      },
-
-      # Большая Руясола
-      '12-14-0-13' => {
-
-        code:       13724,
-        address:    '',
-        phone:      '',
-        work_time:  '',
-        delivery:   ''
-
-      },
-
-      # Голубой
-      '12-14-0-30' => {
-
-        code:       13725,
-        address:    '',
-        phone:      '',
-        work_time:  '',
-        delivery:   ''
-
-      },
-
-      # Дорожный
-      '12-8-0-18' => {
-
-        code:       13693,
-        address:    '',
-        phone:      '',
-        work_time:  '',
-        delivery:   ''
-
-      },
-
-      # Ежово
-      '12-8-0-19' => {
-
-        code:       13732,
-        address:    '',
-        phone:      '',
-        work_time:  '',
-        delivery:   ''
+        delivery:   '5 - 12',
+        cost:       2160
 
       },
 
@@ -14540,98 +15336,12 @@ module CdekApi
       '12-4-1-0' => {
 
         code:       1873,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
-
-      },
-
-      # Зеленая Роща
-      '12-14-0-35' => {
-
-        code:       13760,
-        address:    '',
-        phone:      '',
-        work_time:  '',
-        delivery:   ''
-
-      },
-
-      # Зеленогорск
-      '12-9-0-34' => {
-
-        code:       13716,
-        address:    '',
-        phone:      '',
-        work_time:  '',
-        delivery:   ''
-
-      },
-
-      # Алешок
-      '32-14-0-2' => {
-
-        code:       13761,
-        address:    '',
-        phone:      '',
-        work_time:  '',
-        delivery:   ''
-
-      },
-
-      # Знаменский
-      '12-8-0-26' => {
-
-        code:       13978,
-        address:    '',
-        phone:      '',
-        work_time:  '',
-        delivery:   ''
-
-      },
-
-      # Ивановка
-      '12-14-0-37' => {
-
-        code:       13762,
-        address:    '',
-        phone:      '',
-        work_time:  '',
-        delivery:   ''
-
-      },
-
-      # Илеть
-      '12-4-0-14' => {
-
-        code:       13752,
-        address:    '',
-        phone:      '',
-        work_time:  '',
-        delivery:   ''
-
-      },
-
-      # Ивановка
-      '12-11-0-21' => {
-
-        code:       13720,
-        address:    '',
-        phone:      '',
-        work_time:  '',
-        delivery:   ''
-
-      },
-
-      # Ильинка (Старокрещенский с/с)
-      '12-11-0-23' => {
-
-        code:       13719,
-        address:    '',
-        phone:      '',
-        work_time:  '',
-        delivery:   ''
+        delivery:   '5 - 7',
+        cost:       1620
 
       },
 
@@ -14639,109 +15349,12 @@ module CdekApi
       '12-0-1-0' => {
 
         code:       141,
+        tariff:     136,
         address:    'Пролетарская ул., д.39, оф.20',
         phone:      '(987) 712-3222, 712-3663, 8 (902) 67-07-307',
         work_time:  'пн.-пт. 9-19, об. 13-14',
-        delivery:   ''
-
-      },
-
-      # Килемары
-      '12-5-0-1' => {
-
-        code:       13779,
-        address:    '',
-        phone:      '',
-        work_time:  '',
-        delivery:   ''
-
-      },
-
-      # Ким
-      '12-8-0-30' => {
-
-        code:       13694,
-        address:    '',
-        phone:      '',
-        work_time:  '',
-        delivery:   ''
-
-      },
-
-      # Кичиер
-      '12-2-0-26' => {
-
-        code:       13771,
-        address:    '',
-        phone:      '',
-        work_time:  '',
-        delivery:   ''
-
-      },
-
-      # Кленовая Гора
-      '12-2-0-27' => {
-
-        code:       13754,
-        address:    '',
-        phone:      '',
-        work_time:  '',
-        delivery:   ''
-
-      },
-
-      # Большая Сосновка
-      '12-2-0-9' => {
-
-        code:       13757,
-        address:    '',
-        phone:      '',
-        work_time:  '',
-        delivery:   ''
-
-      },
-
-      # Козьмодемьянск
-      '12-0-3-0' => {
-
-        code:       13088,
-        address:    '',
-        phone:      '',
-        work_time:  '',
-        delivery:   ''
-
-      },
-
-      # Кокшайск
-      '12-4-0-509' => {
-
-        code:       13728,
-        address:    '',
-        phone:      '',
-        work_time:  '',
-        delivery:   ''
-
-      },
-
-      # Афанассола
-      '12-14-0-9' => {
-
-        code:       13763,
-        address:    '',
-        phone:      '',
-        work_time:  '',
-        delivery:   ''
-
-      },
-
-      # Большой Тумьюмучаш
-      '12-6-0-9' => {
-
-        code:       13691,
-        address:    '',
-        phone:      '',
-        work_time:  '',
-        delivery:   ''
+        delivery:   '5 - 8',
+        cost:       340
 
       },
 
@@ -14749,43 +15362,12 @@ module CdekApi
       '12-4-0-18' => {
 
         code:       13682,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
-
-      },
-
-      # Большие Шапы
-      '12-8-0-9' => {
-
-        code:       13727,
-        address:    '',
-        phone:      '',
-        work_time:  '',
-        delivery:   ''
-
-      },
-
-      # Крутой Овраг
-      '12-8-0-36' => {
-
-        code:       13695,
-        address:    '',
-        phone:      '',
-        work_time:  '',
-        delivery:   ''
-
-      },
-
-      # Кугунур
-      '12-4-0-27' => {
-
-        code:       13683,
-        address:    '',
-        phone:      '',
-        work_time:  '',
-        delivery:   ''
+        delivery:   '5 - 8',
+        cost:       1620
 
       },
 
@@ -14793,98 +15375,12 @@ module CdekApi
       '12-6-0-1' => {
 
         code:       2747,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
-
-      },
-
-      # Акшубино
-      '12-0-1-3' => {
-
-        code:       13696,
-        address:    '',
-        phone:      '',
-        work_time:  '',
-        delivery:   ''
-
-      },
-
-      # Кучки
-      '12-8-0-45' => {
-
-        code:       13778,
-        address:    '',
-        phone:      '',
-        work_time:  '',
-        delivery:   ''
-
-      },
-
-      # Куяр
-      '12-8-0-179' => {
-
-        code:       13740,
-        address:    '',
-        phone:      '',
-        work_time:  '',
-        delivery:   ''
-
-      },
-
-      # Люльпаны
-      '12-8-0-51' => {
-
-        code:       13742,
-        address:    '',
-        phone:      '',
-        work_time:  '',
-        delivery:   ''
-
-      },
-
-      # Малые Морки
-      '12-9-0-71' => {
-
-        code:       13753,
-        address:    '',
-        phone:      '',
-        work_time:  '',
-        delivery:   ''
-
-      },
-
-      # Малые Шапы
-      '12-8-0-59' => {
-
-        code:       13769,
-        address:    '',
-        phone:      '',
-        work_time:  '',
-        delivery:   ''
-
-      },
-
-      # Марково
-      '12-11-0-41' => {
-
-        code:       13721,
-        address:    '',
-        phone:      '',
-        work_time:  '',
-        delivery:   ''
-
-      },
-
-      # Бахтино
-      '12-10-0-5' => {
-
-        code:       13717,
-        address:    '',
-        phone:      '',
-        work_time:  '',
-        delivery:   ''
+        delivery:   '5 - 7',
+        cost:       1620
 
       },
 
@@ -14892,32 +15388,12 @@ module CdekApi
       '12-8-0-1' => {
 
         code:       2748,
+        tariff:     137,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
-
-      },
-
-      # Митюково
-      '12-8-0-65' => {
-
-        code:       13743,
-        address:    '',
-        phone:      '',
-        work_time:  '',
-        delivery:   ''
-
-      },
-
-      # Айметово
-      '12-14-0-3' => {
-
-        code:       13764,
-        address:    '',
-        phone:      '',
-        work_time:  '',
-        delivery:   ''
+        delivery:   '6 - 9',
+        cost:       570
 
       },
 
@@ -14925,109 +15401,12 @@ module CdekApi
       '12-9-0-1' => {
 
         code:       2754,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
-
-      },
-
-      # Абаснурский
-      '12-14-0-2' => {
-
-        code:       13765,
-        address:    '',
-        phone:      '',
-        work_time:  '',
-        delivery:   ''
-
-      },
-
-      # Алдеево
-      '12-3-0-5' => {
-
-        code:       13675,
-        address:    '',
-        phone:      '',
-        work_time:  '',
-        delivery:   ''
-
-      },
-
-      # Красовка
-      '12-8-0-35' => {
-
-        code:       13697,
-        address:    '',
-        phone:      '',
-        work_time:  '',
-        delivery:   ''
-
-      },
-
-      # Нужъял
-      '12-14-0-95' => {
-
-        code:       13766,
-        address:    '',
-        phone:      '',
-        work_time:  '',
-        delivery:   ''
-
-      },
-
-      # Алешкино
-      '12-5-0-4' => {
-
-        code:       13689,
-        address:    '',
-        phone:      '',
-        work_time:  '',
-        delivery:   ''
-
-      },
-
-      # Октябрьский
-      '12-3-0-143' => {
-
-        code:       13756,
-        address:    '',
-        phone:      '',
-        work_time:  '',
-        delivery:   ''
-
-      },
-
-      # Ореховка
-      '12-8-0-82' => {
-
-        code:       13698,
-        address:    '',
-        phone:      '',
-        work_time:  '',
-        delivery:   ''
-
-      },
-
-      # Орешкино
-      '12-8-0-83' => {
-
-        code:       13699,
-        address:    '',
-        phone:      '',
-        work_time:  '',
-        delivery:   ''
-
-      },
-
-      # Березята
-      '12-14-0-12' => {
-
-        code:       13767,
-        address:    '',
-        phone:      '',
-        work_time:  '',
-        delivery:   ''
+        delivery:   '5 - 7',
+        cost:       1620
 
       },
 
@@ -15035,21 +15414,12 @@ module CdekApi
       '12-11-0-1' => {
 
         code:       2750,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
-
-      },
-
-      # Паганур
-      '12-8-0-89' => {
-
-        code:       13736,
-        address:    '',
-        phone:      '',
-        work_time:  '',
-        delivery:   ''
+        delivery:   '5 - 7',
+        cost:       1620
 
       },
 
@@ -15057,10 +15427,12 @@ module CdekApi
       '12-12-0-1' => {
 
         code:       1019,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '5 - 7',
+        cost:       1620
 
       },
 
@@ -15068,109 +15440,12 @@ module CdekApi
       '12-10-0-1' => {
 
         code:       2749,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
-
-      },
-
-      # Пемба
-      '12-8-0-182' => {
-
-        code:       13679,
-        address:    '',
-        phone:      '',
-        work_time:  '',
-        delivery:   ''
-
-      },
-
-      # Большая Убрень
-      '12-8-0-8' => {
-
-        code:       13700,
-        address:    '',
-        phone:      '',
-        work_time:  '',
-        delivery:   ''
-
-      },
-
-      # Гари
-      '12-8-0-14' => {
-
-        code:       13701,
-        address:    '',
-        phone:      '',
-        work_time:  '',
-        delivery:   ''
-
-      },
-
-      # Березники
-      '12-2-0-6' => {
-
-        code:       13758,
-        address:    '',
-        phone:      '',
-        work_time:  '',
-        delivery:   ''
-
-      },
-
-      # Александровка
-      '12-2-0-3' => {
-
-        code:       13759,
-        address:    '',
-        phone:      '',
-        work_time:  '',
-        delivery:   ''
-
-      },
-
-      # Пуял
-      '12-8-0-98' => {
-
-        code:       13702,
-        address:    '',
-        phone:      '',
-        work_time:  '',
-        delivery:   ''
-
-      },
-
-      # Русский Кукмор
-      '12-8-0-99' => {
-
-        code:       13703,
-        address:    '',
-        phone:      '',
-        work_time:  '',
-        delivery:   ''
-
-      },
-
-      # Красовка
-      '12-8-0-35' => {
-
-        code:       14331,
-        address:    '',
-        phone:      '',
-        work_time:  '',
-        delivery:   ''
-
-      },
-
-      # Светлый
-      '12-8-0-184' => {
-
-        code:       13738,
-        address:    '',
-        phone:      '',
-        work_time:  '',
-        delivery:   ''
+        delivery:   '4 - 6',
+        cost:       1620
 
       },
 
@@ -15178,32 +15453,12 @@ module CdekApi
       '12-0-1-0' => {
 
         code:       2751,
+        tariff:     137,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
-
-      },
-
-      # Семеновка
-      '12-4-0-59' => {
-
-        code:       13684,
-        address:    '',
-        phone:      '',
-        work_time:  '',
-        delivery:   ''
-
-      },
-
-      # Сенькино
-      '12-8-0-105' => {
-
-        code:       13704,
-        address:    '',
-        phone:      '',
-        work_time:  '',
-        delivery:   ''
+        delivery:   '6 - 9',
+        cost:       570
 
       },
 
@@ -15211,43 +15466,12 @@ module CdekApi
       '12-10-0-2' => {
 
         code:       2752,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
-
-      },
-
-      # Сидельниково
-      '12-4-0-61' => {
-
-        code:       13685,
-        address:    '',
-        phone:      '',
-        work_time:  '',
-        delivery:   ''
-
-      },
-
-      # Малый Карамас
-      '12-2-0-43' => {
-
-        code:       13744,
-        address:    '',
-        phone:      '',
-        work_time:  '',
-        delivery:   ''
-
-      },
-
-      # Кундыш
-      '12-8-0-178' => {
-
-        code:       13677,
-        address:    '',
-        phone:      '',
-        work_time:  '',
-        delivery:   ''
+        delivery:   '5 - 7',
+        cost:       1620
 
       },
 
@@ -15255,296 +15479,12 @@ module CdekApi
       '12-14-0-1' => {
 
         code:       2753,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
-
-      },
-
-      # Голубой
-      '12-14-0-30' => {
-
-        code:       13676,
-        address:    '',
-        phone:      '',
-        work_time:  '',
-        delivery:   ''
-
-      },
-
-      # Сосновка
-      '12-8-0-108' => {
-
-        code:       13705,
-        address:    '',
-        phone:      '',
-        work_time:  '',
-        delivery:   ''
-
-      },
-
-      # Большое Шигаково
-      '12-4-0-6' => {
-
-        code:       13687,
-        address:    '',
-        phone:      '',
-        work_time:  '',
-        delivery:   ''
-
-      },
-
-      # Средние Шапы
-      '12-8-0-110' => {
-
-        code:       13770,
-        address:    '',
-        phone:      '',
-        work_time:  '',
-        delivery:   ''
-
-      },
-
-      # Старожильск
-      '12-8-0-113' => {
-
-        code:       13706,
-        address:    '',
-        phone:      '',
-        work_time:  '',
-        delivery:   ''
-
-      },
-
-      # Старый Торъял
-      '12-10-0-126' => {
-
-        code:       13750,
-        address:    '',
-        phone:      '',
-        work_time:  '',
-        delivery:   ''
-
-      },
-
-      # Вержуково
-      '12-3-0-29' => {
-
-        code:       13681,
-        address:    '',
-        phone:      '',
-        work_time:  '',
-        delivery:   ''
-
-      },
-
-      # Сурок
-      '12-8-0-189' => {
-
-        code:       13678,
-        address:    '',
-        phone:      '',
-        work_time:  '',
-        delivery:   ''
-
-      },
-
-      # Пуял
-      '12-8-0-98' => {
-
-        code:       13708,
-        address:    '',
-        phone:      '',
-        work_time:  '',
-        delivery:   ''
-
-      },
-
-      # Суслонгер
-      '12-4-0-66' => {
-
-        code:       13745,
-        address:    '',
-        phone:      '',
-        work_time:  '',
-        delivery:   ''
-
-      },
-
-      # Сысоево
-      '12-7-0-118' => {
-
-        code:       13751,
-        address:    '',
-        phone:      '',
-        work_time:  '',
-        delivery:   ''
-
-      },
-
-      # Блиново
-      '12-11-0-6' => {
-
-        code:       13722,
-        address:    '',
-        phone:      '',
-        work_time:  '',
-        delivery:   ''
-
-      },
-
-      # Васильевка
-      '12-11-0-12' => {
-
-        code:       13723,
-        address:    '',
-        phone:      '',
-        work_time:  '',
-        delivery:   ''
-
-      },
-
-      # Чкарино
-      '12-14-0-132' => {
-
-        code:       13729,
-        address:    '',
-        phone:      '',
-        work_time:  '',
-        delivery:   ''
-
-      },
-
-      # Верхнее Азяково
-      '12-8-0-12' => {
-
-        code:       13709,
-        address:    '',
-        phone:      '',
-        work_time:  '',
-        delivery:   ''
-
-      },
-
-      # Акиндулкино
-      '12-8-0-3' => {
-
-        code:       13674,
-        address:    '',
-        phone:      '',
-        work_time:  '',
-        delivery:   ''
-
-      },
-
-      # Ельняги
-      '12-8-0-22' => {
-
-        code:       13710,
-        address:    '',
-        phone:      '',
-        work_time:  '',
-        delivery:   ''
-
-      },
-
-      # Юбилейный
-      '12-8-0-130' => {
-
-        code:       13730,
-        address:    '',
-        phone:      '',
-        work_time:  '',
-        delivery:   ''
-
-      },
-
-      # Юксары
-      '12-5-0-81' => {
-
-        code:       13690,
-        address:    '',
-        phone:      '',
-        work_time:  '',
-        delivery:   ''
-
-      },
-
-      # Юрино
-      '12-15-0-1' => {
-
-        code:       13755,
-        address:    '',
-        phone:      '',
-        work_time:  '',
-        delivery:   ''
-
-      },
-
-      # Икса
-      '12-15-0-13' => {
-
-        code:       13711,
-        address:    '',
-        phone:      '',
-        work_time:  '',
-        delivery:   ''
-
-      },
-
-      # Юшково
-      '12-8-0-136' => {
-
-        code:       13746,
-        address:    '',
-        phone:      '',
-        work_time:  '',
-        delivery:   ''
-
-      },
-
-      # Яльчик
-      '12-2-0-517' => {
-
-        code:       13777,
-        address:    '',
-        phone:      '',
-        work_time:  '',
-        delivery:   ''
-
-      },
-
-      # Ильнетуры
-      '12-2-0-19' => {
-
-        code:       13680,
-        address:    '',
-        phone:      '',
-        work_time:  '',
-        delivery:   ''
-
-      },
-
-      # Яметкино
-      '12-8-0-138' => {
-
-        code:       13714,
-        address:    '',
-        phone:      '',
-        work_time:  '',
-        delivery:   ''
-
-      },
-
-      # Ежово
-      '12-8-0-19' => {
-
-        code:       13715,
-        address:    '',
-        phone:      '',
-        work_time:  '',
-        delivery:   ''
+        delivery:   '5 - 7',
+        cost:       1620
 
       },
 
@@ -15552,10 +15492,12 @@ module CdekApi
       '13-2-1-0' => {
 
         code:       2764,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '5 - 7',
+        cost:       1180
 
       },
 
@@ -15563,10 +15505,12 @@ module CdekApi
       '13-4-0-1' => {
 
         code:       2765,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '5 - 7',
+        cost:       1180
 
       },
 
@@ -15574,10 +15518,12 @@ module CdekApi
       '13-16-0-17' => {
 
         code:       2756,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '5 - 7',
+        cost:       1180
 
       },
 
@@ -15585,10 +15531,12 @@ module CdekApi
       '13-10-0-4' => {
 
         code:       2761,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '5 - 7',
+        cost:       1180
 
       },
 
@@ -15596,10 +15544,12 @@ module CdekApi
       '13-9-0-89' => {
 
         code:       2762,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '5 - 7',
+        cost:       1180
 
       },
 
@@ -15607,10 +15557,12 @@ module CdekApi
       '13-13-0-14' => {
 
         code:       2766,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '5 - 7',
+        cost:       1180
 
       },
 
@@ -15618,10 +15570,12 @@ module CdekApi
       '13-15-0-8' => {
 
         code:       2767,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '5 - 7',
+        cost:       1180
 
       },
 
@@ -15629,10 +15583,12 @@ module CdekApi
       '13-0-1-2' => {
 
         code:       2757,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '5 - 7',
+        cost:       1180
 
       },
 
@@ -15640,10 +15596,12 @@ module CdekApi
       '13-16-0-1' => {
 
         code:       2758,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '5 - 7',
+        cost:       1180
 
       },
 
@@ -15651,10 +15609,12 @@ module CdekApi
       '13-0-1-12' => {
 
         code:       2755,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '5 - 7',
+        cost:       1180
 
       },
 
@@ -15662,10 +15622,12 @@ module CdekApi
       '13-18-1-0' => {
 
         code:       1636,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '5 - 7',
+        cost:       1180
 
       },
 
@@ -15673,10 +15635,12 @@ module CdekApi
       '13-0-1-0' => {
 
         code:       417,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '3 - 4',
+        cost:       770
 
       },
 
@@ -15684,10 +15648,12 @@ module CdekApi
       '13-19-0-1' => {
 
         code:       2763,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '5 - 7',
+        cost:       1180
 
       },
 
@@ -15695,10 +15661,12 @@ module CdekApi
       '13-7-0-35' => {
 
         code:       2759,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '5 - 7',
+        cost:       1180
 
       },
 
@@ -15706,10 +15674,12 @@ module CdekApi
       '13-0-1-4' => {
 
         code:       2760,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '5 - 7',
+        cost:       1180
 
       },
 
@@ -15717,10 +15687,12 @@ module CdekApi
       '77-0-0-45' => {
 
         code:       13607,
+        tariff:     137,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '4 - 7',
+        cost:       575
 
       },
 
@@ -15728,10 +15700,12 @@ module CdekApi
       '77-0-0-0' => {
 
         code:       28,
+        tariff:     137,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '4 - 7',
+        cost:       540
 
       },
 
@@ -15739,10 +15713,12 @@ module CdekApi
       '77-0-0-3' => {
 
         code:       2788,
+        tariff:     137,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '4 - 7',
+        cost:       505
 
       },
 
@@ -15750,10 +15726,12 @@ module CdekApi
       '77-0-2-0' => {
 
         code:       184,
+        tariff:     137,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '4 - 7',
+        cost:       505
 
       },
 
@@ -15761,10 +15739,12 @@ module CdekApi
       '77-0-2-4' => {
 
         code:       1697,
+        tariff:     137,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '4 - 7',
+        cost:       575
 
       },
 
@@ -15772,10 +15752,12 @@ module CdekApi
       '77-0-0-0' => {
 
         code:       44,
+        tariff:     136,
         address:    'Сергия радонежского ул, д.31',
         phone:      '+7 (495) 66-55-8-99',
         work_time:  'пн.-пт. 10-19, сб. 10-17, вс 11-18',
-        delivery:   ''
+        delivery:   '3 - 5',
+        cost:       175
 
       },
 
@@ -15783,10 +15765,12 @@ module CdekApi
       '50-12-0-13' => {
 
         code:       2790,
+        tariff:     137,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '4 - 7',
+        cost:       505
 
       },
 
@@ -15794,10 +15778,12 @@ module CdekApi
       '50-17-1-0' => {
 
         code:       148,
+        tariff:     137,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '4 - 7',
+        cost:       505
 
       },
 
@@ -15805,10 +15791,12 @@ module CdekApi
       '77-0-0-0' => {
 
         code:       2792,
+        tariff:     137,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '4 - 7',
+        cost:       505
 
       },
 
@@ -15816,10 +15804,12 @@ module CdekApi
       '50-19-0-26' => {
 
         code:       13330,
+        tariff:     137,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '4 - 7',
+        cost:       505
 
       },
 
@@ -15827,10 +15817,12 @@ module CdekApi
       '77-0-0-25' => {
 
         code:       2789,
+        tariff:     137,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '4 - 7',
+        cost:       505
 
       },
 
@@ -15838,10 +15830,12 @@ module CdekApi
       '50-35-0-2' => {
 
         code:       110,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '3 - 6',
+        cost:       1170
 
       },
 
@@ -15849,10 +15843,12 @@ module CdekApi
       '50-0-1-35' => {
 
         code:       1374,
+        tariff:     137,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '4 - 7',
+        cost:       505
 
       },
 
@@ -15860,10 +15856,12 @@ module CdekApi
       '50-24-0-6' => {
 
         code:       1658,
+        tariff:     137,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '4 - 7',
+        cost:       755
 
       },
 
@@ -15871,10 +15869,12 @@ module CdekApi
       '50-9-7-1' => {
 
         code:       1659,
+        tariff:     137,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '4 - 7',
+        cost:       575
 
       },
 
@@ -15882,10 +15882,12 @@ module CdekApi
       '50-3-0-3' => {
 
         code:       13528,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '3 - 6',
+        cost:       1120
 
       },
 
@@ -15893,10 +15895,12 @@ module CdekApi
       '50-11-0-7' => {
 
         code:       1660,
+        tariff:     137,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '5 - 7',
+        cost:       520
 
       },
 
@@ -15904,10 +15908,12 @@ module CdekApi
       '50-13-0-3' => {
 
         code:       1125,
+        tariff:     137,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '4 - 7',
+        cost:       575
 
       },
 
@@ -15915,10 +15921,12 @@ module CdekApi
       '50-33-0-4' => {
 
         code:       1096,
+        tariff:     137,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '4 - 7',
+        cost:       505
 
       },
 
@@ -15926,10 +15934,12 @@ module CdekApi
       '50-14-0-8' => {
 
         code:       13302,
+        tariff:     137,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '4 - 6',
+        cost:       520
 
       },
 
@@ -15937,10 +15947,12 @@ module CdekApi
       '50-20-2-0' => {
 
         code:       483,
+        tariff:     137,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '4 - 7',
+        cost:       575
 
       },
 
@@ -15948,10 +15960,12 @@ module CdekApi
       '50-18-0-6' => {
 
         code:       14263,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '2 - 4',
+        cost:       910
 
       },
 
@@ -15959,10 +15973,12 @@ module CdekApi
       '50-13-0-6' => {
 
         code:       1661,
+        tariff:     137,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '4 - 7',
+        cost:       505
 
       },
 
@@ -15970,10 +15986,12 @@ module CdekApi
       '50-20-0-15' => {
 
         code:       1662,
+        tariff:     137,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '4 - 7',
+        cost:       755
 
       },
 
@@ -15981,10 +15999,12 @@ module CdekApi
       '50-27-0-4' => {
 
         code:       1663,
+        tariff:     137,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '4 - 7',
+        cost:       575
 
       },
 
@@ -15992,10 +16012,12 @@ module CdekApi
       '50-22-0-33' => {
 
         code:       1375,
+        tariff:     137,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '4 - 7',
+        cost:       505
 
       },
 
@@ -16003,10 +16025,12 @@ module CdekApi
       '50-2-0-27' => {
 
         code:       1097,
+        tariff:     137,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '4 - 7',
+        cost:       505
 
       },
 
@@ -16014,10 +16038,12 @@ module CdekApi
       '50-0-1-38' => {
 
         code:       1664,
+        tariff:     137,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '4 - 7',
+        cost:       755
 
       },
 
@@ -16025,10 +16051,12 @@ module CdekApi
       '50-20-0-5' => {
 
         code:       1665,
+        tariff:     137,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '4 - 7',
+        cost:       755
 
       },
 
@@ -16036,10 +16064,12 @@ module CdekApi
       '50-0-32-0' => {
 
         code:       1098,
+        tariff:     137,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '4 - 7',
+        cost:       505
 
       },
 
@@ -16047,10 +16077,12 @@ module CdekApi
       '50-4-0-8' => {
 
         code:       1666,
+        tariff:     137,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '4 - 7',
+        cost:       755
 
       },
 
@@ -16058,10 +16090,12 @@ module CdekApi
       '50-16-0-7' => {
 
         code:       1558,
+        tariff:     137,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '4 - 7',
+        cost:       755
 
       },
 
@@ -16069,10 +16103,12 @@ module CdekApi
       '50-0-1-36' => {
 
         code:       1852,
+        tariff:     137,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '4 - 7',
+        cost:       575
 
       },
 
@@ -16080,10 +16116,12 @@ module CdekApi
       '50-11-0-19' => {
 
         code:       13529,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '3 - 6',
+        cost:       1120
 
       },
 
@@ -16091,10 +16129,12 @@ module CdekApi
       '50-14-0-8' => {
 
         code:       61,
+        tariff:     137,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '4 - 7',
+        cost:       505
 
       },
 
@@ -16102,10 +16142,12 @@ module CdekApi
       '50-30-0-27' => {
 
         code:       1667,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '2 - 4',
+        cost:       910
 
       },
 
@@ -16113,10 +16155,12 @@ module CdekApi
       '50-22-0-21' => {
 
         code:       1668,
+        tariff:     137,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '4 - 7',
+        cost:       575
 
       },
 
@@ -16124,10 +16168,12 @@ module CdekApi
       '50-25-0-7' => {
 
         code:       1669,
+        tariff:     137,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '4 - 7',
+        cost:       575
 
       },
 
@@ -16135,10 +16181,12 @@ module CdekApi
       '50-21-0-20' => {
 
         code:       74,
+        tariff:     137,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '4 - 7',
+        cost:       575
 
       },
 
@@ -16146,10 +16194,12 @@ module CdekApi
       '50-18-0-15' => {
 
         code:       1301,
+        tariff:     137,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '4 - 7',
+        cost:       505
 
       },
 
@@ -16157,10 +16207,12 @@ module CdekApi
       '50-11-0-29' => {
 
         code:       13530,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '3 - 6',
+        cost:       1040
 
       },
 
@@ -16168,10 +16220,12 @@ module CdekApi
       '50-0-2-0' => {
 
         code:       1099,
+        tariff:     137,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '4 - 7',
+        cost:       575
 
       },
 
@@ -16179,10 +16233,12 @@ module CdekApi
       '50-14-0-14' => {
 
         code:       1670,
+        tariff:     137,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '4 - 7',
+        cost:       505
 
       },
 
@@ -16190,10 +16246,12 @@ module CdekApi
       '50-7-0-27' => {
 
         code:       467,
+        tariff:     137,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '4 - 7',
+        cost:       505
 
       },
 
@@ -16201,10 +16259,12 @@ module CdekApi
       '50-28-0-6' => {
 
         code:       1195,
+        tariff:     137,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '4 - 7',
+        cost:       505
 
       },
 
@@ -16212,10 +16272,12 @@ module CdekApi
       '50-14-0-27' => {
 
         code:       1559,
+        tariff:     137,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '4 - 7',
+        cost:       505
 
       },
 
@@ -16223,10 +16285,12 @@ module CdekApi
       '50-0-1-92' => {
 
         code:       1671,
+        tariff:     137,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '4 - 7',
+        cost:       505
 
       },
 
@@ -16234,10 +16298,12 @@ module CdekApi
       '50-35-0-4' => {
 
         code:       2768,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '3 - 4',
+        cost:       710
 
       },
 
@@ -16245,10 +16311,12 @@ module CdekApi
       '50-20-0-10' => {
 
         code:       1118,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '2 - 4',
+        cost:       700
 
       },
 
@@ -16256,10 +16324,12 @@ module CdekApi
       '50-19-0-10' => {
 
         code:       302,
+        tariff:     137,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '4 - 7',
+        cost:       505
 
       },
 
@@ -16267,10 +16337,12 @@ module CdekApi
       '50-14-1-0' => {
 
         code:       1100,
+        tariff:     137,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '4 - 7',
+        cost:       505
 
       },
 
@@ -16278,10 +16350,12 @@ module CdekApi
       '50-21-0-27' => {
 
         code:       1672,
+        tariff:     137,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '4 - 7',
+        cost:       505
 
       },
 
@@ -16289,10 +16363,12 @@ module CdekApi
       '50-11-0-19' => {
 
         code:       13531,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '3 - 6',
+        cost:       1120
 
       },
 
@@ -16300,10 +16376,12 @@ module CdekApi
       '50-11-0-31' => {
 
         code:       3186,
+        tariff:     137,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '4 - 7',
+        cost:       755
 
       },
 
@@ -16311,10 +16389,12 @@ module CdekApi
       '50-3-0-223' => {
 
         code:       484,
+        tariff:     137,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '4 - 7',
+        cost:       755
 
       },
 
@@ -16322,10 +16402,12 @@ module CdekApi
       '50-8-0-26' => {
 
         code:       13532,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '5 - 8',
+        cost:       930
 
       },
 
@@ -16333,10 +16415,12 @@ module CdekApi
       '50-26-0-18' => {
 
         code:       221,
+        tariff:     137,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '4 - 7',
+        cost:       755
 
       },
 
@@ -16344,10 +16428,12 @@ module CdekApi
       '50-4-1-0' => {
 
         code:       1203,
+        tariff:     137,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '5 - 8',
+        cost:       675
 
       },
 
@@ -16355,10 +16441,12 @@ module CdekApi
       '50-14-0-32' => {
 
         code:       13369,
+        tariff:     137,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '4 - 7',
+        cost:       755
 
       },
 
@@ -16366,10 +16454,12 @@ module CdekApi
       '50-0-1-99' => {
 
         code:       1673,
+        tariff:     137,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '4 - 7',
+        cost:       575
 
       },
 
@@ -16377,10 +16467,12 @@ module CdekApi
       '50-0-0-3' => {
 
         code:       2770,
+        tariff:     137,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '4 - 7',
+        cost:       755
 
       },
 
@@ -16388,10 +16480,12 @@ module CdekApi
       '50-11-0-263' => {
 
         code:       13533,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '3 - 6',
+        cost:       1120
 
       },
 
@@ -16399,10 +16493,12 @@ module CdekApi
       '50-11-0-16' => {
 
         code:       1546,
+        tariff:     137,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '5 - 9',
+        cost:       875
 
       },
 
@@ -16410,10 +16506,12 @@ module CdekApi
       '50-14-0-10' => {
 
         code:       1101,
+        tariff:     137,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '4 - 7',
+        cost:       505
 
       },
 
@@ -16421,10 +16519,12 @@ module CdekApi
       '50-28-0-45' => {
 
         code:       1560,
+        tariff:     137,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '4 - 7',
+        cost:       575
 
       },
 
@@ -16432,10 +16532,12 @@ module CdekApi
       '50-14-0-36' => {
 
         code:       13366,
+        tariff:     137,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '4 - 7',
+        cost:       575
 
       },
 
@@ -16443,10 +16545,12 @@ module CdekApi
       '50-22-3-0' => {
 
         code:       1102,
+        tariff:     137,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '4 - 7',
+        cost:       575
 
       },
 
@@ -16454,10 +16558,12 @@ module CdekApi
       '50-13-0-11' => {
 
         code:       316,
+        tariff:     137,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '4 - 7',
+        cost:       495
 
       },
 
@@ -16465,10 +16571,12 @@ module CdekApi
       '50-14-0-10' => {
 
         code:       1674,
+        tariff:     137,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '4 - 7',
+        cost:       505
 
       },
 
@@ -16476,10 +16584,12 @@ module CdekApi
       '50-19-0-4' => {
 
         code:       14260,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '2 - 4',
+        cost:       690
 
       },
 
@@ -16487,10 +16597,12 @@ module CdekApi
       '50-20-0-37' => {
 
         code:       1675,
+        tariff:     137,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '4 - 7',
+        cost:       575
 
       },
 
@@ -16498,10 +16610,12 @@ module CdekApi
       '50-11-0-3' => {
 
         code:       13451,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '3 - 6',
+        cost:       1070
 
       },
 
@@ -16509,10 +16623,12 @@ module CdekApi
       '50-24-0-15' => {
 
         code:       1676,
+        tariff:     137,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '4 - 7',
+        cost:       755
 
       },
 
@@ -16520,10 +16636,12 @@ module CdekApi
       '50-0-28-0' => {
 
         code:       83,
+        tariff:     137,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '4 - 7',
+        cost:       755
 
       },
 
@@ -16531,10 +16649,12 @@ module CdekApi
       '50-5-0-63' => {
 
         code:       1677,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '3 - 4',
+        cost:       710
 
       },
 
@@ -16542,10 +16662,12 @@ module CdekApi
       '50-9-2-0' => {
 
         code:       226,
+        tariff:     137,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '5 - 9',
+        cost:       625
 
       },
 
@@ -16553,10 +16675,12 @@ module CdekApi
       '50-0-23-0' => {
 
         code:       1103,
+        tariff:     137,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '4 - 7',
+        cost:       505
 
       },
 
@@ -16564,10 +16688,12 @@ module CdekApi
       '50-5-0-58' => {
 
         code:       478,
+        tariff:     11,
         address:    'Профессиональная, д.3, оф.315 а',
         phone:      '(4962) 94804, 94805',
         work_time:  'Пн-Пт с 9-18, Сб, Вс - выходной',
-        delivery:   ''
+        delivery:   '3 - 4',
+        cost:       710
 
       },
 
@@ -16575,10 +16701,12 @@ module CdekApi
       '50-11-0-66' => {
 
         code:       13534,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '3 - 6',
+        cost:       1040
 
       },
 
@@ -16586,10 +16714,12 @@ module CdekApi
       '50-0-1-63' => {
 
         code:       1678,
+        tariff:     137,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '4 - 7',
+        cost:       755
 
       },
 
@@ -16597,10 +16727,12 @@ module CdekApi
       '50-40-0-6' => {
 
         code:       1679,
+        tariff:     137,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '4 - 7',
+        cost:       505
 
       },
 
@@ -16608,10 +16740,12 @@ module CdekApi
       '50-0-29-0' => {
 
         code:       472,
+        tariff:     137,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '4 - 7',
+        cost:       505
 
       },
 
@@ -16619,10 +16753,12 @@ module CdekApi
       '50-0-1-0' => {
 
         code:       1174,
+        tariff:     137,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '4 - 7',
+        cost:       505
 
       },
 
@@ -16630,10 +16766,12 @@ module CdekApi
       '50-29-0-24' => {
 
         code:       1561,
+        tariff:     137,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '4 - 7',
+        cost:       755
 
       },
 
@@ -16641,10 +16779,12 @@ module CdekApi
       '50-24-0-14' => {
 
         code:       1547,
+        tariff:     137,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '4 - 7',
+        cost:       755
 
       },
 
@@ -16652,21 +16792,12 @@ module CdekApi
       '50-3-0-56' => {
 
         code:       13138,
+        tariff:     137,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
-
-      },
-
-      # Дубинино
-      '50-33-0-36' => {
-
-        code:       14337,
-        address:    '',
-        phone:      '',
-        work_time:  '',
-        delivery:   ''
+        delivery:   '4 - 7',
+        cost:       505
 
       },
 
@@ -16674,10 +16805,12 @@ module CdekApi
       '50-0-3-0' => {
 
         code:       65,
+        tariff:     10,
         address:    'Боголюбова, д.26, оф.4',
         phone:      '89853050571, (496) 219-48-04, (496)219-48-05',
         work_time:  'пн.-пт. 9-18',
-        delivery:   ''
+        delivery:   '2 - 3',
+        cost:       630
 
       },
 
@@ -16685,10 +16818,12 @@ module CdekApi
       '50-33-0-37' => {
 
         code:       13934,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '4 - 7',
+        cost:       1110
 
       },
 
@@ -16696,10 +16831,12 @@ module CdekApi
       '50-35-0-25' => {
 
         code:       1628,
+        tariff:     137,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '5 - 7',
+        cost:       715
 
       },
 
@@ -16707,10 +16844,12 @@ module CdekApi
       '50-11-0-9' => {
 
         code:       13535,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '3 - 6',
+        cost:       1120
 
       },
 
@@ -16718,10 +16857,12 @@ module CdekApi
       '50-7-0-145' => {
 
         code:       21,
+        tariff:     137,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '4 - 7',
+        cost:       755
 
       },
 
@@ -16729,10 +16870,12 @@ module CdekApi
       '50-11-0-72' => {
 
         code:       13536,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '3 - 6',
+        cost:       1120
 
       },
 
@@ -16740,10 +16883,12 @@ module CdekApi
       '50-11-0-73' => {
 
         code:       3184,
+        tariff:     137,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '4 - 7',
+        cost:       755
 
       },
 
@@ -16751,10 +16896,12 @@ module CdekApi
       '50-12-0-39' => {
 
         code:       3185,
+        tariff:     137,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '4 - 7',
+        cost:       755
 
       },
 
@@ -16762,10 +16909,12 @@ module CdekApi
       '50-33-0-42' => {
 
         code:       3183,
+        tariff:     137,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '4 - 7',
+        cost:       505
 
       },
 
@@ -16773,10 +16922,12 @@ module CdekApi
       '50-19-0-2' => {
 
         code:       1680,
+        tariff:     137,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '4 - 7',
+        cost:       505
 
       },
 
@@ -16784,10 +16935,12 @@ module CdekApi
       '50-22-0-58' => {
 
         code:       1681,
+        tariff:     137,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '4 - 7',
+        cost:       505
 
       },
 
@@ -16795,10 +16948,12 @@ module CdekApi
       '50-0-4-0' => {
 
         code:       391,
+        tariff:     137,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '4 - 7',
+        cost:       505
 
       },
 
@@ -16806,10 +16961,12 @@ module CdekApi
       '50-34-0-13' => {
 
         code:       1562,
+        tariff:     137,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '4 - 7',
+        cost:       755
 
       },
 
@@ -16817,10 +16974,12 @@ module CdekApi
       '50-0-1-56' => {
 
         code:       1682,
+        tariff:     137,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '4 - 7',
+        cost:       575
 
       },
 
@@ -16828,10 +16987,12 @@ module CdekApi
       '50-22-0-15' => {
 
         code:       538,
+        tariff:     137,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '4 - 7',
+        cost:       505
 
       },
 
@@ -16839,10 +17000,12 @@ module CdekApi
       '50-0-5-0' => {
 
         code:       1299,
+        tariff:     137,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '4 - 7',
+        cost:       505
 
       },
 
@@ -16850,10 +17013,12 @@ module CdekApi
       '50-0-1-47' => {
 
         code:       22,
+        tariff:     137,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '4 - 7',
+        cost:       575
 
       },
 
@@ -16861,10 +17026,12 @@ module CdekApi
       '50-40-0-31' => {
 
         code:       1683,
+        tariff:     137,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '4 - 7',
+        cost:       505
 
       },
 
@@ -16872,10 +17039,12 @@ module CdekApi
       '50-35-0-59' => {
 
         code:       1563,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '3 - 4',
+        cost:       710
 
       },
 
@@ -16883,10 +17052,12 @@ module CdekApi
       '50-8-0-21' => {
 
         code:       1314,
+        tariff:     137,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '4 - 7',
+        cost:       755
 
       },
 
@@ -16894,10 +17065,12 @@ module CdekApi
       '50-22-0-62' => {
 
         code:       1263,
+        tariff:     137,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '4 - 7',
+        cost:       505
 
       },
 
@@ -16905,10 +17078,12 @@ module CdekApi
       '50-9-13-2' => {
 
         code:       2401,
+        tariff:     137,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '4 - 7',
+        cost:       575
 
       },
 
@@ -16916,10 +17091,12 @@ module CdekApi
       '50-22-0-64' => {
 
         code:       1180,
+        tariff:     137,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '4 - 7',
+        cost:       575
 
       },
 
@@ -16927,10 +17104,12 @@ module CdekApi
       '50-28-0-55' => {
 
         code:       2400,
+        tariff:     137,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '4 - 7',
+        cost:       575
 
       },
 
@@ -16938,10 +17117,12 @@ module CdekApi
       '50-0-0-9' => {
 
         code:       291,
+        tariff:     137,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '4 - 7',
+        cost:       505
 
       },
 
@@ -16949,10 +17130,12 @@ module CdekApi
       '50-0-6-0' => {
 
         code:       964,
+        tariff:     137,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '4 - 7',
+        cost:       575
 
       },
 
@@ -16960,10 +17143,12 @@ module CdekApi
       '50-27-0-29' => {
 
         code:       1684,
+        tariff:     137,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '4 - 7',
+        cost:       575
 
       },
 
@@ -16971,10 +17156,12 @@ module CdekApi
       '50-21-0-42' => {
 
         code:       14364,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '2 - 4',
+        cost:       730
 
       },
 
@@ -16982,10 +17169,12 @@ module CdekApi
       '50-0-24-0' => {
 
         code:       702,
+        tariff:     137,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '4 - 7',
+        cost:       505
 
       },
 
@@ -16993,10 +17182,12 @@ module CdekApi
       '50-11-0-10' => {
 
         code:       13454,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '3 - 6',
+        cost:       1070
 
       },
 
@@ -17004,10 +17195,12 @@ module CdekApi
       '50-11-0-2' => {
 
         code:       13537,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '3 - 6',
+        cost:       1120
 
       },
 
@@ -17015,10 +17208,12 @@ module CdekApi
       '50-0-7-0' => {
 
         code:       307,
+        tariff:     137,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '4 - 7',
+        cost:       505
 
       },
 
@@ -17026,10 +17221,12 @@ module CdekApi
       '50-5-0-168' => {
 
         code:       1685,
+        tariff:     137,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '4 - 7',
+        cost:       505
 
       },
 
@@ -17037,10 +17234,12 @@ module CdekApi
       '50-5-0-169' => {
 
         code:       1564,
+        tariff:     137,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '4 - 7',
+        cost:       575
 
       },
 
@@ -17048,10 +17247,12 @@ module CdekApi
       '50-28-0-87' => {
 
         code:       1686,
+        tariff:     137,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '4 - 7',
+        cost:       505
 
       },
 
@@ -17059,10 +17260,12 @@ module CdekApi
       '50-21-0-13' => {
 
         code:       2769,
+        tariff:     137,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '4 - 7',
+        cost:       575
 
       },
 
@@ -17070,10 +17273,12 @@ module CdekApi
       '50-4-0-25' => {
 
         code:       1687,
+        tariff:     137,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '4 - 7',
+        cost:       755
 
       },
 
@@ -17081,10 +17286,12 @@ module CdekApi
       '50-33-0-53' => {
 
         code:       13372,
+        tariff:     137,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '4 - 7',
+        cost:       575
 
       },
 
@@ -17092,10 +17299,12 @@ module CdekApi
       '50-9-1-0' => {
 
         code:       482,
+        tariff:     137,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '5 - 9',
+        cost:       625
 
       },
 
@@ -17103,10 +17312,12 @@ module CdekApi
       '50-20-0-99' => {
 
         code:       1688,
+        tariff:     137,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '4 - 7',
+        cost:       575
 
       },
 
@@ -17114,10 +17325,12 @@ module CdekApi
       '50-14-0-57' => {
 
         code:       2771,
+        tariff:     137,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '4 - 7',
+        cost:       505
 
       },
 
@@ -17125,10 +17338,12 @@ module CdekApi
       '50-22-0-8' => {
 
         code:       1737,
+        tariff:     137,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '4 - 7',
+        cost:       575
 
       },
 
@@ -17136,10 +17351,12 @@ module CdekApi
       '50-14-0-2' => {
 
         code:       2074,
+        tariff:     137,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '4 - 7',
+        cost:       505
 
       },
 
@@ -17147,10 +17364,12 @@ module CdekApi
       '50-10-0-68' => {
 
         code:       80,
+        tariff:     137,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '4 - 7',
+        cost:       755
 
       },
 
@@ -17158,10 +17377,12 @@ module CdekApi
       '50-20-0-69' => {
 
         code:       1689,
+        tariff:     137,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '4 - 7',
+        cost:       575
 
       },
 
@@ -17169,10 +17390,12 @@ module CdekApi
       '50-0-8-0' => {
 
         code:       1121,
+        tariff:     137,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '4 - 7',
+        cost:       575
 
       },
 
@@ -17180,10 +17403,12 @@ module CdekApi
       '50-11-0-174' => {
 
         code:       253,
+        tariff:     136,
         address:    'Бородинский сад ул., д.1',
         phone:      '88005551291',
         work_time:  'пн.-пт. 9-18',
-        delivery:   ''
+        delivery:   '4 - 6',
+        cost:       405
 
       },
 
@@ -17191,10 +17416,12 @@ module CdekApi
       '50-17-1-4' => {
 
         code:       1376,
+        tariff:     137,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '4 - 7',
+        cost:       505
 
       },
 
@@ -17202,10 +17429,12 @@ module CdekApi
       '50-20-0-37' => {
 
         code:       1690,
+        tariff:     137,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '4 - 7',
+        cost:       575
 
       },
 
@@ -17213,10 +17442,12 @@ module CdekApi
       '50-0-27-0' => {
 
         code:       967,
+        tariff:     137,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '4 - 7',
+        cost:       755
 
       },
 
@@ -17224,10 +17455,12 @@ module CdekApi
       '50-29-0-11' => {
 
         code:       1691,
+        tariff:     137,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '4 - 7',
+        cost:       755
 
       },
 
@@ -17235,10 +17468,12 @@ module CdekApi
       '50-14-0-65' => {
 
         code:       1692,
+        tariff:     137,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '4 - 7',
+        cost:       505
 
       },
 
@@ -17246,10 +17481,12 @@ module CdekApi
       '50-0-9-0' => {
 
         code:       205,
+        tariff:     137,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '4 - 7',
+        cost:       505
 
       },
 
@@ -17257,10 +17494,12 @@ module CdekApi
       '50-11-0-104' => {
 
         code:       13538,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '3 - 6',
+        cost:       1120
 
       },
 
@@ -17268,10 +17507,12 @@ module CdekApi
       '50-0-1-38' => {
 
         code:       1090,
+        tariff:     137,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '4 - 7',
+        cost:       575
 
       },
 
@@ -17279,10 +17520,12 @@ module CdekApi
       '50-0-32-0' => {
 
         code:       524,
+        tariff:     137,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '4 - 7',
+        cost:       505
 
       },
 
@@ -17290,10 +17533,12 @@ module CdekApi
       '50-17-3-0' => {
 
         code:       133,
+        tariff:     137,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '4 - 7',
+        cost:       505
 
       },
 
@@ -17301,10 +17546,12 @@ module CdekApi
       '50-9-1-0' => {
 
         code:       2772,
+        tariff:     137,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '4 - 7',
+        cost:       505
 
       },
 
@@ -17312,10 +17559,12 @@ module CdekApi
       '50-21-0-33' => {
 
         code:       322,
+        tariff:     137,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '4 - 7',
+        cost:       575
 
       },
 
@@ -17323,10 +17572,12 @@ module CdekApi
       '50-0-10-0' => {
 
         code:       1548,
+        tariff:     137,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '4 - 7',
+        cost:       575
 
       },
 
@@ -17334,10 +17585,12 @@ module CdekApi
       '50-13-1-0' => {
 
         code:       521,
+        tariff:     136,
         address:    'Оптический пер., д.1 а, оф.теплый бетон',
         phone:      '+7 (498) 505-6546',
         work_time:  'пн.-пт. 10-18, сб. вс.- выходной',
-        delivery:   ''
+        delivery:   '4 - 6',
+        cost:       405
 
       },
 
@@ -17345,10 +17598,12 @@ module CdekApi
       '50-30-0-68' => {
 
         code:       1549,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '3 - 4',
+        cost:       710
 
       },
 
@@ -17356,10 +17611,12 @@ module CdekApi
       '50-0-11-0' => {
 
         code:       1550,
+        tariff:     137,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '4 - 7',
+        cost:       575
 
       },
 
@@ -17367,10 +17624,12 @@ module CdekApi
       '50-28-0-107' => {
 
         code:       1693,
+        tariff:     137,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '4 - 7',
+        cost:       505
 
       },
 
@@ -17378,10 +17637,12 @@ module CdekApi
       '50-20-0-11' => {
 
         code:       13402,
+        tariff:     137,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '4 - 7',
+        cost:       575
 
       },
 
@@ -17389,10 +17650,12 @@ module CdekApi
       '50-37-0-7' => {
 
         code:       1694,
+        tariff:     137,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '4 - 7',
+        cost:       755
 
       },
 
@@ -17400,10 +17663,12 @@ module CdekApi
       '50-22-0-158' => {
 
         code:       1551,
+        tariff:     137,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '4 - 7',
+        cost:       575
 
       },
 
@@ -17411,10 +17676,12 @@ module CdekApi
       '50-15-0-11' => {
 
         code:       2773,
+        tariff:     137,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '4 - 7',
+        cost:       755
 
       },
 
@@ -17422,10 +17689,12 @@ module CdekApi
       '50-28-0-5' => {
 
         code:       1695,
+        tariff:     137,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '4 - 7',
+        cost:       575
 
       },
 
@@ -17433,10 +17702,12 @@ module CdekApi
       '50-39-0-6' => {
 
         code:       1377,
+        tariff:     137,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '4 - 7',
+        cost:       505
 
       },
 
@@ -17444,10 +17715,12 @@ module CdekApi
       '50-24-0-58' => {
 
         code:       1552,
+        tariff:     137,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '4 - 7',
+        cost:       755
 
       },
 
@@ -17455,10 +17728,12 @@ module CdekApi
       '50-0-1-30' => {
 
         code:       1378,
+        tariff:     137,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '4 - 7',
+        cost:       575
 
       },
 
@@ -17466,10 +17741,12 @@ module CdekApi
       '50-11-0-8' => {
 
         code:       13539,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '3 - 6',
+        cost:       1040
 
       },
 
@@ -17477,10 +17754,12 @@ module CdekApi
       '50-9-16-0' => {
 
         code:       1323,
+        tariff:     137,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '4 - 7',
+        cost:       575
 
       },
 
@@ -17488,10 +17767,12 @@ module CdekApi
       '50-0-6-24' => {
 
         code:       13540,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '3 - 6',
+        cost:       1120
 
       },
 
@@ -17499,10 +17780,12 @@ module CdekApi
       '50-22-0-23' => {
 
         code:       1126,
+        tariff:     137,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '4 - 7',
+        cost:       505
 
       },
 
@@ -17510,10 +17793,12 @@ module CdekApi
       '50-12-0-15' => {
 
         code:       2774,
+        tariff:     137,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '4 - 7',
+        cost:       755
 
       },
 
@@ -17521,10 +17806,12 @@ module CdekApi
       '50-27-0-42' => {
 
         code:       2779,
+        tariff:     137,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '4 - 7',
+        cost:       575
 
       },
 
@@ -17532,10 +17819,12 @@ module CdekApi
       '50-27-0-33' => {
 
         code:       1696,
+        tariff:     137,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '4 - 7',
+        cost:       505
 
       },
 
@@ -17543,10 +17832,12 @@ module CdekApi
       '50-9-7-7' => {
 
         code:       13376,
+        tariff:     137,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '5 - 9',
+        cost:       625
 
       },
 
@@ -17554,10 +17845,12 @@ module CdekApi
       '50-30-0-41' => {
 
         code:       523,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '2 - 4',
+        cost:       730
 
       },
 
@@ -17565,10 +17858,12 @@ module CdekApi
       '50-24-0-36' => {
 
         code:       1553,
+        tariff:     137,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '4 - 7',
+        cost:       755
 
       },
 
@@ -17576,10 +17871,12 @@ module CdekApi
       '50-0-12-0' => {
 
         code:       474,
+        tariff:     137,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '4 - 7',
+        cost:       505
 
       },
 
@@ -17587,10 +17884,12 @@ module CdekApi
       '50-0-31-0' => {
 
         code:       536,
+        tariff:     137,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '4 - 7',
+        cost:       575
 
       },
 
@@ -17598,10 +17897,12 @@ module CdekApi
       '50-15-0-1' => {
 
         code:       481,
+        tariff:     137,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '4 - 7',
+        cost:       755
 
       },
 
@@ -17609,10 +17910,12 @@ module CdekApi
       '50-9-8-1' => {
 
         code:       2775,
+        tariff:     137,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '4 - 7',
+        cost:       575
 
       },
 
@@ -17620,10 +17923,12 @@ module CdekApi
       '50-29-0-46' => {
 
         code:       2776,
+        tariff:     137,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '4 - 7',
+        cost:       755
 
       },
 
@@ -17631,10 +17936,12 @@ module CdekApi
       '50-16-0-13' => {
 
         code:       494,
+        tariff:     137,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '5 - 8',
+        cost:       675
 
       },
 
@@ -17642,10 +17949,12 @@ module CdekApi
       '50-0-13-0' => {
 
         code:       167,
+        tariff:     137,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '4 - 7',
+        cost:       505
 
       },
 
@@ -17653,10 +17962,12 @@ module CdekApi
       '50-26-0-91' => {
 
         code:       1302,
+        tariff:     137,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '4 - 7',
+        cost:       575
 
       },
 
@@ -17664,10 +17975,12 @@ module CdekApi
       '50-17-1-0' => {
 
         code:       57,
+        tariff:     136,
         address:    '3 почтовое отд, д.76',
         phone:      '(495) 744-93-03',
         work_time:  'пн.-пт. 09 -18',
-        delivery:   ''
+        delivery:   '4 - 6',
+        cost:       405
 
       },
 
@@ -17675,10 +17988,12 @@ module CdekApi
       '50-37-0-3' => {
 
         code:       533,
+        tariff:     137,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '4 - 7',
+        cost:       575
 
       },
 
@@ -17686,10 +18001,12 @@ module CdekApi
       '50-37-0-74' => {
 
         code:       1764,
+        tariff:     137,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '4 - 7',
+        cost:       755
 
       },
 
@@ -17697,10 +18014,12 @@ module CdekApi
       '50-17-4-0' => {
 
         code:       516,
+        tariff:     137,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '4 - 7',
+        cost:       505
 
       },
 
@@ -17708,10 +18027,12 @@ module CdekApi
       '50-11-0-118' => {
 
         code:       13541,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '3 - 6',
+        cost:       1040
 
       },
 
@@ -17719,10 +18040,12 @@ module CdekApi
       '50-14-0-80' => {
 
         code:       13307,
+        tariff:     137,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '4 - 8',
+        cost:       525
 
       },
 
@@ -17730,10 +18053,12 @@ module CdekApi
       '50-11-0-17' => {
 
         code:       13542,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '3 - 6',
+        cost:       1040
 
       },
 
@@ -17741,10 +18066,12 @@ module CdekApi
       '50-22-0-112' => {
 
         code:       2777,
+        tariff:     137,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '4 - 7',
+        cost:       575
 
       },
 
@@ -17752,10 +18079,12 @@ module CdekApi
       '50-14-0-82' => {
 
         code:       297,
+        tariff:     137,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '4 - 7',
+        cost:       505
 
       },
 
@@ -17763,10 +18092,12 @@ module CdekApi
       '50-11-0-15' => {
 
         code:       1698,
+        tariff:     137,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '4 - 7',
+        cost:       505
 
       },
 
@@ -17774,10 +18105,12 @@ module CdekApi
       '50-11-0-123' => {
 
         code:       13543,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '3 - 6',
+        cost:       1040
 
       },
 
@@ -17785,10 +18118,12 @@ module CdekApi
       '50-40-0-53' => {
 
         code:       1699,
+        tariff:     137,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '4 - 7',
+        cost:       505
 
       },
 
@@ -17796,10 +18131,12 @@ module CdekApi
       '50-5-0-242' => {
 
         code:       13544,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '3 - 6',
+        cost:       1040
 
       },
 
@@ -17807,10 +18144,12 @@ module CdekApi
       '50-33-0-74' => {
 
         code:       1187,
+        tariff:     137,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '4 - 7',
+        cost:       575
 
       },
 
@@ -17818,10 +18157,12 @@ module CdekApi
       '50-34-0-21' => {
 
         code:       1700,
+        tariff:     137,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '4 - 7',
+        cost:       505
 
       },
 
@@ -17829,10 +18170,12 @@ module CdekApi
       '50-0-1-205' => {
 
         code:       468,
+        tariff:     137,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '4 - 7',
+        cost:       505
 
       },
 
@@ -17840,10 +18183,12 @@ module CdekApi
       '50-34-0-133' => {
 
         code:       1701,
+        tariff:     137,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '4 - 7',
+        cost:       755
 
       },
 
@@ -17851,10 +18196,12 @@ module CdekApi
       '50-38-0-105' => {
 
         code:       1702,
+        tariff:     137,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '4 - 7',
+        cost:       755
 
       },
 
@@ -17862,10 +18209,12 @@ module CdekApi
       '50-18-0-8' => {
 
         code:       486,
+        tariff:     137,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '4 - 7',
+        cost:       755
 
       },
 
@@ -17873,10 +18222,12 @@ module CdekApi
       '50-26-0-106' => {
 
         code:       2778,
+        tariff:     137,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '4 - 7',
+        cost:       575
 
       },
 
@@ -17884,10 +18235,12 @@ module CdekApi
       '50-14-0-7' => {
 
         code:       121,
+        tariff:     137,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '4 - 7',
+        cost:       505
 
       },
 
@@ -17895,10 +18248,12 @@ module CdekApi
       '50-40-0-60' => {
 
         code:       534,
+        tariff:     137,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '4 - 7',
+        cost:       575
 
       },
 
@@ -17906,10 +18261,12 @@ module CdekApi
       '50-14-0-91' => {
 
         code:       469,
+        tariff:     137,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '4 - 7',
+        cost:       505
 
       },
 
@@ -17917,10 +18274,12 @@ module CdekApi
       '50-14-0-92' => {
 
         code:       1198,
+        tariff:     137,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '4 - 7',
+        cost:       505
 
       },
 
@@ -17928,10 +18287,12 @@ module CdekApi
       '50-17-3-8' => {
 
         code:       1379,
+        tariff:     137,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '4 - 7',
+        cost:       505
 
       },
 
@@ -17939,10 +18300,12 @@ module CdekApi
       '50-19-0-101' => {
 
         code:       920,
+        tariff:     136,
         address:    'Олимпийский пр-кт, д.15 корп. 4',
         phone:      '(498) 301-09-01;(495) 786-42-48',
         work_time:  'пн.-пт. 9-18',
-        delivery:   ''
+        delivery:   '4 - 6',
+        cost:       405
 
       },
 
@@ -17950,10 +18313,12 @@ module CdekApi
       '50-11-0-139' => {
 
         code:       13545,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '3 - 6',
+        cost:       1040
 
       },
 
@@ -17961,10 +18326,12 @@ module CdekApi
       '50-20-0-6' => {
 
         code:       69,
+        tariff:     137,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '4 - 7',
+        cost:       755
 
       },
 
@@ -17972,10 +18339,12 @@ module CdekApi
       '50-11-0-243' => {
 
         code:       13458,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '3 - 6',
+        cost:       1120
 
       },
 
@@ -17983,10 +18352,12 @@ module CdekApi
       '50-9-15-6' => {
 
         code:       1545,
+        tariff:     137,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '4 - 7',
+        cost:       495
 
       },
 
@@ -17994,10 +18365,12 @@ module CdekApi
       '50-5-0-115' => {
 
         code:       1703,
+        tariff:     137,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '4 - 7',
+        cost:       505
 
       },
 
@@ -18005,10 +18378,12 @@ module CdekApi
       '50-22-0-110' => {
 
         code:       1380,
+        tariff:     137,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '4 - 7',
+        cost:       505
 
       },
 
@@ -18016,10 +18391,12 @@ module CdekApi
       '50-14-0-94' => {
 
         code:       1252,
+        tariff:     137,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '4 - 7',
+        cost:       505
 
       },
 
@@ -18027,10 +18404,12 @@ module CdekApi
       '50-22-0-140' => {
 
         code:       13104,
+        tariff:     137,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '4 - 7',
+        cost:       505
 
       },
 
@@ -18038,10 +18417,12 @@ module CdekApi
       '50-5-0-29' => {
 
         code:       13457,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '3 - 6',
+        cost:       1120
 
       },
 
@@ -18049,10 +18430,12 @@ module CdekApi
       '50-28-0-151' => {
 
         code:       13293,
+        tariff:     137,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '4 - 7',
+        cost:       575
 
       },
 
@@ -18060,10 +18443,12 @@ module CdekApi
       '50-11-0-149' => {
 
         code:       13546,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '3 - 6',
+        cost:       1040
 
       },
 
@@ -18071,10 +18456,12 @@ module CdekApi
       '50-21-0-14' => {
 
         code:       1204,
+        tariff:     137,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '4 - 7',
+        cost:       575
 
       },
 
@@ -18082,10 +18469,12 @@ module CdekApi
       '50-11-0-151' => {
 
         code:       13547,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '3 - 6',
+        cost:       1120
 
       },
 
@@ -18093,10 +18482,12 @@ module CdekApi
       '50-32-0-114' => {
 
         code:       1705,
+        tariff:     137,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '4 - 7',
+        cost:       755
 
       },
 
@@ -18104,10 +18495,12 @@ module CdekApi
       '50-21-0-3' => {
 
         code:       14339,
+        tariff:     137,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '4 - 7',
+        cost:       575
 
       },
 
@@ -18115,10 +18508,12 @@ module CdekApi
       '50-21-0-3' => {
 
         code:       1706,
+        tariff:     137,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '5 - 7',
+        cost:       520
 
       },
 
@@ -18126,10 +18521,12 @@ module CdekApi
       '50-13-0-38' => {
 
         code:       520,
+        tariff:     137,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '4 - 7',
+        cost:       505
 
       },
 
@@ -18137,10 +18534,12 @@ module CdekApi
       '50-10-0-28' => {
 
         code:       1554,
+        tariff:     137,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '4 - 7',
+        cost:       755
 
       },
 
@@ -18148,10 +18547,12 @@ module CdekApi
       '50-23-0-3' => {
 
         code:       496,
+        tariff:     137,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '4 - 7',
+        cost:       755
 
       },
 
@@ -18159,10 +18560,12 @@ module CdekApi
       '50-17-5-0' => {
 
         code:       173,
+        tariff:     137,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '4 - 7',
+        cost:       505
 
       },
 
@@ -18170,10 +18573,12 @@ module CdekApi
       '50-13-1-0' => {
 
         code:       475,
+        tariff:     137,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '4 - 7',
+        cost:       495
 
       },
 
@@ -18181,10 +18586,12 @@ module CdekApi
       '50-0-26-0' => {
 
         code:       172,
+        tariff:     137,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '4 - 7',
+        cost:       755
 
       },
 
@@ -18192,10 +18599,12 @@ module CdekApi
       '50-28-0-3' => {
 
         code:       225,
+        tariff:     137,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '4 - 7',
+        cost:       505
 
       },
 
@@ -18203,10 +18612,12 @@ module CdekApi
       '50-0-30-11' => {
 
         code:       1381,
+        tariff:     137,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '4 - 7',
+        cost:       505
 
       },
 
@@ -18214,10 +18625,12 @@ module CdekApi
       '50-25-1-0' => {
 
         code:       488,
+        tariff:     137,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '4 - 7',
+        cost:       575
 
       },
 
@@ -18225,10 +18638,12 @@ module CdekApi
       '50-9-8-12' => {
 
         code:       2781,
+        tariff:     137,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '4 - 7',
+        cost:       505
 
       },
 
@@ -18236,10 +18651,12 @@ module CdekApi
       '50-11-0-271' => {
 
         code:       13548,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '3 - 6',
+        cost:       1040
 
       },
 
@@ -18247,10 +18664,12 @@ module CdekApi
       '50-14-0-146' => {
 
         code:       1565,
+        tariff:     137,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '4 - 7',
+        cost:       505
 
       },
 
@@ -18258,21 +18677,12 @@ module CdekApi
       '50-30-0-115' => {
 
         code:       210,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
-
-      },
-
-      # Бородки
-      '50-22-0-23' => {
-
-        code:       13444,
-        address:    '',
-        phone:      '',
-        work_time:  '',
-        delivery:   ''
+        delivery:   '3 - 4',
+        cost:       710
 
       },
 
@@ -18280,10 +18690,12 @@ module CdekApi
       '50-11-0-159' => {
 
         code:       13549,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '3 - 6',
+        cost:       1040
 
       },
 
@@ -18291,10 +18703,12 @@ module CdekApi
       '50-12-0-11' => {
 
         code:       1707,
+        tariff:     137,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '4 - 7',
+        cost:       755
 
       },
 
@@ -18302,10 +18716,12 @@ module CdekApi
       '50-19-0-15' => {
 
         code:       13286,
+        tariff:     137,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '4 - 7',
+        cost:       505
 
       },
 
@@ -18313,10 +18729,12 @@ module CdekApi
       '50-13-0-15' => {
 
         code:       1708,
+        tariff:     137,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '4 - 7',
+        cost:       575
 
       },
 
@@ -18324,10 +18742,12 @@ module CdekApi
       '50-11-0-6' => {
 
         code:       13550,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '3 - 6',
+        cost:       1120
 
       },
 
@@ -18335,10 +18755,12 @@ module CdekApi
       '50-19-0-31' => {
 
         code:       1709,
+        tariff:     137,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '4 - 7',
+        cost:       505
 
       },
 
@@ -18346,10 +18768,12 @@ module CdekApi
       '50-11-0-245' => {
 
         code:       13551,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '3 - 6',
+        cost:       1040
 
       },
 
@@ -18357,21 +18781,12 @@ module CdekApi
       '50-33-0-3' => {
 
         code:       1710,
+        tariff:     137,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
-
-      },
-
-      # Аксаково
-      '50-19-0-3' => {
-
-        code:       13305,
-        address:    '',
-        phone:      '',
-        work_time:  '',
-        delivery:   ''
+        delivery:   '4 - 7',
+        cost:       575
 
       },
 
@@ -18379,10 +18794,12 @@ module CdekApi
       '50-0-1-135' => {
 
         code:       157,
+        tariff:     137,
         address:    'Революционный пр-кт, д.70, оф.3',
         phone:      '(4967)52-65-32',
         work_time:  'пн.-пт. 9-18, сб. 10-14',
-        delivery:   ''
+        delivery:   '4 - 7',
+        cost:       505
 
       },
 
@@ -18390,10 +18807,12 @@ module CdekApi
       '50-11-0-168' => {
 
         code:       13552,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '3 - 6',
+        cost:       1040
 
       },
 
@@ -18401,10 +18820,12 @@ module CdekApi
       '50-11-0-170' => {
 
         code:       13553,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '3 - 6',
+        cost:       1040
 
       },
 
@@ -18412,10 +18833,12 @@ module CdekApi
       '50-27-0-68' => {
 
         code:       1566,
+        tariff:     137,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '4 - 7',
+        cost:       505
 
       },
 
@@ -18423,10 +18846,12 @@ module CdekApi
       '50-11-0-174' => {
 
         code:       13554,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '3 - 6',
+        cost:       1040
 
       },
 
@@ -18434,10 +18859,12 @@ module CdekApi
       '50-32-0-34' => {
 
         code:       2782,
+        tariff:     137,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '4 - 7',
+        cost:       755
 
       },
 
@@ -18445,10 +18872,12 @@ module CdekApi
       '50-0-14-0' => {
 
         code:       1556,
+        tariff:     137,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '4 - 7',
+        cost:       755
 
       },
 
@@ -18456,10 +18885,12 @@ module CdekApi
       '50-8-0-8' => {
 
         code:       13565,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '2 - 4',
+        cost:       910
 
       },
 
@@ -18467,10 +18898,12 @@ module CdekApi
       '50-0-4-0' => {
 
         code:       1711,
+        tariff:     137,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '4 - 7',
+        cost:       505
 
       },
 
@@ -18478,10 +18911,12 @@ module CdekApi
       '50-13-0-9' => {
 
         code:       1712,
+        tariff:     137,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '4 - 7',
+        cost:       505
 
       },
 
@@ -18489,10 +18924,12 @@ module CdekApi
       '50-27-0-97' => {
 
         code:       17,
+        tariff:     137,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '4 - 7',
+        cost:       505
 
       },
 
@@ -18500,10 +18937,12 @@ module CdekApi
       '50-0-15-0' => {
 
         code:       174,
+        tariff:     137,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '4 - 7',
+        cost:       755
 
       },
 
@@ -18511,21 +18950,12 @@ module CdekApi
       '50-14-0-109' => {
 
         code:       185,
+        tariff:     137,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
-
-      },
-
-      # Ракитино
-      '50-29-0-186' => {
-
-        code:       13484,
-        address:    '',
-        phone:      '',
-        work_time:  '',
-        delivery:   ''
+        delivery:   '4 - 7',
+        cost:       505
 
       },
 
@@ -18533,10 +18963,12 @@ module CdekApi
       '50-28-0-58' => {
 
         code:       1095,
+        tariff:     137,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '4 - 7',
+        cost:       575
 
       },
 
@@ -18544,21 +18976,12 @@ module CdekApi
       '50-28-0-18' => {
 
         code:       1713,
+        tariff:     137,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
-
-      },
-
-      # Иудино
-      '50-30-0-104' => {
-
-        code:       13344,
-        address:    '',
-        phone:      '',
-        work_time:  '',
-        delivery:   ''
+        delivery:   '4 - 7',
+        cost:       575
 
       },
 
@@ -18566,10 +18989,12 @@ module CdekApi
       '50-30-0-3' => {
 
         code:       1714,
+        tariff:     137,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '4 - 7',
+        cost:       575
 
       },
 
@@ -18577,10 +19002,12 @@ module CdekApi
       '50-0-16-0' => {
 
         code:       389,
+        tariff:     137,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '4 - 7',
+        cost:       505
 
       },
 
@@ -18588,10 +19015,12 @@ module CdekApi
       '50-11-0-179' => {
 
         code:       2783,
+        tariff:     137,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '4 - 7',
+        cost:       755
 
       },
 
@@ -18599,10 +19028,12 @@ module CdekApi
       '50-11-0-11' => {
 
         code:       13459,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '3 - 6',
+        cost:       1040
 
       },
 
@@ -18610,10 +19041,12 @@ module CdekApi
       '50-33-0-24' => {
 
         code:       1715,
+        tariff:     137,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '4 - 7',
+        cost:       575
 
       },
 
@@ -18621,10 +19054,12 @@ module CdekApi
       '50-5-0-27' => {
 
         code:       13456,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '3 - 6',
+        cost:       1070
 
       },
 
@@ -18632,10 +19067,12 @@ module CdekApi
       '50-28-0-183' => {
 
         code:       1716,
+        tariff:     137,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '4 - 7',
+        cost:       505
 
       },
 
@@ -18643,10 +19080,12 @@ module CdekApi
       '50-9-15-3' => {
 
         code:       1717,
+        tariff:     137,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '4 - 7',
+        cost:       505
 
       },
 
@@ -18654,10 +19093,12 @@ module CdekApi
       '50-0-17-0' => {
 
         code:       177,
+        tariff:     137,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '4 - 7',
+        cost:       755
 
       },
 
@@ -18665,10 +19106,12 @@ module CdekApi
       '50-29-0-338' => {
 
         code:       480,
+        tariff:     137,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '4 - 7',
+        cost:       755
 
       },
 
@@ -18676,10 +19119,12 @@ module CdekApi
       '50-9-12-10' => {
 
         code:       1634,
+        tariff:     137,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '4 - 7',
+        cost:       505
 
       },
 
@@ -18687,10 +19132,12 @@ module CdekApi
       '50-14-0-112' => {
 
         code:       14322,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '2 - 4',
+        cost:       580
 
       },
 
@@ -18698,10 +19145,12 @@ module CdekApi
       '50-7-0-7' => {
 
         code:       1718,
+        tariff:     137,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '4 - 7',
+        cost:       755
 
       },
 
@@ -18709,10 +19158,12 @@ module CdekApi
       '50-40-0-56' => {
 
         code:       158,
+        tariff:     137,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '4 - 7',
+        cost:       575
 
       },
 
@@ -18720,10 +19171,12 @@ module CdekApi
       '50-11-0-188' => {
 
         code:       13555,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '3 - 6',
+        cost:       1040
 
       },
 
@@ -18731,10 +19184,12 @@ module CdekApi
       '50-20-0-54' => {
 
         code:       129,
+        tariff:     137,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '4 - 7',
+        cost:       575
 
       },
 
@@ -18742,10 +19197,12 @@ module CdekApi
       '50-30-5-0' => {
 
         code:       522,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '3 - 4',
+        cost:       710
 
       },
 
@@ -18753,10 +19210,12 @@ module CdekApi
       '50-31-0-1' => {
 
         code:       495,
+        tariff:     137,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '4 - 7',
+        cost:       755
 
       },
 
@@ -18764,10 +19223,12 @@ module CdekApi
       '50-0-28-0' => {
 
         code:       169,
+        tariff:     136,
         address:    'Московская 1-я, д.9',
         phone:      '(4967) 38-17-10',
         work_time:  'пн.-пт. 9-18, сб. 11-14',
-        delivery:   ''
+        delivery:   '4 - 6',
+        cost:       405
 
       },
 
@@ -18775,10 +19236,12 @@ module CdekApi
       '50-30-0-229' => {
 
         code:       1719,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '3 - 4',
+        cost:       710
 
       },
 
@@ -18786,21 +19249,12 @@ module CdekApi
       '50-11-0-5' => {
 
         code:       13455,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
-
-      },
-
-      # Слободка
-      '50-11-0-197' => {
-
-        code:       13556,
-        address:    '',
-        phone:      '',
-        work_time:  '',
-        delivery:   ''
+        delivery:   '3 - 6',
+        cost:       1120
 
       },
 
@@ -18808,10 +19262,12 @@ module CdekApi
       '50-33-0-8' => {
 
         code:       13452,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '3 - 6',
+        cost:       1090
 
       },
 
@@ -18819,10 +19275,12 @@ module CdekApi
       '50-9-16-0' => {
 
         code:       1720,
+        tariff:     137,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '4 - 7',
+        cost:       575
 
       },
 
@@ -18830,10 +19288,12 @@ module CdekApi
       '50-33-0-176' => {
 
         code:       479,
+        tariff:     137,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '5 - 9',
+        cost:       895
 
       },
 
@@ -18841,10 +19301,12 @@ module CdekApi
       '50-40-0-122' => {
 
         code:       114,
+        tariff:     137,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '4 - 7',
+        cost:       505
 
       },
 
@@ -18852,10 +19314,12 @@ module CdekApi
       '50-38-0-76' => {
 
         code:       466,
+        tariff:     137,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '4 - 7',
+        cost:       505
 
       },
 
@@ -18863,10 +19327,12 @@ module CdekApi
       '50-23-0-5' => {
 
         code:       2784,
+        tariff:     137,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '4 - 7',
+        cost:       755
 
       },
 
@@ -18874,10 +19340,12 @@ module CdekApi
       '50-27-0-56' => {
 
         code:       1567,
+        tariff:     137,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '4 - 7',
+        cost:       575
 
       },
 
@@ -18885,10 +19353,12 @@ module CdekApi
       '50-11-0-37' => {
 
         code:       1721,
+        tariff:     137,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '4 - 7',
+        cost:       755
 
       },
 
@@ -18896,10 +19366,12 @@ module CdekApi
       '50-21-0-53' => {
 
         code:       1555,
+        tariff:     137,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '4 - 7',
+        cost:       505
 
       },
 
@@ -18907,10 +19379,12 @@ module CdekApi
       '50-29-0-23' => {
 
         code:       1722,
+        tariff:     137,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '4 - 7',
+        cost:       755
 
       },
 
@@ -18918,10 +19392,12 @@ module CdekApi
       '50-0-20-0' => {
 
         code:       1303,
+        tariff:     137,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '4 - 7',
+        cost:       505
 
       },
 
@@ -18929,10 +19405,12 @@ module CdekApi
       '50-37-0-33' => {
 
         code:       1723,
+        tariff:     137,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '4 - 7',
+        cost:       575
 
       },
 
@@ -18940,10 +19418,12 @@ module CdekApi
       '50-11-0-209' => {
 
         code:       13557,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '3 - 6',
+        cost:       1040
 
       },
 
@@ -18951,10 +19431,12 @@ module CdekApi
       '50-26-19-0' => {
 
         code:       13983,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '2 - 4',
+        cost:       660
 
       },
 
@@ -18962,10 +19444,12 @@ module CdekApi
       '50-18-0-37' => {
 
         code:       1724,
+        tariff:     137,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '4 - 7',
+        cost:       755
 
       },
 
@@ -18973,10 +19457,12 @@ module CdekApi
       '50-34-0-233' => {
 
         code:       122,
+        tariff:     137,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '4 - 7',
+        cost:       755
 
       },
 
@@ -18984,10 +19470,12 @@ module CdekApi
       '50-0-30-8' => {
 
         code:       47,
+        tariff:     137,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '6 - 10',
+        cost:       875
 
       },
 
@@ -18995,10 +19483,12 @@ module CdekApi
       '50-3-0-54' => {
 
         code:       2785,
+        tariff:     137,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '4 - 7',
+        cost:       755
 
       },
 
@@ -19006,10 +19496,12 @@ module CdekApi
       '50-35-0-7' => {
 
         code:       477,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '3 - 4',
+        cost:       710
 
       },
 
@@ -19017,10 +19509,12 @@ module CdekApi
       '50-27-0-45' => {
 
         code:       457,
+        tariff:     137,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '4 - 7',
+        cost:       505
 
       },
 
@@ -19028,10 +19522,12 @@ module CdekApi
       '50-17-0-13' => {
 
         code:       1250,
+        tariff:     137,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '4 - 7',
+        cost:       505
 
       },
 
@@ -19039,10 +19535,12 @@ module CdekApi
       '50-0-18-0' => {
 
         code:       510,
+        tariff:     137,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '4 - 7',
+        cost:       505
 
       },
 
@@ -19050,10 +19548,12 @@ module CdekApi
       '50-18-0-10' => {
 
         code:       1725,
+        tariff:     137,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '4 - 7',
+        cost:       755
 
       },
 
@@ -19061,10 +19561,12 @@ module CdekApi
       '50-11-0-225' => {
 
         code:       13558,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '3 - 6',
+        cost:       1120
 
       },
 
@@ -19072,10 +19574,12 @@ module CdekApi
       '50-29-0-225' => {
 
         code:       1568,
+        tariff:     137,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '4 - 7',
+        cost:       755
 
       },
 
@@ -19083,10 +19587,12 @@ module CdekApi
       '50-18-0-22' => {
 
         code:       1569,
+        tariff:     137,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '4 - 7',
+        cost:       755
 
       },
 
@@ -19094,10 +19600,12 @@ module CdekApi
       '50-28-0-219' => {
 
         code:       1726,
+        tariff:     137,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '4 - 7',
+        cost:       505
 
       },
 
@@ -19105,10 +19613,12 @@ module CdekApi
       '50-22-0-76' => {
 
         code:       13116,
+        tariff:     137,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '4 - 7',
+        cost:       505
 
       },
 
@@ -19116,10 +19626,12 @@ module CdekApi
       '50-2-0-4' => {
 
         code:       1727,
+        tariff:     137,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '4 - 7',
+        cost:       505
 
       },
 
@@ -19127,10 +19639,12 @@ module CdekApi
       '50-9-9-21' => {
 
         code:       13559,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '3 - 6',
+        cost:       1040
 
       },
 
@@ -19138,10 +19652,12 @@ module CdekApi
       '50-0-19-0' => {
 
         code:       76,
+        tariff:     137,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '4 - 7',
+        cost:       575
 
       },
 
@@ -19149,10 +19665,12 @@ module CdekApi
       '50-40-0-2' => {
 
         code:       1728,
+        tariff:     137,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '4 - 7',
+        cost:       755
 
       },
 
@@ -19160,10 +19678,12 @@ module CdekApi
       '50-0-30-0' => {
 
         code:       45,
+        tariff:     136,
         address:    'Горшина ул., д.2',
         phone:      '8-925-240-27-50, 8-916-565-55-83',
         work_time:  'пн.-пт. 09.30-18.30, сб. 10.00-14.00',
-        delivery:   ''
+        delivery:   '4 - 6',
+        cost:       405
 
       },
 
@@ -19171,10 +19691,12 @@ module CdekApi
       '50-11-0-228' => {
 
         code:       13560,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '3 - 6',
+        cost:       1120
 
       },
 
@@ -19182,10 +19704,12 @@ module CdekApi
       '50-4-0-19' => {
 
         code:       1729,
+        tariff:     137,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '4 - 7',
+        cost:       755
 
       },
 
@@ -19193,10 +19717,12 @@ module CdekApi
       '50-30-0-162' => {
 
         code:       966,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '3 - 4',
+        cost:       710
 
       },
 
@@ -19204,10 +19730,12 @@ module CdekApi
       '50-11-0-230' => {
 
         code:       13561,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '3 - 6',
+        cost:       1040
 
       },
 
@@ -19215,10 +19743,12 @@ module CdekApi
       '50-33-0-160' => {
 
         code:       950,
+        tariff:     137,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '4 - 7',
+        cost:       575
 
       },
 
@@ -19226,10 +19756,12 @@ module CdekApi
       '50-19-0-89' => {
 
         code:       1730,
+        tariff:     137,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '4 - 7',
+        cost:       505
 
       },
 
@@ -19237,10 +19769,12 @@ module CdekApi
       '50-12-0-38' => {
 
         code:       2787,
+        tariff:     137,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '4 - 7',
+        cost:       755
 
       },
 
@@ -19248,10 +19782,12 @@ module CdekApi
       '50-27-0-87' => {
 
         code:       2786,
+        tariff:     137,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '4 - 7',
+        cost:       505
 
       },
 
@@ -19259,10 +19795,12 @@ module CdekApi
       '50-33-0-23' => {
 
         code:       1385,
+        tariff:     137,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '4 - 7',
+        cost:       505
 
       },
 
@@ -19270,10 +19808,12 @@ module CdekApi
       '50-21-0-9' => {
 
         code:       171,
+        tariff:     137,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '4 - 7',
+        cost:       755
 
       },
 
@@ -19281,10 +19821,12 @@ module CdekApi
       '50-38-0-139' => {
 
         code:       1731,
+        tariff:     137,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '4 - 7',
+        cost:       755
 
       },
 
@@ -19292,10 +19834,12 @@ module CdekApi
       '50-37-0-109' => {
 
         code:       412,
+        tariff:     137,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '4 - 7',
+        cost:       755
 
       },
 
@@ -19303,10 +19847,12 @@ module CdekApi
       '50-0-1-161' => {
 
         code:       1732,
+        tariff:     137,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '4 - 7',
+        cost:       540
 
       },
 
@@ -19314,10 +19860,12 @@ module CdekApi
       '50-22-0-2' => {
 
         code:       3179,
+        tariff:     137,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '4 - 7',
+        cost:       755
 
       },
 
@@ -19325,10 +19873,12 @@ module CdekApi
       '50-37-0-4' => {
 
         code:       3181,
+        tariff:     137,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '4 - 7',
+        cost:       755
 
       },
 
@@ -19336,10 +19886,12 @@ module CdekApi
       '50-38-0-2' => {
 
         code:       3182,
+        tariff:     137,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '4 - 7',
+        cost:       755
 
       },
 
@@ -19347,10 +19899,12 @@ module CdekApi
       '50-20-0-283' => {
 
         code:       3232,
+        tariff:     137,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '4 - 8',
+        cost:       795
 
       },
 
@@ -19358,10 +19912,12 @@ module CdekApi
       '50-26-0-208' => {
 
         code:       3180,
+        tariff:     137,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '4 - 7',
+        cost:       575
 
       },
 
@@ -19369,10 +19925,12 @@ module CdekApi
       '50-30-0-2' => {
 
         code:       3178,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '2 - 4',
+        cost:       910
 
       },
 
@@ -19380,10 +19938,12 @@ module CdekApi
       '50-38-0-1' => {
 
         code:       489,
+        tariff:     137,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '4 - 7',
+        cost:       755
 
       },
 
@@ -19391,10 +19951,12 @@ module CdekApi
       '50-39-0-1' => {
 
         code:       485,
+        tariff:     137,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '4 - 7',
+        cost:       755
 
       },
 
@@ -19402,10 +19964,12 @@ module CdekApi
       '50-11-0-12' => {
 
         code:       13453,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '3 - 6',
+        cost:       1070
 
       },
 
@@ -19413,10 +19977,12 @@ module CdekApi
       '50-12-0-14' => {
 
         code:       517,
+        tariff:     137,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '4 - 7',
+        cost:       505
 
       },
 
@@ -19424,10 +19990,12 @@ module CdekApi
       '50-11-0-237' => {
 
         code:       13562,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '3 - 6',
+        cost:       1040
 
       },
 
@@ -19435,10 +20003,12 @@ module CdekApi
       '50-40-1-0' => {
 
         code:       493,
+        tariff:     137,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '4 - 7',
+        cost:       505
 
       },
 
@@ -19446,10 +20016,12 @@ module CdekApi
       '50-21-0-107' => {
 
         code:       1734,
+        tariff:     137,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '4 - 7',
+        cost:       505
 
       },
 
@@ -19457,10 +20029,12 @@ module CdekApi
       '50-0-20-0' => {
 
         code:       162,
+        tariff:     137,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '4 - 7',
+        cost:       505
 
       },
 
@@ -19468,10 +20042,12 @@ module CdekApi
       '50-0-33-0' => {
 
         code:       1319,
+        tariff:     137,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '4 - 7',
+        cost:       755
 
       },
 
@@ -19479,10 +20055,12 @@ module CdekApi
       '50-0-21-0' => {
 
         code:       168,
+        tariff:     137,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '4 - 7',
+        cost:       575
 
       },
 
@@ -19490,10 +20068,12 @@ module CdekApi
       '50-21-0-26' => {
 
         code:       1557,
+        tariff:     137,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '4 - 7',
+        cost:       505
 
       },
 
@@ -19501,10 +20081,12 @@ module CdekApi
       '50-0-9-0' => {
 
         code:       311,
+        tariff:     137,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '4 - 7',
+        cost:       505
 
       },
 
@@ -19512,10 +20094,12 @@ module CdekApi
       '50-0-1-127' => {
 
         code:       1735,
+        tariff:     137,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '4 - 7',
+        cost:       505
 
       },
 
@@ -19523,10 +20107,12 @@ module CdekApi
       '50-11-0-170' => {
 
         code:       13450,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '3 - 6',
+        cost:       1040
 
       },
 
@@ -19534,10 +20120,12 @@ module CdekApi
       '50-5-0-44' => {
 
         code:       40,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '3 - 4',
+        cost:       710
 
       },
 
@@ -19545,10 +20133,12 @@ module CdekApi
       '51-0-1-0' => {
 
         code:       2793,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '6 - 9',
+        cost:       1505
 
       },
 
@@ -19556,10 +20146,12 @@ module CdekApi
       '51-0-2-0' => {
 
         code:       989,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '9 - 12',
+        cost:       1755
 
       },
 
@@ -19567,10 +20159,12 @@ module CdekApi
       '51-0-9-2' => {
 
         code:       13621,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '9 - 12',
+        cost:       1755
 
       },
 
@@ -19578,10 +20172,12 @@ module CdekApi
       '51-0-12-0' => {
 
         code:       2798,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '9 - 12',
+        cost:       1630
 
       },
 
@@ -19589,10 +20185,12 @@ module CdekApi
       '51-0-3-0' => {
 
         code:       2799,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '9 - 12',
+        cost:       1630
 
       },
 
@@ -19600,10 +20198,12 @@ module CdekApi
       '51-5-2-0' => {
 
         code:       401,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '9 - 12',
+        cost:       1755
 
       },
 
@@ -19611,10 +20211,12 @@ module CdekApi
       '51-3-0-15' => {
 
         code:       2794,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '6 - 9',
+        cost:       1505
 
       },
 
@@ -19622,10 +20224,12 @@ module CdekApi
       '51-0-4-0' => {
 
         code:       2803,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '9 - 12',
+        cost:       1755
 
       },
 
@@ -19633,10 +20237,12 @@ module CdekApi
       '51-3-0-14' => {
 
         code:       2795,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '6 - 9',
+        cost:       1505
 
       },
 
@@ -19644,10 +20250,12 @@ module CdekApi
       '51-0-5-0' => {
 
         code:       2804,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '9 - 12',
+        cost:       1755
 
       },
 
@@ -19655,10 +20263,12 @@ module CdekApi
       '51-2-1-0' => {
 
         code:       191,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '9 - 12',
+        cost:       1755
 
       },
 
@@ -19666,10 +20276,12 @@ module CdekApi
       '51-3-1-0' => {
 
         code:       1758,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '6 - 9',
+        cost:       1505
 
       },
 
@@ -19677,10 +20289,12 @@ module CdekApi
       '51-3-0-26' => {
 
         code:       14259,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '6 - 9',
+        cost:       1505
 
       },
 
@@ -19688,10 +20302,12 @@ module CdekApi
       '51-0-6-0' => {
 
         code:       987,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '9 - 12',
+        cost:       1755
 
       },
 
@@ -19699,10 +20315,12 @@ module CdekApi
       '51-0-1-0' => {
 
         code:       265,
+        tariff:     136,
         address:    'Ленина пр-кт, д.3 , оф.13',
         phone:      '(8152)701-781, 701-957',
         work_time:  'пн.-пт. 9-18',
-        delivery:   ''
+        delivery:   '5 - 7',
+        cost:       415
 
       },
 
@@ -19710,10 +20328,12 @@ module CdekApi
       '51-3-0-23' => {
 
         code:       1324,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '6 - 9',
+        cost:       1505
 
       },
 
@@ -19721,10 +20341,12 @@ module CdekApi
       '51-5-0-1' => {
 
         code:       2800,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '9 - 12',
+        cost:       1755
 
       },
 
@@ -19732,10 +20354,12 @@ module CdekApi
       '51-0-6-0' => {
 
         code:       2801,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '9 - 12',
+        cost:       1630
 
       },
 
@@ -19743,10 +20367,12 @@ module CdekApi
       '51-5-0-5' => {
 
         code:       2802,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '9 - 12',
+        cost:       1755
 
       },
 
@@ -19754,10 +20380,12 @@ module CdekApi
       '51-0-9-0' => {
 
         code:       2805,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '9 - 12',
+        cost:       1755
 
       },
 
@@ -19765,10 +20393,12 @@ module CdekApi
       '51-0-10-0' => {
 
         code:       2796,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '9 - 12',
+        cost:       1630
 
       },
 
@@ -19776,10 +20406,12 @@ module CdekApi
       '51-4-0-5' => {
 
         code:       13332,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '9 - 12',
+        cost:       1630
 
       },
 
@@ -19787,10 +20419,12 @@ module CdekApi
       '51-0-1-0' => {
 
         code:       13623,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '9 - 12',
+        cost:       1630
 
       },
 
@@ -19798,10 +20432,12 @@ module CdekApi
       '51-0-1-0' => {
 
         code:       2382,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '6 - 9',
+        cost:       1630
 
       },
 
@@ -19809,10 +20445,12 @@ module CdekApi
       '51-0-11-0' => {
 
         code:       13624,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '9 - 12',
+        cost:       1630
 
       },
 
@@ -19820,10 +20458,12 @@ module CdekApi
       '51-0-13-0' => {
 
         code:       2797,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '9 - 12',
+        cost:       1630
 
       },
 
@@ -19831,10 +20471,12 @@ module CdekApi
       '83-0-1-3' => {
 
         code:       1657,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '9 - 14',
+        cost:       1460
 
       },
 
@@ -19842,10 +20484,12 @@ module CdekApi
       '83-0-0-5' => {
 
         code:       943,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '7 - 9',
+        cost:       1090
 
       },
 
@@ -19853,10 +20497,12 @@ module CdekApi
       '52-2-0-1' => {
 
         code:       1883,
+        tariff:     137,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '7 - 10',
+        cost:       1495
 
       },
 
@@ -19864,10 +20510,12 @@ module CdekApi
       '52-0-4-0' => {
 
         code:       1002,
+        tariff:     137,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '7 - 10',
+        cost:       1080
 
       },
 
@@ -19875,10 +20523,12 @@ module CdekApi
       '52-45-0-5' => {
 
         code:       13625,
+        tariff:     137,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '7 - 10',
+        cost:       1855
 
       },
 
@@ -19886,10 +20536,12 @@ module CdekApi
       '52-0-1-0' => {
 
         code:       13229,
+        tariff:     137,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '5 - 8',
+        cost:       755
 
       },
 
@@ -19897,10 +20549,12 @@ module CdekApi
       '52-4-0-11' => {
 
         code:       1000,
+        tariff:     137,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '5 - 8',
+        cost:       755
 
       },
 
@@ -19908,10 +20562,12 @@ module CdekApi
       '52-0-1-36' => {
 
         code:       13226,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '5 - 7',
+        cost:       1515
 
       },
 
@@ -19919,10 +20575,12 @@ module CdekApi
       '52-5-0-15' => {
 
         code:       1008,
+        tariff:     137,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '6 - 9',
+        cost:       1005
 
       },
 
@@ -19930,10 +20588,12 @@ module CdekApi
       '52-27-0-9' => {
 
         code:       13387,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '4 - 6',
+        cost:       1190
 
       },
 
@@ -19941,10 +20601,12 @@ module CdekApi
       '52-6-0-1' => {
 
         code:       1884,
+        tariff:     137,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '7 - 10',
+        cost:       1855
 
       },
 
@@ -19952,10 +20614,12 @@ module CdekApi
       '52-4-0-4' => {
 
         code:       13228,
+        tariff:     137,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '6 - 9',
+        cost:       755
 
       },
 
@@ -19963,10 +20627,12 @@ module CdekApi
       '52-7-0-1' => {
 
         code:       1885,
+        tariff:     137,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '7 - 10',
+        cost:       1080
 
       },
 
@@ -19974,10 +20640,12 @@ module CdekApi
       '52-0-5-0' => {
 
         code:       1004,
+        tariff:     137,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '7 - 10',
+        cost:       755
 
       },
 
@@ -19985,10 +20653,12 @@ module CdekApi
       '52-9-0-1' => {
 
         code:       1886,
+        tariff:     137,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '7 - 10',
+        cost:       1280
 
       },
 
@@ -19996,10 +20666,12 @@ module CdekApi
       '52-10-0-1' => {
 
         code:       1887,
+        tariff:     137,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '7 - 10',
+        cost:       1080
 
       },
 
@@ -20007,10 +20679,12 @@ module CdekApi
       '52-11-0-1' => {
 
         code:       1888,
+        tariff:     137,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '7 - 10',
+        cost:       1495
 
       },
 
@@ -20018,10 +20692,12 @@ module CdekApi
       '52-15-0-10' => {
 
         code:       1892,
+        tariff:     137,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '7 - 10',
+        cost:       1495
 
       },
 
@@ -20029,10 +20705,12 @@ module CdekApi
       '52-49-0-18' => {
 
         code:       13626,
+        tariff:     137,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '7 - 10',
+        cost:       1855
 
       },
 
@@ -20040,10 +20718,12 @@ module CdekApi
       '52-12-0-1' => {
 
         code:       1010,
+        tariff:     137,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '7 - 10',
+        cost:       1080
 
       },
 
@@ -20051,10 +20731,12 @@ module CdekApi
       '52-13-0-3' => {
 
         code:       1889,
+        tariff:     137,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '7 - 10',
+        cost:       1855
 
       },
 
@@ -20062,10 +20744,12 @@ module CdekApi
       '52-25-0-15' => {
 
         code:       13627,
+        tariff:     137,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '7 - 10',
+        cost:       1495
 
       },
 
@@ -20073,10 +20757,12 @@ module CdekApi
       '52-18-0-5' => {
 
         code:       13628,
+        tariff:     137,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '7 - 10',
+        cost:       1495
 
       },
 
@@ -20084,10 +20770,12 @@ module CdekApi
       '52-14-0-1' => {
 
         code:       1890,
+        tariff:     137,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '7 - 10',
+        cost:       1855
 
       },
 
@@ -20095,10 +20783,12 @@ module CdekApi
       '52-16-1-0' => {
 
         code:       541,
+        tariff:     137,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '7 - 10',
+        cost:       1005
 
       },
 
@@ -20106,10 +20796,12 @@ module CdekApi
       '52-15-0-1' => {
 
         code:       1891,
+        tariff:     137,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '7 - 10',
+        cost:       1280
 
       },
 
@@ -20117,10 +20809,12 @@ module CdekApi
       '52-32-0-24' => {
 
         code:       1215,
+        tariff:     137,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '7 - 10',
+        cost:       1080
 
       },
 
@@ -20128,10 +20822,12 @@ module CdekApi
       '52-17-0-1' => {
 
         code:       1893,
+        tariff:     137,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '7 - 10',
+        cost:       1280
 
       },
 
@@ -20139,10 +20835,12 @@ module CdekApi
       '52-3-0-13' => {
 
         code:       13629,
+        tariff:     137,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '7 - 10',
+        cost:       1080
 
       },
 
@@ -20150,10 +20848,12 @@ module CdekApi
       '52-18-1-0' => {
 
         code:       1014,
+        tariff:     137,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '7 - 10',
+        cost:       1495
 
       },
 
@@ -20161,10 +20861,12 @@ module CdekApi
       '52-19-0-1' => {
 
         code:       1894,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '5 - 7',
+        cost:       1930
 
       },
 
@@ -20172,10 +20874,12 @@ module CdekApi
       '52-4-0-11' => {
 
         code:       13630,
+        tariff:     137,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '6 - 9',
+        cost:       755
 
       },
 
@@ -20183,10 +20887,12 @@ module CdekApi
       '52-32-0-20' => {
 
         code:       13631,
+        tariff:     137,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '7 - 10',
+        cost:       1080
 
       },
 
@@ -20194,10 +20900,12 @@ module CdekApi
       '52-20-0-175' => {
 
         code:       1005,
+        tariff:     137,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '7 - 10',
+        cost:       1005
 
       },
 
@@ -20205,10 +20913,12 @@ module CdekApi
       '52-21-0-1' => {
 
         code:       1006,
+        tariff:     137,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '7 - 10',
+        cost:       1080
 
       },
 
@@ -20216,10 +20926,12 @@ module CdekApi
       '52-0-2-0' => {
 
         code:       863,
+        tariff:     137,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '6 - 9',
+        cost:       755
 
       },
 
@@ -20227,10 +20939,12 @@ module CdekApi
       '52-22-0-1' => {
 
         code:       1895,
+        tariff:     137,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '7 - 10',
+        cost:       1495
 
       },
 
@@ -20238,10 +20952,12 @@ module CdekApi
       '52-27-0-27' => {
 
         code:       2806,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '3 - 5',
+        cost:       1190
 
       },
 
@@ -20249,10 +20965,12 @@ module CdekApi
       '52-27-0-31' => {
 
         code:       13231,
+        tariff:     137,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '5 - 8',
+        cost:       755
 
       },
 
@@ -20260,10 +20978,12 @@ module CdekApi
       '52-0-2-4' => {
 
         code:       2807,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '5 - 7',
+        cost:       1440
 
       },
 
@@ -20271,10 +20991,12 @@ module CdekApi
       '52-20-2-0' => {
 
         code:       1007,
+        tariff:     137,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '7 - 10',
+        cost:       1005
 
       },
 
@@ -20282,10 +21004,12 @@ module CdekApi
       '52-0-1-4' => {
 
         code:       13632,
+        tariff:     137,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '6 - 9',
+        cost:       755
 
       },
 
@@ -20293,10 +21017,12 @@ module CdekApi
       '52-16-0-8' => {
 
         code:       2808,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '5 - 7',
+        cost:       1440
 
       },
 
@@ -20304,10 +21030,12 @@ module CdekApi
       '52-16-0-7' => {
 
         code:       2809,
+        tariff:     137,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '7 - 10',
+        cost:       1080
 
       },
 
@@ -20315,10 +21043,12 @@ module CdekApi
       '52-29-0-13' => {
 
         code:       13633,
+        tariff:     137,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '7 - 10',
+        cost:       1495
 
       },
 
@@ -20326,10 +21056,12 @@ module CdekApi
       '52-23-0-4' => {
 
         code:       1896,
+        tariff:     137,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '7 - 10',
+        cost:       1080
 
       },
 
@@ -20337,10 +21069,12 @@ module CdekApi
       '52-24-0-1' => {
 
         code:       1897,
+        tariff:     137,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '7 - 10',
+        cost:       1080
 
       },
 
@@ -20348,10 +21082,12 @@ module CdekApi
       '52-25-0-1' => {
 
         code:       1898,
+        tariff:     137,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '7 - 10',
+        cost:       1280
 
       },
 
@@ -20359,10 +21095,12 @@ module CdekApi
       '52-27-0-12' => {
 
         code:       1001,
+        tariff:     137,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '6 - 9',
+        cost:       755
 
       },
 
@@ -20370,10 +21108,12 @@ module CdekApi
       '52-5-0-57' => {
 
         code:       2810,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '3 - 5',
+        cost:       1190
 
       },
 
@@ -20381,10 +21121,12 @@ module CdekApi
       '52-28-0-14' => {
 
         code:       1013,
+        tariff:     137,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '7 - 10',
+        cost:       1495
 
       },
 
@@ -20392,10 +21134,12 @@ module CdekApi
       '52-48-0-31' => {
 
         code:       13634,
+        tariff:     137,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '7 - 10',
+        cost:       1495
 
       },
 
@@ -20403,10 +21147,12 @@ module CdekApi
       '52-9-0-11' => {
 
         code:       1899,
+        tariff:     137,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '7 - 10',
+        cost:       1495
 
       },
 
@@ -20414,10 +21160,12 @@ module CdekApi
       '52-30-0-15' => {
 
         code:       1003,
+        tariff:     137,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '7 - 10',
+        cost:       1080
 
       },
 
@@ -20425,10 +21173,12 @@ module CdekApi
       '52-4-0-28' => {
 
         code:       13635,
+        tariff:     137,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '6 - 9',
+        cost:       755
 
       },
 
@@ -20436,10 +21186,12 @@ module CdekApi
       '52-2-0-45' => {
 
         code:       13636,
+        tariff:     137,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '7 - 10',
+        cost:       1495
 
       },
 
@@ -20447,10 +21199,12 @@ module CdekApi
       '52-31-0-4' => {
 
         code:       1012,
+        tariff:     137,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '7 - 10',
+        cost:       1495
 
       },
 
@@ -20458,10 +21212,12 @@ module CdekApi
       '52-0-1-0' => {
 
         code:       414,
+        tariff:     136,
         address:    'Норильская ул, д.6',
         phone:      '',
         work_time:  'пн.-пт. 9-18, сб. 10-14',
-        delivery:   ''
+        delivery:   '4 - 6',
+        cost:       335
 
       },
 
@@ -20469,10 +21225,12 @@ module CdekApi
       '52-0-1-31' => {
 
         code:       13225,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '5 - 7',
+        cost:       1515
 
       },
 
@@ -20480,10 +21238,12 @@ module CdekApi
       '52-0-1-23' => {
 
         code:       13224,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '3 - 5',
+        cost:       1190
 
       },
 
@@ -20491,10 +21251,12 @@ module CdekApi
       '52-32-0-3' => {
 
         code:       1009,
+        tariff:     137,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '7 - 10',
+        cost:       1080
 
       },
 
@@ -20502,10 +21264,12 @@ module CdekApi
       '52-4-0-2' => {
 
         code:       13637,
+        tariff:     137,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '6 - 9',
+        cost:       755
 
       },
 
@@ -20513,10 +21277,12 @@ module CdekApi
       '52-33-0-3' => {
 
         code:       1900,
+        tariff:     137,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '7 - 10',
+        cost:       1495
 
       },
 
@@ -20524,10 +21290,12 @@ module CdekApi
       '52-34-0-27' => {
 
         code:       1901,
+        tariff:     137,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '7 - 10',
+        cost:       1080
 
       },
 
@@ -20535,10 +21303,12 @@ module CdekApi
       '52-44-0-37' => {
 
         code:       13638,
+        tariff:     137,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '7 - 10',
+        cost:       1855
 
       },
 
@@ -20546,10 +21316,12 @@ module CdekApi
       '52-35-0-1' => {
 
         code:       1015,
+        tariff:     137,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '7 - 10',
+        cost:       1495
 
       },
 
@@ -20557,10 +21329,12 @@ module CdekApi
       '52-36-0-55' => {
 
         code:       1902,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '3 - 5',
+        cost:       1190
 
       },
 
@@ -20568,10 +21342,12 @@ module CdekApi
       '52-0-2-5' => {
 
         code:       13639,
+        tariff:     137,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '7 - 10',
+        cost:       1005
 
       },
 
@@ -20579,10 +21355,12 @@ module CdekApi
       '52-16-0-21' => {
 
         code:       2374,
+        tariff:     137,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '7 - 10',
+        cost:       1005
 
       },
 
@@ -20590,10 +21368,12 @@ module CdekApi
       '52-27-0-9' => {
 
         code:       13230,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '5 - 7',
+        cost:       1190
 
       },
 
@@ -20601,10 +21381,12 @@ module CdekApi
       '52-0-3-0' => {
 
         code:       1231,
+        tariff:     137,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '7 - 10',
+        cost:       1495
 
       },
 
@@ -20612,10 +21394,12 @@ module CdekApi
       '52-33-0-48' => {
 
         code:       13640,
+        tariff:     137,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '7 - 10',
+        cost:       1495
 
       },
 
@@ -20623,10 +21407,12 @@ module CdekApi
       '52-0-6-0' => {
 
         code:       1903,
+        tariff:     137,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '7 - 10',
+        cost:       1080
 
       },
 
@@ -20634,10 +21420,12 @@ module CdekApi
       '52-38-0-3' => {
 
         code:       1904,
+        tariff:     137,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '7 - 10',
+        cost:       1495
 
       },
 
@@ -20645,10 +21433,12 @@ module CdekApi
       '52-39-0-1' => {
 
         code:       1905,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '5 - 7',
+        cost:       1515
 
       },
 
@@ -20656,10 +21446,12 @@ module CdekApi
       '52-16-0-22' => {
 
         code:       13641,
+        tariff:     137,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '7 - 10',
+        cost:       1005
 
       },
 
@@ -20667,10 +21459,12 @@ module CdekApi
       '52-40-0-1' => {
 
         code:       1906,
+        tariff:     137,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '7 - 10',
+        cost:       1280
 
       },
 
@@ -20678,10 +21472,12 @@ module CdekApi
       '52-0-1-33' => {
 
         code:       13223,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '3 - 5',
+        cost:       1190
 
       },
 
@@ -20689,10 +21485,12 @@ module CdekApi
       '52-41-0-1' => {
 
         code:       1011,
+        tariff:     137,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '7 - 10',
+        cost:       1080
 
       },
 
@@ -20700,10 +21498,12 @@ module CdekApi
       '52-42-0-1' => {
 
         code:       1907,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '5 - 7',
+        cost:       1190
 
       },
 
@@ -20711,10 +21511,12 @@ module CdekApi
       '52-0-6-4' => {
 
         code:       13642,
+        tariff:     137,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '7 - 10',
+        cost:       1280
 
       },
 
@@ -20722,10 +21524,12 @@ module CdekApi
       '52-49-0-103' => {
 
         code:       13643,
+        tariff:     137,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '7 - 10',
+        cost:       1855
 
       },
 
@@ -20733,10 +21537,12 @@ module CdekApi
       '52-43-0-1' => {
 
         code:       1908,
+        tariff:     137,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '7 - 10',
+        cost:       1855
 
       },
 
@@ -20744,10 +21550,12 @@ module CdekApi
       '52-44-0-1' => {
 
         code:       1909,
+        tariff:     137,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '7 - 10',
+        cost:       1855
 
       },
 
@@ -20755,10 +21563,12 @@ module CdekApi
       '52-32-0-6' => {
 
         code:       13644,
+        tariff:     137,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '7 - 10',
+        cost:       1080
 
       },
 
@@ -20766,10 +21576,12 @@ module CdekApi
       '52-26-0-1' => {
 
         code:       1910,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '4 - 6',
+        cost:       1180
 
       },
 
@@ -20777,10 +21589,12 @@ module CdekApi
       '52-45-0-4' => {
 
         code:       1911,
+        tariff:     137,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '7 - 10',
+        cost:       1855
 
       },
 
@@ -20788,10 +21602,12 @@ module CdekApi
       '52-0-1-4' => {
 
         code:       13056,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '4 - 6',
+        cost:       1190
 
       },
 
@@ -20799,10 +21615,12 @@ module CdekApi
       '52-0-1-19' => {
 
         code:       13227,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '3 - 5',
+        cost:       1190
 
       },
 
@@ -20810,10 +21628,12 @@ module CdekApi
       '52-46-0-3' => {
 
         code:       1912,
+        tariff:     137,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '7 - 10',
+        cost:       1080
 
       },
 
@@ -20821,10 +21641,12 @@ module CdekApi
       '52-47-0-1' => {
 
         code:       1913,
+        tariff:     137,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '7 - 10',
+        cost:       1855
 
       },
 
@@ -20832,10 +21654,12 @@ module CdekApi
       '52-48-0-1' => {
 
         code:       1914,
+        tariff:     137,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '7 - 10',
+        cost:       1280
 
       },
 
@@ -20843,10 +21667,12 @@ module CdekApi
       '52-49-0-2' => {
 
         code:       420,
+        tariff:     137,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '7 - 10',
+        cost:       1855
 
       },
 
@@ -20854,10 +21680,12 @@ module CdekApi
       '52-16-0-34' => {
 
         code:       13645,
+        tariff:     137,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '7 - 10',
+        cost:       1005
 
       },
 
@@ -20865,10 +21693,12 @@ module CdekApi
       '53-2-0-1' => {
 
         code:       2811,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '5 - 7',
+        cost:       1300
 
       },
 
@@ -20876,10 +21706,12 @@ module CdekApi
       '53-3-1-0' => {
 
         code:       2358,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '5 - 7',
+        cost:       1300
 
       },
 
@@ -20887,10 +21719,12 @@ module CdekApi
       '53-4-0-156' => {
 
         code:       2812,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '5 - 7',
+        cost:       1300
 
       },
 
@@ -20898,10 +21732,12 @@ module CdekApi
       '53-0-1-0' => {
 
         code:       139,
+        tariff:     136,
         address:    'Санкт-петербургская б., д.39 стр 14, оф.1',
         phone:      '(8162) 22-44-40',
         work_time:  'пн.-пт. 9-18',
-        delivery:   ''
+        delivery:   '4 - 6',
+        cost:       335
 
       },
 
@@ -20909,10 +21745,12 @@ module CdekApi
       '53-5-0-1' => {
 
         code:       2813,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '5 - 7',
+        cost:       1300
 
       },
 
@@ -20920,10 +21758,12 @@ module CdekApi
       '53-6-0-1' => {
 
         code:       2814,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '5 - 7',
+        cost:       1300
 
       },
 
@@ -20931,10 +21771,12 @@ module CdekApi
       '53-7-0-1' => {
 
         code:       2815,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '5 - 7',
+        cost:       1300
 
       },
 
@@ -20942,10 +21784,12 @@ module CdekApi
       '53-8-0-1' => {
 
         code:       2816,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '5 - 7',
+        cost:       1300
 
       },
 
@@ -20953,10 +21797,12 @@ module CdekApi
       '53-9-0-17' => {
 
         code:       2817,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '5 - 7',
+        cost:       1300
 
       },
 
@@ -20964,10 +21810,12 @@ module CdekApi
       '53-10-0-1' => {
 
         code:       2818,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '5 - 7',
+        cost:       1300
 
       },
 
@@ -20975,10 +21823,12 @@ module CdekApi
       '53-11-0-1' => {
 
         code:       2819,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '5 - 7',
+        cost:       1300
 
       },
 
@@ -20986,10 +21836,12 @@ module CdekApi
       '53-12-0-8' => {
 
         code:       2820,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '5 - 7',
+        cost:       1300
 
       },
 
@@ -20997,10 +21849,12 @@ module CdekApi
       '53-13-0-1' => {
 
         code:       2821,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '5 - 7',
+        cost:       1300
 
       },
 
@@ -21008,10 +21862,12 @@ module CdekApi
       '53-14-0-21' => {
 
         code:       2822,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '5 - 7',
+        cost:       1300
 
       },
 
@@ -21019,10 +21875,12 @@ module CdekApi
       '53-15-0-1' => {
 
         code:       2823,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '5 - 7',
+        cost:       1300
 
       },
 
@@ -21030,10 +21888,12 @@ module CdekApi
       '53-16-0-23' => {
 
         code:       2824,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '5 - 7',
+        cost:       1300
 
       },
 
@@ -21041,10 +21901,12 @@ module CdekApi
       '53-17-0-88' => {
 
         code:       2825,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '5 - 7',
+        cost:       1300
 
       },
 
@@ -21052,10 +21914,12 @@ module CdekApi
       '53-18-0-1' => {
 
         code:       2826,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '5 - 7',
+        cost:       1300
 
       },
 
@@ -21063,10 +21927,12 @@ module CdekApi
       '53-19-0-5' => {
 
         code:       2827,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '5 - 7',
+        cost:       1300
 
       },
 
@@ -21074,10 +21940,12 @@ module CdekApi
       '53-20-0-4' => {
 
         code:       2390,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '5 - 7',
+        cost:       1300
 
       },
 
@@ -21085,10 +21953,12 @@ module CdekApi
       '53-21-0-1' => {
 
         code:       2828,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '5 - 7',
+        cost:       1300
 
       },
 
@@ -21096,10 +21966,12 @@ module CdekApi
       '54-2-0-25' => {
 
         code:       1961,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '4 - 7',
+        cost:       800
 
       },
 
@@ -21107,10 +21979,12 @@ module CdekApi
       '54-9-0-24' => {
 
         code:       1962,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '4 - 7',
+        cost:       800
 
       },
 
@@ -21118,10 +21992,12 @@ module CdekApi
       '54-6-0-2' => {
 
         code:       737,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '4 - 7',
+        cost:       800
 
       },
 
@@ -21129,10 +22005,12 @@ module CdekApi
       '54-19-0-2' => {
 
         code:       1963,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '4 - 7',
+        cost:       800
 
       },
 
@@ -21140,10 +22018,12 @@ module CdekApi
       '54-0-4-0' => {
 
         code:       745,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '4 - 7',
+        cost:       800
 
       },
 
@@ -21151,10 +22031,12 @@ module CdekApi
       '54-1-0-17' => {
 
         code:       1747,
+        tariff:     137,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '7 - 11',
+        cost:       665
 
       },
 
@@ -21162,10 +22044,12 @@ module CdekApi
       '54-0-6-0' => {
 
         code:       1964,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '4 - 7',
+        cost:       800
 
       },
 
@@ -21173,10 +22057,12 @@ module CdekApi
       '54-0-2-0' => {
 
         code:       728,
+        tariff:     137,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '6 - 9',
+        cost:       405
 
       },
 
@@ -21184,10 +22070,12 @@ module CdekApi
       '54-21-0-5' => {
 
         code:       1965,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '4 - 7',
+        cost:       800
 
       },
 
@@ -21195,10 +22083,12 @@ module CdekApi
       '54-4-1-0' => {
 
         code:       733,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '4 - 7',
+        cost:       800
 
       },
 
@@ -21206,10 +22096,12 @@ module CdekApi
       '54-8-0-8' => {
 
         code:       1966,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '4 - 7',
+        cost:       800
 
       },
 
@@ -21217,10 +22109,12 @@ module CdekApi
       '54-12-0-15' => {
 
         code:       1967,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '4 - 7',
+        cost:       800
 
       },
 
@@ -21228,10 +22122,12 @@ module CdekApi
       '54-5-0-1' => {
 
         code:       753,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '4 - 7',
+        cost:       800
 
       },
 
@@ -21239,10 +22135,12 @@ module CdekApi
       '54-20-0-5' => {
 
         code:       1968,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '4 - 7',
+        cost:       800
 
       },
 
@@ -21250,10 +22148,12 @@ module CdekApi
       '54-20-0-6' => {
 
         code:       1969,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '4 - 7',
+        cost:       800
 
       },
 
@@ -21261,10 +22161,12 @@ module CdekApi
       '54-0-4-0' => {
 
         code:       1970,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '4 - 7',
+        cost:       800
 
       },
 
@@ -21272,10 +22174,12 @@ module CdekApi
       '54-1-0-9' => {
 
         code:       1971,
+        tariff:     137,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '6 - 9',
+        cost:       405
 
       },
 
@@ -21283,10 +22187,12 @@ module CdekApi
       '54-21-0-7' => {
 
         code:       1972,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '4 - 7',
+        cost:       800
 
       },
 
@@ -21294,10 +22200,12 @@ module CdekApi
       '54-24-0-21' => {
 
         code:       1973,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '4 - 7',
+        cost:       800
 
       },
 
@@ -21305,10 +22213,12 @@ module CdekApi
       '54-8-0-10' => {
 
         code:       13803,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '4 - 6',
+        cost:       800
 
       },
 
@@ -21316,10 +22226,12 @@ module CdekApi
       '54-6-0-1' => {
 
         code:       738,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '4 - 7',
+        cost:       800
 
       },
 
@@ -21327,10 +22239,12 @@ module CdekApi
       '54-8-0-35' => {
 
         code:       13371,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '4 - 7',
+        cost:       800
 
       },
 
@@ -21338,10 +22252,12 @@ module CdekApi
       '54-18-0-11' => {
 
         code:       1974,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '4 - 7',
+        cost:       800
 
       },
 
@@ -21349,10 +22265,12 @@ module CdekApi
       '54-8-0-12' => {
 
         code:       1975,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '4 - 7',
+        cost:       800
 
       },
 
@@ -21360,10 +22278,12 @@ module CdekApi
       '54-29-0-10' => {
 
         code:       1976,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '4 - 7',
+        cost:       800
 
       },
 
@@ -21371,10 +22291,12 @@ module CdekApi
       '54-8-0-13' => {
 
         code:       1977,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '4 - 7',
+        cost:       800
 
       },
 
@@ -21382,10 +22304,12 @@ module CdekApi
       '54-7-0-1' => {
 
         code:       747,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '4 - 7',
+        cost:       800
 
       },
 
@@ -21393,21 +22317,12 @@ module CdekApi
       '54-5-0-14' => {
 
         code:       1978,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
-
-      },
-
-      # Издревая
-      '54-1-0-23' => {
-
-        code:       13401,
-        address:    '',
-        phone:      '',
-        work_time:  '',
-        delivery:   ''
+        delivery:   '4 - 7',
+        cost:       800
 
       },
 
@@ -21415,10 +22330,12 @@ module CdekApi
       '54-0-5-0' => {
 
         code:       70,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '4 - 7',
+        cost:       800
 
       },
 
@@ -21426,10 +22343,12 @@ module CdekApi
       '54-21-0-10' => {
 
         code:       1979,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '4 - 7',
+        cost:       800
 
       },
 
@@ -21437,10 +22356,12 @@ module CdekApi
       '54-1-0-6' => {
 
         code:       2009,
+        tariff:     137,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '7 - 11',
+        cost:       665
 
       },
 
@@ -21448,10 +22369,12 @@ module CdekApi
       '54-9-1-0' => {
 
         code:       739,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '4 - 7',
+        cost:       800
 
       },
 
@@ -21459,10 +22382,12 @@ module CdekApi
       '54-10-0-43' => {
 
         code:       749,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '4 - 7',
+        cost:       800
 
       },
 
@@ -21470,10 +22395,12 @@ module CdekApi
       '54-24-0-45' => {
 
         code:       1980,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '4 - 7',
+        cost:       800
 
       },
 
@@ -21481,10 +22408,12 @@ module CdekApi
       '54-8-0-15' => {
 
         code:       1981,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '4 - 7',
+        cost:       800
 
       },
 
@@ -21492,10 +22421,12 @@ module CdekApi
       '54-24-0-7' => {
 
         code:       13809,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '4 - 6',
+        cost:       800
 
       },
 
@@ -21503,10 +22434,12 @@ module CdekApi
       '54-20-0-8' => {
 
         code:       1982,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '4 - 7',
+        cost:       800
 
       },
 
@@ -21514,10 +22447,12 @@ module CdekApi
       '54-25-0-1' => {
 
         code:       1983,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '4 - 7',
+        cost:       800
 
       },
 
@@ -21525,10 +22460,12 @@ module CdekApi
       '54-17-0-24' => {
 
         code:       1984,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '4 - 7',
+        cost:       800
 
       },
 
@@ -21536,10 +22473,12 @@ module CdekApi
       '54-11-0-1' => {
 
         code:       736,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '4 - 7',
+        cost:       800
 
       },
 
@@ -21547,10 +22486,12 @@ module CdekApi
       '54-1-0-32' => {
 
         code:       1278,
+        tariff:     137,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '6 - 9',
+        cost:       405
 
       },
 
@@ -21558,10 +22499,12 @@ module CdekApi
       '54-23-0-9' => {
 
         code:       1985,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '4 - 7',
+        cost:       800
 
       },
 
@@ -21569,10 +22512,12 @@ module CdekApi
       '54-24-0-49' => {
 
         code:       1986,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '4 - 7',
+        cost:       800
 
       },
 
@@ -21580,10 +22525,12 @@ module CdekApi
       '54-12-0-1' => {
 
         code:       735,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '4 - 7',
+        cost:       800
 
       },
 
@@ -21591,10 +22538,12 @@ module CdekApi
       '54-13-0-8' => {
 
         code:       740,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '4 - 7',
+        cost:       800
 
       },
 
@@ -21602,10 +22551,12 @@ module CdekApi
       '54-14-0-1' => {
 
         code:       741,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '4 - 7',
+        cost:       800
 
       },
 
@@ -21613,10 +22564,12 @@ module CdekApi
       '54-1-0-83' => {
 
         code:       525,
+        tariff:     137,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '6 - 9',
+        cost:       405
 
       },
 
@@ -21624,10 +22577,12 @@ module CdekApi
       '54-1-0-38' => {
 
         code:       13796,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '4 - 6',
+        cost:       800
 
       },
 
@@ -21635,10 +22590,12 @@ module CdekApi
       '54-20-0-10' => {
 
         code:       13807,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '4 - 6',
+        cost:       800
 
       },
 
@@ -21646,10 +22603,12 @@ module CdekApi
       '54-1-0-40' => {
 
         code:       1246,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '4 - 7',
+        cost:       800
 
       },
 
@@ -21657,10 +22616,12 @@ module CdekApi
       '54-22-0-16' => {
 
         code:       1987,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '4 - 7',
+        cost:       800
 
       },
 
@@ -21668,10 +22629,12 @@ module CdekApi
       '54-1-0-41' => {
 
         code:       13122,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '4 - 7',
+        cost:       690
 
       },
 
@@ -21679,10 +22642,12 @@ module CdekApi
       '54-1-0-13' => {
 
         code:       1988,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '4 - 7',
+        cost:       800
 
       },
 
@@ -21690,10 +22655,12 @@ module CdekApi
       '54-0-6-0' => {
 
         code:       746,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '4 - 7',
+        cost:       800
 
       },
 
@@ -21701,10 +22668,12 @@ module CdekApi
       '54-16-1-0' => {
 
         code:       742,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '4 - 7',
+        cost:       800
 
       },
 
@@ -21712,10 +22681,12 @@ module CdekApi
       '54-17-0-1' => {
 
         code:       754,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '4 - 7',
+        cost:       800
 
       },
 
@@ -21723,10 +22694,12 @@ module CdekApi
       '54-8-0-15' => {
 
         code:       1989,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '4 - 7',
+        cost:       800
 
       },
 
@@ -21734,10 +22707,12 @@ module CdekApi
       '54-8-0-20' => {
 
         code:       13804,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '4 - 6',
+        cost:       800
 
       },
 
@@ -21745,10 +22720,12 @@ module CdekApi
       '54-24-0-9' => {
 
         code:       1990,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '4 - 7',
+        cost:       800
 
       },
 
@@ -21756,10 +22733,12 @@ module CdekApi
       '54-11-0-11' => {
 
         code:       1991,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '4 - 7',
+        cost:       800
 
       },
 
@@ -21767,10 +22746,12 @@ module CdekApi
       '54-1-0-51' => {
 
         code:       1310,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '3 - 5',
+        cost:       540
 
       },
 
@@ -21778,10 +22759,12 @@ module CdekApi
       '54-11-0-27' => {
 
         code:       1992,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '4 - 7',
+        cost:       800
 
       },
 
@@ -21789,10 +22772,12 @@ module CdekApi
       '54-18-0-1' => {
 
         code:       731,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '4 - 7',
+        cost:       800
 
       },
 
@@ -21800,10 +22785,12 @@ module CdekApi
       '54-19-0-16' => {
 
         code:       1993,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '4 - 7',
+        cost:       800
 
       },
 
@@ -21811,10 +22798,12 @@ module CdekApi
       '54-1-0-56' => {
 
         code:       13249,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '3 - 5',
+        cost:       690
 
       },
 
@@ -21822,10 +22811,12 @@ module CdekApi
       '54-19-0-6' => {
 
         code:       732,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '4 - 7',
+        cost:       800
 
       },
 
@@ -21833,10 +22824,12 @@ module CdekApi
       '54-28-0-28' => {
 
         code:       13810,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '4 - 6',
+        cost:       850
 
       },
 
@@ -21844,10 +22837,12 @@ module CdekApi
       '54-12-0-40' => {
 
         code:       13797,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '4 - 6',
+        cost:       850
 
       },
 
@@ -21855,10 +22850,12 @@ module CdekApi
       '54-1-0-59' => {
 
         code:       13252,
+        tariff:     137,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '6 - 9',
+        cost:       555
 
       },
 
@@ -21866,10 +22863,12 @@ module CdekApi
       '7-0-1-0' => {
 
         code:       270,
+        tariff:     136,
         address:    'Ленина ул, д.1, тц аркада, оф. на ст. метро площадь ленина',
         phone:      '(383) 362-27-47',
         work_time:  'пн.-пт. 9-20,обед 14-15, сб.-вс. 10-18,обед 14-15',
-        delivery:   ''
+        delivery:   '3 - 5',
+        cost:       175
 
       },
 
@@ -21877,10 +22876,12 @@ module CdekApi
       '54-7-0-5' => {
 
         code:       1994,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '4 - 7',
+        cost:       800
 
       },
 
@@ -21888,10 +22889,12 @@ module CdekApi
       '54-0-2-0' => {
 
         code:       378,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '4 - 7',
+        cost:       800
 
       },
 
@@ -21899,10 +22902,12 @@ module CdekApi
       '54-20-0-16' => {
 
         code:       13806,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '4 - 6',
+        cost:       800
 
       },
 
@@ -21910,10 +22915,12 @@ module CdekApi
       '54-0-3-0' => {
 
         code:       756,
+        tariff:     137,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '6 - 9',
+        cost:       405
 
       },
 
@@ -21921,10 +22928,12 @@ module CdekApi
       '54-20-0-1' => {
 
         code:       743,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '4 - 7',
+        cost:       800
 
       },
 
@@ -21932,10 +22941,12 @@ module CdekApi
       '54-18-0-10' => {
 
         code:       1995,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '4 - 7',
+        cost:       800
 
       },
 
@@ -21943,10 +22954,12 @@ module CdekApi
       '54-14-0-22' => {
 
         code:       1996,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '4 - 7',
+        cost:       800
 
       },
 
@@ -21954,10 +22967,12 @@ module CdekApi
       '54-11-0-39' => {
 
         code:       1997,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '4 - 7',
+        cost:       800
 
       },
 
@@ -21965,10 +22980,12 @@ module CdekApi
       '54-12-0-7' => {
 
         code:       13798,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '4 - 6',
+        cost:       800
 
       },
 
@@ -21976,10 +22993,12 @@ module CdekApi
       '54-29-0-19' => {
 
         code:       1998,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '4 - 7',
+        cost:       800
 
       },
 
@@ -21987,10 +23006,12 @@ module CdekApi
       '54-4-0-19' => {
 
         code:       13808,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '4 - 6',
+        cost:       850
 
       },
 
@@ -21998,10 +23019,12 @@ module CdekApi
       '54-12-0-1' => {
 
         code:       13799,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '4 - 6',
+        cost:       800
 
       },
 
@@ -22009,10 +23032,12 @@ module CdekApi
       '54-0-6-0' => {
 
         code:       744,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '4 - 7',
+        cost:       800
 
       },
 
@@ -22020,10 +23045,12 @@ module CdekApi
       '54-11-0-2' => {
 
         code:       13802,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '4 - 6',
+        cost:       800
 
       },
 
@@ -22031,10 +23058,12 @@ module CdekApi
       '54-19-0-32' => {
 
         code:       13800,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '4 - 6',
+        cost:       800
 
       },
 
@@ -22042,10 +23071,12 @@ module CdekApi
       '54-19-0-32' => {
 
         code:       13801,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '4 - 6',
+        cost:       800
 
       },
 
@@ -22053,10 +23084,12 @@ module CdekApi
       '54-19-0-7' => {
 
         code:       1999,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '4 - 7',
+        cost:       800
 
       },
 
@@ -22064,10 +23097,12 @@ module CdekApi
       '54-7-0-19' => {
 
         code:       2000,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '4 - 7',
+        cost:       800
 
       },
 
@@ -22075,10 +23110,12 @@ module CdekApi
       '54-5-0-37' => {
 
         code:       2001,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '4 - 7',
+        cost:       800
 
       },
 
@@ -22086,10 +23123,12 @@ module CdekApi
       '54-22-0-1' => {
 
         code:       730,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '4 - 7',
+        cost:       800
 
       },
 
@@ -22097,10 +23136,12 @@ module CdekApi
       '54-0-7-0' => {
 
         code:       748,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '4 - 7',
+        cost:       800
 
       },
 
@@ -22108,10 +23149,12 @@ module CdekApi
       '54-24-1-0' => {
 
         code:       727,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '4 - 7',
+        cost:       800
 
       },
 
@@ -22119,10 +23162,12 @@ module CdekApi
       '54-1-0-78' => {
 
         code:       13118,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '3 - 5',
+        cost:       540
 
       },
 
@@ -22130,10 +23175,12 @@ module CdekApi
       '54-4-0-8' => {
 
         code:       2002,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '4 - 7',
+        cost:       800
 
       },
 
@@ -22141,10 +23188,12 @@ module CdekApi
       '54-25-0-1' => {
 
         code:       750,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '4 - 7',
+        cost:       800
 
       },
 
@@ -22152,10 +23201,12 @@ module CdekApi
       '54-19-0-39' => {
 
         code:       2003,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '4 - 7',
+        cost:       800
 
       },
 
@@ -22163,10 +23214,12 @@ module CdekApi
       '54-26-0-1' => {
 
         code:       755,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '4 - 7',
+        cost:       800
 
       },
 
@@ -22174,10 +23227,12 @@ module CdekApi
       '54-27-0-1' => {
 
         code:       751,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '4 - 7',
+        cost:       800
 
       },
 
@@ -22185,10 +23240,12 @@ module CdekApi
       '54-21-0-21' => {
 
         code:       2004,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '4 - 7',
+        cost:       800
 
       },
 
@@ -22196,10 +23253,12 @@ module CdekApi
       '54-1-0-41' => {
 
         code:       729,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '4 - 7',
+        cost:       800
 
       },
 
@@ -22207,10 +23266,12 @@ module CdekApi
       '54-20-0-1' => {
 
         code:       13614,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '4 - 7',
+        cost:       800
 
       },
 
@@ -22218,10 +23279,12 @@ module CdekApi
       '54-0-5-0' => {
 
         code:       13805,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '4 - 6',
+        cost:       850
 
       },
 
@@ -22229,10 +23292,12 @@ module CdekApi
       '54-11-0-16' => {
 
         code:       2005,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '4 - 7',
+        cost:       800
 
       },
 
@@ -22240,10 +23305,12 @@ module CdekApi
       '54-12-0-63' => {
 
         code:       1256,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '4 - 7',
+        cost:       800
 
       },
 
@@ -22251,10 +23318,12 @@ module CdekApi
       '54-29-0-1' => {
 
         code:       752,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '4 - 7',
+        cost:       800
 
       },
 
@@ -22262,10 +23331,12 @@ module CdekApi
       '54-7-0-23' => {
 
         code:       734,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '4 - 7',
+        cost:       800
 
       },
 
@@ -22273,10 +23344,12 @@ module CdekApi
       '54-1-0-84' => {
 
         code:       13250,
+        tariff:     137,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '6 - 9',
+        cost:       555
 
       },
 
@@ -22284,10 +23357,12 @@ module CdekApi
       '55-2-0-1' => {
 
         code:       710,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '3 - 7',
+        cost:       800
 
       },
 
@@ -22295,10 +23370,12 @@ module CdekApi
       '55-0-1-0' => {
 
         code:       13265,
+        tariff:     137,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '6 - 9',
+        cost:       555
 
       },
 
@@ -22306,10 +23383,12 @@ module CdekApi
       '55-3-0-1' => {
 
         code:       1390,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '3 - 7',
+        cost:       800
 
       },
 
@@ -22317,10 +23396,12 @@ module CdekApi
       '55-0-1-5' => {
 
         code:       13471,
+        tariff:     137,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '6 - 9',
+        cost:       405
 
       },
 
@@ -22328,10 +23409,12 @@ module CdekApi
       '55-4-0-1' => {
 
         code:       1489,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '3 - 5',
+        cost:       800
 
       },
 
@@ -22339,10 +23422,12 @@ module CdekApi
       '55-0-1-0' => {
 
         code:       13466,
+        tariff:     137,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '6 - 9',
+        cost:       405
 
       },
 
@@ -22350,10 +23435,12 @@ module CdekApi
       '55-5-0-1' => {
 
         code:       714,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '3 - 5',
+        cost:       800
 
       },
 
@@ -22361,10 +23448,12 @@ module CdekApi
       '55-21-0-15' => {
 
         code:       35,
+        tariff:     137,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '6 - 9',
+        cost:       405
 
       },
 
@@ -22372,10 +23461,12 @@ module CdekApi
       '55-21-0-19' => {
 
         code:       972,
+        tariff:     137,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '6 - 9',
+        cost:       405
 
       },
 
@@ -22383,10 +23474,12 @@ module CdekApi
       '55-21-0-23' => {
 
         code:       13467,
+        tariff:     137,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '6 - 9',
+        cost:       405
 
       },
 
@@ -22394,10 +23487,12 @@ module CdekApi
       '55-6-0-1' => {
 
         code:       1317,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '3 - 7',
+        cost:       800
 
       },
 
@@ -22405,10 +23500,12 @@ module CdekApi
       '55-7-1-0' => {
 
         code:       82,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '3 - 7',
+        cost:       800
 
       },
 
@@ -22416,10 +23513,12 @@ module CdekApi
       '55-8-1-0' => {
 
         code:       713,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '3 - 7',
+        cost:       800
 
       },
 
@@ -22427,10 +23526,12 @@ module CdekApi
       '44-4-0-67' => {
 
         code:       13316,
+        tariff:     137,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '6 - 9',
+        cost:       555
 
       },
 
@@ -22438,10 +23539,12 @@ module CdekApi
       '55-9-0-1' => {
 
         code:       1490,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '3 - 5',
+        cost:       800
 
       },
 
@@ -22449,10 +23552,12 @@ module CdekApi
       '55-10-0-1' => {
 
         code:       717,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '3 - 7',
+        cost:       800
 
       },
 
@@ -22460,10 +23565,12 @@ module CdekApi
       '55-12-0-33' => {
 
         code:       1179,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '3 - 5',
+        cost:       800
 
       },
 
@@ -22471,10 +23578,12 @@ module CdekApi
       '55-11-0-1' => {
 
         code:       1391,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '3 - 5',
+        cost:       800
 
       },
 
@@ -22482,10 +23591,12 @@ module CdekApi
       '55-12-0-36' => {
 
         code:       1877,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '3 - 5',
+        cost:       800
 
       },
 
@@ -22493,10 +23604,12 @@ module CdekApi
       '55-12-0-1' => {
 
         code:       720,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '3 - 5',
+        cost:       800
 
       },
 
@@ -22504,10 +23617,12 @@ module CdekApi
       '55-21-0-38' => {
 
         code:       13139,
+        tariff:     137,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '6 - 9',
+        cost:       555
 
       },
 
@@ -22515,10 +23630,12 @@ module CdekApi
       '55-13-0-1' => {
 
         code:       716,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '3 - 7',
+        cost:       800
 
       },
 
@@ -22526,10 +23643,12 @@ module CdekApi
       '55-0-1-0' => {
 
         code:       13264,
+        tariff:     137,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '6 - 9',
+        cost:       555
 
       },
 
@@ -22537,10 +23656,12 @@ module CdekApi
       '55-14-0-1' => {
 
         code:       1491,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '3 - 7',
+        cost:       800
 
       },
 
@@ -22548,10 +23669,12 @@ module CdekApi
       '55-15-0-1' => {
 
         code:       1396,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '3 - 5',
+        cost:       800
 
       },
 
@@ -22559,10 +23682,12 @@ module CdekApi
       '55-16-1-0' => {
 
         code:       1398,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '3 - 7',
+        cost:       800
 
       },
 
@@ -22570,10 +23695,12 @@ module CdekApi
       '55-17-0-1' => {
 
         code:       1492,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '3 - 5',
+        cost:       800
 
       },
 
@@ -22581,10 +23708,12 @@ module CdekApi
       '55-18-0-1' => {
 
         code:       1402,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '3 - 7',
+        cost:       800
 
       },
 
@@ -22592,10 +23721,12 @@ module CdekApi
       '55-21-0-51' => {
 
         code:       13464,
+        tariff:     137,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '6 - 9',
+        cost:       405
 
       },
 
@@ -22603,10 +23734,12 @@ module CdekApi
       '55-19-0-1' => {
 
         code:       715,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '3 - 5',
+        cost:       800
 
       },
 
@@ -22614,10 +23747,12 @@ module CdekApi
       '55-20-0-1' => {
 
         code:       1493,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '3 - 5',
+        cost:       800
 
       },
 
@@ -22625,10 +23760,12 @@ module CdekApi
       '55-0-1-0' => {
 
         code:       268,
+        tariff:     136,
         address:    'Сенная ул, д.34',
         phone:      '(3812)662360',
         work_time:  'пн.-пт. 8.30-19.00, сб. 10-14 ',
-        delivery:   ''
+        delivery:   '3 - 5',
+        cost:       175
 
       },
 
@@ -22636,10 +23773,12 @@ module CdekApi
       '55-21-0-7' => {
 
         code:       1494,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '3 - 5',
+        cost:       800
 
       },
 
@@ -22647,10 +23786,12 @@ module CdekApi
       '55-22-0-1' => {
 
         code:       719,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '3 - 7',
+        cost:       800
 
       },
 
@@ -22658,10 +23799,12 @@ module CdekApi
       '55-23-0-1' => {
 
         code:       1389,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '3 - 5',
+        cost:       800
 
       },
 
@@ -22669,10 +23812,12 @@ module CdekApi
       '55-21-0-74' => {
 
         code:       13465,
+        tariff:     137,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '6 - 9',
+        cost:       405
 
       },
 
@@ -22680,10 +23825,12 @@ module CdekApi
       '55-0-1-422' => {
 
         code:       13463,
+        tariff:     137,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '6 - 9',
+        cost:       405
 
       },
 
@@ -22691,10 +23838,12 @@ module CdekApi
       '55-24-0-1' => {
 
         code:       1401,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '3 - 7',
+        cost:       800
 
       },
 
@@ -22702,10 +23851,12 @@ module CdekApi
       '55-25-0-1' => {
 
         code:       1495,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '3 - 7',
+        cost:       800
 
       },
 
@@ -22713,10 +23864,12 @@ module CdekApi
       '55-0-1-27' => {
 
         code:       13326,
+        tariff:     137,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '6 - 9',
+        cost:       555
 
       },
 
@@ -22724,10 +23877,12 @@ module CdekApi
       '55-26-0-1' => {
 
         code:       1394,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '3 - 5',
+        cost:       800
 
       },
 
@@ -22735,10 +23890,12 @@ module CdekApi
       '55-27-0-1' => {
 
         code:       711,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '3 - 7',
+        cost:       800
 
       },
 
@@ -22746,10 +23903,12 @@ module CdekApi
       '55-28-0-42' => {
 
         code:       718,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '3 - 7',
+        cost:       800
 
       },
 
@@ -22757,10 +23916,12 @@ module CdekApi
       '55-29-0-1' => {
 
         code:       1393,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '3 - 5',
+        cost:       800
 
       },
 
@@ -22768,10 +23929,12 @@ module CdekApi
       '55-0-1-0' => {
 
         code:       13472,
+        tariff:     137,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '6 - 9',
+        cost:       405
 
       },
 
@@ -22779,10 +23942,12 @@ module CdekApi
       '55-30-0-5' => {
 
         code:       1397,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '3 - 7',
+        cost:       800
 
       },
 
@@ -22790,10 +23955,12 @@ module CdekApi
       '55-31-0-1' => {
 
         code:       1392,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '3 - 5',
+        cost:       800
 
       },
 
@@ -22801,10 +23968,12 @@ module CdekApi
       '55-0-1-0' => {
 
         code:       13263,
+        tariff:     137,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '6 - 9',
+        cost:       555
 
       },
 
@@ -22812,10 +23981,12 @@ module CdekApi
       '55-0-1-0' => {
 
         code:       13266,
+        tariff:     137,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '6 - 9',
+        cost:       555
 
       },
 
@@ -22823,10 +23994,12 @@ module CdekApi
       '55-32-0-1' => {
 
         code:       712,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '3 - 7',
+        cost:       800
 
       },
 
@@ -22834,10 +24007,12 @@ module CdekApi
       '55-4-0-4' => {
 
         code:       1395,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '3 - 5',
+        cost:       800
 
       },
 
@@ -22845,10 +24020,12 @@ module CdekApi
       '55-33-0-1' => {
 
         code:       1399,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '3 - 7',
+        cost:       800
 
       },
 
@@ -22856,10 +24033,12 @@ module CdekApi
       '56-55-1-0' => {
 
         code:       2837,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '4 - 6',
+        cost:       1180
 
       },
 
@@ -22867,10 +24046,12 @@ module CdekApi
       '56-0-3-0' => {
 
         code:       13034,
+        tariff:     137,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '5 - 10',
+        cost:       610
 
       },
 
@@ -22878,21 +24059,12 @@ module CdekApi
       '56-2-0-1' => {
 
         code:       13035,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
-
-      },
-
-      # Аккермановка
-      '56-0-3-1' => {
-
-        code:       13925,
-        address:    '',
-        phone:      '',
-        work_time:  '',
-        delivery:   ''
+        delivery:   '4 - 6',
+        cost:       1180
 
       },
 
@@ -22900,10 +24072,12 @@ module CdekApi
       '56-42-0-1' => {
 
         code:       13050,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '4 - 6',
+        cost:       1180
 
       },
 
@@ -22911,21 +24085,12 @@ module CdekApi
       '56-9-0-1' => {
 
         code:       13036,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
-
-      },
-
-      # Беляевка
-      '56-45-0-1' => {
-
-        code:       13051,
-        address:    '',
-        phone:      '',
-        work_time:  '',
-        delivery:   ''
+        delivery:   '4 - 6',
+        cost:       1180
 
       },
 
@@ -22933,10 +24098,12 @@ module CdekApi
       '56-0-5-0' => {
 
         code:       100,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '4 - 6',
+        cost:       1180
 
       },
 
@@ -22944,10 +24111,12 @@ module CdekApi
       '56-0-6-0' => {
 
         code:       1218,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '4 - 6',
+        cost:       1180
 
       },
 
@@ -22955,10 +24124,12 @@ module CdekApi
       '56-19-0-15' => {
 
         code:       1171,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '3 - 5',
+        cost:       1055
 
       },
 
@@ -22966,10 +24137,12 @@ module CdekApi
       '56-0-7-0' => {
 
         code:       696,
+        tariff:     137,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '5 - 9',
+        cost:       610
 
       },
 
@@ -22977,21 +24150,12 @@ module CdekApi
       '56-10-0-21' => {
 
         code:       13119,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
-
-      },
-
-      # Грачевка
-      '56-21-0-1' => {
-
-        code:       13052,
-        address:    '',
-        phone:      '',
-        work_time:  '',
-        delivery:   ''
+        delivery:   '4 - 6',
+        cost:       1180
 
       },
 
@@ -22999,10 +24163,12 @@ module CdekApi
       '56-46-0-5' => {
 
         code:       13420,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '4 - 6',
+        cost:       1180
 
       },
 
@@ -23010,10 +24176,12 @@ module CdekApi
       '56-46-0-1' => {
 
         code:       13037,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '4 - 6',
+        cost:       1180
 
       },
 
@@ -23021,10 +24189,12 @@ module CdekApi
       '56-5-0-40' => {
 
         code:       13211,
+        tariff:     137,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '6 - 9',
+        cost:       500
 
       },
 
@@ -23032,10 +24202,12 @@ module CdekApi
       '56-19-0-13' => {
 
         code:       13222,
+        tariff:     137,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '6 - 9',
+        cost:       500
 
       },
 
@@ -23043,10 +24215,12 @@ module CdekApi
       '56-47-0-1' => {
 
         code:       13038,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '3 - 5',
+        cost:       1180
 
       },
 
@@ -23054,10 +24228,12 @@ module CdekApi
       '56-0-1-2' => {
 
         code:       1234,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '4 - 6',
+        cost:       1180
 
       },
 
@@ -23065,10 +24241,12 @@ module CdekApi
       '56-48-0-1' => {
 
         code:       13039,
+        tariff:     137,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '5 - 10',
+        cost:       610
 
       },
 
@@ -23076,10 +24254,12 @@ module CdekApi
       '56-0-1-7' => {
 
         code:       13137,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '4 - 6',
+        cost:       1110
 
       },
 
@@ -23087,21 +24267,12 @@ module CdekApi
       '56-0-8-0' => {
 
         code:       2832,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
-
-      },
-
-      # Курманаевка
-      '56-16-0-1' => {
-
-        code:       13040,
-        address:    '',
-        phone:      '',
-        work_time:  '',
-        delivery:   ''
+        delivery:   '4 - 6',
+        cost:       1180
 
       },
 
@@ -23109,10 +24280,12 @@ module CdekApi
       '56-0-1-4' => {
 
         code:       13215,
+        tariff:     137,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '8 - 13',
+        cost:       620
 
       },
 
@@ -23120,10 +24293,12 @@ module CdekApi
       '56-19-0-72' => {
 
         code:       13218,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '4 - 6',
+        cost:       1110
 
       },
 
@@ -23131,10 +24306,12 @@ module CdekApi
       '56-34-0-1' => {
 
         code:       2838,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '4 - 6',
+        cost:       1180
 
       },
 
@@ -23142,10 +24319,12 @@ module CdekApi
       '56-0-2-0' => {
 
         code:       36,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '4 - 6',
+        cost:       1240
 
       },
 
@@ -23153,10 +24332,12 @@ module CdekApi
       '56-19-0-24' => {
 
         code:       13220,
+        tariff:     137,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '6 - 9',
+        cost:       500
 
       },
 
@@ -23164,10 +24345,12 @@ module CdekApi
       '56-19-0-26' => {
 
         code:       13217,
+        tariff:     137,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '6 - 9',
+        cost:       500
 
       },
 
@@ -23175,10 +24358,12 @@ module CdekApi
       '56-2-0-124' => {
 
         code:       14282,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '4 - 6',
+        cost:       1180
 
       },
 
@@ -23186,10 +24371,12 @@ module CdekApi
       '56-10-0-1' => {
 
         code:       2833,
+        tariff:     137,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '5 - 9',
+        cost:       610
 
       },
 
@@ -23197,10 +24384,12 @@ module CdekApi
       '56-20-0-1' => {
 
         code:       247,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '4 - 6',
+        cost:       1180
 
       },
 
@@ -23208,21 +24397,12 @@ module CdekApi
       '56-0-3-0' => {
 
         code:       11,
+        tariff:     137,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
-
-      },
-
-      # Октябрьское
-      '56-51-0-1' => {
-
-        code:       13053,
-        address:    '',
-        phone:      '',
-        work_time:  '',
-        delivery:   ''
+        delivery:   '5 - 8',
+        cost:       410
 
       },
 
@@ -23230,10 +24410,12 @@ module CdekApi
       '56-0-1-0' => {
 
         code:       261,
+        tariff:     136,
         address:    'Восточная ул, д.23',
         phone:      '(3532) 90-10-50, 90-10-60',
         work_time:  'пн.-пт. 9-18, сб. 10-14',
-        delivery:   ''
+        delivery:   '5 - 7',
+        cost:       340
 
       },
 
@@ -23241,10 +24423,12 @@ module CdekApi
       '56-0-4-0' => {
 
         code:       697,
+        tariff:     136,
         address:    'Радостева ул., д.10, оф.16',
         phone:      '83537299111, 83537299333, 89228509109',
         work_time:  'пн.-пт. 9-18',
-        delivery:   ''
+        delivery:   '5 - 7',
+        cost:       340
 
       },
 
@@ -23252,32 +24436,12 @@ module CdekApi
       '56-11-0-1' => {
 
         code:       13054,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
-
-      },
-
-      # Переволоцкий
-      '56-40-0-1' => {
-
-        code:       13041,
-        address:    '',
-        phone:      '',
-        work_time:  '',
-        delivery:   ''
-
-      },
-
-      # Плешаново
-      '56-49-0-1' => {
-
-        code:       13042,
-        address:    '',
-        phone:      '',
-        work_time:  '',
-        delivery:   ''
+        delivery:   '4 - 6',
+        cost:       1180
 
       },
 
@@ -23285,21 +24449,12 @@ module CdekApi
       '56-19-0-35' => {
 
         code:       13219,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
-
-      },
-
-      # Пономаревка
-      '56-41-0-1' => {
-
-        code:       13043,
-        address:    '',
-        phone:      '',
-        work_time:  '',
-        delivery:   ''
+        delivery:   '4 - 6',
+        cost:       1110
 
       },
 
@@ -23307,21 +24462,12 @@ module CdekApi
       '56-19-0-38' => {
 
         code:       2829,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
-
-      },
-
-      # Сакмара
-      '56-5-0-1' => {
-
-        code:       13044,
-        address:    '',
-        phone:      '',
-        work_time:  '',
-        delivery:   ''
+        delivery:   '2 - 4',
+        cost:       1055
 
       },
 
@@ -23329,32 +24475,12 @@ module CdekApi
       '56-14-0-1' => {
 
         code:       2830,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
-
-      },
-
-      # Светлый
-      '56-27-0-1' => {
-
-        code:       12996,
-        address:    '',
-        phone:      '',
-        work_time:  '',
-        delivery:   ''
-
-      },
-
-      # Северное
-      '56-18-0-1' => {
-
-        code:       13045,
-        address:    '',
-        phone:      '',
-        work_time:  '',
-        delivery:   ''
+        delivery:   '4 - 6',
+        cost:       1180
 
       },
 
@@ -23362,10 +24488,12 @@ module CdekApi
       '56-54-0-43' => {
 
         code:       13212,
+        tariff:     137,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '6 - 9',
+        cost:       500
 
       },
 
@@ -23373,10 +24501,12 @@ module CdekApi
       '56-15-0-74' => {
 
         code:       2831,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '4 - 6',
+        cost:       1180
 
       },
 
@@ -23384,10 +24514,12 @@ module CdekApi
       '56-0-9-0' => {
 
         code:       2834,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '4 - 6',
+        cost:       1180
 
       },
 
@@ -23395,10 +24527,12 @@ module CdekApi
       '56-54-0-1' => {
 
         code:       13046,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '4 - 6',
+        cost:       1180
 
       },
 
@@ -23406,10 +24540,12 @@ module CdekApi
       '56-17-0-26' => {
 
         code:       2835,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '4 - 6',
+        cost:       1180
 
       },
 
@@ -23417,10 +24553,12 @@ module CdekApi
       '56-17-0-17' => {
 
         code:       13433,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '4 - 6',
+        cost:       1180
 
       },
 
@@ -23428,10 +24566,12 @@ module CdekApi
       '56-7-0-1' => {
 
         code:       13047,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '4 - 6',
+        cost:       1180
 
       },
 
@@ -23439,10 +24579,12 @@ module CdekApi
       '56-0-1-8' => {
 
         code:       13213,
+        tariff:     137,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '6 - 9',
+        cost:       500
 
       },
 
@@ -23450,10 +24592,12 @@ module CdekApi
       '56-50-0-1' => {
 
         code:       13049,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '4 - 6',
+        cost:       1180
 
       },
 
@@ -23461,21 +24605,12 @@ module CdekApi
       '56-43-0-35' => {
 
         code:       13608,
+        tariff:     137,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
-
-      },
-
-      # Энергетик
-      '56-10-0-20' => {
-
-        code:       13048,
-        address:    '',
-        phone:      '',
-        work_time:  '',
-        delivery:   ''
+        delivery:   '4 - 6',
+        cost:       420
 
       },
 
@@ -23483,21 +24618,12 @@ module CdekApi
       '56-19-0-68' => {
 
         code:       13216,
+        tariff:     137,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
-
-      },
-
-      # Ясный
-      '56-8-1-0' => {
-
-        code:       2836,
-        address:    '',
-        phone:      '',
-        work_time:  '',
-        delivery:   ''
+        delivery:   '6 - 9',
+        cost:       500
 
       },
 
@@ -23505,10 +24631,12 @@ module CdekApi
       '57-2-1-0' => {
 
         code:       2839,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '3 - 6',
+        cost:       1240
 
       },
 
@@ -23516,10 +24644,12 @@ module CdekApi
       '57-18-0-8' => {
 
         code:       2840,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '3 - 5',
+        cost:       1340
 
       },
 
@@ -23527,10 +24657,12 @@ module CdekApi
       '57-7-0-20' => {
 
         code:       2841,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '3 - 6',
+        cost:       1390
 
       },
 
@@ -23538,10 +24670,12 @@ module CdekApi
       '57-1-0-20' => {
 
         code:       13961,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '4 - 7',
+        cost:       1300
 
       },
 
@@ -23549,10 +24683,12 @@ module CdekApi
       '57-19-0-1' => {
 
         code:       2842,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '3 - 5',
+        cost:       1140
 
       },
 
@@ -23560,10 +24696,12 @@ module CdekApi
       '57-1-0-6' => {
 
         code:       2843,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '3 - 5',
+        cost:       1040
 
       },
 
@@ -23571,10 +24709,12 @@ module CdekApi
       '57-9-0-1' => {
 
         code:       2844,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '3 - 6',
+        cost:       1590
 
       },
 
@@ -23582,10 +24722,12 @@ module CdekApi
       '57-12-0-1' => {
 
         code:       2845,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '3 - 6',
+        cost:       1140
 
       },
 
@@ -23593,10 +24735,12 @@ module CdekApi
       '57-1-0-9' => {
 
         code:       2846,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '3 - 5',
+        cost:       1040
 
       },
 
@@ -23604,10 +24748,12 @@ module CdekApi
       '57-0-2-0' => {
 
         code:       440,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '3 - 6',
+        cost:       1540
 
       },
 
@@ -23615,10 +24761,12 @@ module CdekApi
       '57-14-0-5' => {
 
         code:       2847,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '3 - 6',
+        cost:       1440
 
       },
 
@@ -23626,10 +24774,12 @@ module CdekApi
       '57-0-3-0' => {
 
         code:       1115,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '3 - 6',
+        cost:       1240
 
       },
 
@@ -23637,10 +24787,12 @@ module CdekApi
       '57-22-0-1' => {
 
         code:       2848,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '3 - 5',
+        cost:       1140
 
       },
 
@@ -23648,10 +24800,12 @@ module CdekApi
       '57-0-1-0' => {
 
         code:       149,
+        tariff:     136,
         address:    'Степана разина ул., д.12, оф.12',
         phone:      '(4862) 73-42-08',
         work_time:  'пн.-пт. 9-18',
-        delivery:   ''
+        delivery:   '4 - 6',
+        cost:       335
 
       },
 
@@ -23659,10 +24813,12 @@ module CdekApi
       '57-15-0-17' => {
 
         code:       2849,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '3 - 5',
+        cost:       1090
 
       },
 
@@ -23670,10 +24826,12 @@ module CdekApi
       '57-2-0-152' => {
 
         code:       2850,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '3 - 6',
+        cost:       1390
 
       },
 
@@ -23681,10 +24839,12 @@ module CdekApi
       '57-1-0-49' => {
 
         code:       2851,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '3 - 5',
+        cost:       1190
 
       },
 
@@ -23692,10 +24852,12 @@ module CdekApi
       '57-21-0-1' => {
 
         code:       2852,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '3 - 6',
+        cost:       1290
 
       },
 
@@ -23703,10 +24865,12 @@ module CdekApi
       '57-23-0-1' => {
 
         code:       2853,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '3 - 6',
+        cost:       1290
 
       },
 
@@ -23714,10 +24878,12 @@ module CdekApi
       '58-5-0-2' => {
 
         code:       2858,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '3 - 5',
+        cost:       1520
 
       },
 
@@ -23725,10 +24891,12 @@ module CdekApi
       '58-6-0-1' => {
 
         code:       2854,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '3 - 5',
+        cost:       1520
 
       },
 
@@ -23736,10 +24904,12 @@ module CdekApi
       '58-8-0-5' => {
 
         code:       2855,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '3 - 5',
+        cost:       1520
 
       },
 
@@ -23747,10 +24917,12 @@ module CdekApi
       '58-6-0-11' => {
 
         code:       2860,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '3 - 5',
+        cost:       1520
 
       },
 
@@ -23758,10 +24930,12 @@ module CdekApi
       '58-0-2-0' => {
 
         code:       421,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '3 - 5',
+        cost:       1520
 
       },
 
@@ -23769,10 +24943,12 @@ module CdekApi
       '58-11-0-38' => {
 
         code:       2856,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '3 - 5',
+        cost:       1520
 
       },
 
@@ -23780,10 +24956,12 @@ module CdekApi
       '58-13-0-1' => {
 
         code:       2857,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '3 - 5',
+        cost:       1520
 
       },
 
@@ -23791,10 +24969,12 @@ module CdekApi
       '58-15-0-2' => {
 
         code:       1021,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '3 - 5',
+        cost:       1520
 
       },
 
@@ -23802,10 +24982,12 @@ module CdekApi
       '58-22-0-14' => {
 
         code:       13345,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '3 - 5',
+        cost:       1375
 
       },
 
@@ -23813,10 +24995,12 @@ module CdekApi
       '58-23-1-0' => {
 
         code:       13288,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '3 - 5',
+        cost:       1690
 
       },
 
@@ -23824,21 +25008,12 @@ module CdekApi
       '58-0-1-0' => {
 
         code:       504,
+        tariff:     136,
         address:    'Суворова ул., д.111а, оф.112',
         phone:      '(8412) 68-47-79, 68-57-48, 8-963-109-48-38',
         work_time:  'пн.-пт. 9-18',
-        delivery:   ''
-
-      },
-
-      # Русский Камешкир
-      '58-12-0-1' => {
-
-        code:       2395,
-        address:    '',
-        phone:      '',
-        work_time:  '',
-        delivery:   ''
+        delivery:   '5 - 7',
+        cost:       340
 
       },
 
@@ -23846,10 +25021,12 @@ module CdekApi
       '58-25-1-0' => {
 
         code:       2859,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '3 - 5',
+        cost:       1520
 
       },
 
@@ -23857,10 +25034,12 @@ module CdekApi
       '58-8-0-67' => {
 
         code:       13290,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '3 - 5',
+        cost:       1690
 
       },
 
@@ -23868,10 +25047,12 @@ module CdekApi
       '59-9-0-8' => {
 
         code:       1769,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '3 - 5',
+        cost:       720
 
       },
 
@@ -23879,10 +25060,12 @@ module CdekApi
       '59-0-3-0' => {
 
         code:       589,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '3 - 5',
+        cost:       720
 
       },
 
@@ -23890,10 +25073,12 @@ module CdekApi
       '59-34-0-6' => {
 
         code:       13851,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '3 - 5',
+        cost:       720
 
       },
 
@@ -23901,10 +25086,12 @@ module CdekApi
       '59-20-0-79' => {
 
         code:       13843,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '3 - 5',
+        cost:       720
 
       },
 
@@ -23912,10 +25099,12 @@ module CdekApi
       '59-2-0-1' => {
 
         code:       598,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '3 - 5',
+        cost:       720
 
       },
 
@@ -23923,10 +25112,12 @@ module CdekApi
       '59-21-0-55' => {
 
         code:       564,
+        tariff:     136,
         address:    'Карла маркса, д.48, оф.220',
         phone:      '(3424) 20-10-28',
         work_time:  'пн.-пт. 9-18',
-        delivery:   ''
+        delivery:   '1 - 3',
+        cost:       160
 
       },
 
@@ -23934,10 +25125,12 @@ module CdekApi
       '59-3-0-1' => {
 
         code:       570,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '3 - 5',
+        cost:       720
 
       },
 
@@ -23945,10 +25138,12 @@ module CdekApi
       '59-20-0-240' => {
 
         code:       13845,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '3 - 5',
+        cost:       720
 
       },
 
@@ -23956,10 +25151,12 @@ module CdekApi
       '59-4-0-1' => {
 
         code:       576,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '3 - 5',
+        cost:       720
 
       },
 
@@ -23967,10 +25164,12 @@ module CdekApi
       '59-20-0-157' => {
 
         code:       13235,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '3 - 5',
+        cost:       650
 
       },
 
@@ -23978,10 +25177,12 @@ module CdekApi
       '59-20-0-2' => {
 
         code:       13234,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '3 - 5',
+        cost:       650
 
       },
 
@@ -23989,10 +25190,12 @@ module CdekApi
       '59-5-1-0' => {
 
         code:       573,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '3 - 5',
+        cost:       720
 
       },
 
@@ -24000,10 +25203,12 @@ module CdekApi
       '59-32-0-42' => {
 
         code:       13853,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '3 - 5',
+        cost:       720
 
       },
 
@@ -24011,10 +25216,12 @@ module CdekApi
       '59-0-1-13' => {
 
         code:       13232,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '3 - 5',
+        cost:       650
 
       },
 
@@ -24022,10 +25229,12 @@ module CdekApi
       '59-29-0-1' => {
 
         code:       1132,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '3 - 5',
+        cost:       720
 
       },
 
@@ -24033,10 +25242,12 @@ module CdekApi
       '59-6-1-0' => {
 
         code:       585,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '3 - 5',
+        cost:       720
 
       },
 
@@ -24044,10 +25255,12 @@ module CdekApi
       '59-0-4-0' => {
 
         code:       569,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '3 - 5',
+        cost:       720
 
       },
 
@@ -24055,10 +25268,12 @@ module CdekApi
       '59-0-5-0' => {
 
         code:       567,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '3 - 5',
+        cost:       720
 
       },
 
@@ -24066,10 +25281,12 @@ module CdekApi
       '59-0-6-0' => {
 
         code:       582,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '3 - 5',
+        cost:       720
 
       },
 
@@ -24077,10 +25294,12 @@ module CdekApi
       '59-7-0-1' => {
 
         code:       596,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '3 - 5',
+        cost:       720
 
       },
 
@@ -24088,10 +25307,12 @@ module CdekApi
       '59-0-0-1' => {
 
         code:       2861,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '3 - 5',
+        cost:       720
 
       },
 
@@ -24099,10 +25320,12 @@ module CdekApi
       '59-5-0-26' => {
 
         code:       13847,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '3 - 5',
+        cost:       720
 
       },
 
@@ -24110,10 +25333,12 @@ module CdekApi
       '59-0-1-0' => {
 
         code:       591,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '3 - 5',
+        cost:       720
 
       },
 
@@ -24121,10 +25346,12 @@ module CdekApi
       '59-9-0-1' => {
 
         code:       597,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '3 - 5',
+        cost:       720
 
       },
 
@@ -24132,10 +25359,12 @@ module CdekApi
       '59-0-7-0' => {
 
         code:       574,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '3 - 5',
+        cost:       720
 
       },
 
@@ -24143,10 +25372,12 @@ module CdekApi
       '59-20-0-6' => {
 
         code:       2862,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '3 - 5',
+        cost:       720
 
       },
 
@@ -24154,10 +25385,12 @@ module CdekApi
       '59-30-0-1' => {
 
         code:       1133,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '3 - 5',
+        cost:       720
 
       },
 
@@ -24165,10 +25398,12 @@ module CdekApi
       '59-31-0-1' => {
 
         code:       1134,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '3 - 5',
+        cost:       720
 
       },
 
@@ -24176,10 +25411,12 @@ module CdekApi
       '59-13-0-5' => {
 
         code:       565,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '3 - 5',
+        cost:       720
 
       },
 
@@ -24187,10 +25424,12 @@ module CdekApi
       '59-35-0-56' => {
 
         code:       588,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '3 - 5',
+        cost:       720
 
       },
 
@@ -24198,10 +25437,12 @@ module CdekApi
       '59-0-14-0' => {
 
         code:       579,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '3 - 5',
+        cost:       720
 
       },
 
@@ -24209,10 +25450,12 @@ module CdekApi
       '59-11-0-1' => {
 
         code:       581,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '3 - 5',
+        cost:       720
 
       },
 
@@ -24220,10 +25463,12 @@ module CdekApi
       '59-20-0-9' => {
 
         code:       13838,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '3 - 5',
+        cost:       720
 
       },
 
@@ -24231,10 +25476,12 @@ module CdekApi
       '59-0-9-0' => {
 
         code:       586,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '3 - 5',
+        cost:       720
 
       },
 
@@ -24242,10 +25489,12 @@ module CdekApi
       '59-32-0-15' => {
 
         code:       13852,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '3 - 5',
+        cost:       720
 
       },
 
@@ -24253,10 +25502,12 @@ module CdekApi
       '59-20-0-10' => {
 
         code:       13841,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '3 - 5',
+        cost:       720
 
       },
 
@@ -24264,10 +25515,12 @@ module CdekApi
       '59-24-0-4' => {
 
         code:       568,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '3 - 5',
+        cost:       720
 
       },
 
@@ -24275,10 +25528,12 @@ module CdekApi
       '59-11-0-123' => {
 
         code:       2863,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '3 - 5',
+        cost:       720
 
       },
 
@@ -24286,10 +25541,12 @@ module CdekApi
       '59-20-0-12' => {
 
         code:       13842,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '3 - 5',
+        cost:       720
 
       },
 
@@ -24297,10 +25554,12 @@ module CdekApi
       '59-14-0-162' => {
 
         code:       2864,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '3 - 5',
+        cost:       720
 
       },
 
@@ -24308,10 +25567,12 @@ module CdekApi
       '59-0-1-4' => {
 
         code:       13102,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '3 - 5',
+        cost:       650
 
       },
 
@@ -24319,10 +25580,12 @@ module CdekApi
       '59-27-0-3' => {
 
         code:       13850,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '3 - 5',
+        cost:       720
 
       },
 
@@ -24330,10 +25593,12 @@ module CdekApi
       '59-14-0-100' => {
 
         code:       587,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '3 - 5',
+        cost:       720
 
       },
 
@@ -24341,10 +25606,12 @@ module CdekApi
       '59-35-0-87' => {
 
         code:       2865,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '3 - 5',
+        cost:       720
 
       },
 
@@ -24352,10 +25619,12 @@ module CdekApi
       '59-15-0-8' => {
 
         code:       583,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '3 - 5',
+        cost:       720
 
       },
 
@@ -24363,10 +25632,12 @@ module CdekApi
       '59-17-0-1' => {
 
         code:       577,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '3 - 5',
+        cost:       720
 
       },
 
@@ -24374,10 +25645,12 @@ module CdekApi
       '59-16-0-55' => {
 
         code:       595,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '3 - 5',
+        cost:       720
 
       },
 
@@ -24385,10 +25658,12 @@ module CdekApi
       '59-18-1-0' => {
 
         code:       594,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '3 - 5',
+        cost:       720
 
       },
 
@@ -24396,10 +25671,12 @@ module CdekApi
       '59-19-0-6' => {
 
         code:       593,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '3 - 5',
+        cost:       720
 
       },
 
@@ -24407,10 +25684,12 @@ module CdekApi
       '59-4-0-2' => {
 
         code:       13848,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '3 - 5',
+        cost:       720
 
       },
 
@@ -24418,10 +25697,12 @@ module CdekApi
       '59-0-6-128' => {
 
         code:       13237,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '3 - 5',
+        cost:       650
 
       },
 
@@ -24429,10 +25710,12 @@ module CdekApi
       '59-0-1-0' => {
 
         code:       248,
+        tariff:     62,
         address:    'Пушкина ул, д.116б',
         phone:      '8(342)200-90-28',
         work_time:  'пн.-пт. 8-20, сб. 10-14',
-        delivery:   ''
+        delivery:   '1 - 2',
+        cost:       150
 
       },
 
@@ -24440,10 +25723,12 @@ module CdekApi
       '59-20-0-2' => {
 
         code:       13233,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '3 - 5',
+        cost:       650
 
       },
 
@@ -24451,10 +25736,12 @@ module CdekApi
       '59-20-0-17' => {
 
         code:       13844,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '3 - 5',
+        cost:       720
 
       },
 
@@ -24462,10 +25749,12 @@ module CdekApi
       '59-12-0-180' => {
 
         code:       13849,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '3 - 5',
+        cost:       720
 
       },
 
@@ -24473,10 +25762,12 @@ module CdekApi
       '59-0-6-28' => {
 
         code:       1342,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '3 - 5',
+        cost:       720
 
       },
 
@@ -24484,10 +25775,12 @@ module CdekApi
       '59-9-0-7' => {
 
         code:       14325,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '3 - 5',
+        cost:       720
 
       },
 
@@ -24495,10 +25788,12 @@ module CdekApi
       '59-29-0-16' => {
 
         code:       13854,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '3 - 5',
+        cost:       720
 
       },
 
@@ -24506,10 +25801,12 @@ module CdekApi
       '59-5-0-2' => {
 
         code:       592,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '3 - 5',
+        cost:       720
 
       },
 
@@ -24517,10 +25814,12 @@ module CdekApi
       '59-20-0-157' => {
 
         code:       13837,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '3 - 5',
+        cost:       720
 
       },
 
@@ -24528,10 +25827,12 @@ module CdekApi
       '59-0-11-0' => {
 
         code:       572,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '4 - 6',
+        cost:       780
 
       },
 
@@ -24539,10 +25840,12 @@ module CdekApi
       '59-23-0-1' => {
 
         code:       590,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '3 - 5',
+        cost:       720
 
       },
 
@@ -24550,10 +25853,12 @@ module CdekApi
       '59-20-0-20' => {
 
         code:       66,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '3 - 5',
+        cost:       720
 
       },
 
@@ -24561,10 +25866,12 @@ module CdekApi
       '59-25-0-1' => {
 
         code:       578,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '3 - 5',
+        cost:       720
 
       },
 
@@ -24572,10 +25879,12 @@ module CdekApi
       '59-14-0-110' => {
 
         code:       2866,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '3 - 5',
+        cost:       720
 
       },
 
@@ -24583,10 +25892,12 @@ module CdekApi
       '59-24-1-0' => {
 
         code:       566,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '3 - 5',
+        cost:       720
 
       },
 
@@ -24594,10 +25905,12 @@ module CdekApi
       '59-20-0-22' => {
 
         code:       13839,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '3 - 5',
+        cost:       720
 
       },
 
@@ -24605,10 +25918,12 @@ module CdekApi
       '59-10-0-1' => {
 
         code:       2364,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '3 - 5',
+        cost:       720
 
       },
 
@@ -24616,10 +25931,12 @@ module CdekApi
       '59-20-0-84' => {
 
         code:       13236,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '3 - 5',
+        cost:       650
 
       },
 
@@ -24627,10 +25944,12 @@ module CdekApi
       '59-20-0-24' => {
 
         code:       13840,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '3 - 5',
+        cost:       720
 
       },
 
@@ -24638,10 +25957,12 @@ module CdekApi
       '59-8-0-130' => {
 
         code:       13846,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '3 - 5',
+        cost:       720
 
       },
 
@@ -24649,10 +25970,12 @@ module CdekApi
       '59-0-12-0' => {
 
         code:       563,
+        tariff:     137,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '2 - 3',
+        cost:       330
 
       },
 
@@ -24660,10 +25983,12 @@ module CdekApi
       '59-26-0-1' => {
 
         code:       584,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '3 - 5',
+        cost:       720
 
       },
 
@@ -24671,10 +25996,12 @@ module CdekApi
       '59-27-1-0' => {
 
         code:       562,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '3 - 5',
+        cost:       720
 
       },
 
@@ -24682,10 +26009,12 @@ module CdekApi
       '59-28-0-30' => {
 
         code:       580,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '3 - 5',
+        cost:       720
 
       },
 
@@ -24693,10 +26022,12 @@ module CdekApi
       '59-0-13-0' => {
 
         code:       575,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '3 - 5',
+        cost:       720
 
       },
 
@@ -24704,10 +26035,12 @@ module CdekApi
       '59-20-0-27' => {
 
         code:       1343,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '3 - 5',
+        cost:       720
 
       },
 
@@ -24715,10 +26048,12 @@ module CdekApi
       '59-33-0-1' => {
 
         code:       1135,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '3 - 5',
+        cost:       720
 
       },
 
@@ -24726,10 +26061,12 @@ module CdekApi
       '59-34-0-1' => {
 
         code:       1136,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '3 - 5',
+        cost:       720
 
       },
 
@@ -24737,10 +26074,12 @@ module CdekApi
       '59-0-3-3' => {
 
         code:       2867,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '3 - 5',
+        cost:       720
 
       },
 
@@ -24748,10 +26087,12 @@ module CdekApi
       '25-0-2-0' => {
 
         code:       2379,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '4 - 8',
+        cost:       1540
 
       },
 
@@ -24759,10 +26100,12 @@ module CdekApi
       '25-0-3-0' => {
 
         code:       53,
+        tariff:     10,
         address:    'Ключевая, д.1/1, оф.1',
         phone:      '+7 (914) 324-89-48, 8 (42337) 3-11-24',
         work_time:  'пн.-пт. 9-18',
-        delivery:   ''
+        delivery:   '2 - 3',
+        cost:       370
 
       },
 
@@ -24770,10 +26113,12 @@ module CdekApi
       '25-0-7-0' => {
 
         code:       904,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '2 - 6',
+        cost:       520
 
       },
 
@@ -24781,10 +26126,12 @@ module CdekApi
       '25-0-1-0' => {
 
         code:       288,
+        tariff:     136,
         address:    'Давыдова ул, д.22а',
         phone:      '(4232) 243854, 2653864',
         work_time:  'пн.-пт. 9-18',
-        delivery:   ''
+        delivery:   '6 - 9',
+        cost:       415
 
       },
 
@@ -24792,10 +26139,12 @@ module CdekApi
       '25-14-0-1' => {
 
         code:       2380,
+        tariff:     137,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '6 - 10',
+        cost:       815
 
       },
 
@@ -24803,10 +26152,12 @@ module CdekApi
       '25-11-0-1' => {
 
         code:       1853,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '3 - 6',
+        cost:       520
 
       },
 
@@ -24814,10 +26165,12 @@ module CdekApi
       '25-0-4-0' => {
 
         code:       128,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '4 - 8',
+        cost:       1540
 
       },
 
@@ -24825,10 +26178,12 @@ module CdekApi
       '25-6-0-7' => {
 
         code:       13060,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '4 - 8',
+        cost:       1265
 
       },
 
@@ -24836,10 +26191,12 @@ module CdekApi
       '25-0-8-0' => {
 
         code:       1148,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '4 - 8',
+        cost:       1540
 
       },
 
@@ -24847,10 +26204,12 @@ module CdekApi
       '25-0-9-0' => {
 
         code:       2378,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '4 - 8',
+        cost:       1540
 
       },
 
@@ -24858,10 +26217,12 @@ module CdekApi
       '25-0-4-0' => {
 
         code:       13448,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '4 - 7',
+        cost:       1250
 
       },
 
@@ -24869,10 +26230,12 @@ module CdekApi
       '25-21-0-9' => {
 
         code:       13429,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '4 - 8',
+        cost:       1730
 
       },
 
@@ -24880,10 +26243,12 @@ module CdekApi
       '25-14-0-14' => {
 
         code:       13449,
+        tariff:     137,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '6 - 10',
+        cost:       815
 
       },
 
@@ -24891,10 +26256,12 @@ module CdekApi
       '25-5-0-1' => {
 
         code:       2868,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '4 - 8',
+        cost:       1540
 
       },
 
@@ -24902,10 +26269,12 @@ module CdekApi
       '25-11-0-12' => {
 
         code:       13442,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '3 - 6',
+        cost:       520
 
       },
 
@@ -24913,10 +26282,12 @@ module CdekApi
       '25-0-3-3' => {
 
         code:       13283,
+        tariff:     137,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '7 - 12',
+        cost:       795
 
       },
 
@@ -24924,10 +26295,12 @@ module CdekApi
       '25-0-3-4' => {
 
         code:       13284,
+        tariff:     137,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '7 - 12',
+        cost:       795
 
       },
 
@@ -24935,10 +26308,12 @@ module CdekApi
       '25-0-12-0' => {
 
         code:       2377,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '4 - 8',
+        cost:       1540
 
       },
 
@@ -24946,10 +26321,12 @@ module CdekApi
       '25-0-4-0' => {
 
         code:       2869,
+        tariff:     137,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '6 - 10',
+        cost:       885
 
       },
 
@@ -24957,10 +26334,12 @@ module CdekApi
       '25-16-0-1' => {
 
         code:       2398,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '4 - 8',
+        cost:       1540
 
       },
 
@@ -24968,10 +26347,12 @@ module CdekApi
       '25-11-0-16' => {
 
         code:       13440,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '3 - 6',
+        cost:       520
 
       },
 
@@ -24979,10 +26360,12 @@ module CdekApi
       '25-10-0-1' => {
 
         code:       2870,
+        tariff:     137,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '8 - 14',
+        cost:       890
 
       },
 
@@ -24990,10 +26373,12 @@ module CdekApi
       '25-0-4-0' => {
 
         code:       501,
+        tariff:     136,
         address:    'Линейная ул., д.2а',
         phone:      '(4236) 697070',
         work_time:  'пн.-пт.9-18',
-        delivery:   ''
+        delivery:   '6 - 9',
+        cost:       415
 
       },
 
@@ -25001,10 +26386,12 @@ module CdekApi
       '25-25-0-9' => {
 
         code:       14299,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '3 - 5',
+        cost:       880
 
       },
 
@@ -25012,10 +26399,12 @@ module CdekApi
       '25-25-0-8' => {
 
         code:       14298,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '3 - 5',
+        cost:       880
 
       },
 
@@ -25023,10 +26412,12 @@ module CdekApi
       '25-19-0-18' => {
 
         code:       13100,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '3 - 6',
+        cost:       520
 
       },
 
@@ -25034,10 +26425,12 @@ module CdekApi
       '25-25-0-9' => {
 
         code:       14301,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '3 - 5',
+        cost:       880
 
       },
 
@@ -25045,10 +26438,12 @@ module CdekApi
       '25-11-0-19' => {
 
         code:       13439,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '3 - 6',
+        cost:       520
 
       },
 
@@ -25056,10 +26451,12 @@ module CdekApi
       '25-0-5-0' => {
 
         code:       2394,
+        tariff:     137,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '6 - 10',
+        cost:       885
 
       },
 
@@ -25067,10 +26464,12 @@ module CdekApi
       '25-15-0-1' => {
 
         code:       2375,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '4 - 8',
+        cost:       1540
 
       },
 
@@ -25078,10 +26477,12 @@ module CdekApi
       '25-25-0-11' => {
 
         code:       14295,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '3 - 5',
+        cost:       880
 
       },
 
@@ -25089,10 +26490,12 @@ module CdekApi
       '25-7-0-22' => {
 
         code:       907,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '4 - 8',
+        cost:       1540
 
       },
 
@@ -25100,10 +26503,12 @@ module CdekApi
       '25-11-0-22' => {
 
         code:       13441,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '3 - 6',
+        cost:       520
 
       },
 
@@ -25111,10 +26516,12 @@ module CdekApi
       '25-0-7-0' => {
 
         code:       14302,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '3 - 5',
+        cost:       880
 
       },
 
@@ -25122,10 +26529,12 @@ module CdekApi
       '25-25-0-13' => {
 
         code:       14297,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '3 - 5',
+        cost:       880
 
       },
 
@@ -25133,10 +26542,12 @@ module CdekApi
       '25-23-0-18' => {
 
         code:       2871,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '4 - 8',
+        cost:       1540
 
       },
 
@@ -25144,10 +26555,12 @@ module CdekApi
       '25-21-0-1' => {
 
         code:       2872,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '4 - 8',
+        cost:       1540
 
       },
 
@@ -25155,10 +26568,12 @@ module CdekApi
       '25-25-0-14' => {
 
         code:       14296,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '3 - 5',
+        cost:       880
 
       },
 
@@ -25166,10 +26581,12 @@ module CdekApi
       '25-0-10-0' => {
 
         code:       2376,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '4 - 8',
+        cost:       1540
 
       },
 
@@ -25177,10 +26594,12 @@ module CdekApi
       '25-0-3-7' => {
 
         code:       13285,
+        tariff:     137,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '9 - 16',
+        cost:       1015
 
       },
 
@@ -25188,21 +26607,12 @@ module CdekApi
       '25-11-0-29' => {
 
         code:       13443,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
-
-      },
-
-      # Уссурийск
-      '25-0-11-0' => {
-
-        code:       13099,
-        address:    '',
-        phone:      '',
-        work_time:  '',
-        delivery:   ''
+        delivery:   '3 - 6',
+        cost:       520
 
       },
 
@@ -25210,10 +26620,12 @@ module CdekApi
       '25-0-1-4' => {
 
         code:       13279,
+        tariff:     137,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '7 - 12',
+        cost:       795
 
       },
 
@@ -25221,10 +26633,12 @@ module CdekApi
       '25-0-11-0' => {
 
         code:       955,
+        tariff:     10,
         address:    'Калинина, д.43, оф.2 этаж',
         phone:      '(4234) 32-48-08',
         work_time:  'пн.-пт. 9.00-18.00',
-        delivery:   ''
+        delivery:   '3 - 5',
+        cost:       500
 
       },
 
@@ -25232,10 +26646,12 @@ module CdekApi
       '25-0-6-0' => {
 
         code:       906,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '3 - 5',
+        cost:       1000
 
       },
 
@@ -25243,10 +26659,12 @@ module CdekApi
       '25-25-0-17' => {
 
         code:       14303,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '3 - 5',
+        cost:       880
 
       },
 
@@ -25254,10 +26672,12 @@ module CdekApi
       '25-25-0-9' => {
 
         code:       14300,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '3 - 5',
+        cost:       880
 
       },
 
@@ -25265,10 +26685,12 @@ module CdekApi
       '25-23-0-1' => {
 
         code:       2874,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '4 - 8',
+        cost:       1540
 
       },
 
@@ -25276,10 +26698,12 @@ module CdekApi
       '25-25-0-15' => {
 
         code:       14294,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '3 - 5',
+        cost:       880
 
       },
 
@@ -25287,10 +26711,12 @@ module CdekApi
       '25-0-4-0' => {
 
         code:       13306,
+        tariff:     137,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '6 - 10',
+        cost:       885
 
       },
 
@@ -25298,10 +26724,12 @@ module CdekApi
       '25-24-0-31' => {
 
         code:       13281,
+        tariff:     137,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '9 - 16',
+        cost:       1015
 
       },
 
@@ -25309,10 +26737,12 @@ module CdekApi
       '60-21-0-2' => {
 
         code:       1770,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '5 - 7',
+        cost:       1300
 
       },
 
@@ -25320,10 +26750,12 @@ module CdekApi
       '60-2-0-1' => {
 
         code:       136,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '5 - 7',
+        cost:       1300
 
       },
 
@@ -25331,10 +26763,12 @@ module CdekApi
       '60-0-2-0' => {
 
         code:       1315,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '5 - 7',
+        cost:       1300
 
       },
 
@@ -25342,10 +26776,12 @@ module CdekApi
       '60-4-0-9' => {
 
         code:       2875,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '5 - 7',
+        cost:       1300
 
       },
 
@@ -25353,10 +26789,12 @@ module CdekApi
       '60-5-0-25' => {
 
         code:       2876,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '5 - 7',
+        cost:       1300
 
       },
 
@@ -25364,21 +26802,12 @@ module CdekApi
       '60-6-0-3' => {
 
         code:       2877,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
-
-      },
-
-      # Задняя Гора
-      '60-20-0-22' => {
-
-        code:       3204,
-        address:    '',
-        phone:      '',
-        work_time:  '',
-        delivery:   ''
+        delivery:   '5 - 7',
+        cost:       1300
 
       },
 
@@ -25386,10 +26815,12 @@ module CdekApi
       '60-8-0-1' => {
 
         code:       2878,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '5 - 7',
+        cost:       1300
 
       },
 
@@ -25397,10 +26828,12 @@ module CdekApi
       '60-9-0-1' => {
 
         code:       2879,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '5 - 7',
+        cost:       1300
 
       },
 
@@ -25408,10 +26841,12 @@ module CdekApi
       '60-10-1-0' => {
 
         code:       2880,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '5 - 7',
+        cost:       1300
 
       },
 
@@ -25419,10 +26854,12 @@ module CdekApi
       '60-11-0-2' => {
 
         code:       2881,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '5 - 7',
+        cost:       1300
 
       },
 
@@ -25430,10 +26867,12 @@ module CdekApi
       '60-12-0-10' => {
 
         code:       2882,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '5 - 7',
+        cost:       1300
 
       },
 
@@ -25441,10 +26880,12 @@ module CdekApi
       '60-13-0-5' => {
 
         code:       2883,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '5 - 7',
+        cost:       1300
 
       },
 
@@ -25452,10 +26893,12 @@ module CdekApi
       '60-14-0-8' => {
 
         code:       1168,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '5 - 7',
+        cost:       1300
 
       },
 
@@ -25463,10 +26906,12 @@ module CdekApi
       '60-15-0-1' => {
 
         code:       2884,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '5 - 7',
+        cost:       1300
 
       },
 
@@ -25474,10 +26919,12 @@ module CdekApi
       '60-16-0-263' => {
 
         code:       2885,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '5 - 7',
+        cost:       1300
 
       },
 
@@ -25485,10 +26932,12 @@ module CdekApi
       '60-14-0-448' => {
 
         code:       2886,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '5 - 7',
+        cost:       1300
 
       },
 
@@ -25496,10 +26945,12 @@ module CdekApi
       '60-18-0-16' => {
 
         code:       2887,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '5 - 7',
+        cost:       1300
 
       },
 
@@ -25507,10 +26958,12 @@ module CdekApi
       '60-0-1-0' => {
 
         code:       393,
+        tariff:     136,
         address:    'Ольгинская наб, д.5 а, оф.1-6',
         phone:      '(8112)57-00-05; 8-911-364-44-11',
         work_time:  'пн.-чт. 9-18, пт. 9-17',
-        delivery:   ''
+        delivery:   '5 - 8',
+        cost:       335
 
       },
 
@@ -25518,10 +26971,12 @@ module CdekApi
       '60-19-0-13' => {
 
         code:       968,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '5 - 7',
+        cost:       1300
 
       },
 
@@ -25529,10 +26984,12 @@ module CdekApi
       '60-20-0-1' => {
 
         code:       2888,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '5 - 7',
+        cost:       1300
 
       },
 
@@ -25540,10 +26997,12 @@ module CdekApi
       '60-21-0-36' => {
 
         code:       2889,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '5 - 7',
+        cost:       1300
 
       },
 
@@ -25551,10 +27010,12 @@ module CdekApi
       '60-22-0-9' => {
 
         code:       2890,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '5 - 7',
+        cost:       1300
 
       },
 
@@ -25562,10 +27023,12 @@ module CdekApi
       '60-23-0-1' => {
 
         code:       2891,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '5 - 7',
+        cost:       1300
 
       },
 
@@ -25573,10 +27036,12 @@ module CdekApi
       '60-24-0-1' => {
 
         code:       2892,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '5 - 7',
+        cost:       1300
 
       },
 
@@ -25584,10 +27049,12 @@ module CdekApi
       '61-0-13-0' => {
 
         code:       1068,
+        tariff:     137,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '7 - 10',
+        cost:       750
 
       },
 
@@ -25595,10 +27062,12 @@ module CdekApi
       '61-3-1-0' => {
 
         code:       1070,
+        tariff:     137,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '6 - 9',
+        cost:       750
 
       },
 
@@ -25606,10 +27075,12 @@ module CdekApi
       '61-4-0-1' => {
 
         code:       2893,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '4 - 6',
+        cost:       1180
 
       },
 
@@ -25617,10 +27088,12 @@ module CdekApi
       '61-0-3-0' => {
 
         code:       1072,
+        tariff:     137,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '6 - 9',
+        cost:       750
 
       },
 
@@ -25628,10 +27101,12 @@ module CdekApi
       '61-5-1-0' => {
 
         code:       1543,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '4 - 6',
+        cost:       1180
 
       },
 
@@ -25639,10 +27114,12 @@ module CdekApi
       '61-6-0-1' => {
 
         code:       2894,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '4 - 6',
+        cost:       1180
 
       },
 
@@ -25650,10 +27127,12 @@ module CdekApi
       '61-3-0-6' => {
 
         code:       13161,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '4 - 6',
+        cost:       1110
 
       },
 
@@ -25661,10 +27140,12 @@ module CdekApi
       '61-8-0-1' => {
 
         code:       2895,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '4 - 6',
+        cost:       1180
 
       },
 
@@ -25672,10 +27153,12 @@ module CdekApi
       '61-44-0-1' => {
 
         code:       2896,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '4 - 6',
+        cost:       1180
 
       },
 
@@ -25683,10 +27166,12 @@ module CdekApi
       '61-0-4-0' => {
 
         code:       1075,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '3 - 5',
+        cost:       1180
 
       },
 
@@ -25694,10 +27179,12 @@ module CdekApi
       '61-35-0-5' => {
 
         code:       2897,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '4 - 6',
+        cost:       1180
 
       },
 
@@ -25705,10 +27192,12 @@ module CdekApi
       '61-16-0-1' => {
 
         code:       2898,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '4 - 6',
+        cost:       1180
 
       },
 
@@ -25716,10 +27205,12 @@ module CdekApi
       '61-0-5-0' => {
 
         code:       1316,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '4 - 6',
+        cost:       1180
 
       },
 
@@ -25727,10 +27218,12 @@ module CdekApi
       '61-0-6-0' => {
 
         code:       1540,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '4 - 6',
+        cost:       1180
 
       },
 
@@ -25738,10 +27231,12 @@ module CdekApi
       '61-2-0-23' => {
 
         code:       2899,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '4 - 6',
+        cost:       1180
 
       },
 
@@ -25749,10 +27244,12 @@ module CdekApi
       '61-10-0-1' => {
 
         code:       2900,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '4 - 6',
+        cost:       1180
 
       },
 
@@ -25760,10 +27257,12 @@ module CdekApi
       '61-11-0-1' => {
 
         code:       2901,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '4 - 6',
+        cost:       1180
 
       },
 
@@ -25771,10 +27270,12 @@ module CdekApi
       '61-12-0-1' => {
 
         code:       2902,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '4 - 6',
+        cost:       1180
 
       },
 
@@ -25782,10 +27283,12 @@ module CdekApi
       '61-0-7-0' => {
 
         code:       2904,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '4 - 6',
+        cost:       1180
 
       },
 
@@ -25793,10 +27296,12 @@ module CdekApi
       '61-13-0-14' => {
 
         code:       2905,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '4 - 6',
+        cost:       1180
 
       },
 
@@ -25804,10 +27309,12 @@ module CdekApi
       '61-9-0-36' => {
 
         code:       2906,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '4 - 6',
+        cost:       1180
 
       },
 
@@ -25815,10 +27322,12 @@ module CdekApi
       '61-15-0-1' => {
 
         code:       2907,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '4 - 6',
+        cost:       1180
 
       },
 
@@ -25826,10 +27335,12 @@ module CdekApi
       '61-7-0-1' => {
 
         code:       2908,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '4 - 6',
+        cost:       1180
 
       },
 
@@ -25837,10 +27348,12 @@ module CdekApi
       '61-0-12-0' => {
 
         code:       953,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '4 - 6',
+        cost:       1180
 
       },
 
@@ -25848,10 +27361,12 @@ module CdekApi
       '61-0-8-0' => {
 
         code:       1245,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '4 - 6',
+        cost:       1180
 
       },
 
@@ -25859,10 +27374,12 @@ module CdekApi
       '61-17-0-1' => {
 
         code:       2909,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '4 - 6',
+        cost:       1180
 
       },
 
@@ -25870,10 +27387,12 @@ module CdekApi
       '61-18-0-42' => {
 
         code:       2910,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '4 - 6',
+        cost:       1180
 
       },
 
@@ -25881,10 +27400,12 @@ module CdekApi
       '61-19-0-105' => {
 
         code:       1539,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '4 - 6',
+        cost:       1180
 
       },
 
@@ -25892,10 +27413,12 @@ module CdekApi
       '61-20-0-1' => {
 
         code:       2911,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '4 - 6',
+        cost:       1180
 
       },
 
@@ -25903,10 +27426,12 @@ module CdekApi
       '61-0-12-0' => {
 
         code:       2913,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '4 - 6',
+        cost:       1180
 
       },
 
@@ -25914,10 +27439,12 @@ module CdekApi
       '61-22-0-1' => {
 
         code:       2914,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '4 - 6',
+        cost:       1180
 
       },
 
@@ -25925,10 +27452,12 @@ module CdekApi
       '61-23-0-125' => {
 
         code:       1060,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '4 - 6',
+        cost:       1180
 
       },
 
@@ -25936,10 +27465,12 @@ module CdekApi
       '61-24-0-1' => {
 
         code:       2915,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '4 - 6',
+        cost:       1180
 
       },
 
@@ -25947,10 +27478,12 @@ module CdekApi
       '61-25-0-4' => {
 
         code:       2916,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '4 - 6',
+        cost:       1180
 
       },
 
@@ -25958,10 +27491,12 @@ module CdekApi
       '61-41-0-1' => {
 
         code:       1748,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '4 - 6',
+        cost:       1180
 
       },
 
@@ -25969,10 +27504,12 @@ module CdekApi
       '61-0-9-0' => {
 
         code:       1071,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '4 - 6',
+        cost:       1180
 
       },
 
@@ -25980,10 +27517,12 @@ module CdekApi
       '61-0-10-0' => {
 
         code:       206,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '4 - 6',
+        cost:       1180
 
       },
 
@@ -25991,10 +27530,12 @@ module CdekApi
       '61-28-0-1' => {
 
         code:       2917,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '4 - 6',
+        cost:       1180
 
       },
 
@@ -26002,10 +27543,12 @@ module CdekApi
       '61-30-0-1' => {
 
         code:       2918,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '4 - 6',
+        cost:       1180
 
       },
 
@@ -26013,10 +27556,12 @@ module CdekApi
       '61-30-0-2' => {
 
         code:       1738,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '4 - 6',
+        cost:       1180
 
       },
 
@@ -26024,10 +27569,12 @@ module CdekApi
       '61-34-0-11' => {
 
         code:       2919,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '4 - 6',
+        cost:       1180
 
       },
 
@@ -26035,10 +27582,12 @@ module CdekApi
       '61-31-0-1' => {
 
         code:       2920,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '4 - 6',
+        cost:       1180
 
       },
 
@@ -26046,10 +27595,12 @@ module CdekApi
       '61-27-0-1' => {
 
         code:       2921,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '4 - 6',
+        cost:       1180
 
       },
 
@@ -26057,10 +27608,12 @@ module CdekApi
       '61-32-1-0' => {
 
         code:       2922,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '4 - 6',
+        cost:       1180
 
       },
 
@@ -26068,10 +27621,12 @@ module CdekApi
       '61-33-0-1' => {
 
         code:       2923,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '4 - 6',
+        cost:       1180
 
       },
 
@@ -26079,10 +27634,12 @@ module CdekApi
       '61-34-0-1' => {
 
         code:       2924,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '4 - 6',
+        cost:       1180
 
       },
 
@@ -26090,10 +27647,12 @@ module CdekApi
       '61-9-0-1' => {
 
         code:       2925,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '4 - 6',
+        cost:       1180
 
       },
 
@@ -26101,10 +27660,12 @@ module CdekApi
       '61-0-1-0' => {
 
         code:       438,
+        tariff:     136,
         address:    'Ленина пр-т., д.221/20',
         phone:      '(863) 209-80-85',
         work_time:  'пн.-пт.9-18,сб. 10-14',
-        delivery:   ''
+        delivery:   '4 - 6',
+        cost:       340
 
       },
 
@@ -26112,10 +27673,12 @@ module CdekApi
       '61-35-1-0' => {
 
         code:       2926,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '4 - 6',
+        cost:       1180
 
       },
 
@@ -26123,10 +27686,12 @@ module CdekApi
       '61-2-0-94' => {
 
         code:       2927,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '4 - 6',
+        cost:       1180
 
       },
 
@@ -26134,21 +27699,12 @@ module CdekApi
       '61-36-1-0' => {
 
         code:       2928,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
-
-      },
-
-      # Советская
-      '61-37-0-1' => {
-
-        code:       13154,
-        address:    '',
-        phone:      '',
-        work_time:  '',
-        delivery:   ''
+        delivery:   '4 - 6',
+        cost:       1180
 
       },
 
@@ -26156,10 +27712,12 @@ module CdekApi
       '61-41-0-53' => {
 
         code:       2929,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '4 - 6',
+        cost:       1180
 
       },
 
@@ -26167,10 +27725,12 @@ module CdekApi
       '61-0-11-0' => {
 
         code:       1069,
+        tariff:     136,
         address:    'Чехова ул., д.96',
         phone:      '(8634) 61-00-15, 365-387',
         work_time:  'пн.-пт. 9-18, сб. 10-14',
-        delivery:   ''
+        delivery:   '4 - 6',
+        cost:       340
 
       },
 
@@ -26178,10 +27738,12 @@ module CdekApi
       '61-38-0-1' => {
 
         code:       2930,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '4 - 6',
+        cost:       1180
 
       },
 
@@ -26189,10 +27751,12 @@ module CdekApi
       '61-39-0-1' => {
 
         code:       2931,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '4 - 6',
+        cost:       1180
 
       },
 
@@ -26200,21 +27764,12 @@ module CdekApi
       '61-40-0-1' => {
 
         code:       2932,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
-
-      },
-
-      # Истомино
-      '61-3-0-18' => {
-
-        code:       14264,
-        address:    '',
-        phone:      '',
-        work_time:  '',
-        delivery:   ''
+        delivery:   '4 - 6',
+        cost:       1180
 
       },
 
@@ -26222,10 +27777,12 @@ module CdekApi
       '61-19-0-8' => {
 
         code:       14324,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '4 - 6',
+        cost:       1180
 
       },
 
@@ -26233,10 +27790,12 @@ module CdekApi
       '61-41-0-1' => {
 
         code:       2933,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '4 - 6',
+        cost:       1180
 
       },
 
@@ -26244,10 +27803,12 @@ module CdekApi
       '61-42-1-0' => {
 
         code:       2934,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '3 - 5',
+        cost:       1180
 
       },
 
@@ -26255,10 +27816,12 @@ module CdekApi
       '61-26-0-1' => {
 
         code:       2935,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '4 - 6',
+        cost:       1180
 
       },
 
@@ -26266,10 +27829,12 @@ module CdekApi
       '61-43-0-1' => {
 
         code:       2936,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '4 - 6',
+        cost:       1180
 
       },
 
@@ -26277,10 +27842,12 @@ module CdekApi
       '61-0-12-0' => {
 
         code:       2349,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '4 - 6',
+        cost:       1180
 
       },
 
@@ -26288,10 +27855,12 @@ module CdekApi
       '62-25-0-2' => {
 
         code:       13993,
+        tariff:     137,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '6 - 9',
+        cost:       1115
 
       },
 
@@ -26299,10 +27868,12 @@ module CdekApi
       '62-10-0-1' => {
 
         code:       2943,
+        tariff:     137,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '6 - 9',
+        cost:       1505
 
       },
 
@@ -26310,10 +27881,12 @@ module CdekApi
       '62-5-0-28' => {
 
         code:       13994,
+        tariff:     137,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '6 - 9',
+        cost:       1375
 
       },
 
@@ -26321,10 +27894,12 @@ module CdekApi
       '62-5-0-4' => {
 
         code:       3233,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '4 - 7',
+        cost:       2190
 
       },
 
@@ -26332,10 +27907,12 @@ module CdekApi
       '62-2-0-1' => {
 
         code:       13990,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '4 - 7',
+        cost:       2840
 
       },
 
@@ -26343,10 +27920,12 @@ module CdekApi
       '62-1-0-62' => {
 
         code:       13995,
+        tariff:     137,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '6 - 9',
+        cost:       595
 
       },
 
@@ -26354,10 +27933,12 @@ module CdekApi
       '62-3-0-1' => {
 
         code:       13998,
+        tariff:     137,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '6 - 9',
+        cost:       595
 
       },
 
@@ -26365,10 +27946,12 @@ module CdekApi
       '62-14-0-6' => {
 
         code:       552,
+        tariff:     137,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '6 - 9',
+        cost:       745
 
       },
 
@@ -26376,10 +27959,12 @@ module CdekApi
       '62-4-0-1' => {
 
         code:       13989,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '4 - 7',
+        cost:       2840
 
       },
 
@@ -26387,10 +27972,12 @@ module CdekApi
       '62-5-0-23' => {
 
         code:       2944,
+        tariff:     137,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '6 - 9',
+        cost:       1545
 
       },
 
@@ -26398,10 +27985,12 @@ module CdekApi
       '62-7-0-15' => {
 
         code:       2938,
+        tariff:     137,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '6 - 9',
+        cost:       1115
 
       },
 
@@ -26409,10 +27998,12 @@ module CdekApi
       '62-25-0-6' => {
 
         code:       13987,
+        tariff:     137,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '6 - 9',
+        cost:       595
 
       },
 
@@ -26420,10 +28011,12 @@ module CdekApi
       '62-8-0-1' => {
 
         code:       13103,
+        tariff:     137,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '6 - 9',
+        cost:       1505
 
       },
 
@@ -26431,10 +28024,12 @@ module CdekApi
       '62-9-0-12' => {
 
         code:       2939,
+        tariff:     137,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '6 - 9',
+        cost:       855
 
       },
 
@@ -26442,10 +28037,12 @@ module CdekApi
       '62-1-0-8' => {
 
         code:       13992,
+        tariff:     137,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '6 - 9',
+        cost:       595
 
       },
 
@@ -26453,10 +28050,12 @@ module CdekApi
       '62-12-2-0' => {
 
         code:       459,
+        tariff:     137,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '6 - 9',
+        cost:       1025
 
       },
 
@@ -26464,10 +28063,12 @@ module CdekApi
       '62-9-0-114' => {
 
         code:       2940,
+        tariff:     137,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '6 - 9',
+        cost:       985
 
       },
 
@@ -26475,10 +28076,12 @@ module CdekApi
       '62-1-0-134' => {
 
         code:       13527,
+        tariff:     137,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '6 - 9',
+        cost:       595
 
       },
 
@@ -26486,10 +28089,12 @@ module CdekApi
       '62-12-0-1' => {
 
         code:       13991,
+        tariff:     137,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '6 - 9',
+        cost:       895
 
       },
 
@@ -26497,10 +28102,12 @@ module CdekApi
       '62-14-0-2' => {
 
         code:       2941,
+        tariff:     137,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '6 - 9',
+        cost:       595
 
       },
 
@@ -26508,10 +28115,12 @@ module CdekApi
       '62-15-0-12' => {
 
         code:       2945,
+        tariff:     137,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '6 - 9',
+        cost:       1195
 
       },
 
@@ -26519,10 +28128,12 @@ module CdekApi
       '62-0-1-0' => {
 
         code:       159,
+        tariff:     136,
         address:    'Затинная, д.31',
         phone:      '(4912) 99-18-02',
         work_time:  'пн.-пт. 9-18',
-        delivery:   ''
+        delivery:   '4 - 6',
+        cost:       335
 
       },
 
@@ -26530,10 +28141,12 @@ module CdekApi
       '62-16-0-1' => {
 
         code:       2946,
+        tariff:     137,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '6 - 9',
+        cost:       1375
 
       },
 
@@ -26541,10 +28154,12 @@ module CdekApi
       '62-17-0-1' => {
 
         code:       12997,
+        tariff:     137,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '6 - 9',
+        cost:       1575
 
       },
 
@@ -26552,10 +28167,12 @@ module CdekApi
       '62-18-0-44' => {
 
         code:       2355,
+        tariff:     137,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '6 - 9',
+        cost:       1765
 
       },
 
@@ -26563,10 +28180,12 @@ module CdekApi
       '62-19-0-11' => {
 
         code:       2947,
+        tariff:     137,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '6 - 9',
+        cost:       1285
 
       },
 
@@ -26574,10 +28193,12 @@ module CdekApi
       '62-0-1-0' => {
 
         code:       13996,
+        tariff:     137,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '6 - 9',
+        cost:       595
 
       },
 
@@ -26585,10 +28206,12 @@ module CdekApi
       '62-6-0-2' => {
 
         code:       13092,
+        tariff:     137,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '6 - 9',
+        cost:       925
 
       },
 
@@ -26596,10 +28219,12 @@ module CdekApi
       '62-20-0-23' => {
 
         code:       2937,
+        tariff:     137,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '6 - 9',
+        cost:       855
 
       },
 
@@ -26607,10 +28232,12 @@ module CdekApi
       '62-21-0-1' => {
 
         code:       2942,
+        tariff:     137,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '6 - 9',
+        cost:       765
 
       },
 
@@ -26618,10 +28245,12 @@ module CdekApi
       '62-5-0-26' => {
 
         code:       2952,
+        tariff:     137,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '6 - 9',
+        cost:       745
 
       },
 
@@ -26629,10 +28258,12 @@ module CdekApi
       '62-6-0-9' => {
 
         code:       13988,
+        tariff:     137,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '6 - 9',
+        cost:       1115
 
       },
 
@@ -26640,10 +28271,12 @@ module CdekApi
       '62-22-0-1' => {
 
         code:       2948,
+        tariff:     137,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '6 - 9',
+        cost:       1505
 
       },
 
@@ -26651,10 +28284,12 @@ module CdekApi
       '62-21-0-10' => {
 
         code:       13997,
+        tariff:     137,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '6 - 9',
+        cost:       725
 
       },
 
@@ -26662,10 +28297,12 @@ module CdekApi
       '62-19-0-5' => {
 
         code:       2949,
+        tariff:     137,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '6 - 9',
+        cost:       745
 
       },
 
@@ -26673,10 +28310,12 @@ module CdekApi
       '62-23-0-1' => {
 
         code:       13986,
+        tariff:     137,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '6 - 9',
+        cost:       1575
 
       },
 
@@ -26684,10 +28323,12 @@ module CdekApi
       '62-24-0-87' => {
 
         code:       2951,
+        tariff:     137,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '6 - 9',
+        cost:       1505
 
       },
 
@@ -26695,10 +28336,12 @@ module CdekApi
       '62-25-0-1' => {
 
         code:       2950,
+        tariff:     137,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '6 - 9',
+        cost:       1115
 
       },
 
@@ -26706,10 +28349,12 @@ module CdekApi
       '63-2-0-1' => {
 
         code:       2955,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '3 - 5',
+        cost:       1000
 
       },
 
@@ -26717,21 +28362,12 @@ module CdekApi
       '63-3-0-1' => {
 
         code:       1053,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
-
-      },
-
-      # Самара
-      '63-0-1-0' => {
-
-        code:       13412,
-        address:    '',
-        phone:      '',
-        work_time:  '',
-        delivery:   ''
+        delivery:   '3 - 5',
+        cost:       1180
 
       },
 
@@ -26739,10 +28375,12 @@ module CdekApi
       '63-4-0-1' => {
 
         code:       1221,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '3 - 5',
+        cost:       1180
 
       },
 
@@ -26750,10 +28388,12 @@ module CdekApi
       '63-5-0-1' => {
 
         code:       1051,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '3 - 5',
+        cost:       1180
 
       },
 
@@ -26761,10 +28401,12 @@ module CdekApi
       '63-16-0-3' => {
 
         code:       13427,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '3 - 5',
+        cost:       1180
 
       },
 
@@ -26772,10 +28414,12 @@ module CdekApi
       '63-6-0-1' => {
 
         code:       1050,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '3 - 5',
+        cost:       1180
 
       },
 
@@ -26783,10 +28427,12 @@ module CdekApi
       '63-7-0-1' => {
 
         code:       1047,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '3 - 5',
+        cost:       1180
 
       },
 
@@ -26794,21 +28440,12 @@ module CdekApi
       '63-11-0-29' => {
 
         code:       13021,
+        tariff:     137,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
-
-      },
-
-      # Самара
-      '63-0-1-0' => {
-
-        code:       13413,
-        address:    '',
-        phone:      '',
-        work_time:  '',
-        delivery:   ''
+        delivery:   '6 - 9',
+        cost:       740
 
       },
 
@@ -26816,32 +28453,12 @@ module CdekApi
       '63-16-0-12' => {
 
         code:       290,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
-
-      },
-
-      # Воскресенка
-      '63-28-0-7' => {
-
-        code:       13414,
-        address:    '',
-        phone:      '',
-        work_time:  '',
-        delivery:   ''
-
-      },
-
-      # Выселки
-      '63-22-0-16' => {
-
-        code:       13025,
-        address:    '',
-        phone:      '',
-        work_time:  '',
-        delivery:   ''
+        delivery:   '3 - 5',
+        cost:       1000
 
       },
 
@@ -26849,10 +28466,12 @@ module CdekApi
       '63-28-0-12' => {
 
         code:       13011,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '4 - 6',
+        cost:       1055
 
       },
 
@@ -26860,10 +28479,12 @@ module CdekApi
       '63-8-0-1' => {
 
         code:       1222,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '3 - 5',
+        cost:       1180
 
       },
 
@@ -26871,21 +28492,12 @@ module CdekApi
       '63-0-2-0' => {
 
         code:       1045,
+        tariff:     137,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
-
-      },
-
-      # Зеленовка
-      '63-22-0-19' => {
-
-        code:       13020,
-        address:    '',
-        phone:      '',
-        work_time:  '',
-        delivery:   ''
+        delivery:   '6 - 8',
+        cost:       620
 
       },
 
@@ -26893,10 +28505,12 @@ module CdekApi
       '63-9-0-1' => {
 
         code:       1039,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '3 - 5',
+        cost:       1180
 
       },
 
@@ -26904,10 +28518,12 @@ module CdekApi
       '63-10-0-1' => {
 
         code:       1223,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '3 - 5',
+        cost:       1180
 
       },
 
@@ -26915,10 +28531,12 @@ module CdekApi
       '63-0-10-0' => {
 
         code:       1046,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '3 - 5',
+        cost:       1000
 
       },
 
@@ -26926,10 +28544,12 @@ module CdekApi
       '63-11-0-1' => {
 
         code:       1043,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '3 - 5',
+        cost:       1180
 
       },
 
@@ -26937,10 +28557,12 @@ module CdekApi
       '63-13-0-8' => {
 
         code:       1038,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '3 - 5',
+        cost:       1180
 
       },
 
@@ -26948,10 +28570,12 @@ module CdekApi
       '63-0-1-26' => {
 
         code:       13196,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '3 - 5',
+        cost:       1110
 
       },
 
@@ -26959,10 +28583,12 @@ module CdekApi
       '63-14-0-1' => {
 
         code:       1036,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '3 - 5',
+        cost:       1180
 
       },
 
@@ -26970,10 +28596,12 @@ module CdekApi
       '63-15-0-1' => {
 
         code:       1052,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '3 - 5',
+        cost:       1180
 
       },
 
@@ -26981,10 +28609,12 @@ module CdekApi
       '63-16-0-1' => {
 
         code:       1042,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '3 - 5',
+        cost:       1000
 
       },
 
@@ -26992,10 +28622,12 @@ module CdekApi
       '63-28-0-21' => {
 
         code:       13200,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '3 - 5',
+        cost:       1020
 
       },
 
@@ -27003,32 +28635,12 @@ module CdekApi
       '63-28-0-10' => {
 
         code:       3225,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
-
-      },
-
-      # Зеленовка
-      '63-22-0-19' => {
-
-        code:       13031,
-        address:    '',
-        phone:      '',
-        work_time:  '',
-        delivery:   ''
-
-      },
-
-      # Мирный
-      '63-16-0-102' => {
-
-        code:       13415,
-        address:    '',
-        phone:      '',
-        work_time:  '',
-        delivery:   ''
+        delivery:   '3 - 5',
+        cost:       1000
 
       },
 
@@ -27036,32 +28648,12 @@ module CdekApi
       '63-2-0-17' => {
 
         code:       1048,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
-
-      },
-
-      # Нижнее Санчелеево
-      '63-22-0-29' => {
-
-        code:       13024,
-        address:    '',
-        phone:      '',
-        work_time:  '',
-        delivery:   ''
-
-      },
-
-      # Николаевка
-      '63-28-0-24' => {
-
-        code:       13418,
-        address:    '',
-        phone:      '',
-        work_time:  '',
-        delivery:   ''
+        delivery:   '3 - 5',
+        cost:       1180
 
       },
 
@@ -27069,10 +28661,12 @@ module CdekApi
       '63-0-3-0' => {
 
         code:       1031,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '3 - 5',
+        cost:       1000
 
       },
 
@@ -27080,10 +28674,12 @@ module CdekApi
       '63-5-0-20' => {
 
         code:       13392,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '5 - 7',
+        cost:       1055
 
       },
 
@@ -27091,10 +28687,12 @@ module CdekApi
       '63-16-0-8' => {
 
         code:       1273,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '3 - 5',
+        cost:       1000
 
       },
 
@@ -27102,10 +28700,12 @@ module CdekApi
       '63-0-4-0' => {
 
         code:       1034,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '3 - 5',
+        cost:       1180
 
       },
 
@@ -27113,10 +28713,12 @@ module CdekApi
       '63-0-5-0' => {
 
         code:       1044,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '3 - 5',
+        cost:       1180
 
       },
 
@@ -27124,32 +28726,12 @@ module CdekApi
       '63-18-0-1' => {
 
         code:       1224,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
-
-      },
-
-      # Дубовый Гай
-      '63-28-0-11' => {
-
-        code:       13419,
-        address:    '',
-        phone:      '',
-        work_time:  '',
-        delivery:   ''
-
-      },
-
-      # Нижнее Санчелеево
-      '63-22-0-29' => {
-
-        code:       13028,
-        address:    '',
-        phone:      '',
-        work_time:  '',
-        delivery:   ''
+        delivery:   '3 - 5',
+        cost:       1180
 
       },
 
@@ -27157,10 +28739,12 @@ module CdekApi
       '63-0-9-0' => {
 
         code:       1041,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '3 - 5',
+        cost:       1180
 
       },
 
@@ -27168,10 +28752,12 @@ module CdekApi
       '63-20-0-1' => {
 
         code:       1035,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '3 - 5',
+        cost:       1180
 
       },
 
@@ -27179,21 +28765,12 @@ module CdekApi
       '63-28-0-36' => {
 
         code:       13416,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
-
-      },
-
-      # Приморский
-      '63-22-0-38' => {
-
-        code:       13030,
-        address:    '',
-        phone:      '',
-        work_time:  '',
-        delivery:   ''
+        delivery:   '3 - 6',
+        cost:       1180
 
       },
 
@@ -27201,32 +28778,12 @@ module CdekApi
       '63-28-0-58' => {
 
         code:       947,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
-
-      },
-
-      # Рассвет
-      '63-22-0-39' => {
-
-        code:       13022,
-        address:    '',
-        phone:      '',
-        work_time:  '',
-        delivery:   ''
-
-      },
-
-      # Русская Борковка
-      '63-22-0-40' => {
-
-        code:       13399,
-        address:    '',
-        phone:      '',
-        work_time:  '',
-        delivery:   ''
+        delivery:   '3 - 5',
+        cost:       1180
 
       },
 
@@ -27234,10 +28791,12 @@ module CdekApi
       '63-0-1-0' => {
 
         code:       430,
+        tariff:     136,
         address:    'Чкалова ул, д.100/п, оф.17, 19',
         phone:      '(846) 222-90-12, 221-85-85',
         work_time:  'пн. -пт - 9-18, сб. 10-14',
-        delivery:   ''
+        delivery:   '4 - 6',
+        cost:       340
 
       },
 
@@ -27245,10 +28804,12 @@ module CdekApi
       '63-21-0-1' => {
 
         code:       2386,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '3 - 5',
+        cost:       1180
 
       },
 
@@ -27256,10 +28817,12 @@ module CdekApi
       '63-28-0-44' => {
 
         code:       13201,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '3 - 5',
+        cost:       1000
 
       },
 
@@ -27267,21 +28830,12 @@ module CdekApi
       '63-28-0-46' => {
 
         code:       13199,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
-
-      },
-
-      # Спутник
-      '63-28-0-47' => {
-
-        code:       13417,
-        address:    '',
-        phone:      '',
-        work_time:  '',
-        delivery:   ''
+        delivery:   '3 - 5',
+        cost:       1110
 
       },
 
@@ -27289,10 +28843,12 @@ module CdekApi
       '63-28-0-47' => {
 
         code:       1875,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '3 - 5',
+        cost:       1180
 
       },
 
@@ -27300,10 +28856,12 @@ module CdekApi
       '63-21-0-45' => {
 
         code:       13033,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '3 - 5',
+        cost:       975
 
       },
 
@@ -27311,21 +28869,12 @@ module CdekApi
       '63-23-0-12' => {
 
         code:       1033,
+        tariff:     137,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
-
-      },
-
-      # Ташла
-      '63-22-0-48' => {
-
-        code:       13027,
-        address:    '',
-        phone:      '',
-        work_time:  '',
-        delivery:   ''
+        delivery:   '6 - 9',
+        cost:       740
 
       },
 
@@ -27333,21 +28882,12 @@ module CdekApi
       '63-11-0-32' => {
 
         code:       2953,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
-
-      },
-
-      # Луначарский
-      '63-22-0-25' => {
-
-        code:       13032,
-        address:    '',
-        phone:      '',
-        work_time:  '',
-        delivery:   ''
+        delivery:   '3 - 5',
+        cost:       1180
 
       },
 
@@ -27355,21 +28895,12 @@ module CdekApi
       '63-0-7-0' => {
 
         code:       431,
+        tariff:     136,
         address:    'Тополиная ул., д.18а',
         phone:      '(8482) 63-32-63, 53- 79-43',
         work_time:  'пн.-пт. 9-18, сб. 10-14',
-        delivery:   ''
-
-      },
-
-      # Узюково
-      '63-22-0-51' => {
-
-        code:       13023,
-        address:    '',
-        phone:      '',
-        work_time:  '',
-        delivery:   ''
+        delivery:   '5 - 7',
+        cost:       340
 
       },
 
@@ -27377,10 +28908,12 @@ module CdekApi
       '63-0-1-38' => {
 
         code:       13195,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '3 - 5',
+        cost:       1110
 
       },
 
@@ -27388,21 +28921,12 @@ module CdekApi
       '63-0-10-4' => {
 
         code:       2954,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
-
-      },
-
-      # Федоровка
-      '63-4-0-28' => {
-
-        code:       13019,
-        address:    '',
-        phone:      '',
-        work_time:  '',
-        delivery:   ''
+        delivery:   '3 - 5',
+        cost:       1000
 
       },
 
@@ -27410,21 +28934,12 @@ module CdekApi
       '63-24-0-1' => {
 
         code:       2388,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
-
-      },
-
-      # Осиновка
-      '63-22-0-33' => {
-
-        code:       13026,
-        address:    '',
-        phone:      '',
-        work_time:  '',
-        delivery:   ''
+        delivery:   '3 - 5',
+        cost:       1180
 
       },
 
@@ -27432,10 +28947,12 @@ module CdekApi
       '63-16-0-84' => {
 
         code:       13391,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '5 - 7',
+        cost:       1055
 
       },
 
@@ -27443,10 +28960,12 @@ module CdekApi
       '63-0-3-9' => {
 
         code:       2384,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '3 - 5',
+        cost:       1180
 
       },
 
@@ -27454,10 +28973,12 @@ module CdekApi
       '63-25-0-1' => {
 
         code:       2385,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '3 - 5',
+        cost:       1180
 
       },
 
@@ -27465,10 +28986,12 @@ module CdekApi
       '63-26-0-9' => {
 
         code:       2387,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '3 - 5',
+        cost:       1180
 
       },
 
@@ -27476,32 +28999,12 @@ module CdekApi
       '63-27-0-1' => {
 
         code:       13422,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
-
-      },
-
-      # Жигулевск
-      '63-0-2-0' => {
-
-        code:       13018,
-        address:    '',
-        phone:      '',
-        work_time:  '',
-        delivery:   ''
-
-      },
-
-      # Ягодное
-      '63-22-0-53' => {
-
-        code:       13029,
-        address:    '',
-        phone:      '',
-        work_time:  '',
-        delivery:   ''
+        delivery:   '3 - 5',
+        cost:       1180
 
       },
 
@@ -27509,10 +29012,12 @@ module CdekApi
       '63-28-0-71' => {
 
         code:       13096,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '5 - 7',
+        cost:       1055
 
       },
 
@@ -27520,21 +29025,12 @@ module CdekApi
       '78-0-0-3' => {
 
         code:       2733,
+        tariff:     137,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
-
-      },
-
-      # Сестрорецк
-      '78-0-10-0' => {
-
-        code:       13403,
-        address:    '',
-        phone:      '',
-        work_time:  '',
-        delivery:   ''
+        delivery:   '5 - 11',
+        cost:       580
 
       },
 
@@ -27542,10 +29038,12 @@ module CdekApi
       '78-0-0-4' => {
 
         code:       2724,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '4 - 6',
+        cost:       650
 
       },
 
@@ -27553,10 +29051,12 @@ module CdekApi
       '78-0-0-38' => {
 
         code:       2685,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '4 - 6',
+        cost:       720
 
       },
 
@@ -27564,10 +29064,12 @@ module CdekApi
       '78-0-0-24' => {
 
         code:       1289,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '3 - 6',
+        cost:       650
 
       },
 
@@ -27575,10 +29077,12 @@ module CdekApi
       '78-0-0-12' => {
 
         code:       2723,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '5 - 8',
+        cost:       650
 
       },
 
@@ -27586,10 +29090,12 @@ module CdekApi
       '78-0-4-0' => {
 
         code:       1288,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '3 - 6',
+        cost:       650
 
       },
 
@@ -27597,10 +29103,12 @@ module CdekApi
       '78-0-5-0' => {
 
         code:       1287,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '4 - 6',
+        cost:       720
 
       },
 
@@ -27608,10 +29116,12 @@ module CdekApi
       '78-0-0-15' => {
 
         code:       2725,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '3 - 6',
+        cost:       650
 
       },
 
@@ -27619,10 +29129,12 @@ module CdekApi
       '78-0-0-16' => {
 
         code:       1633,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '3 - 6',
+        cost:       650
 
       },
 
@@ -27630,10 +29142,12 @@ module CdekApi
       '78-0-6-0' => {
 
         code:       983,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '4 - 6',
+        cost:       650
 
       },
 
@@ -27641,10 +29155,12 @@ module CdekApi
       '78-0-0-18' => {
 
         code:       1285,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '3 - 6',
+        cost:       650
 
       },
 
@@ -27652,10 +29168,12 @@ module CdekApi
       '78-0-0-20' => {
 
         code:       2729,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '7 - 10',
+        cost:       720
 
       },
 
@@ -27663,10 +29181,12 @@ module CdekApi
       '78-0-7-0' => {
 
         code:       1388,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '3 - 6',
+        cost:       650
 
       },
 
@@ -27674,10 +29194,12 @@ module CdekApi
       '78-0-0-22' => {
 
         code:       1213,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '3 - 6',
+        cost:       650
 
       },
 
@@ -27685,10 +29207,12 @@ module CdekApi
       '78-0-0-23' => {
 
         code:       1211,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '3 - 6',
+        cost:       650
 
       },
 
@@ -27696,10 +29220,12 @@ module CdekApi
       '78-0-0-24' => {
 
         code:       2708,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '3 - 6',
+        cost:       650
 
       },
 
@@ -27707,10 +29233,12 @@ module CdekApi
       '78-0-8-0' => {
 
         code:       1210,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '3 - 6',
+        cost:       650
 
       },
 
@@ -27718,10 +29246,12 @@ module CdekApi
       '78-0-0-25' => {
 
         code:       1584,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '3 - 6',
+        cost:       650
 
       },
 
@@ -27729,10 +29259,12 @@ module CdekApi
       '78-0-9-0' => {
 
         code:       394,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '3 - 6',
+        cost:       650
 
       },
 
@@ -27740,10 +29272,12 @@ module CdekApi
       '78-0-0-27' => {
 
         code:       396,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '5 - 8',
+        cost:       650
 
       },
 
@@ -27751,10 +29285,12 @@ module CdekApi
       '78-0-0-0' => {
 
         code:       137,
+        tariff:     136,
         address:    'Лиговский проспект, д.50, корп.13',
         phone:      '',
         work_time:  'пн.-пт. 8.30-20.00, сб. 10-16',
-        delivery:   ''
+        delivery:   '3 - 5',
+        cost:       175
 
       },
 
@@ -27762,10 +29298,12 @@ module CdekApi
       '78-0-0-28' => {
 
         code:       1586,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '3 - 6',
+        cost:       650
 
       },
 
@@ -27773,10 +29311,12 @@ module CdekApi
       '78-0-0-29' => {
 
         code:       2730,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '7 - 10',
+        cost:       720
 
       },
 
@@ -27784,10 +29324,12 @@ module CdekApi
       '78-0-10-0' => {
 
         code:       1208,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '3 - 6',
+        cost:       720
 
       },
 
@@ -27795,10 +29337,12 @@ module CdekApi
       '78-0-0-31' => {
 
         code:       2731,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '7 - 10',
+        cost:       720
 
       },
 
@@ -27806,10 +29350,12 @@ module CdekApi
       '78-0-0-32' => {
 
         code:       2732,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '5 - 8',
+        cost:       650
 
       },
 
@@ -27817,10 +29363,12 @@ module CdekApi
       '78-0-0-40' => {
 
         code:       1207,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '3 - 6',
+        cost:       650
 
       },
 
@@ -27828,10 +29376,12 @@ module CdekApi
       '78-0-0-36' => {
 
         code:       2726,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '3 - 6',
+        cost:       650
 
       },
 
@@ -27839,10 +29389,12 @@ module CdekApi
       '78-0-0-37' => {
 
         code:       2727,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '3 - 6',
+        cost:       650
 
       },
 
@@ -27850,10 +29402,12 @@ module CdekApi
       '78-0-0-38' => {
 
         code:       2728,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '5 - 8',
+        cost:       720
 
       },
 
@@ -27861,21 +29415,12 @@ module CdekApi
       '78-0-0-39' => {
 
         code:       1206,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
-
-      },
-
-      # Анисовский
-      '64-39-0-2' => {
-
-        code:       13609,
-        address:    '',
-        phone:      '',
-        work_time:  '',
-        delivery:   ''
+        delivery:   '3 - 6',
+        cost:       650
 
       },
 
@@ -27883,10 +29428,12 @@ module CdekApi
       '64-3-0-15' => {
 
         code:       2956,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '4 - 7',
+        cost:       1500
 
       },
 
@@ -27894,21 +29441,12 @@ module CdekApi
       '64-0-3-0' => {
 
         code:       2957,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
-
-      },
-
-      # Базарный Карабулак
-      '64-5-0-1' => {
-
-        code:       13006,
-        address:    '',
-        phone:      '',
-        work_time:  '',
-        delivery:   ''
+        delivery:   '4 - 7',
+        cost:       1500
 
       },
 
@@ -27916,10 +29454,12 @@ module CdekApi
       '64-0-4-0' => {
 
         code:       1089,
+        tariff:     137,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '7 - 10',
+        cost:       750
 
       },
 
@@ -27927,21 +29467,12 @@ module CdekApi
       '64-0-5-0' => {
 
         code:       1629,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
-
-      },
-
-      # Балтай
-      '64-8-0-1' => {
-
-        code:       13959,
-        address:    '',
-        phone:      '',
-        work_time:  '',
-        delivery:   ''
+        delivery:   '4 - 7',
+        cost:       1500
 
       },
 
@@ -27949,10 +29480,12 @@ module CdekApi
       '64-0-6-0' => {
 
         code:       2958,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '4 - 7',
+        cost:       1500
 
       },
 
@@ -27960,10 +29493,12 @@ module CdekApi
       '64-39-0-8' => {
 
         code:       2959,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '4 - 7',
+        cost:       1500
 
       },
 
@@ -27971,10 +29506,12 @@ module CdekApi
       '64-1-0-3' => {
 
         code:       2960,
+        tariff:     137,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '7 - 10',
+        cost:       750
 
       },
 
@@ -27982,10 +29519,12 @@ module CdekApi
       '64-13-0-1' => {
 
         code:       2961,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '4 - 7',
+        cost:       1500
 
       },
 
@@ -27993,10 +29532,12 @@ module CdekApi
       '64-10-0-6' => {
 
         code:       2962,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '4 - 7',
+        cost:       1500
 
       },
 
@@ -28004,21 +29545,12 @@ module CdekApi
       '64-14-1-0' => {
 
         code:       2963,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
-
-      },
-
-      # Жасминный
-      '64-0-1-35' => {
-
-        code:       13610,
-        address:    '',
-        phone:      '',
-        work_time:  '',
-        delivery:   ''
+        delivery:   '4 - 7',
+        cost:       1500
 
       },
 
@@ -28026,10 +29558,12 @@ module CdekApi
       '64-1-0-83' => {
 
         code:       2964,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '4 - 7',
+        cost:       1500
 
       },
 
@@ -28037,10 +29571,12 @@ module CdekApi
       '64-15-0-1' => {
 
         code:       2965,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '4 - 7',
+        cost:       1500
 
       },
 
@@ -28048,10 +29584,12 @@ module CdekApi
       '64-16-1-0' => {
 
         code:       222,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '4 - 7',
+        cost:       1500
 
       },
 
@@ -28059,10 +29597,12 @@ module CdekApi
       '64-39-0-75' => {
 
         code:       2966,
+        tariff:     137,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '7 - 10',
+        cost:       750
 
       },
 
@@ -28070,10 +29610,12 @@ module CdekApi
       '64-0-7-0' => {
 
         code:       1028,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '4 - 7',
+        cost:       1500
 
       },
 
@@ -28081,10 +29623,12 @@ module CdekApi
       '64-18-1-0' => {
 
         code:       2967,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '4 - 7',
+        cost:       1500
 
       },
 
@@ -28092,10 +29636,12 @@ module CdekApi
       '64-1-0-40' => {
 
         code:       2968,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '4 - 7',
+        cost:       1500
 
       },
 
@@ -28103,10 +29649,12 @@ module CdekApi
       '64-1-0-7' => {
 
         code:       2969,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '4 - 7',
+        cost:       1500
 
       },
 
@@ -28114,10 +29662,12 @@ module CdekApi
       '64-3-0-7' => {
 
         code:       2970,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '4 - 7',
+        cost:       1500
 
       },
 
@@ -28125,10 +29675,12 @@ module CdekApi
       '64-20-0-1' => {
 
         code:       2971,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '4 - 7',
+        cost:       1500
 
       },
 
@@ -28136,10 +29688,12 @@ module CdekApi
       '64-0-8-0' => {
 
         code:       1851,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '4 - 7',
+        cost:       1500
 
       },
 
@@ -28147,10 +29701,12 @@ module CdekApi
       '64-37-0-1' => {
 
         code:       2972,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '4 - 7',
+        cost:       1500
 
       },
 
@@ -28158,10 +29714,12 @@ module CdekApi
       '64-23-0-12' => {
 
         code:       13005,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '4 - 7',
+        cost:       1500
 
       },
 
@@ -28169,10 +29727,12 @@ module CdekApi
       '64-24-0-1' => {
 
         code:       2973,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '4 - 7',
+        cost:       1500
 
       },
 
@@ -28180,21 +29740,12 @@ module CdekApi
       '64-0-9-0' => {
 
         code:       2974,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
-
-      },
-
-      # Михайловка
-      '64-21-0-35' => {
-
-        code:       13061,
-        address:    '',
-        phone:      '',
-        work_time:  '',
-        delivery:   ''
+        delivery:   '4 - 7',
+        cost:       1500
 
       },
 
@@ -28202,10 +29753,12 @@ module CdekApi
       '64-0-13-0' => {
 
         code:       2975,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '4 - 7',
+        cost:       1500
 
       },
 
@@ -28213,10 +29766,12 @@ module CdekApi
       '64-0-1-39' => {
 
         code:       2976,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '4 - 7',
+        cost:       1500
 
       },
 
@@ -28224,10 +29779,12 @@ module CdekApi
       '64-39-0-38' => {
 
         code:       2977,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '4 - 7',
+        cost:       1500
 
       },
 
@@ -28235,10 +29792,12 @@ module CdekApi
       '64-0-10-0' => {
 
         code:       2978,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '4 - 7',
+        cost:       1500
 
       },
 
@@ -28246,10 +29805,12 @@ module CdekApi
       '64-1-0-10' => {
 
         code:       2979,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '4 - 7',
+        cost:       1500
 
       },
 
@@ -28257,10 +29818,12 @@ module CdekApi
       '64-0-11-0' => {
 
         code:       2980,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '4 - 7',
+        cost:       1500
 
       },
 
@@ -28268,21 +29831,12 @@ module CdekApi
       '64-0-1-0' => {
 
         code:       428,
+        tariff:     136,
         address:    '50 лет октября пр-т., д.110а, кор.8, оф.307',
         phone:      '(8452) 475-475',
         work_time:  'пн.-пт. 9-18',
-        delivery:   ''
-
-      },
-
-      # Соколовый
-      '64-1-0-15' => {
-
-        code:       13611,
-        address:    '',
-        phone:      '',
-        work_time:  '',
-        delivery:   ''
+        delivery:   '4 - 6',
+        cost:       340
 
       },
 
@@ -28290,10 +29844,12 @@ module CdekApi
       '64-34-0-1' => {
 
         code:       2981,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '4 - 7',
+        cost:       1500
 
       },
 
@@ -28301,10 +29857,12 @@ module CdekApi
       '64-1-0-38' => {
 
         code:       2982,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '4 - 7',
+        cost:       1500
 
       },
 
@@ -28312,21 +29870,12 @@ module CdekApi
       '64-35-0-1' => {
 
         code:       2983,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
-
-      },
-
-      # Александровка
-      '64-1-0-30' => {
-
-        code:       13612,
-        address:    '',
-        phone:      '',
-        work_time:  '',
-        delivery:   ''
+        delivery:   '4 - 7',
+        cost:       1500
 
       },
 
@@ -28334,10 +29883,12 @@ module CdekApi
       '64-1-0-52' => {
 
         code:       2984,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '4 - 7',
+        cost:       1500
 
       },
 
@@ -28345,10 +29896,12 @@ module CdekApi
       '64-0-12-0' => {
 
         code:       2985,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '4 - 7',
+        cost:       1500
 
       },
 
@@ -28356,10 +29909,12 @@ module CdekApi
       '64-10-0-11' => {
 
         code:       2986,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '4 - 7',
+        cost:       1500
 
       },
 
@@ -28367,10 +29922,12 @@ module CdekApi
       '64-0-2-0' => {
 
         code:       2987,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '4 - 7',
+        cost:       1500
 
       },
 
@@ -28378,10 +29935,12 @@ module CdekApi
       '64-0-13-6' => {
 
         code:       2988,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '4 - 7',
+        cost:       1500
 
       },
 
@@ -28389,10 +29948,12 @@ module CdekApi
       '64-0-13-0' => {
 
         code:       214,
+        tariff:     137,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '7 - 10',
+        cost:       750
 
       },
 
@@ -28400,10 +29961,12 @@ module CdekApi
       '14-17-0-2' => {
 
         code:       2989,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '5 - 9',
+        cost:       2560
 
       },
 
@@ -28411,10 +29974,12 @@ module CdekApi
       '14-3-0-20' => {
 
         code:       502,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '4 - 12',
+        cost:       2050
 
       },
 
@@ -28422,10 +29987,12 @@ module CdekApi
       '14-5-0-1' => {
 
         code:       1420,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '5 - 9',
+        cost:       2560
 
       },
 
@@ -28433,10 +30000,12 @@ module CdekApi
       '14-21-0-3' => {
 
         code:       13962,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '4 - 12',
+        cost:       2050
 
       },
 
@@ -28444,10 +30013,12 @@ module CdekApi
       '14-10-0-1' => {
 
         code:       13963,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '5 - 9',
+        cost:       3185
 
       },
 
@@ -28455,10 +30026,12 @@ module CdekApi
       '14-2-0-1' => {
 
         code:       1418,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '5 - 9',
+        cost:       3810
 
       },
 
@@ -28466,10 +30039,12 @@ module CdekApi
       '14-12-0-1' => {
 
         code:       13964,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '5 - 9',
+        cost:       2560
 
       },
 
@@ -28477,10 +30052,12 @@ module CdekApi
       '14-29-0-1' => {
 
         code:       1427,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '5 - 9',
+        cost:       2560
 
       },
 
@@ -28488,10 +30065,12 @@ module CdekApi
       '14-8-0-1' => {
 
         code:       13965,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '5 - 9',
+        cost:       3185
 
       },
 
@@ -28499,10 +30078,12 @@ module CdekApi
       '14-11-1-0' => {
 
         code:       19,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '5 - 9',
+        cost:       3185
 
       },
 
@@ -28510,10 +30091,12 @@ module CdekApi
       '14-15-0-3' => {
 
         code:       13984,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '9 - 13',
+        cost:       2050
 
       },
 
@@ -28521,10 +30104,12 @@ module CdekApi
       '14-31-0-1' => {
 
         code:       1428,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '5 - 9',
+        cost:       3185
 
       },
 
@@ -28532,10 +30117,12 @@ module CdekApi
       '14-0-1-2' => {
 
         code:       13966,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '4 - 12',
+        cost:       2050
 
       },
 
@@ -28543,10 +30130,12 @@ module CdekApi
       '14-13-0-1' => {
 
         code:       1465,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '5 - 9',
+        cost:       3185
 
       },
 
@@ -28554,10 +30143,12 @@ module CdekApi
       '14-9-0-1' => {
 
         code:       1415,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '5 - 9',
+        cost:       3810
 
       },
 
@@ -28565,10 +30156,12 @@ module CdekApi
       '14-32-0-6' => {
 
         code:       13967,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '4 - 12',
+        cost:       2050
 
       },
 
@@ -28576,10 +30169,12 @@ module CdekApi
       '14-11-0-7' => {
 
         code:       13968,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '4 - 12',
+        cost:       2050
 
       },
 
@@ -28587,10 +30182,12 @@ module CdekApi
       '14-15-1-10' => {
 
         code:       1416,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '5 - 9',
+        cost:       3185
 
       },
 
@@ -28598,10 +30195,12 @@ module CdekApi
       '14-16-0-1' => {
 
         code:       1422,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '4 - 12',
+        cost:       2050
 
       },
 
@@ -28609,10 +30208,12 @@ module CdekApi
       '14-0-1-0' => {
 
         code:       2995,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '4 - 12',
+        cost:       2050
 
       },
 
@@ -28620,10 +30221,12 @@ module CdekApi
       '14-8-0-23' => {
 
         code:       1462,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '4 - 12',
+        cost:       2050
 
       },
 
@@ -28631,10 +30234,12 @@ module CdekApi
       '14-23-0-12' => {
 
         code:       2994,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '4 - 12',
+        cost:       2050
 
       },
 
@@ -28642,10 +30247,12 @@ module CdekApi
       '14-17-0-12' => {
 
         code:       891,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '5 - 9',
+        cost:       3185
 
       },
 
@@ -28653,10 +30260,12 @@ module CdekApi
       '14-32-0-10' => {
 
         code:       13969,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '4 - 12',
+        cost:       2050
 
       },
 
@@ -28664,10 +30273,12 @@ module CdekApi
       '14-19-0-1' => {
 
         code:       1423,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '4 - 12',
+        cost:       2050
 
       },
 
@@ -28675,10 +30286,12 @@ module CdekApi
       '14-0-2-0' => {
 
         code:       892,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '5 - 9',
+        cost:       3185
 
       },
 
@@ -28686,10 +30299,12 @@ module CdekApi
       '14-3-0-11' => {
 
         code:       1463,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '4 - 12',
+        cost:       2050
 
       },
 
@@ -28697,10 +30312,12 @@ module CdekApi
       '14-21-1-0' => {
 
         code:       13970,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '5 - 9',
+        cost:       3185
 
       },
 
@@ -28708,10 +30325,12 @@ module CdekApi
       '14-0-0-2' => {
 
         code:       1429,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '5 - 9',
+        cost:       3185
 
       },
 
@@ -28719,10 +30338,12 @@ module CdekApi
       '14-24-0-1' => {
 
         code:       1425,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '5 - 9',
+        cost:       3810
 
       },
 
@@ -28730,10 +30351,12 @@ module CdekApi
       '14-16-0-14' => {
 
         code:       13971,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '4 - 12',
+        cost:       2050
 
       },
 
@@ -28741,10 +30364,12 @@ module CdekApi
       '14-15-0-10' => {
 
         code:       13003,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '4 - 12',
+        cost:       1740
 
       },
 
@@ -28752,10 +30377,12 @@ module CdekApi
       '14-32-1-0' => {
 
         code:       1488,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '5 - 9',
+        cost:       2560
 
       },
 
@@ -28763,10 +30390,12 @@ module CdekApi
       '14-14-0-1' => {
 
         code:       1421,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '5 - 9',
+        cost:       3185
 
       },
 
@@ -28774,10 +30403,12 @@ module CdekApi
       '14-17-0-8' => {
 
         code:       2990,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '4 - 12',
+        cost:       2050
 
       },
 
@@ -28785,10 +30416,12 @@ module CdekApi
       '14-0-2-7' => {
 
         code:       2991,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '4 - 12',
+        cost:       2050
 
       },
 
@@ -28796,10 +30429,12 @@ module CdekApi
       '14-25-0-12' => {
 
         code:       13972,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '5 - 9',
+        cost:       3810
 
       },
 
@@ -28807,10 +30442,12 @@ module CdekApi
       '14-26-0-1' => {
 
         code:       1426,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '5 - 9',
+        cost:       3185
 
       },
 
@@ -28818,10 +30455,12 @@ module CdekApi
       '14-7-0-1' => {
 
         code:       893,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '5 - 9',
+        cost:       3810
 
       },
 
@@ -28829,10 +30468,12 @@ module CdekApi
       '14-3-2-0' => {
 
         code:       1417,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '4 - 12',
+        cost:       2050
 
       },
 
@@ -28840,10 +30481,12 @@ module CdekApi
       '14-22-0-15' => {
 
         code:       13973,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '4 - 12',
+        cost:       2050
 
       },
 
@@ -28851,10 +30494,12 @@ module CdekApi
       '14-17-2-0' => {
 
         code:       1298,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '4 - 12',
+        cost:       2050
 
       },
 
@@ -28862,10 +30507,12 @@ module CdekApi
       '14-31-0-10' => {
 
         code:       13974,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '5 - 9',
+        cost:       3810
 
       },
 
@@ -28873,10 +30520,12 @@ module CdekApi
       '14-30-0-1' => {
 
         code:       13975,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '5 - 9',
+        cost:       3185
 
       },
 
@@ -28884,10 +30533,12 @@ module CdekApi
       '14-22-0-1' => {
 
         code:       13474,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '5 - 9',
+        cost:       3810
 
       },
 
@@ -28895,10 +30546,12 @@ module CdekApi
       '14-28-0-1' => {
 
         code:       13976,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '5 - 9',
+        cost:       3185
 
       },
 
@@ -28906,10 +30559,12 @@ module CdekApi
       '14-21-0-16' => {
 
         code:       13977,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '4 - 12',
+        cost:       2050
 
       },
 
@@ -28917,10 +30572,12 @@ module CdekApi
       '14-17-0-11' => {
 
         code:       2992,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '4 - 12',
+        cost:       2050
 
       },
 
@@ -28928,10 +30585,12 @@ module CdekApi
       '14-20-0-1' => {
 
         code:       1424,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '5 - 9',
+        cost:       4435
 
       },
 
@@ -28939,10 +30598,12 @@ module CdekApi
       '14-4-0-1' => {
 
         code:       1464,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '5 - 9',
+        cost:       3810
 
       },
 
@@ -28950,10 +30611,12 @@ module CdekApi
       '14-0-2-9' => {
 
         code:       2993,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '4 - 12',
+        cost:       2050
 
       },
 
@@ -28961,10 +30624,12 @@ module CdekApi
       '14-33-0-1' => {
 
         code:       13473,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '5 - 9',
+        cost:       2560
 
       },
 
@@ -28972,10 +30637,12 @@ module CdekApi
       '14-27-0-1' => {
 
         code:       1419,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '4 - 12',
+        cost:       2050
 
       },
 
@@ -28983,21 +30650,12 @@ module CdekApi
       '14-0-1-0' => {
 
         code:       283,
+        tariff:     136,
         address:    'Бестужева-марлинского, д.5/1, оф.вход со стороны крытого рынка',
         phone:      '8-924-765-00-63',
         work_time:  'пн.-пт. 9-18',
-        delivery:   ''
-
-      },
-
-      # Дальнее
-      '65-0-1-3' => {
-
-        code:       13960,
-        address:    '',
-        phone:      '',
-        work_time:  '',
-        delivery:   ''
+        delivery:   '6 - 9',
+        cost:       415
 
       },
 
@@ -29005,10 +30663,12 @@ module CdekApi
       '65-4-0-3' => {
 
         code:       13436,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '5 - 9',
+        cost:       1940
 
       },
 
@@ -29016,10 +30676,12 @@ module CdekApi
       '65-3-1-0' => {
 
         code:       13563,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '5 - 9',
+        cost:       1940
 
       },
 
@@ -29027,21 +30689,12 @@ module CdekApi
       '65-2-0-7' => {
 
         code:       56,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
-
-      },
-
-      # Амурское
-      '65-7-0-2' => {
-
-        code:       3216,
-        address:    '',
-        phone:      '',
-        work_time:  '',
-        delivery:   ''
+        delivery:   '5 - 9',
+        cost:       1940
 
       },
 
@@ -29049,10 +30702,12 @@ module CdekApi
       '65-8-0-1' => {
 
         code:       2997,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '5 - 9',
+        cost:       1940
 
       },
 
@@ -29060,10 +30715,12 @@ module CdekApi
       '65-9-1-0' => {
 
         code:       2399,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '5 - 9',
+        cost:       1940
 
       },
 
@@ -29071,10 +30728,12 @@ module CdekApi
       '65-10-1-0' => {
 
         code:       2996,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '5 - 9',
+        cost:       1940
 
       },
 
@@ -29082,10 +30741,12 @@ module CdekApi
       '65-16-0-25' => {
 
         code:       68,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '5 - 9',
+        cost:       1940
 
       },
 
@@ -29093,10 +30754,12 @@ module CdekApi
       '65-15-2-0' => {
 
         code:       13425,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '5 - 13',
+        cost:       1940
 
       },
 
@@ -29104,10 +30767,12 @@ module CdekApi
       '65-17-0-1' => {
 
         code:       13007,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '5 - 9',
+        cost:       2040
 
       },
 
@@ -29115,10 +30780,12 @@ module CdekApi
       '65-0-1-0' => {
 
         code:       473,
+        tariff:     136,
         address:    'Мира пр-кт, д.95, оф.25',
         phone:      '(4242)43-44-44, 8-913-756-22-34 ',
         work_time:  'пн.-пт. 9-18, сб. 10-14',
-        delivery:   ''
+        delivery:   '5 - 8',
+        cost:       415
 
       },
 
@@ -29126,10 +30793,12 @@ module CdekApi
       '66-0-24-0' => {
 
         code:       1337,
+        tariff:     137,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '5 - 9',
+        cost:       720
 
       },
 
@@ -29137,10 +30806,12 @@ module CdekApi
       '66-25-0-7' => {
 
         code:       602,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '2 - 4',
+        cost:       680
 
       },
 
@@ -29148,21 +30819,12 @@ module CdekApi
       '66-3-0-2' => {
 
         code:       1191,
+        tariff:     137,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
-
-      },
-
-      # Арти
-      '66-4-0-1' => {
-
-        code:       1864,
-        address:    '',
-        phone:      '',
-        work_time:  '',
-        delivery:   ''
+        delivery:   '5 - 9',
+        cost:       720
 
       },
 
@@ -29170,10 +30832,12 @@ module CdekApi
       '66-0-1-0' => {
 
         code:       608,
+        tariff:     137,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '5 - 8',
+        cost:       530
 
       },
 
@@ -29181,10 +30845,12 @@ module CdekApi
       '66-5-0-1' => {
 
         code:       1645,
+        tariff:     137,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '5 - 9',
+        cost:       700
 
       },
 
@@ -29192,10 +30858,12 @@ module CdekApi
       '66-7-0-1' => {
 
         code:       1643,
+        tariff:     137,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '7 - 12',
+        cost:       850
 
       },
 
@@ -29203,10 +30871,12 @@ module CdekApi
       '66-0-3-0' => {
 
         code:       610,
+        tariff:     137,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '5 - 8',
+        cost:       530
 
       },
 
@@ -29214,10 +30884,12 @@ module CdekApi
       '66-17-0-7' => {
 
         code:       1435,
+        tariff:     137,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '8 - 13',
+        cost:       1475
 
       },
 
@@ -29225,10 +30897,12 @@ module CdekApi
       '66-8-0-2' => {
 
         code:       1373,
+        tariff:     137,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '5 - 8',
+        cost:       720
 
       },
 
@@ -29236,10 +30910,12 @@ module CdekApi
       '66-25-0-11' => {
 
         code:       13241,
+        tariff:     137,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '5 - 8',
+        cost:       530
 
       },
 
@@ -29247,43 +30923,12 @@ module CdekApi
       '66-3-0-9' => {
 
         code:       1541,
+        tariff:     137,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
-
-      },
-
-      # Верх-Нейвинский
-      '66-16-0-8' => {
-
-        code:       3215,
-        address:    '',
-        phone:      '',
-        work_time:  '',
-        delivery:   ''
-
-      },
-
-      # Верхнее Дуброво
-      '66-7-0-13' => {
-
-        code:       13008,
-        address:    '',
-        phone:      '',
-        work_time:  '',
-        delivery:   ''
-
-      },
-
-      # Верхние Серги
-      '66-17-0-9' => {
-
-        code:       13303,
-        address:    '',
-        phone:      '',
-        work_time:  '',
-        delivery:   ''
+        delivery:   '7 - 13',
+        cost:       1500
 
       },
 
@@ -29291,10 +30936,12 @@ module CdekApi
       '66-0-37-0' => {
 
         code:       607,
+        tariff:     137,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '5 - 8',
+        cost:       720
 
       },
 
@@ -29302,10 +30949,12 @@ module CdekApi
       '66-0-4-0' => {
 
         code:       609,
+        tariff:     137,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '5 - 8',
+        cost:       530
 
       },
 
@@ -29313,10 +30962,12 @@ module CdekApi
       '66-0-27-5' => {
 
         code:       605,
+        tariff:     137,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '5 - 9',
+        cost:       720
 
       },
 
@@ -29324,10 +30975,12 @@ module CdekApi
       '66-2-0-20' => {
 
         code:       13101,
+        tariff:     137,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '7 - 13',
+        cost:       1980
 
       },
 
@@ -29335,10 +30988,12 @@ module CdekApi
       '66-0-40-0' => {
 
         code:       1648,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '2 - 5',
+        cost:       870
 
       },
 
@@ -29346,10 +31001,12 @@ module CdekApi
       '66-10-0-6' => {
 
         code:       1650,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '3 - 6',
+        cost:       870
 
       },
 
@@ -29357,32 +31014,12 @@ module CdekApi
       '66-0-39-0' => {
 
         code:       1653,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
-
-      },
-
-      # Горноуральский
-      '66-19-0-24' => {
-
-        code:       1647,
-        address:    '',
-        phone:      '',
-        work_time:  '',
-        delivery:   ''
-
-      },
-
-      # Двуреченск
-      '66-25-0-18' => {
-
-        code:       13378,
-        address:    '',
-        phone:      '',
-        work_time:  '',
-        delivery:   ''
+        delivery:   '3 - 6',
+        cost:       870
 
       },
 
@@ -29390,21 +31027,12 @@ module CdekApi
       '66-0-41-0' => {
 
         code:       2998,
+        tariff:     137,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
-
-      },
-
-      # Дружинино
-      '66-17-0-12' => {
-
-        code:       13379,
-        address:    '',
-        phone:      '',
-        work_time:  '',
-        delivery:   ''
+        delivery:   '5 - 8',
+        cost:       530
 
       },
 
@@ -29412,32 +31040,12 @@ module CdekApi
       '66-0-1-0' => {
 
         code:       250,
+        tariff:     62,
         address:    'Малышева ул, д.145',
         phone:      '(343) 278-75-28',
         work_time:  'пн.-пт. 8.30-19.00, сб. 10-14 ',
-        delivery:   ''
-
-      },
-
-      # Елань
-      '66-2-0-33' => {
-
-        code:       1874,
-        address:    '',
-        phone:      '',
-        work_time:  '',
-        delivery:   ''
-
-      },
-
-      # Залесье
-      '66-0-4-7' => {
-
-        code:       13145,
-        address:    '',
-        phone:      '',
-        work_time:  '',
-        delivery:   ''
+        delivery:   '1 - 2',
+        cost:       140
 
       },
 
@@ -29445,10 +31053,12 @@ module CdekApi
       '66-0-5-0' => {
 
         code:       614,
+        tariff:     137,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '5 - 8',
+        cost:       530
 
       },
 
@@ -29456,10 +31066,12 @@ module CdekApi
       '66-0-6-0' => {
 
         code:       1640,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '3 - 6',
+        cost:       870
 
       },
 
@@ -29467,10 +31079,12 @@ module CdekApi
       '66-0-29-0' => {
 
         code:       1267,
+        tariff:     137,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '5 - 9',
+        cost:       720
 
       },
 
@@ -29478,10 +31092,12 @@ module CdekApi
       '66-0-22-0' => {
 
         code:       615,
+        tariff:     137,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '5 - 9',
+        cost:       530
 
       },
 
@@ -29489,10 +31105,12 @@ module CdekApi
       '66-0-30-0' => {
 
         code:       613,
+        tariff:     137,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '5 - 9',
+        cost:       720
 
       },
 
@@ -29500,10 +31118,12 @@ module CdekApi
       '66-0-7-0' => {
 
         code:       1293,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '3 - 6',
+        cost:       870
 
       },
 
@@ -29511,10 +31131,12 @@ module CdekApi
       '66-0-8-0' => {
 
         code:       603,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '3 - 6',
+        cost:       870
 
       },
 
@@ -29522,10 +31144,12 @@ module CdekApi
       '66-0-9-0' => {
 
         code:       305,
+        tariff:     137,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '5 - 8',
+        cost:       530
 
       },
 
@@ -29533,10 +31157,12 @@ module CdekApi
       '66-0-1-0' => {
 
         code:       13310,
+        tariff:     137,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '5 - 8',
+        cost:       530
 
       },
 
@@ -29544,10 +31170,12 @@ module CdekApi
       '66-0-10-0' => {
 
         code:       600,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '3 - 6',
+        cost:       870
 
       },
 
@@ -29555,10 +31183,12 @@ module CdekApi
       '66-0-11-0' => {
 
         code:       1651,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '3 - 6',
+        cost:       870
 
       },
 
@@ -29566,10 +31196,12 @@ module CdekApi
       '66-0-31-0' => {
 
         code:       113,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '3 - 6',
+        cost:       870
 
       },
 
@@ -29577,10 +31209,12 @@ module CdekApi
       '66-0-12-0' => {
 
         code:       604,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '2 - 5',
+        cost:       870
 
       },
 
@@ -29588,10 +31222,12 @@ module CdekApi
       '66-0-13-0' => {
 
         code:       1403,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '3 - 6',
+        cost:       870
 
       },
 
@@ -29599,10 +31235,12 @@ module CdekApi
       '66-0-1-0' => {
 
         code:       13325,
+        tariff:     137,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '5 - 8',
+        cost:       530
 
       },
 
@@ -29610,21 +31248,12 @@ module CdekApi
       '66-17-2-0' => {
 
         code:       13383,
+        tariff:     137,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
-
-      },
-
-      # Монетный
-      '66-0-3-12' => {
-
-        code:       13377,
-        address:    '',
-        phone:      '',
-        work_time:  '',
-        delivery:   ''
+        delivery:   '5 - 9',
+        cost:       720
 
       },
 
@@ -29632,10 +31261,12 @@ module CdekApi
       '66-16-0-2' => {
 
         code:       1335,
+        tariff:     137,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '5 - 8',
+        cost:       530
 
       },
 
@@ -29643,10 +31274,12 @@ module CdekApi
       '66-0-16-34' => {
 
         code:       1644,
+        tariff:     137,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '5 - 9',
+        cost:       720
 
       },
 
@@ -29654,10 +31287,12 @@ module CdekApi
       '66-0-23-0' => {
 
         code:       251,
+        tariff:     137,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '5 - 9',
+        cost:       530
 
       },
 
@@ -29665,10 +31300,12 @@ module CdekApi
       '66-0-27-0' => {
 
         code:       72,
+        tariff:     137,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '5 - 9',
+        cost:       720
 
       },
 
@@ -29676,10 +31313,12 @@ module CdekApi
       '66-0-14-0' => {
 
         code:       1339,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '3 - 6',
+        cost:       870
 
       },
 
@@ -29687,10 +31326,12 @@ module CdekApi
       '66-18-0-2' => {
 
         code:       1649,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '3 - 6',
+        cost:       870
 
       },
 
@@ -29698,10 +31339,12 @@ module CdekApi
       '66-0-15-0' => {
 
         code:       611,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '3 - 6',
+        cost:       680
 
       },
 
@@ -29709,21 +31352,12 @@ module CdekApi
       '66-0-16-0' => {
 
         code:       616,
+        tariff:     137,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
-
-      },
-
-      # Малая Белоносова
-      '66-13-0-38' => {
-
-        code:       3203,
-        address:    '',
-        phone:      '',
-        work_time:  '',
-        delivery:   ''
+        delivery:   '5 - 8',
+        cost:       530
 
       },
 
@@ -29731,10 +31365,12 @@ module CdekApi
       '66-0-17-0' => {
 
         code:       606,
+        tariff:     137,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '5 - 8',
+        cost:       530
 
       },
 
@@ -29742,10 +31378,12 @@ module CdekApi
       '66-20-0-1' => {
 
         code:       3230,
+        tariff:     137,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '5 - 9',
+        cost:       1860
 
       },
 
@@ -29753,10 +31391,12 @@ module CdekApi
       '66-0-18-0' => {
 
         code:       306,
+        tariff:     137,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '5 - 8',
+        cost:       530
 
       },
 
@@ -29764,10 +31404,12 @@ module CdekApi
       '66-21-0-3' => {
 
         code:       1642,
+        tariff:     137,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '5 - 8',
+        cost:       530
 
       },
 
@@ -29775,10 +31417,12 @@ module CdekApi
       '66-0-2-10' => {
 
         code:       1436,
+        tariff:     137,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '5 - 9',
+        cost:       1400
 
       },
 
@@ -29786,21 +31430,12 @@ module CdekApi
       '66-12-0-16' => {
 
         code:       13240,
+        tariff:     137,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
-
-      },
-
-      # Свободный
-      '66-0-0-2' => {
-
-        code:       12999,
-        address:    '',
-        phone:      '',
-        work_time:  '',
-        delivery:   ''
+        delivery:   '5 - 8',
+        cost:       530
 
       },
 
@@ -29808,10 +31443,12 @@ module CdekApi
       '66-0-21-0' => {
 
         code:       599,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '3 - 6',
+        cost:       870
 
       },
 
@@ -29819,10 +31456,12 @@ module CdekApi
       '66-0-34-0' => {
 
         code:       601,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '3 - 6',
+        cost:       870
 
       },
 
@@ -29830,10 +31469,12 @@ module CdekApi
       '66-0-38-0' => {
 
         code:       2397,
+        tariff:     137,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '5 - 8',
+        cost:       530
 
       },
 
@@ -29841,10 +31482,12 @@ module CdekApi
       '66-0-3-19' => {
 
         code:       2006,
+        tariff:     137,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '8 - 13',
+        cost:       630
 
       },
 
@@ -29852,10 +31495,12 @@ module CdekApi
       '66-8-0-5' => {
 
         code:       1641,
+        tariff:     137,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '5 - 8',
+        cost:       720
 
       },
 
@@ -29863,10 +31508,12 @@ module CdekApi
       '66-25-0-11' => {
 
         code:       1414,
+        tariff:     137,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '5 - 8',
+        cost:       530
 
       },
 
@@ -29874,10 +31521,12 @@ module CdekApi
       '66-27-0-3' => {
 
         code:       1632,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '3 - 6',
+        cost:       870
 
       },
 
@@ -29885,32 +31534,12 @@ module CdekApi
       '66-28-0-8' => {
 
         code:       612,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
-
-      },
-
-      # Троицкий
-      '66-28-0-99' => {
-
-        code:       13380,
-        address:    '',
-        phone:      '',
-        work_time:  '',
-        delivery:   ''
-
-      },
-
-      # Тугулым
-      '66-29-0-1' => {
-
-        code:       1865,
-        address:    '',
-        phone:      '',
-        work_time:  '',
-        delivery:   ''
+        delivery:   '3 - 6',
+        cost:       870
 
       },
 
@@ -29918,10 +31547,12 @@ module CdekApi
       '66-30-0-2' => {
 
         code:       1652,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '3 - 6',
+        cost:       870
 
       },
 
@@ -29929,21 +31560,12 @@ module CdekApi
       '66-16-0-42' => {
 
         code:       2999,
+        tariff:     137,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
-
-      },
-
-      # Елизаветинское
-      '66-19-0-30' => {
-
-        code:       3217,
-        address:    '',
-        phone:      '',
-        work_time:  '',
-        delivery:   ''
+        delivery:   '7 - 13',
+        cost:       2135
 
       },
 
@@ -29951,10 +31573,12 @@ module CdekApi
       '66-31-0-1' => {
 
         code:       1646,
+        tariff:     137,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '6 - 10',
+        cost:       650
 
       },
 
@@ -29962,10 +31586,12 @@ module CdekApi
       '66-0-1-0' => {
 
         code:       13309,
+        tariff:     137,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '5 - 8',
+        cost:       530
 
       },
 
@@ -29973,10 +31599,12 @@ module CdekApi
       '66-0-1-31' => {
 
         code:       13146,
+        tariff:     137,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '7 - 13',
+        cost:       575
 
       },
 
@@ -29984,10 +31612,12 @@ module CdekApi
       '15-2-1-0' => {
 
         code:       2010,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '5 - 7',
+        cost:       1620
 
       },
 
@@ -29995,10 +31625,12 @@ module CdekApi
       '15-3-1-0' => {
 
         code:       2011,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '5 - 7',
+        cost:       1620
 
       },
 
@@ -30006,10 +31638,12 @@ module CdekApi
       '15-9-0-2' => {
 
         code:       14345,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '3 - 5',
+        cost:       1240
 
       },
 
@@ -30017,10 +31651,12 @@ module CdekApi
       '15-8-1-0' => {
 
         code:       2018,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '3 - 5',
+        cost:       1240
 
       },
 
@@ -30028,10 +31664,12 @@ module CdekApi
       '15-0-1-2' => {
 
         code:       2013,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '5 - 7',
+        cost:       1620
 
       },
 
@@ -30039,10 +31677,12 @@ module CdekApi
       '15-0-1-0' => {
 
         code:       1082,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '3 - 4',
+        cost:       1210
 
       },
 
@@ -30050,10 +31690,12 @@ module CdekApi
       '15-9-0-3' => {
 
         code:       2021,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '5 - 7',
+        cost:       1620
 
       },
 
@@ -30061,10 +31703,12 @@ module CdekApi
       '15-4-1-0' => {
 
         code:       2022,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '5 - 7',
+        cost:       1620
 
       },
 
@@ -30072,10 +31716,12 @@ module CdekApi
       '15-0-1-3' => {
 
         code:       2012,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '5 - 7',
+        cost:       1620
 
       },
 
@@ -30083,10 +31729,12 @@ module CdekApi
       '15-6-0-3' => {
 
         code:       14347,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '3 - 5',
+        cost:       1240
 
       },
 
@@ -30094,10 +31742,12 @@ module CdekApi
       '15-9-0-5' => {
 
         code:       14346,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '3 - 5',
+        cost:       1240
 
       },
 
@@ -30105,10 +31755,12 @@ module CdekApi
       '15-7-0-5' => {
 
         code:       14344,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '3 - 5',
+        cost:       1240
 
       },
 
@@ -30116,10 +31768,12 @@ module CdekApi
       '15-7-0-6' => {
 
         code:       14349,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '3 - 5',
+        cost:       1240
 
       },
 
@@ -30127,10 +31781,12 @@ module CdekApi
       '15-9-0-10' => {
 
         code:       14350,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '3 - 5',
+        cost:       1240
 
       },
 
@@ -30138,10 +31794,12 @@ module CdekApi
       '15-0-1-0' => {
 
         code:       14342,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '3 - 5',
+        cost:       1240
 
       },
 
@@ -30149,10 +31807,12 @@ module CdekApi
       '15-7-1-0' => {
 
         code:       2014,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '5 - 7',
+        cost:       1620
 
       },
 
@@ -30160,10 +31820,12 @@ module CdekApi
       '15-9-0-14' => {
 
         code:       14340,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '3 - 5',
+        cost:       1240
 
       },
 
@@ -30171,10 +31833,12 @@ module CdekApi
       '15-9-0-1' => {
 
         code:       2015,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '5 - 7',
+        cost:       1620
 
       },
 
@@ -30182,10 +31846,12 @@ module CdekApi
       '15-7-0-9' => {
 
         code:       14348,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '3 - 5',
+        cost:       1240
 
       },
 
@@ -30193,10 +31859,12 @@ module CdekApi
       '15-9-0-15' => {
 
         code:       14341,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '3 - 5',
+        cost:       1240
 
       },
 
@@ -30204,10 +31872,12 @@ module CdekApi
       '15-9-0-17' => {
 
         code:       14343,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '3 - 5',
+        cost:       1240
 
       },
 
@@ -30215,10 +31885,12 @@ module CdekApi
       '15-5-0-1' => {
 
         code:       2020,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '5 - 7',
+        cost:       1620
 
       },
 
@@ -30226,10 +31898,12 @@ module CdekApi
       '15-6-0-1' => {
 
         code:       2019,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '5 - 7',
+        cost:       1620
 
       },
 
@@ -30237,10 +31911,12 @@ module CdekApi
       '67-7-0-27' => {
 
         code:       3003,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '4 - 6',
+        cost:       1180
 
       },
 
@@ -30248,10 +31924,12 @@ module CdekApi
       '67-3-0-25' => {
 
         code:       397,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '4 - 6',
+        cost:       1180
 
       },
 
@@ -30259,10 +31937,12 @@ module CdekApi
       '67-4-0-17' => {
 
         code:       398,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '4 - 6',
+        cost:       1180
 
       },
 
@@ -30270,10 +31950,12 @@ module CdekApi
       '67-0-2-0' => {
 
         code:       3004,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '4 - 6',
+        cost:       1180
 
       },
 
@@ -30281,10 +31963,12 @@ module CdekApi
       '67-7-0-3' => {
 
         code:       3001,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '4 - 6',
+        cost:       1180
 
       },
 
@@ -30292,10 +31976,12 @@ module CdekApi
       '67-11-0-1' => {
 
         code:       3005,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '4 - 6',
+        cost:       1180
 
       },
 
@@ -30303,10 +31989,12 @@ module CdekApi
       '67-1-0-7' => {
 
         code:       1190,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '4 - 6',
+        cost:       1180
 
       },
 
@@ -30314,10 +32002,12 @@ module CdekApi
       '67-15-0-40' => {
 
         code:       13091,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '4 - 7',
+        cost:       1055
 
       },
 
@@ -30325,10 +32015,12 @@ module CdekApi
       '67-16-0-314' => {
 
         code:       3002,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '4 - 6',
+        cost:       1180
 
       },
 
@@ -30336,10 +32028,12 @@ module CdekApi
       '67-17-0-25' => {
 
         code:       3000,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '4 - 6',
+        cost:       1180
 
       },
 
@@ -30347,10 +32041,12 @@ module CdekApi
       '67-18-0-27' => {
 
         code:       2353,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '4 - 6',
+        cost:       1180
 
       },
 
@@ -30358,10 +32054,12 @@ module CdekApi
       '67-0-3-0' => {
 
         code:       395,
+        tariff:     136,
         address:    'Тенишевой, д.22, оф.25/2',
         phone:      '(4812) 40-40-22',
         work_time:  'пн.-пт. 9-18, сб. 11-16',
-        delivery:   ''
+        delivery:   '5 - 7',
+        cost:       335
 
       },
 
@@ -30369,10 +32067,12 @@ module CdekApi
       '67-19-0-6' => {
 
         code:       3006,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '4 - 6',
+        cost:       1180
 
       },
 
@@ -30380,10 +32080,12 @@ module CdekApi
       '67-25-0-30' => {
 
         code:       2354,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '4 - 6',
+        cost:       1180
 
       },
 
@@ -30391,10 +32093,12 @@ module CdekApi
       '26-2-0-1' => {
 
         code:       1468,
+        tariff:     137,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '6 - 10',
+        cost:       1324
 
       },
 
@@ -30402,10 +32106,12 @@ module CdekApi
       '26-17-0-2' => {
 
         code:       3008,
+        tariff:     137,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '6 - 10',
+        cost:       785
 
       },
 
@@ -30413,10 +32119,12 @@ module CdekApi
       '26-25-0-2' => {
 
         code:       1469,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '5 - 7',
+        cost:       1500
 
       },
 
@@ -30424,10 +32132,12 @@ module CdekApi
       '26-6-1-0' => {
 
         code:       1470,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '5 - 10',
+        cost:       1820
 
       },
 
@@ -30435,10 +32145,12 @@ module CdekApi
       '26-7-1-0' => {
 
         code:       1080,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '5 - 10',
+        cost:       1820
 
       },
 
@@ -30446,10 +32158,12 @@ module CdekApi
       '26-22-0-4' => {
 
         code:       3009,
+        tariff:     137,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '6 - 8',
+        cost:       594
 
       },
 
@@ -30457,10 +32171,12 @@ module CdekApi
       '26-0-9-0' => {
 
         code:       1077,
+        tariff:     137,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '6 - 9',
+        cost:       835
 
       },
 
@@ -30468,10 +32184,12 @@ module CdekApi
       '26-0-9-0' => {
 
         code:       1088,
+        tariff:     137,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '6 - 10',
+        cost:       873
 
       },
 
@@ -30479,10 +32197,12 @@ module CdekApi
       '26-0-7-2' => {
 
         code:       3010,
+        tariff:     137,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '6 - 8',
+        cost:       594
 
       },
 
@@ -30490,10 +32210,12 @@ module CdekApi
       '26-17-0-6' => {
 
         code:       13574,
+        tariff:     137,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '6 - 10',
+        cost:       785
 
       },
 
@@ -30501,10 +32223,12 @@ module CdekApi
       '26-9-0-1' => {
 
         code:       1471,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '5 - 7',
+        cost:       1500
 
       },
 
@@ -30512,10 +32236,12 @@ module CdekApi
       '26-27-0-3' => {
 
         code:       3011,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '5 - 7',
+        cost:       1500
 
       },
 
@@ -30523,10 +32249,12 @@ module CdekApi
       '26-4-0-1' => {
 
         code:       1472,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '5 - 7',
+        cost:       1500
 
       },
 
@@ -30534,10 +32262,12 @@ module CdekApi
       '26-25-0-1' => {
 
         code:       1473,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '5 - 7',
+        cost:       1500
 
       },
 
@@ -30545,10 +32275,12 @@ module CdekApi
       '26-0-2-0' => {
 
         code:       1235,
+        tariff:     137,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '6 - 9',
+        cost:       930
 
       },
 
@@ -30556,10 +32288,12 @@ module CdekApi
       '26-22-0-1' => {
 
         code:       3012,
+        tariff:     137,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '6 - 9',
+        cost:       930
 
       },
 
@@ -30567,10 +32301,12 @@ module CdekApi
       '26-0-3-0' => {
 
         code:       1280,
+        tariff:     137,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '6 - 9',
+        cost:       632
 
       },
 
@@ -30578,10 +32314,12 @@ module CdekApi
       '26-23-0-14' => {
 
         code:       1474,
+        tariff:     137,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '6 - 10',
+        cost:       1324
 
       },
 
@@ -30589,10 +32327,12 @@ module CdekApi
       '26-12-0-3' => {
 
         code:       3013,
+        tariff:     137,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '6 - 10',
+        cost:       823
 
       },
 
@@ -30600,10 +32340,12 @@ module CdekApi
       '26-13-0-19' => {
 
         code:       3014,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '5 - 7',
+        cost:       1500
 
       },
 
@@ -30611,10 +32353,12 @@ module CdekApi
       '26-10-1-0' => {
 
         code:       54,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '5 - 10',
+        cost:       1770
 
       },
 
@@ -30622,10 +32366,12 @@ module CdekApi
       '26-0-3-3' => {
 
         code:       3015,
+        tariff:     137,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '6 - 9',
+        cost:       632
 
       },
 
@@ -30633,10 +32379,12 @@ module CdekApi
       '26-11-0-2' => {
 
         code:       1475,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '5 - 7',
+        cost:       1500
 
       },
 
@@ -30644,10 +32392,12 @@ module CdekApi
       '26-17-0-13' => {
 
         code:       3016,
+        tariff:     137,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '6 - 9',
+        cost:       848
 
       },
 
@@ -30655,10 +32405,12 @@ module CdekApi
       '26-0-4-0' => {
 
         code:       62,
+        tariff:     136,
         address:    'Есенина ул., д.16',
         phone:      '8(7937)5-49-02; 8-928-360-48-82; 8-928-37302-93',
         work_time:  'пн-пт 9-18',
-        delivery:   ''
+        delivery:   '4 - 6',
+        cost:       340
 
       },
 
@@ -30666,10 +32418,12 @@ module CdekApi
       '26-12-0-5' => {
 
         code:       13576,
+        tariff:     137,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '6 - 10',
+        cost:       1000
 
       },
 
@@ -30677,10 +32431,12 @@ module CdekApi
       '26-0-10-0' => {
 
         code:       1476,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '5 - 10',
+        cost:       1770
 
       },
 
@@ -30688,10 +32444,12 @@ module CdekApi
       '26-14-0-1' => {
 
         code:       1477,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '5 - 7',
+        cost:       1500
 
       },
 
@@ -30699,10 +32457,12 @@ module CdekApi
       '26-8-0-5' => {
 
         code:       13570,
+        tariff:     137,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '6 - 10',
+        cost:       873
 
       },
 
@@ -30710,10 +32470,12 @@ module CdekApi
       '26-3-0-1' => {
 
         code:       1478,
+        tariff:     137,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '6 - 10',
+        cost:       1324
 
       },
 
@@ -30721,10 +32483,12 @@ module CdekApi
       '26-15-0-1' => {
 
         code:       1479,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '5 - 7',
+        cost:       1500
 
       },
 
@@ -30732,10 +32496,12 @@ module CdekApi
       '26-16-0-1' => {
 
         code:       1480,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '5 - 7',
+        cost:       1500
 
       },
 
@@ -30743,10 +32509,12 @@ module CdekApi
       '26-0-5-0' => {
 
         code:       1076,
+        tariff:     137,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '6 - 9',
+        cost:       639
 
       },
 
@@ -30754,10 +32522,12 @@ module CdekApi
       '26-26-0-1' => {
 
         code:       1481,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '5 - 7',
+        cost:       1500
 
       },
 
@@ -30765,10 +32535,12 @@ module CdekApi
       '26-0-10-0' => {
 
         code:       199,
+        tariff:     137,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '6 - 9',
+        cost:       750
 
       },
 
@@ -30776,10 +32548,12 @@ module CdekApi
       '26-27-0-40' => {
 
         code:       1078,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '5 - 10',
+        cost:       1770
 
       },
 
@@ -30787,10 +32561,12 @@ module CdekApi
       '26-17-0-19' => {
 
         code:       13575,
+        tariff:     137,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '6 - 10',
+        cost:       1000
 
       },
 
@@ -30798,10 +32574,12 @@ module CdekApi
       '26-0-6-0' => {
 
         code:       1079,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '3 - 5',
+        cost:       1240
 
       },
 
@@ -30809,10 +32587,12 @@ module CdekApi
       '26-22-0-17' => {
 
         code:       3017,
+        tariff:     137,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '7 - 12',
+        cost:       1230
 
       },
 
@@ -30820,10 +32600,12 @@ module CdekApi
       '26-0-9-0' => {
 
         code:       3018,
+        tariff:     137,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '6 - 10',
+        cost:       785
 
       },
 
@@ -30831,10 +32613,12 @@ module CdekApi
       '26-18-1-0' => {
 
         code:       127,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '5 - 10',
+        cost:       1820
 
       },
 
@@ -30842,10 +32626,12 @@ module CdekApi
       '26-13-0-23' => {
 
         code:       3019,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '5 - 7',
+        cost:       1500
 
       },
 
@@ -30853,10 +32639,12 @@ module CdekApi
       '26-19-1-0' => {
 
         code:       1482,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '5 - 10',
+        cost:       1820
 
       },
 
@@ -30864,10 +32652,12 @@ module CdekApi
       '26-22-0-9' => {
 
         code:       13582,
+        tariff:     137,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '6 - 10',
+        cost:       721
 
       },
 
@@ -30875,10 +32665,12 @@ module CdekApi
       '26-12-1-0' => {
 
         code:       3020,
+        tariff:     137,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '6 - 10',
+        cost:       1000
 
       },
 
@@ -30886,10 +32678,12 @@ module CdekApi
       '26-20-0-1' => {
 
         code:       1483,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '5 - 7',
+        cost:       1500
 
       },
 
@@ -30897,10 +32691,12 @@ module CdekApi
       '26-17-0-10' => {
 
         code:       1274,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '5 - 7',
+        cost:       1500
 
       },
 
@@ -30908,10 +32704,12 @@ module CdekApi
       '26-10-0-9' => {
 
         code:       3021,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '5 - 7',
+        cost:       1500
 
       },
 
@@ -30919,10 +32717,12 @@ module CdekApi
       '26-8-0-13' => {
 
         code:       3022,
+        tariff:     137,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '6 - 10',
+        cost:       937
 
       },
 
@@ -30930,10 +32730,12 @@ module CdekApi
       '26-17-0-21' => {
 
         code:       3023,
+        tariff:     137,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '6 - 10',
+        cost:       785
 
       },
 
@@ -30941,10 +32743,12 @@ module CdekApi
       '26-22-0-10' => {
 
         code:       3024,
+        tariff:     137,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '7 - 12',
+        cost:       1191
 
       },
 
@@ -30952,10 +32756,12 @@ module CdekApi
       '26-0-7-0' => {
 
         code:       151,
+        tariff:     136,
         address:    'Московская ул., д.68а',
         phone:      '+7(8793) 320-921,407-009,  8(905)416-54-64',
         work_time:  'пн.-пт. 9-18',
-        delivery:   ''
+        delivery:   '4 - 6',
+        cost:       340
 
       },
 
@@ -30963,10 +32769,12 @@ module CdekApi
       '26-22-0-11' => {
 
         code:       13583,
+        tariff:     137,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '6 - 10',
+        cost:       721
 
       },
 
@@ -30974,10 +32782,12 @@ module CdekApi
       '26-10-0-14' => {
 
         code:       3025,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '5 - 7',
+        cost:       1500
 
       },
 
@@ -30985,10 +32795,12 @@ module CdekApi
       '26-21-1-0' => {
 
         code:       1484,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '5 - 10',
+        cost:       1770
 
       },
 
@@ -30996,10 +32808,12 @@ module CdekApi
       '26-10-0-16' => {
 
         code:       1485,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '5 - 7',
+        cost:       1500
 
       },
 
@@ -31007,10 +32821,12 @@ module CdekApi
       '26-3-0-9' => {
 
         code:       1486,
+        tariff:     137,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '6 - 9',
+        cost:       1039
 
       },
 
@@ -31018,10 +32834,12 @@ module CdekApi
       '26-0-1-0' => {
 
         code:       439,
+        tariff:     136,
         address:    'Доваторцев ул., д.30б',
         phone:      '(8652) 22-15-21, 8-962-402-59-50',
         work_time:  'пн.-пт. 9-18',
-        delivery:   ''
+        delivery:   '4 - 7',
+        cost:       340
 
       },
 
@@ -31029,10 +32847,12 @@ module CdekApi
       '26-9-0-11' => {
 
         code:       3026,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '5 - 7',
+        cost:       1500
 
       },
 
@@ -31040,10 +32860,12 @@ module CdekApi
       '26-22-0-12' => {
 
         code:       13501,
+        tariff:     137,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '6 - 9',
+        cost:       921
 
       },
 
@@ -31051,10 +32873,12 @@ module CdekApi
       '26-15-0-2' => {
 
         code:       1879,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '5 - 7',
+        cost:       1500
 
       },
 
@@ -31062,10 +32886,12 @@ module CdekApi
       '26-27-0-10' => {
 
         code:       3027,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '5 - 7',
+        cost:       1500
 
       },
 
@@ -31073,10 +32899,12 @@ module CdekApi
       '26-22-0-14' => {
 
         code:       13584,
+        tariff:     137,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '6 - 10',
+        cost:       778
 
       },
 
@@ -31084,10 +32912,12 @@ module CdekApi
       '26-22-0-15' => {
 
         code:       13585,
+        tariff:     137,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '6 - 10',
+        cost:       740
 
       },
 
@@ -31095,10 +32925,12 @@ module CdekApi
       '26-22-0-16' => {
 
         code:       13586,
+        tariff:     137,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '6 - 10',
+        cost:       740
 
       },
 
@@ -31106,10 +32938,12 @@ module CdekApi
       '68-1-0-14' => {
 
         code:       3028,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '5 - 7',
+        cost:       1290
 
       },
 
@@ -31117,10 +32951,12 @@ module CdekApi
       '68-13-0-1' => {
 
         code:       14310,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '5 - 7',
+        cost:       1690
 
       },
 
@@ -31128,10 +32964,12 @@ module CdekApi
       '68-4-0-501' => {
 
         code:       3030,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '5 - 7',
+        cost:       2190
 
       },
 
@@ -31139,10 +32977,12 @@ module CdekApi
       '68-8-0-16' => {
 
         code:       13980,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '5 - 7',
+        cost:       2190
 
       },
 
@@ -31150,10 +32990,12 @@ module CdekApi
       '68-5-0-1' => {
 
         code:       3031,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '5 - 7',
+        cost:       1590
 
       },
 
@@ -31161,10 +33003,12 @@ module CdekApi
       '68-0-5-0' => {
 
         code:       3032,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '4 - 6',
+        cost:       1890
 
       },
 
@@ -31172,10 +33016,12 @@ module CdekApi
       '68-1-0-46' => {
 
         code:       3033,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '5 - 7',
+        cost:       1290
 
       },
 
@@ -31183,10 +33029,12 @@ module CdekApi
       '68-1-0-217' => {
 
         code:       377,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '4 - 6',
+        cost:       1440
 
       },
 
@@ -31194,10 +33042,12 @@ module CdekApi
       '68-0-6-0' => {
 
         code:       380,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '4 - 6',
+        cost:       1890
 
       },
 
@@ -31205,10 +33055,12 @@ module CdekApi
       '68-9-0-1' => {
 
         code:       14312,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '5 - 7',
+        cost:       1990
 
       },
 
@@ -31216,10 +33068,12 @@ module CdekApi
       '68-0-3-0' => {
 
         code:       3034,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '4 - 6',
+        cost:       2090
 
       },
 
@@ -31227,10 +33081,12 @@ module CdekApi
       '68-12-0-1' => {
 
         code:       14313,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '6 - 8',
+        cost:       2390
 
       },
 
@@ -31238,10 +33094,12 @@ module CdekApi
       '68-1-0-76' => {
 
         code:       14306,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '4 - 6',
+        cost:       1290
 
       },
 
@@ -31249,10 +33107,12 @@ module CdekApi
       '68-14-0-1' => {
 
         code:       3036,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '5 - 7',
+        cost:       2190
 
       },
 
@@ -31260,10 +33120,12 @@ module CdekApi
       '68-15-0-1' => {
 
         code:       14318,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '5 - 7',
+        cost:       1890
 
       },
 
@@ -31271,10 +33133,12 @@ module CdekApi
       '68-4-0-4' => {
 
         code:       14319,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '6 - 8',
+        cost:       1990
 
       },
 
@@ -31282,10 +33146,12 @@ module CdekApi
       '68-0-7-0' => {
 
         code:       371,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '4 - 6',
+        cost:       1490
 
       },
 
@@ -31293,10 +33159,12 @@ module CdekApi
       '68-18-0-1' => {
 
         code:       3035,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '4 - 6',
+        cost:       1790
 
       },
 
@@ -31304,10 +33172,12 @@ module CdekApi
       '68-20-0-1' => {
 
         code:       14309,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '5 - 7',
+        cost:       1590
 
       },
 
@@ -31315,10 +33185,12 @@ module CdekApi
       '68-21-0-1' => {
 
         code:       14315,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '5 - 7',
+        cost:       2190
 
       },
 
@@ -31326,10 +33198,12 @@ module CdekApi
       '68-1-0-1' => {
 
         code:       14308,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '4 - 6',
+        cost:       1290
 
       },
 
@@ -31337,10 +33211,12 @@ module CdekApi
       '68-1-0-108' => {
 
         code:       3029,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '5 - 7',
+        cost:       1290
 
       },
 
@@ -31348,10 +33224,12 @@ module CdekApi
       '68-0-4-0' => {
 
         code:       298,
+        tariff:     136,
         address:    'Чичканова ул., д.75, оф.4',
         phone:      '(4752) 475754, 8-953-712-13-14',
         work_time:  'пн-пт 9-18',
-        delivery:   ''
+        delivery:   '4 - 6',
+        cost:       335
 
       },
 
@@ -31359,10 +33237,12 @@ module CdekApi
       '68-22-0-1' => {
 
         code:       14311,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '5 - 7',
+        cost:       2190
 
       },
 
@@ -31370,10 +33250,12 @@ module CdekApi
       '68-0-8-0' => {
 
         code:       3037,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '5 - 7',
+        cost:       2190
 
       },
 
@@ -31381,10 +33263,12 @@ module CdekApi
       '68-24-0-1' => {
 
         code:       14314,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '6 - 8',
+        cost:       2390
 
       },
 
@@ -31392,10 +33276,12 @@ module CdekApi
       '16-2-0-17' => {
 
         code:       1497,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '3 - 5',
+        cost:       1180
 
       },
 
@@ -31403,10 +33289,12 @@ module CdekApi
       '16-3-0-2' => {
 
         code:       1498,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '3 - 5',
+        cost:       1180
 
       },
 
@@ -31414,10 +33302,12 @@ module CdekApi
       '16-4-0-1' => {
 
         code:       1499,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '3 - 5',
+        cost:       1180
 
       },
 
@@ -31425,10 +33315,12 @@ module CdekApi
       '16-5-0-1' => {
 
         code:       1500,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '3 - 5',
+        cost:       1180
 
       },
 
@@ -31436,10 +33328,12 @@ module CdekApi
       '16-12-0-3' => {
 
         code:       1501,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '3 - 5',
+        cost:       1055
 
       },
 
@@ -31447,10 +33341,12 @@ module CdekApi
       '16-6-0-1' => {
 
         code:       3038,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '3 - 5',
+        cost:       1180
 
       },
 
@@ -31458,10 +33354,12 @@ module CdekApi
       '16-3-0-7' => {
 
         code:       1533,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '4 - 6',
+        cost:       1180
 
       },
 
@@ -31469,10 +33367,12 @@ module CdekApi
       '16-8-1-0' => {
 
         code:       1054,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '3 - 5',
+        cost:       1180
 
       },
 
@@ -31480,10 +33380,12 @@ module CdekApi
       '16-9-0-1' => {
 
         code:       1503,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '3 - 5',
+        cost:       1180
 
       },
 
@@ -31491,10 +33393,12 @@ module CdekApi
       '16-10-0-32' => {
 
         code:       1504,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '3 - 5',
+        cost:       1180
 
       },
 
@@ -31502,10 +33406,12 @@ module CdekApi
       '16-13-0-5' => {
 
         code:       1534,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '3 - 5',
+        cost:       1180
 
       },
 
@@ -31513,10 +33419,12 @@ module CdekApi
       '16-12-0-7' => {
 
         code:       1506,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '3 - 5',
+        cost:       1180
 
       },
 
@@ -31524,10 +33432,12 @@ module CdekApi
       '16-7-0-1' => {
 
         code:       1502,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '3 - 5',
+        cost:       1180
 
       },
 
@@ -31535,10 +33445,12 @@ module CdekApi
       '16-13-0-1' => {
 
         code:       1507,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '3 - 5',
+        cost:       1180
 
       },
 
@@ -31546,10 +33458,12 @@ module CdekApi
       '16-36-0-1' => {
 
         code:       1525,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '3 - 5',
+        cost:       1180
 
       },
 
@@ -31557,10 +33471,12 @@ module CdekApi
       '16-38-0-12' => {
 
         code:       1527,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '3 - 5',
+        cost:       1180
 
       },
 
@@ -31568,10 +33484,12 @@ module CdekApi
       '16-11-0-1' => {
 
         code:       1505,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '3 - 5',
+        cost:       1180
 
       },
 
@@ -31579,10 +33497,12 @@ module CdekApi
       '16-22-0-1' => {
 
         code:       1514,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '3 - 5',
+        cost:       1180
 
       },
 
@@ -31590,10 +33510,12 @@ module CdekApi
       '16-14-0-20' => {
 
         code:       1055,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '3 - 5',
+        cost:       1180
 
       },
 
@@ -31601,10 +33523,12 @@ module CdekApi
       '16-15-1-0' => {
 
         code:       1508,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '3 - 5',
+        cost:       1180
 
       },
 
@@ -31612,10 +33536,12 @@ module CdekApi
       '16-21-0-25' => {
 
         code:       3043,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '3 - 5',
+        cost:       1180
 
       },
 
@@ -31623,10 +33549,12 @@ module CdekApi
       '16-27-0-21' => {
 
         code:       3044,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '3 - 5',
+        cost:       1180
 
       },
 
@@ -31634,10 +33562,12 @@ module CdekApi
       '16-16-0-1' => {
 
         code:       1509,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '3 - 5',
+        cost:       1180
 
       },
 
@@ -31645,10 +33575,12 @@ module CdekApi
       '12-0-2-0' => {
 
         code:       1018,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '3 - 5',
+        cost:       1170
 
       },
 
@@ -31656,10 +33588,12 @@ module CdekApi
       '16-14-0-14' => {
 
         code:       13313,
+        tariff:     137,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '4 - 6',
+        cost:       255
 
       },
 
@@ -31667,21 +33601,12 @@ module CdekApi
       '16-0-1-0' => {
 
         code:       1510,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
-
-      },
-
-      # Джалиль
-      '16-37-0-7' => {
-
-        code:       3220,
-        address:    '',
-        phone:      '',
-        work_time:  '',
-        delivery:   ''
+        delivery:   '3 - 5',
+        cost:       1180
 
       },
 
@@ -31689,10 +33614,12 @@ module CdekApi
       '16-19-1-0' => {
 
         code:       1056,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '3 - 6',
+        cost:       520
 
       },
 
@@ -31700,10 +33627,12 @@ module CdekApi
       '16-20-0-51' => {
 
         code:       1512,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '3 - 5',
+        cost:       1180
 
       },
 
@@ -31711,10 +33640,12 @@ module CdekApi
       '16-21-1-0' => {
 
         code:       1513,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '3 - 5',
+        cost:       1000
 
       },
 
@@ -31722,10 +33653,12 @@ module CdekApi
       '16-39-0-26' => {
 
         code:       13191,
+        tariff:     137,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '6 - 9',
+        cost:       675
 
       },
 
@@ -31733,10 +33666,12 @@ module CdekApi
       '16-0-1-0' => {
 
         code:       424,
+        tariff:     136,
         address:    'Сибирский тракт ул., д.34, корп. 4, оф.343, 344',
         phone:      '8(843) 567-12-34, (843) 567-12-35',
         work_time:  'пн.-пт. 9-18, сб. 10-14',
-        delivery:   ''
+        delivery:   '4 - 6',
+        cost:       335
 
       },
 
@@ -31744,21 +33679,12 @@ module CdekApi
       '16-15-0-18' => {
 
         code:       1535,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
-
-      },
-
-      # Камские Поляны
-      '16-31-0-27' => {
-
-        code:       3221,
-        address:    '',
-        phone:      '',
-        work_time:  '',
-        delivery:   ''
+        delivery:   '3 - 5',
+        cost:       1180
 
       },
 
@@ -31766,21 +33692,12 @@ module CdekApi
       '16-23-0-1' => {
 
         code:       1515,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
-
-      },
-
-      # Обухово
-      '16-25-0-34' => {
-
-        code:       13445,
-        address:    '',
-        phone:      '',
-        work_time:  '',
-        delivery:   ''
+        delivery:   '3 - 5',
+        cost:       1180
 
       },
 
@@ -31788,10 +33705,12 @@ module CdekApi
       '16-24-0-36' => {
 
         code:       1516,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '3 - 5',
+        cost:       1180
 
       },
 
@@ -31799,10 +33718,12 @@ module CdekApi
       '16-25-0-22' => {
 
         code:       1517,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '3 - 5',
+        cost:       1180
 
       },
 
@@ -31810,10 +33731,12 @@ module CdekApi
       '16-26-1-0' => {
 
         code:       213,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '3 - 5',
+        cost:       1180
 
       },
 
@@ -31821,32 +33744,12 @@ module CdekApi
       '16-25-0-26' => {
 
         code:       13089,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
-
-      },
-
-      # Ахтуба
-      '16-31-0-3' => {
-
-        code:       13194,
-        address:    '',
-        phone:      '',
-        work_time:  '',
-        delivery:   ''
-
-      },
-
-      # Большие Кабаны
-      '16-25-0-7' => {
-
-        code:       13055,
-        address:    '',
-        phone:      '',
-        work_time:  '',
-        delivery:   ''
+        delivery:   '3 - 5',
+        cost:       1055
 
       },
 
@@ -31854,10 +33757,12 @@ module CdekApi
       '16-27-0-133' => {
 
         code:       1518,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '3 - 5',
+        cost:       1180
 
       },
 
@@ -31865,10 +33770,12 @@ module CdekApi
       '16-28-1-0' => {
 
         code:       1519,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '3 - 5',
+        cost:       1180
 
       },
 
@@ -31876,10 +33783,12 @@ module CdekApi
       '16-29-1-0' => {
 
         code:       1520,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '3 - 5',
+        cost:       1180
 
       },
 
@@ -31887,10 +33796,12 @@ module CdekApi
       '16-20-1-3' => {
 
         code:       13312,
+        tariff:     137,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '6 - 9',
+        cost:       675
 
       },
 
@@ -31898,10 +33809,12 @@ module CdekApi
       '16-30-0-1' => {
 
         code:       1521,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '3 - 5',
+        cost:       1180
 
       },
 
@@ -31909,10 +33822,12 @@ module CdekApi
       '16-0-2-0' => {
 
         code:       433,
+        tariff:     136,
         address:    'Ахметшина, д.108',
         phone:      '(8552) 91-90-60',
         work_time:  'пн.-пт. 9-19, сб. 10-14',
-        delivery:   ''
+        delivery:   '5 - 7',
+        cost:       340
 
       },
 
@@ -31920,10 +33835,12 @@ module CdekApi
       '16-31-1-0' => {
 
         code:       153,
+        tariff:     137,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '7 - 9',
+        cost:       375
 
       },
 
@@ -31931,10 +33848,12 @@ module CdekApi
       '16-8-0-102' => {
 
         code:       1407,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '3 - 5',
+        cost:       1180
 
       },
 
@@ -31942,10 +33861,12 @@ module CdekApi
       '16-32-0-1' => {
 
         code:       1522,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '3 - 5',
+        cost:       1180
 
       },
 
@@ -31953,10 +33874,12 @@ module CdekApi
       '16-33-0-43' => {
 
         code:       1023,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '3 - 5',
+        cost:       1180
 
       },
 
@@ -31964,10 +33887,12 @@ module CdekApi
       '16-21-0-28' => {
 
         code:       3041,
+        tariff:     137,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '5 - 8',
+        cost:       745
 
       },
 
@@ -31975,10 +33900,12 @@ module CdekApi
       '16-34-0-1' => {
 
         code:       1523,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '3 - 5',
+        cost:       1180
 
       },
 
@@ -31986,10 +33913,12 @@ module CdekApi
       '16-35-0-1' => {
 
         code:       1524,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '3 - 5',
+        cost:       1180
 
       },
 
@@ -31997,10 +33926,12 @@ module CdekApi
       '16-37-0-1' => {
 
         code:       1526,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '3 - 5',
+        cost:       1180
 
       },
 
@@ -32008,10 +33939,12 @@ module CdekApi
       '16-18-0-1' => {
 
         code:       3040,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '3 - 5',
+        cost:       1180
 
       },
 
@@ -32019,10 +33952,12 @@ module CdekApi
       '16-27-0-13' => {
 
         code:       13193,
+        tariff:     137,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '6 - 9',
+        cost:       675
 
       },
 
@@ -32030,10 +33965,12 @@ module CdekApi
       '16-39-0-21' => {
 
         code:       1528,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '3 - 5',
+        cost:       1180
 
       },
 
@@ -32041,10 +33978,12 @@ module CdekApi
       '16-41-0-1' => {
 
         code:       1529,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '3 - 5',
+        cost:       1180
 
       },
 
@@ -32052,10 +33991,12 @@ module CdekApi
       '16-44-0-1' => {
 
         code:       1531,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '3 - 5',
+        cost:       1180
 
       },
 
@@ -32063,10 +34004,12 @@ module CdekApi
       '16-17-0-31' => {
 
         code:       3039,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '3 - 5',
+        cost:       1180
 
       },
 
@@ -32074,10 +34017,12 @@ module CdekApi
       '16-42-0-1' => {
 
         code:       1530,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '3 - 5',
+        cost:       1180
 
       },
 
@@ -32085,10 +34030,12 @@ module CdekApi
       '16-32-0-2' => {
 
         code:       1022,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '3 - 5',
+        cost:       1180
 
       },
 
@@ -32096,10 +34043,12 @@ module CdekApi
       '16-18-0-50' => {
 
         code:       1511,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '4 - 6',
+        cost:       1180
 
       },
 
@@ -32107,10 +34056,12 @@ module CdekApi
       '69-2-0-86' => {
 
         code:       1443,
+        tariff:     137,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '6 - 9',
+        cost:       745
 
       },
 
@@ -32118,10 +34069,12 @@ module CdekApi
       '69-18-0-9' => {
 
         code:       1771,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '4 - 7',
+        cost:       1300
 
       },
 
@@ -32129,10 +34082,12 @@ module CdekApi
       '69-0-1-0' => {
 
         code:       13373,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '3 - 7',
+        cost:       1300
 
       },
 
@@ -32140,10 +34095,12 @@ module CdekApi
       '69-3-1-0' => {
 
         code:       1304,
+        tariff:     137,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '6 - 9',
+        cost:       745
 
       },
 
@@ -32151,10 +34108,12 @@ module CdekApi
       '69-4-0-14' => {
 
         code:       1444,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '4 - 7',
+        cost:       1300
 
       },
 
@@ -32162,10 +34121,12 @@ module CdekApi
       '69-23-0-1' => {
 
         code:       3045,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '4 - 7',
+        cost:       1300
 
       },
 
@@ -32173,10 +34134,12 @@ module CdekApi
       '69-5-1-0' => {
 
         code:       1445,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '4 - 7',
+        cost:       1300
 
       },
 
@@ -32184,10 +34147,12 @@ module CdekApi
       '69-0-6-0' => {
 
         code:       1446,
+        tariff:     137,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '6 - 9',
+        cost:       745
 
       },
 
@@ -32195,10 +34160,12 @@ module CdekApi
       '69-15-0-24' => {
 
         code:       13566,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '4 - 7',
+        cost:       1300
 
       },
 
@@ -32206,10 +34173,12 @@ module CdekApi
       '69-15-0-28' => {
 
         code:       3046,
+        tariff:     137,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '6 - 9',
+        cost:       745
 
       },
 
@@ -32217,10 +34186,12 @@ module CdekApi
       '69-1-0-154' => {
 
         code:       3047,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '4 - 7',
+        cost:       1300
 
       },
 
@@ -32228,21 +34199,12 @@ module CdekApi
       '69-9-1-0' => {
 
         code:       1447,
+        tariff:     137,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
-
-      },
-
-      # Тверь
-      '69-0-1-0' => {
-
-        code:       13368,
-        address:    '',
-        phone:      '',
-        work_time:  '',
-        delivery:   ''
+        delivery:   '6 - 9',
+        cost:       745
 
       },
 
@@ -32250,10 +34212,12 @@ module CdekApi
       '69-10-1-0' => {
 
         code:       1448,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '4 - 7',
+        cost:       1300
 
       },
 
@@ -32261,10 +34225,12 @@ module CdekApi
       '69-11-1-0' => {
 
         code:       1449,
+        tariff:     137,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '6 - 9',
+        cost:       745
 
       },
 
@@ -32272,21 +34238,12 @@ module CdekApi
       '69-12-1-0' => {
 
         code:       1450,
+        tariff:     137,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
-
-      },
-
-      # Арисково
-      '69-1-0-19' => {
-
-        code:       13327,
-        address:    '',
-        phone:      '',
-        work_time:  '',
-        delivery:   ''
+        delivery:   '6 - 9',
+        cost:       745
 
       },
 
@@ -32294,10 +34251,12 @@ module CdekApi
       '69-13-0-1' => {
 
         code:       13308,
+        tariff:     137,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '6 - 9',
+        cost:       745
 
       },
 
@@ -32305,10 +34264,12 @@ module CdekApi
       '69-0-5-0' => {
 
         code:       1451,
+        tariff:     137,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '5 - 8',
+        cost:       945
 
       },
 
@@ -32316,10 +34277,12 @@ module CdekApi
       '69-15-0-142' => {
 
         code:       1452,
+        tariff:     137,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '6 - 9',
+        cost:       745
 
       },
 
@@ -32327,10 +34290,12 @@ module CdekApi
       '69-16-0-46' => {
 
         code:       1453,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '4 - 7',
+        cost:       1300
 
       },
 
@@ -32338,10 +34303,12 @@ module CdekApi
       '69-17-1-0' => {
 
         code:       1454,
+        tariff:     137,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '6 - 9',
+        cost:       745
 
       },
 
@@ -32349,10 +34316,12 @@ module CdekApi
       '69-19-0-49' => {
 
         code:       1455,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '4 - 7',
+        cost:       1300
 
       },
 
@@ -32360,21 +34329,12 @@ module CdekApi
       '69-20-0-1' => {
 
         code:       293,
+        tariff:     137,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
-
-      },
-
-      # Архангельское
-      '69-15-0-6' => {
-
-        code:       13367,
-        address:    '',
-        phone:      '',
-        work_time:  '',
-        delivery:   ''
+        delivery:   '6 - 9',
+        cost:       745
 
       },
 
@@ -32382,10 +34342,12 @@ module CdekApi
       '69-12-3-0' => {
 
         code:       3234,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '4 - 7',
+        cost:       1175
 
       },
 
@@ -32393,10 +34355,12 @@ module CdekApi
       '69-0-4-0' => {
 
         code:       1456,
+        tariff:     137,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '6 - 9',
+        cost:       745
 
       },
 
@@ -32404,10 +34368,12 @@ module CdekApi
       '69-11-13-4' => {
 
         code:       13304,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '3 - 7',
+        cost:       1175
 
       },
 
@@ -32415,21 +34381,12 @@ module CdekApi
       '69-15-0-113' => {
 
         code:       3048,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
-
-      },
-
-      # Оленино
-      '69-23-0-1' => {
-
-        code:       13385,
-        address:    '',
-        phone:      '',
-        work_time:  '',
-        delivery:   ''
+        delivery:   '4 - 7',
+        cost:       1300
 
       },
 
@@ -32437,10 +34394,12 @@ module CdekApi
       '69-24-0-79' => {
 
         code:       1457,
+        tariff:     137,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '6 - 9',
+        cost:       745
 
       },
 
@@ -32448,10 +34407,12 @@ module CdekApi
       '69-34-0-88' => {
 
         code:       938,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '4 - 7',
+        cost:       1300
 
       },
 
@@ -32459,10 +34420,12 @@ module CdekApi
       '69-15-0-5' => {
 
         code:       410,
+        tariff:     137,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '6 - 9',
+        cost:       745
 
       },
 
@@ -32470,21 +34433,12 @@ module CdekApi
       '69-0-3-0' => {
 
         code:       1458,
+        tariff:     137,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
-
-      },
-
-      # Андрейково
-      '69-1-0-15' => {
-
-        code:       13384,
-        address:    '',
-        phone:      '',
-        work_time:  '',
-        delivery:   ''
+        delivery:   '6 - 9',
+        cost:       745
 
       },
 
@@ -32492,10 +34446,12 @@ module CdekApi
       '69-29-0-1' => {
 
         code:       3051,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '4 - 7',
+        cost:       1300
 
       },
 
@@ -32503,10 +34459,12 @@ module CdekApi
       '69-30-0-1' => {
 
         code:       13462,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '4 - 7',
+        cost:       1300
 
       },
 
@@ -32514,10 +34472,12 @@ module CdekApi
       '69-31-0-1' => {
 
         code:       3050,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '4 - 7',
+        cost:       1300
 
       },
 
@@ -32525,10 +34485,12 @@ module CdekApi
       '69-32-0-140' => {
 
         code:       1459,
+        tariff:     137,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '6 - 9',
+        cost:       745
 
       },
 
@@ -32536,10 +34498,12 @@ module CdekApi
       '69-0-1-0' => {
 
         code:       245,
+        tariff:     136,
         address:    'Жигарева ул., д.7',
         phone:      '(4822) 76-79-24, 75-03-25',
         work_time:  'пн.-пт. 9-18, сб. 11-15',
-        delivery:   ''
+        delivery:   '4 - 6',
+        cost:       335
 
       },
 
@@ -32547,10 +34511,12 @@ module CdekApi
       '69-23-0-40' => {
 
         code:       1387,
+        tariff:     137,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '6 - 9',
+        cost:       745
 
       },
 
@@ -32558,10 +34524,12 @@ module CdekApi
       '69-34-1-0' => {
 
         code:       1460,
+        tariff:     137,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '6 - 9',
+        cost:       745
 
       },
 
@@ -32569,10 +34537,12 @@ module CdekApi
       '69-35-1-0' => {
 
         code:       1461,
+        tariff:     137,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '6 - 9',
+        cost:       745
 
       },
 
@@ -32580,10 +34550,12 @@ module CdekApi
       '69-1-0-13' => {
 
         code:       3049,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '4 - 7',
+        cost:       1300
 
       },
 
@@ -32591,10 +34563,12 @@ module CdekApi
       '69-15-0-180' => {
 
         code:       13460,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '3 - 6',
+        cost:       1120
 
       },
 
@@ -32602,10 +34576,12 @@ module CdekApi
       '70-2-0-1' => {
 
         code:       3055,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '4 - 7',
+        cost:       1260
 
       },
 
@@ -32613,10 +34589,12 @@ module CdekApi
       '70-3-1-0' => {
 
         code:       409,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '4 - 7',
+        cost:       1260
 
       },
 
@@ -32624,10 +34602,12 @@ module CdekApi
       '70-4-0-1' => {
 
         code:       3056,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '4 - 7',
+        cost:       1260
 
       },
 
@@ -32635,10 +34615,12 @@ module CdekApi
       '70-5-0-1' => {
 
         code:       3057,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '4 - 7',
+        cost:       1260
 
       },
 
@@ -32646,10 +34628,12 @@ module CdekApi
       '70-17-0-11' => {
 
         code:       722,
+        tariff:     137,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '7 - 11',
+        cost:       665
 
       },
 
@@ -32657,10 +34641,12 @@ module CdekApi
       '70-17-0-18' => {
 
         code:       310,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '4 - 7',
+        cost:       1260
 
       },
 
@@ -32668,10 +34654,12 @@ module CdekApi
       '70-6-0-1' => {
 
         code:       3058,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '4 - 7',
+        cost:       1260
 
       },
 
@@ -32679,10 +34667,12 @@ module CdekApi
       '70-17-0-51' => {
 
         code:       13857,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '4 - 6',
+        cost:       1260
 
       },
 
@@ -32690,10 +34680,12 @@ module CdekApi
       '70-7-0-1' => {
 
         code:       725,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '4 - 7',
+        cost:       1260
 
       },
 
@@ -32701,10 +34693,12 @@ module CdekApi
       '70-0-1-6' => {
 
         code:       13257,
+        tariff:     137,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '7 - 11',
+        cost:       555
 
       },
 
@@ -32712,10 +34706,12 @@ module CdekApi
       '70-0-2-0' => {
 
         code:       3054,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '4 - 7',
+        cost:       1260
 
       },
 
@@ -32723,10 +34719,12 @@ module CdekApi
       '70-8-0-1' => {
 
         code:       2087,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '4 - 7',
+        cost:       1260
 
       },
 
@@ -32734,10 +34732,12 @@ module CdekApi
       '70-9-1-0' => {
 
         code:       726,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '4 - 7',
+        cost:       1260
 
       },
 
@@ -32745,10 +34745,12 @@ module CdekApi
       '70-17-0-3' => {
 
         code:       13262,
+        tariff:     137,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '7 - 11',
+        cost:       555
 
       },
 
@@ -32756,10 +34758,12 @@ module CdekApi
       '70-0-1-36' => {
 
         code:       13858,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '4 - 6',
+        cost:       1260
 
       },
 
@@ -32767,10 +34771,12 @@ module CdekApi
       '70-10-0-1' => {
 
         code:       3053,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '4 - 7',
+        cost:       1260
 
       },
 
@@ -32778,21 +34784,12 @@ module CdekApi
       '70-0-1-29' => {
 
         code:       13258,
+        tariff:     137,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
-
-      },
-
-      # Томск
-      '70-0-1-0' => {
-
-        code:       14266,
-        address:    '',
-        phone:      '',
-        work_time:  '',
-        delivery:   ''
+        delivery:   '7 - 11',
+        cost:       555
 
       },
 
@@ -32800,10 +34797,12 @@ module CdekApi
       '70-16-0-1' => {
 
         code:       724,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '4 - 7',
+        cost:       1260
 
       },
 
@@ -32811,10 +34810,12 @@ module CdekApi
       '70-11-0-1' => {
 
         code:       3059,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '4 - 7',
+        cost:       1260
 
       },
 
@@ -32822,10 +34823,12 @@ module CdekApi
       '70-12-0-1' => {
 
         code:       2343,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '4 - 7',
+        cost:       1260
 
       },
 
@@ -32833,10 +34836,12 @@ module CdekApi
       '70-3-0-7' => {
 
         code:       3060,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '4 - 7',
+        cost:       1260
 
       },
 
@@ -32844,10 +34849,12 @@ module CdekApi
       '70-15-0-1' => {
 
         code:       296,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '4 - 7',
+        cost:       1260
 
       },
 
@@ -32855,10 +34862,12 @@ module CdekApi
       '70-17-0-118' => {
 
         code:       13855,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '4 - 6',
+        cost:       1260
 
       },
 
@@ -32866,10 +34875,12 @@ module CdekApi
       '70-0-1-35' => {
 
         code:       13259,
+        tariff:     137,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '7 - 11',
+        cost:       555
 
       },
 
@@ -32877,10 +34888,12 @@ module CdekApi
       '70-17-0-26' => {
 
         code:       13856,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '4 - 6',
+        cost:       1260
 
       },
 
@@ -32888,10 +34901,12 @@ module CdekApi
       '70-0-1-0' => {
 
         code:       3052,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '4 - 7',
+        cost:       1260
 
       },
 
@@ -32899,10 +34914,12 @@ module CdekApi
       '70-0-3-0' => {
 
         code:       723,
+        tariff:     137,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '7 - 11',
+        cost:       665
 
       },
 
@@ -32910,10 +34927,12 @@ module CdekApi
       '70-17-0-130' => {
 
         code:       13255,
+        tariff:     137,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '7 - 11',
+        cost:       555
 
       },
 
@@ -32921,10 +34940,12 @@ module CdekApi
       '70-0-4-0' => {
 
         code:       515,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '4 - 7',
+        cost:       1390
 
       },
 
@@ -32932,10 +34953,12 @@ module CdekApi
       '70-14-0-1' => {
 
         code:       3061,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '4 - 7',
+        cost:       1260
 
       },
 
@@ -32943,10 +34966,12 @@ module CdekApi
       '70-0-1-0' => {
 
         code:       13260,
+        tariff:     137,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '7 - 11',
+        cost:       555
 
       },
 
@@ -32954,10 +34979,12 @@ module CdekApi
       '70-0-1-0' => {
 
         code:       269,
+        tariff:     136,
         address:    'Енисейская ул, д.37, оф.104,105',
         phone:      '(3822)211848,211948,200548,789560',
         work_time:  'пн.-пт. 9-18, сб. 10-14',
-        delivery:   ''
+        delivery:   '4 - 6',
+        cost:       175
 
       },
 
@@ -32965,10 +34992,12 @@ module CdekApi
       '71-2-0-2' => {
 
         code:       2090,
+        tariff:     137,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '6 - 9',
+        cost:       885
 
       },
 
@@ -32976,10 +35005,12 @@ module CdekApi
       '71-3-0-1' => {
 
         code:       2091,
+        tariff:     137,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '7 - 9',
+        cost:       1105
 
       },
 
@@ -32987,10 +35018,12 @@ module CdekApi
       '71-12-0-1' => {
 
         code:       2096,
+        tariff:     137,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '7 - 9',
+        cost:       1435
 
       },
 
@@ -32998,10 +35031,12 @@ module CdekApi
       '71-4-0-9' => {
 
         code:       2092,
+        tariff:     137,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '7 - 9',
+        cost:       1270
 
       },
 
@@ -33009,10 +35044,12 @@ module CdekApi
       '71-5-1-0' => {
 
         code:       446,
+        tariff:     137,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '6 - 9',
+        cost:       885
 
       },
 
@@ -33020,10 +35057,12 @@ module CdekApi
       '71-6-0-8' => {
 
         code:       445,
+        tariff:     137,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '6 - 9',
+        cost:       885
 
       },
 
@@ -33031,10 +35070,12 @@ module CdekApi
       '71-7-0-1' => {
 
         code:       2093,
+        tariff:     137,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '7 - 9',
+        cost:       1105
 
       },
 
@@ -33042,10 +35083,12 @@ module CdekApi
       '71-14-0-31' => {
 
         code:       1750,
+        tariff:     137,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '6 - 9',
+        cost:       745
 
       },
 
@@ -33053,10 +35096,12 @@ module CdekApi
       '71-0-2-0' => {
 
         code:       1959,
+        tariff:     137,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '6 - 9',
+        cost:       885
 
       },
 
@@ -33064,10 +35109,12 @@ module CdekApi
       '71-9-0-1' => {
 
         code:       2094,
+        tariff:     137,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '6 - 9',
+        cost:       885
 
       },
 
@@ -33075,10 +35122,12 @@ module CdekApi
       '71-10-0-204' => {
 
         code:       444,
+        tariff:     137,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '7 - 9',
+        cost:       1435
 
       },
 
@@ -33086,10 +35135,12 @@ module CdekApi
       '71-11-0-1' => {
 
         code:       2095,
+        tariff:     137,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '7 - 9',
+        cost:       1270
 
       },
 
@@ -33097,10 +35148,12 @@ module CdekApi
       '71-13-0-5' => {
 
         code:       939,
+        tariff:     137,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '6 - 9',
+        cost:       885
 
       },
 
@@ -33108,10 +35161,12 @@ module CdekApi
       '71-14-0-21' => {
 
         code:       2097,
+        tariff:     137,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '6 - 9',
+        cost:       885
 
       },
 
@@ -33119,10 +35174,12 @@ module CdekApi
       '71-0-1-0' => {
 
         code:       3062,
+        tariff:     137,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '6 - 9',
+        cost:       745
 
       },
 
@@ -33130,10 +35187,12 @@ module CdekApi
       '71-15-0-1' => {
 
         code:       2098,
+        tariff:     137,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '6 - 9',
+        cost:       735
 
       },
 
@@ -33141,10 +35200,12 @@ module CdekApi
       '71-16-0-1' => {
 
         code:       2099,
+        tariff:     137,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '6 - 9',
+        cost:       665
 
       },
 
@@ -33152,10 +35213,12 @@ module CdekApi
       '71-0-1-0' => {
 
         code:       3063,
+        tariff:     137,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '6 - 9',
+        cost:       745
 
       },
 
@@ -33163,10 +35226,12 @@ module CdekApi
       '71-17-0-5' => {
 
         code:       447,
+        tariff:     137,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '6 - 9',
+        cost:       885
 
       },
 
@@ -33174,10 +35239,12 @@ module CdekApi
       '71-18-0-1' => {
 
         code:       2100,
+        tariff:     137,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '6 - 9',
+        cost:       885
 
       },
 
@@ -33185,10 +35252,12 @@ module CdekApi
       '71-24-0-40' => {
 
         code:       3065,
+        tariff:     137,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '6 - 9',
+        cost:       745
 
       },
 
@@ -33196,10 +35265,12 @@ module CdekApi
       '71-19-0-6' => {
 
         code:       2101,
+        tariff:     137,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '6 - 9',
+        cost:       885
 
       },
 
@@ -33207,10 +35278,12 @@ module CdekApi
       '71-23-0-113' => {
 
         code:       3064,
+        tariff:     137,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '6 - 9',
+        cost:       745
 
       },
 
@@ -33218,10 +35291,12 @@ module CdekApi
       '71-20-0-6' => {
 
         code:       2106,
+        tariff:     137,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '7 - 9',
+        cost:       1105
 
       },
 
@@ -33229,10 +35304,12 @@ module CdekApi
       '71-16-0-223' => {
 
         code:       2102,
+        tariff:     137,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '6 - 9',
+        cost:       885
 
       },
 
@@ -33240,10 +35317,12 @@ module CdekApi
       '71-0-1-0' => {
 
         code:       150,
+        tariff:     136,
         address:    'Первомайская, д.2',
         phone:      '(4872) 52-12-42, (953) 197-05-05',
         work_time:  'пн.-пт. 9-19, сб. 10-14',
-        delivery:   ''
+        delivery:   '4 - 6',
+        cost:       335
 
       },
 
@@ -33251,10 +35330,12 @@ module CdekApi
       '71-22-0-26' => {
 
         code:       2103,
+        tariff:     137,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '6 - 9',
+        cost:       885
 
       },
 
@@ -33262,10 +35343,12 @@ module CdekApi
       '71-23-0-20' => {
 
         code:       2104,
+        tariff:     137,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '7 - 9',
+        cost:       1105
 
       },
 
@@ -33273,10 +35356,12 @@ module CdekApi
       '71-24-0-37' => {
 
         code:       2105,
+        tariff:     137,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '6 - 9',
+        cost:       665
 
       },
 
@@ -33284,10 +35369,12 @@ module CdekApi
       '71-25-0-5' => {
 
         code:       449,
+        tariff:     137,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '6 - 9',
+        cost:       885
 
       },
 
@@ -33295,10 +35382,12 @@ module CdekApi
       '17-0-2-0' => {
 
         code:       3067,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '8 - 11',
+        cost:       1610
 
       },
 
@@ -33306,10 +35395,12 @@ module CdekApi
       '17-6-0-1' => {
 
         code:       3073,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '8 - 11',
+        cost:       1610
 
       },
 
@@ -33317,10 +35408,12 @@ module CdekApi
       '17-0-1-0' => {
 
         code:       871,
+        tariff:     136,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '6 - 9',
+        cost:       440
 
       },
 
@@ -33328,10 +35421,12 @@ module CdekApi
       '17-3-0-1' => {
 
         code:       3070,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '8 - 11',
+        cost:       1610
 
       },
 
@@ -33339,10 +35434,12 @@ module CdekApi
       '17-7-0-1' => {
 
         code:       3074,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '8 - 11',
+        cost:       1610
 
       },
 
@@ -33350,10 +35447,12 @@ module CdekApi
       '17-5-0-1' => {
 
         code:       3072,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '8 - 11',
+        cost:       1610
 
       },
 
@@ -33361,10 +35460,12 @@ module CdekApi
       '17-13-0-1' => {
 
         code:       3077,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '8 - 11',
+        cost:       1610
 
       },
 
@@ -33372,10 +35473,12 @@ module CdekApi
       '17-9-0-1' => {
 
         code:       3076,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '8 - 11',
+        cost:       1610
 
       },
 
@@ -33383,10 +35486,12 @@ module CdekApi
       '17-2-0-1' => {
 
         code:       3069,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '8 - 11',
+        cost:       1610
 
       },
 
@@ -33394,10 +35499,12 @@ module CdekApi
       '17-8-0-1' => {
 
         code:       3075,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '8 - 11',
+        cost:       1610
 
       },
 
@@ -33405,10 +35512,12 @@ module CdekApi
       '17-4-0-2' => {
 
         code:       3071,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '8 - 11',
+        cost:       1610
 
       },
 
@@ -33416,10 +35525,12 @@ module CdekApi
       '17-14-0-2' => {
 
         code:       3078,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '8 - 11',
+        cost:       1610
 
       },
 
@@ -33427,10 +35538,12 @@ module CdekApi
       '17-17-0-1' => {
 
         code:       3068,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '8 - 11',
+        cost:       1610
 
       },
 
@@ -33438,10 +35551,12 @@ module CdekApi
       '72-13-0-6' => {
 
         code:       3088,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '3 - 7',
+        cost:       910
 
       },
 
@@ -33449,10 +35564,12 @@ module CdekApi
       '72-0-1-0' => {
 
         code:       3087,
+        tariff:     137,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '5 - 8',
+        cost:       500
 
       },
 
@@ -33460,10 +35577,12 @@ module CdekApi
       '72-3-0-1' => {
 
         code:       1751,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '3 - 7',
+        cost:       910
 
       },
 
@@ -33471,10 +35590,12 @@ module CdekApi
       '72-10-0-3' => {
 
         code:       14250,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '2 - 5',
+        cost:       910
 
       },
 
@@ -33482,10 +35603,12 @@ module CdekApi
       '72-21-0-2' => {
 
         code:       13928,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '2 - 5',
+        cost:       810
 
       },
 
@@ -33493,10 +35616,12 @@ module CdekApi
       '72-10-0-4' => {
 
         code:       13793,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '2 - 5',
+        cost:       910
 
       },
 
@@ -33504,10 +35629,12 @@ module CdekApi
       '72-21-0-3' => {
 
         code:       13815,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '2 - 5',
+        cost:       910
 
       },
 
@@ -33515,10 +35642,12 @@ module CdekApi
       '72-1-0-3' => {
 
         code:       3079,
+        tariff:     137,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '5 - 8',
+        cost:       650
 
       },
 
@@ -33526,21 +35655,12 @@ module CdekApi
       '72-7-0-17' => {
 
         code:       14255,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
-
-      },
-
-      # Борки
-      '72-1-0-10' => {
-
-        code:       14245,
-        address:    '',
-        phone:      '',
-        work_time:  '',
-        delivery:   ''
+        delivery:   '2 - 5',
+        cost:       910
 
       },
 
@@ -33548,10 +35668,12 @@ module CdekApi
       '72-9-0-5' => {
 
         code:       13817,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '2 - 5',
+        cost:       910
 
       },
 
@@ -33559,10 +35681,12 @@ module CdekApi
       '72-1-0-12' => {
 
         code:       922,
+        tariff:     137,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '5 - 8',
+        cost:       650
 
       },
 
@@ -33570,10 +35694,12 @@ module CdekApi
       '72-19-0-2' => {
 
         code:       13825,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '2 - 5',
+        cost:       910
 
       },
 
@@ -33581,10 +35707,12 @@ module CdekApi
       '72-6-0-1' => {
 
         code:       14252,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '2 - 5',
+        cost:       1210
 
       },
 
@@ -33592,21 +35720,12 @@ module CdekApi
       '72-13-0-22' => {
 
         code:       13782,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
-
-      },
-
-      # Верхний Бор
-      '72-0-1-7' => {
-
-        code:       13354,
-        address:    '',
-        phone:      '',
-        work_time:  '',
-        delivery:   ''
+        delivery:   '2 - 5',
+        cost:       910
 
       },
 
@@ -33614,10 +35733,12 @@ module CdekApi
       '72-1-0-4' => {
 
         code:       3080,
+        tariff:     137,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '5 - 8',
+        cost:       650
 
       },
 
@@ -33625,10 +35746,12 @@ module CdekApi
       '72-8-0-1' => {
 
         code:       13860,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '2 - 5',
+        cost:       760
 
       },
 
@@ -33636,10 +35759,12 @@ module CdekApi
       '72-1-0-14' => {
 
         code:       13818,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '2 - 5',
+        cost:       910
 
       },
 
@@ -33647,10 +35772,12 @@ module CdekApi
       '72-1-0-40' => {
 
         code:       14242,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '2 - 5',
+        cost:       910
 
       },
 
@@ -33658,10 +35785,12 @@ module CdekApi
       '72-1-0-39' => {
 
         code:       14243,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '2 - 4',
+        cost:       760
 
       },
 
@@ -33669,10 +35798,12 @@ module CdekApi
       '72-6-0-5' => {
 
         code:       13783,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '2 - 5',
+        cost:       910
 
       },
 
@@ -33680,10 +35811,12 @@ module CdekApi
       '72-22-0-13' => {
 
         code:       13827,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '2 - 5',
+        cost:       810
 
       },
 
@@ -33691,10 +35824,12 @@ module CdekApi
       '72-1-0-16' => {
 
         code:       3082,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '2 - 4',
+        cost:       800
 
       },
 
@@ -33702,10 +35837,12 @@ module CdekApi
       '72-19-0-19' => {
 
         code:       13791,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '2 - 5',
+        cost:       910
 
       },
 
@@ -33713,10 +35850,12 @@ module CdekApi
       '72-21-0-4' => {
 
         code:       14248,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '2 - 5',
+        cost:       910
 
       },
 
@@ -33724,10 +35863,12 @@ module CdekApi
       '72-9-1-0' => {
 
         code:       619,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '3 - 5',
+        cost:       910
 
       },
 
@@ -33735,10 +35876,12 @@ module CdekApi
       '72-1-0-56' => {
 
         code:       14241,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '2 - 5',
+        cost:       910
 
       },
 
@@ -33746,10 +35889,12 @@ module CdekApi
       '72-19-0-11' => {
 
         code:       13823,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '2 - 5',
+        cost:       910
 
       },
 
@@ -33757,10 +35902,12 @@ module CdekApi
       '72-10-0-1' => {
 
         code:       13394,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '2 - 5',
+        cost:       910
 
       },
 
@@ -33768,10 +35915,12 @@ module CdekApi
       '72-11-0-26' => {
 
         code:       620,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '3 - 5',
+        cost:       910
 
       },
 
@@ -33779,10 +35928,12 @@ module CdekApi
       '72-0-1-8' => {
 
         code:       13242,
+        tariff:     137,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '5 - 8',
+        cost:       650
 
       },
 
@@ -33790,10 +35941,12 @@ module CdekApi
       '72-1-0-19' => {
 
         code:       14239,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '2 - 5',
+        cost:       910
 
       },
 
@@ -33801,10 +35954,12 @@ module CdekApi
       '72-1-0-25' => {
 
         code:       1178,
+        tariff:     137,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '5 - 8',
+        cost:       650
 
       },
 
@@ -33812,10 +35967,12 @@ module CdekApi
       '72-21-0-8' => {
 
         code:       13788,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '2 - 5',
+        cost:       910
 
       },
 
@@ -33823,10 +35980,12 @@ module CdekApi
       '72-1-0-29' => {
 
         code:       13134,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '2 - 4',
+        cost:       800
 
       },
 
@@ -33834,10 +35993,12 @@ module CdekApi
       '72-0-1-33' => {
 
         code:       13355,
+        tariff:     137,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '5 - 8',
+        cost:       610
 
       },
 
@@ -33845,10 +36006,12 @@ module CdekApi
       '72-10-0-17' => {
 
         code:       13792,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '2 - 5',
+        cost:       910
 
       },
 
@@ -33856,10 +36019,12 @@ module CdekApi
       '72-19-0-28' => {
 
         code:       13824,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '2 - 5',
+        cost:       910
 
       },
 
@@ -33867,10 +36032,12 @@ module CdekApi
       '72-10-0-21' => {
 
         code:       13820,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '2 - 5',
+        cost:       910
 
       },
 
@@ -33878,10 +36045,12 @@ module CdekApi
       '72-10-0-19' => {
 
         code:       14251,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '2 - 5',
+        cost:       910
 
       },
 
@@ -33889,21 +36058,12 @@ module CdekApi
       '72-1-0-33' => {
 
         code:       13785,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
-
-      },
-
-      # Каменка
-      '72-1-0-19' => {
-
-        code:       13428,
-        address:    '',
-        phone:      '',
-        work_time:  '',
-        delivery:   ''
+        delivery:   '2 - 5',
+        cost:       910
 
       },
 
@@ -33911,10 +36071,12 @@ module CdekApi
       '72-9-0-17' => {
 
         code:       13930,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '2 - 5',
+        cost:       810
 
       },
 
@@ -33922,10 +36084,12 @@ module CdekApi
       '72-1-0-34' => {
 
         code:       13245,
+        tariff:     137,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '5 - 9',
+        cost:       460
 
       },
 
@@ -33933,10 +36097,12 @@ module CdekApi
       '72-17-0-58' => {
 
         code:       3226,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '2 - 4',
+        cost:       790
 
       },
 
@@ -33944,10 +36110,12 @@ module CdekApi
       '72-1-0-35' => {
 
         code:       3083,
+        tariff:     137,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '5 - 8',
+        cost:       650
 
       },
 
@@ -33955,10 +36123,12 @@ module CdekApi
       '72-19-0-12' => {
 
         code:       13929,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '2 - 5',
+        cost:       810
 
       },
 
@@ -33966,10 +36136,12 @@ module CdekApi
       '72-22-0-28' => {
 
         code:       3084,
+        tariff:     137,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '5 - 8',
+        cost:       500
 
       },
 
@@ -33977,10 +36149,12 @@ module CdekApi
       '72-0-1-0' => {
 
         code:       13243,
+        tariff:     137,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '5 - 8',
+        cost:       500
 
       },
 
@@ -33988,10 +36162,12 @@ module CdekApi
       '72-10-0-25' => {
 
         code:       13794,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '2 - 5',
+        cost:       910
 
       },
 
@@ -33999,10 +36175,12 @@ module CdekApi
       '72-1-0-74' => {
 
         code:       13423,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '2 - 3',
+        cost:       800
 
       },
 
@@ -34010,10 +36188,12 @@ module CdekApi
       '72-1-0-49' => {
 
         code:       14240,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '2 - 5',
+        cost:       910
 
       },
 
@@ -34021,10 +36201,12 @@ module CdekApi
       '72-1-0-39' => {
 
         code:       1172,
+        tariff:     137,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '5 - 8',
+        cost:       500
 
       },
 
@@ -34032,10 +36214,12 @@ module CdekApi
       '72-1-0-47' => {
 
         code:       13859,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '2 - 5',
+        cost:       760
 
       },
 
@@ -34043,10 +36227,12 @@ module CdekApi
       '72-13-0-1' => {
 
         code:       1850,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '3 - 7',
+        cost:       910
 
       },
 
@@ -34054,10 +36240,12 @@ module CdekApi
       '72-9-0-18' => {
 
         code:       13828,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '2 - 5',
+        cost:       760
 
       },
 
@@ -34065,10 +36253,12 @@ module CdekApi
       '72-9-0-19' => {
 
         code:       13819,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '2 - 5',
+        cost:       910
 
       },
 
@@ -34076,10 +36266,12 @@ module CdekApi
       '72-1-0-49' => {
 
         code:       3085,
+        tariff:     137,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '5 - 9',
+        cost:       760
 
       },
 
@@ -34087,10 +36279,12 @@ module CdekApi
       '72-14-0-15' => {
 
         code:       14253,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '2 - 5',
+        cost:       910
 
       },
 
@@ -34098,10 +36292,12 @@ module CdekApi
       '72-14-0-1' => {
 
         code:       1849,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '3 - 7',
+        cost:       910
 
       },
 
@@ -34109,10 +36305,12 @@ module CdekApi
       '72-1-0-54' => {
 
         code:       13787,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '2 - 5',
+        cost:       760
 
       },
 
@@ -34120,10 +36318,12 @@ module CdekApi
       '72-9-0-26' => {
 
         code:       13826,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '2 - 5',
+        cost:       910
 
       },
 
@@ -34131,10 +36331,12 @@ module CdekApi
       '72-1-0-56' => {
 
         code:       13786,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '2 - 5',
+        cost:       910
 
       },
 
@@ -34142,32 +36344,12 @@ module CdekApi
       '72-22-0-40' => {
 
         code:       13246,
+        tariff:     137,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
-
-      },
-
-      # Сартам
-      '72-7-0-45' => {
-
-        code:       14257,
-        address:    '',
-        phone:      '',
-        work_time:  '',
-        delivery:   ''
-
-      },
-
-      # Шестаково
-      '72-9-0-42' => {
-
-        code:       14256,
-        address:    '',
-        phone:      '',
-        work_time:  '',
-        delivery:   ''
+        delivery:   '5 - 8',
+        cost:       500
 
       },
 
@@ -34175,21 +36357,12 @@ module CdekApi
       '72-15-0-41' => {
 
         code:       14258,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
-
-      },
-
-      # Покровка
-      '72-16-0-28' => {
-
-        code:       14254,
-        address:    '',
-        phone:      '',
-        work_time:  '',
-        delivery:   ''
+        delivery:   '2 - 5',
+        cost:       910
 
       },
 
@@ -34197,10 +36370,12 @@ module CdekApi
       '72-22-0-49' => {
 
         code:       14246,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '2 - 5',
+        cost:       910
 
       },
 
@@ -34208,10 +36383,12 @@ module CdekApi
       '72-19-0-43' => {
 
         code:       13790,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '2 - 5',
+        cost:       910
 
       },
 
@@ -34219,10 +36396,12 @@ module CdekApi
       '72-10-0-30' => {
 
         code:       13789,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '2 - 5',
+        cost:       910
 
       },
 
@@ -34230,10 +36409,12 @@ module CdekApi
       '72-0-1-5' => {
 
         code:       13319,
+        tariff:     137,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '5 - 8',
+        cost:       500
 
       },
 
@@ -34241,10 +36422,12 @@ module CdekApi
       '72-10-0-35' => {
 
         code:       13814,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '2 - 5',
+        cost:       910
 
       },
 
@@ -34252,10 +36435,12 @@ module CdekApi
       '72-9-0-34' => {
 
         code:       13822,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '2 - 5',
+        cost:       910
 
       },
 
@@ -34263,10 +36448,12 @@ module CdekApi
       '72-9-0-36' => {
 
         code:       13821,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '2 - 5',
+        cost:       910
 
       },
 
@@ -34274,10 +36461,12 @@ module CdekApi
       '72-19-0-10' => {
 
         code:       13816,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '2 - 5',
+        cost:       910
 
       },
 
@@ -34285,10 +36474,12 @@ module CdekApi
       '72-0-2-0' => {
 
         code:       512,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '2 - 5',
+        cost:       910
 
       },
 
@@ -34296,10 +36487,12 @@ module CdekApi
       '72-18-0-20' => {
 
         code:       13329,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '2 - 5',
+        cost:       810
 
       },
 
@@ -34307,10 +36500,12 @@ module CdekApi
       '72-0-1-0' => {
 
         code:       252,
+        tariff:     62,
         address:    'Дзержинского пер, д.15, оф.101, 1этаж (напротив банка втб',
         phone:      '(3452) 560-999; доб. 7203, 7204 ',
         work_time:  'пн.-пт. 9-19, сб 10-14',
-        delivery:   ''
+        delivery:   '1 - 2',
+        cost:       145
 
       },
 
@@ -34318,10 +36513,12 @@ module CdekApi
       '72-13-0-62' => {
 
         code:       14244,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '2 - 5',
+        cost:       910
 
       },
 
@@ -34329,10 +36526,12 @@ module CdekApi
       '72-18-0-1' => {
 
         code:       13497,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '3 - 5',
+        cost:       910
 
       },
 
@@ -34340,10 +36539,12 @@ module CdekApi
       '72-19-0-1' => {
 
         code:       1466,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '3 - 7',
+        cost:       910
 
       },
 
@@ -34351,10 +36552,12 @@ module CdekApi
       '72-22-0-66' => {
 
         code:       14247,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '2 - 5',
+        cost:       910
 
       },
 
@@ -34362,10 +36565,12 @@ module CdekApi
       '72-1-0-63' => {
 
         code:       13784,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '2 - 5',
+        cost:       910
 
       },
 
@@ -34373,10 +36578,12 @@ module CdekApi
       '72-1-0-68' => {
 
         code:       13424,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '2 - 4',
+        cost:       800
 
       },
 
@@ -34384,10 +36591,12 @@ module CdekApi
       '72-10-0-40' => {
 
         code:       13795,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '2 - 5',
+        cost:       910
 
       },
 
@@ -34395,10 +36604,12 @@ module CdekApi
       '72-9-0-39' => {
 
         code:       13813,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '2 - 5',
+        cost:       910
 
       },
 
@@ -34406,10 +36617,12 @@ module CdekApi
       '72-20-0-1' => {
 
         code:       13958,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '2 - 5',
+        cost:       810
 
       },
 
@@ -34417,10 +36630,12 @@ module CdekApi
       '72-21-0-30' => {
 
         code:       617,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '2 - 5',
+        cost:       910
 
       },
 
@@ -34428,10 +36643,12 @@ module CdekApi
       '72-22-0-1' => {
 
         code:       3081,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '2 - 4',
+        cost:       800
 
       },
 
@@ -34439,10 +36656,12 @@ module CdekApi
       '18-2-0-1' => {
 
         code:       3097,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '4 - 6',
+        cost:       1500
 
       },
 
@@ -34450,10 +36669,12 @@ module CdekApi
       '18-3-0-1' => {
 
         code:       3098,
+        tariff:     137,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '6 - 9',
+        cost:       570
 
       },
 
@@ -34461,10 +36682,12 @@ module CdekApi
       '18-0-3-0' => {
 
         code:       3089,
+        tariff:     137,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '6 - 9',
+        cost:       570
 
       },
 
@@ -34472,10 +36695,12 @@ module CdekApi
       '18-0-4-0' => {
 
         code:       561,
+        tariff:     137,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '6 - 9',
+        cost:       570
 
       },
 
@@ -34483,10 +36708,12 @@ module CdekApi
       '18-9-0-1' => {
 
         code:       3090,
+        tariff:     137,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '6 - 9',
+        cost:       570
 
       },
 
@@ -34494,10 +36721,12 @@ module CdekApi
       '18-10-0-1' => {
 
         code:       3091,
+        tariff:     137,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '6 - 9',
+        cost:       570
 
       },
 
@@ -34505,10 +36734,12 @@ module CdekApi
       '18-0-1-0' => {
 
         code:       224,
+        tariff:     136,
         address:    '10 лет октября ул., д.32',
         phone:      '(3412)655-023, 655-024',
         work_time:  'пн.-пт. 9-18, сб. 10-14',
-        delivery:   ''
+        delivery:   '4 - 7',
+        cost:       335
 
       },
 
@@ -34516,10 +36747,12 @@ module CdekApi
       '18-11-1-0' => {
 
         code:       3099,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '4 - 6',
+        cost:       1500
 
       },
 
@@ -34527,10 +36760,12 @@ module CdekApi
       '18-12-0-1' => {
 
         code:       3100,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '4 - 6',
+        cost:       1500
 
       },
 
@@ -34538,10 +36773,12 @@ module CdekApi
       '18-17-0-1' => {
 
         code:       3092,
+        tariff:     137,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '6 - 9',
+        cost:       570
 
       },
 
@@ -34549,10 +36786,12 @@ module CdekApi
       '18-0-2-0' => {
 
         code:       491,
+        tariff:     137,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '6 - 9',
+        cost:       570
 
       },
 
@@ -34560,10 +36799,12 @@ module CdekApi
       '18-0-2-0' => {
 
         code:       3093,
+        tariff:     137,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '6 - 9',
+        cost:       570
 
       },
 
@@ -34571,10 +36812,12 @@ module CdekApi
       '18-22-0-1' => {
 
         code:       3094,
+        tariff:     137,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '6 - 9',
+        cost:       570
 
       },
 
@@ -34582,10 +36825,12 @@ module CdekApi
       '18-25-0-1' => {
 
         code:       3096,
+        tariff:     137,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '6 - 9',
+        cost:       570
 
       },
 
@@ -34593,10 +36838,12 @@ module CdekApi
       '18-26-0-1' => {
 
         code:       3101,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '4 - 6',
+        cost:       1500
 
       },
 
@@ -34604,10 +36851,12 @@ module CdekApi
       '73-2-0-1' => {
 
         code:       3111,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '5 - 7',
+        cost:       1180
 
       },
 
@@ -34615,10 +36864,12 @@ module CdekApi
       '73-0-3-0' => {
 
         code:       3112,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '5 - 7',
+        cost:       1180
 
       },
 
@@ -34626,10 +36877,12 @@ module CdekApi
       '73-20-0-1' => {
 
         code:       3102,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '5 - 7',
+        cost:       1180
 
       },
 
@@ -34637,10 +36890,12 @@ module CdekApi
       '73-4-0-11' => {
 
         code:       3113,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '5 - 7',
+        cost:       1180
 
       },
 
@@ -34648,10 +36903,12 @@ module CdekApi
       '73-0-2-0' => {
 
         code:       2350,
+        tariff:     136,
         address:    'Промышленная ул., д.43, оф.8',
         phone:      '(84235) 9-11-44',
         work_time:  'пн.-пт. 9-18, сб. 9-14',
-        delivery:   ''
+        delivery:   '4 - 6',
+        cost:       340
 
       },
 
@@ -34659,10 +36916,12 @@ module CdekApi
       '73-21-0-14' => {
 
         code:       1635,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '5 - 7',
+        cost:       1180
 
       },
 
@@ -34670,10 +36929,12 @@ module CdekApi
       '73-5-1-0' => {
 
         code:       3114,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '5 - 7',
+        cost:       1180
 
       },
 
@@ -34681,10 +36942,12 @@ module CdekApi
       '73-1-0-2' => {
 
         code:       3103,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '5 - 7',
+        cost:       1180
 
       },
 
@@ -34692,10 +36955,12 @@ module CdekApi
       '73-6-0-1' => {
 
         code:       3104,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '5 - 7',
+        cost:       1180
 
       },
 
@@ -34703,10 +36968,12 @@ module CdekApi
       '73-7-0-24' => {
 
         code:       3115,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '5 - 7',
+        cost:       1180
 
       },
 
@@ -34714,10 +36981,12 @@ module CdekApi
       '73-8-0-1' => {
 
         code:       3105,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '5 - 7',
+        cost:       1180
 
       },
 
@@ -34725,10 +36994,12 @@ module CdekApi
       '73-10-0-1' => {
 
         code:       3116,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '5 - 7',
+        cost:       1180
 
       },
 
@@ -34736,10 +37007,12 @@ module CdekApi
       '73-12-0-1' => {
 
         code:       3117,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '5 - 7',
+        cost:       1180
 
       },
 
@@ -34747,10 +37020,12 @@ module CdekApi
       '73-0-4-0' => {
 
         code:       3106,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '5 - 7',
+        cost:       1180
 
       },
 
@@ -34758,10 +37033,12 @@ module CdekApi
       '73-13-0-1' => {
 
         code:       3118,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '5 - 7',
+        cost:       1180
 
       },
 
@@ -34769,10 +37046,12 @@ module CdekApi
       '73-14-0-1' => {
 
         code:       3119,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '5 - 7',
+        cost:       1180
 
       },
 
@@ -34780,10 +37059,12 @@ module CdekApi
       '73-15-0-31' => {
 
         code:       3107,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '5 - 7',
+        cost:       1180
 
       },
 
@@ -34791,10 +37072,12 @@ module CdekApi
       '73-16-0-1' => {
 
         code:       3120,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '5 - 7',
+        cost:       1180
 
       },
 
@@ -34802,10 +37085,12 @@ module CdekApi
       '73-17-0-1' => {
 
         code:       3108,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '5 - 7',
+        cost:       1180
 
       },
 
@@ -34813,10 +37098,12 @@ module CdekApi
       '73-19-0-1' => {
 
         code:       3109,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '5 - 7',
+        cost:       1180
 
       },
 
@@ -34824,10 +37111,12 @@ module CdekApi
       '73-0-1-0' => {
 
         code:       422,
+        tariff:     136,
         address:    'Садовая ул., д.2',
         phone:      '(8422) 72-83-81 ',
         work_time:  'пн.-пт. 9-18',
-        delivery:   ''
+        delivery:   '5 - 7',
+        cost:       340
 
       },
 
@@ -34835,10 +37124,12 @@ module CdekApi
       '73-1-0-9' => {
 
         code:       13781,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '5 - 7',
+        cost:       1180
 
       },
 
@@ -34846,10 +37137,12 @@ module CdekApi
       '73-21-0-1' => {
 
         code:       3110,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '5 - 7',
+        cost:       1180
 
       },
 
@@ -34857,10 +37150,12 @@ module CdekApi
       '27-0-3-0' => {
 
         code:       900,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '5 - 13',
+        cost:       1700
 
       },
 
@@ -34868,10 +37163,12 @@ module CdekApi
       '27-3-0-1' => {
 
         code:       1438,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '4 - 12',
+        cost:       1930
 
       },
 
@@ -34879,10 +37176,12 @@ module CdekApi
       '27-0-1-3' => {
 
         code:       3121,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '4 - 12',
+        cost:       1930
 
       },
 
@@ -34890,10 +37189,12 @@ module CdekApi
       '27-0-4-0' => {
 
         code:       13866,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '4 - 12',
+        cost:       1930
 
       },
 
@@ -34901,21 +37202,12 @@ module CdekApi
       '27-17-0-1' => {
 
         code:       13410,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
-
-      },
-
-      # Майский
-      '27-14-0-7' => {
-
-        code:       13147,
-        address:    '',
-        phone:      '',
-        work_time:  '',
-        delivery:   ''
+        delivery:   '4 - 8',
+        cost:       1930
 
       },
 
@@ -34923,10 +37215,12 @@ module CdekApi
       '27-5-0-1' => {
 
         code:       29,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '4 - 7',
+        cost:       1860
 
       },
 
@@ -34934,10 +37228,12 @@ module CdekApi
       '27-18-0-13' => {
 
         code:       13863,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '4 - 12',
+        cost:       1930
 
       },
 
@@ -34945,10 +37241,12 @@ module CdekApi
       '27-5-0-3' => {
 
         code:       13935,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '4 - 8',
+        cost:       1930
 
       },
 
@@ -34956,10 +37254,12 @@ module CdekApi
       '27-7-0-3' => {
 
         code:       2363,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '4 - 12',
+        cost:       1930
 
       },
 
@@ -34967,10 +37267,12 @@ module CdekApi
       '27-18-0-16' => {
 
         code:       13862,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '4 - 12',
+        cost:       1930
 
       },
 
@@ -34978,10 +37280,12 @@ module CdekApi
       '27-17-0-6' => {
 
         code:       902,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '4 - 12',
+        cost:       1930
 
       },
 
@@ -34989,10 +37293,12 @@ module CdekApi
       '27-14-0-4' => {
 
         code:       1266,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '4 - 12',
+        cost:       1930
 
       },
 
@@ -35000,10 +37306,12 @@ module CdekApi
       '27-0-1-0' => {
 
         code:       3122,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '4 - 12',
+        cost:       1930
 
       },
 
@@ -35011,10 +37319,12 @@ module CdekApi
       '27-9-0-1' => {
 
         code:       13673,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '6 - 12',
+        cost:       2190
 
       },
 
@@ -35022,10 +37332,12 @@ module CdekApi
       '27-18-0-7' => {
 
         code:       3123,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '4 - 12',
+        cost:       1930
 
       },
 
@@ -35033,10 +37345,12 @@ module CdekApi
       '27-0-5-0' => {
 
         code:       903,
+        tariff:     136,
         address:    'Мира пр-кт, д.10',
         phone:      '(4217) 300052',
         work_time:  'пн.-пт. 9:00-18:00, обед с 12:00-13:00',
-        delivery:   ''
+        delivery:   '5 - 8',
+        cost:       415
 
       },
 
@@ -35044,10 +37358,12 @@ module CdekApi
       '27-18-0-2' => {
 
         code:       13861,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '4 - 12',
+        cost:       1930
 
       },
 
@@ -35055,10 +37371,12 @@ module CdekApi
       '27-4-0-5' => {
 
         code:       13867,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '4 - 12',
+        cost:       1930
 
       },
 
@@ -35066,10 +37384,12 @@ module CdekApi
       '27-12-0-17' => {
 
         code:       13438,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '4 - 8',
+        cost:       1930
 
       },
 
@@ -35077,10 +37397,12 @@ module CdekApi
       '27-0-6-0' => {
 
         code:       2372,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '4 - 12',
+        cost:       1930
 
       },
 
@@ -35088,10 +37410,12 @@ module CdekApi
       '27-6-0-10' => {
 
         code:       1487,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '4 - 12',
+        cost:       1930
 
       },
 
@@ -35099,10 +37423,12 @@ module CdekApi
       '27-13-1-0' => {
 
         code:       899,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '4 - 12',
+        cost:       1930
 
       },
 
@@ -35110,10 +37436,12 @@ module CdekApi
       '27-8-0-1' => {
 
         code:       13115,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '3 - 5',
+        cost:       1540
 
       },
 
@@ -35121,10 +37449,12 @@ module CdekApi
       '27-8-0-13' => {
 
         code:       13864,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '4 - 12',
+        cost:       1930
 
       },
 
@@ -35132,10 +37462,12 @@ module CdekApi
       '27-0-7-0' => {
 
         code:       2373,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '4 - 12',
+        cost:       1860
 
       },
 
@@ -35143,10 +37475,12 @@ module CdekApi
       '27-15-0-1' => {
 
         code:       3124,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '4 - 12',
+        cost:       1930
 
       },
 
@@ -35154,21 +37488,12 @@ module CdekApi
       '27-5-0-17' => {
 
         code:       13398,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
-
-      },
-
-      # Тополево
-      '27-18-0-63' => {
-
-        code:       13148,
-        address:    '',
-        phone:      '',
-        work_time:  '',
-        delivery:   ''
+        delivery:   '5 - 12',
+        cost:       1930
 
       },
 
@@ -35176,10 +37501,12 @@ module CdekApi
       '27-0-1-0' => {
 
         code:       287,
+        tariff:     136,
         address:    'Промышленная ул., д.20д/1',
         phone:      '(4212) 465-015, 465 -016, 623-312',
         work_time:  'пн.-пт. 9-18, сб. 10-14',
-        delivery:   ''
+        delivery:   '5 - 7',
+        cost:       415
 
       },
 
@@ -35187,10 +37514,12 @@ module CdekApi
       '27-8-0-40' => {
 
         code:       13865,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '4 - 12',
+        cost:       1930
 
       },
 
@@ -35198,10 +37527,12 @@ module CdekApi
       '27-15-0-7' => {
 
         code:       13500,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '4 - 12',
+        cost:       2130
 
       },
 
@@ -35209,10 +37540,12 @@ module CdekApi
       '27-6-0-1' => {
 
         code:       13432,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '4 - 8',
+        cost:       1930
 
       },
 
@@ -35220,10 +37553,12 @@ module CdekApi
       '27-16-0-1' => {
 
         code:       13672,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '7 - 13',
+        cost:       2190
 
       },
 
@@ -35231,21 +37566,12 @@ module CdekApi
       '27-2-0-28' => {
 
         code:       14291,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
-
-      },
-
-      # Абаза
-      '19-0-4-0' => {
-
-        code:       14272,
-        address:    '',
-        phone:      '',
-        work_time:  '',
-        delivery:   ''
+        delivery:   '5 - 10',
+        cost:       1880
 
       },
 
@@ -35253,10 +37579,12 @@ module CdekApi
       '19-0-1-0' => {
 
         code:       823,
+        tariff:     136,
         address:    'Чертыгашева ул, д.126н, оф.2',
         phone:      '+7 (3902) 32-03-24; +79532590324',
         work_time:  'пн.-пт. 9-18',
-        delivery:   ''
+        delivery:   '6 - 8',
+        cost:       415
 
       },
 
@@ -35264,10 +37592,12 @@ module CdekApi
       '19-3-0-7' => {
 
         code:       13620,
+        tariff:     137,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '7 - 11',
+        cost:       1415
 
       },
 
@@ -35275,43 +37605,12 @@ module CdekApi
       '19-2-0-1' => {
 
         code:       826,
+        tariff:     137,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
-
-      },
-
-      # Анхаков
-      '19-3-0-4' => {
-
-        code:       14274,
-        address:    '',
-        phone:      '',
-        work_time:  '',
-        delivery:   ''
-
-      },
-
-      # Бея
-      '19-4-0-1' => {
-
-        code:       14273,
-        address:    '',
-        phone:      '',
-        work_time:  '',
-        delivery:   ''
-
-      },
-
-      # Богдановка
-      '19-4-0-2' => {
-
-        code:       14275,
-        address:    '',
-        phone:      '',
-        work_time:  '',
-        delivery:   ''
+        delivery:   '7 - 11',
+        cost:       715
 
       },
 
@@ -35319,10 +37618,12 @@ module CdekApi
       '19-3-0-16' => {
 
         code:       1149,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '5 - 8',
+        cost:       1700
 
       },
 
@@ -35330,10 +37631,12 @@ module CdekApi
       '19-4-0-13' => {
 
         code:       13390,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '5 - 8',
+        cost:       1700
 
       },
 
@@ -35341,32 +37644,12 @@ module CdekApi
       '19-6-0-1' => {
 
         code:       1150,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
-
-      },
-
-      # Майна
-      '19-0-2-1' => {
-
-        code:       14276,
-        address:    '',
-        phone:      '',
-        work_time:  '',
-        delivery:   ''
-
-      },
-
-      # Пригорск
-      '19-0-3-1' => {
-
-        code:       13111,
-        address:    '',
-        phone:      '',
-        work_time:  '',
-        delivery:   ''
+        delivery:   '5 - 8',
+        cost:       1700
 
       },
 
@@ -35374,10 +37657,12 @@ module CdekApi
       '19-0-2-0' => {
 
         code:       827,
+        tariff:     137,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '6 - 10',
+        cost:       915
 
       },
 
@@ -35385,10 +37670,12 @@ module CdekApi
       '19-0-5-0' => {
 
         code:       2007,
+        tariff:     137,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '7 - 11',
+        cost:       905
 
       },
 
@@ -35396,10 +37683,12 @@ module CdekApi
       '19-7-0-1' => {
 
         code:       13619,
+        tariff:     137,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '7 - 11',
+        cost:       1615
 
       },
 
@@ -35407,10 +37696,12 @@ module CdekApi
       '19-8-0-1' => {
 
         code:       3125,
+        tariff:     137,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '7 - 11',
+        cost:       715
 
       },
 
@@ -35418,10 +37709,12 @@ module CdekApi
       '19-0-2-3' => {
 
         code:       3126,
+        tariff:     137,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '7 - 11',
+        cost:       1315
 
       },
 
@@ -35429,10 +37722,12 @@ module CdekApi
       '19-5-0-14' => {
 
         code:       3127,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '5 - 8',
+        cost:       1700
 
       },
 
@@ -35440,10 +37735,12 @@ module CdekApi
       '19-0-3-0' => {
 
         code:       824,
+        tariff:     137,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '7 - 11',
+        cost:       715
 
       },
 
@@ -35451,10 +37748,12 @@ module CdekApi
       '19-9-0-1' => {
 
         code:       825,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '5 - 8',
+        cost:       1700
 
       },
 
@@ -35462,10 +37761,12 @@ module CdekApi
       '86-9-0-3' => {
 
         code:       3128,
+        tariff:     137,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '7 - 11',
+        cost:       895
 
       },
 
@@ -35473,10 +37774,12 @@ module CdekApi
       '86-0-13-0' => {
 
         code:       105,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '4 - 6',
+        cost:       1720
 
       },
 
@@ -35484,10 +37787,12 @@ module CdekApi
       '86-0-10-0' => {
 
         code:       1017,
+        tariff:     137,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '7 - 11',
+        cost:       895
 
       },
 
@@ -35495,10 +37800,12 @@ module CdekApi
       '86-3-0-1' => {
 
         code:       3131,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '5 - 8',
+        cost:       1720
 
       },
 
@@ -35506,10 +37813,12 @@ module CdekApi
       '86-6-0-9' => {
 
         code:       13248,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '6 - 9',
+        cost:       1910
 
       },
 
@@ -35517,10 +37826,12 @@ module CdekApi
       '86-0-4-2' => {
 
         code:       3130,
+        tariff:     137,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '6 - 10',
+        cost:       895
 
       },
 
@@ -35528,10 +37839,12 @@ module CdekApi
       '86-10-0-7' => {
 
         code:       13812,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '4 - 7',
+        cost:       1480
 
       },
 
@@ -35539,10 +37852,12 @@ module CdekApi
       '86-3-0-6' => {
 
         code:       1430,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '6 - 10',
+        cost:       1830
 
       },
 
@@ -35550,10 +37865,12 @@ module CdekApi
       '86-6-0-13' => {
 
         code:       1440,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '3 - 6',
+        cost:       1490
 
       },
 
@@ -35561,10 +37878,12 @@ module CdekApi
       '86-10-0-12' => {
 
         code:       3129,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '4 - 7',
+        cost:       1440
 
       },
 
@@ -35572,10 +37891,12 @@ module CdekApi
       '86-0-2-0' => {
 
         code:       623,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '3 - 6',
+        cost:       1440
 
       },
 
@@ -35583,10 +37904,12 @@ module CdekApi
       '86-0-3-0' => {
 
         code:       624,
+        tariff:     137,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '7 - 11',
+        cost:       1415
 
       },
 
@@ -35594,10 +37917,12 @@ module CdekApi
       '86-9-2-0' => {
 
         code:       154,
+        tariff:     137,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '8 - 12',
+        cost:       1065
 
       },
 
@@ -35605,10 +37930,12 @@ module CdekApi
       '86-0-4-0' => {
 
         code:       1137,
+        tariff:     137,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '7 - 12',
+        cost:       895
 
       },
 
@@ -35616,10 +37943,12 @@ module CdekApi
       '86-4-0-1' => {
 
         code:       1431,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '6 - 10',
+        cost:       1830
 
       },
 
@@ -35627,10 +37956,12 @@ module CdekApi
       '86-0-14-0' => {
 
         code:       621,
+        tariff:     137,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '6 - 10',
+        cost:       1065
 
       },
 
@@ -35638,21 +37969,12 @@ module CdekApi
       '86-0-11-0' => {
 
         code:       255,
+        tariff:     136,
         address:    'Маршала жукова ул., д.5, оф.112',
         phone:      '(3466)410-887, 8 912 938 82 39',
         work_time:  'пн.-пт. 9-18, сб. 10-14',
-        delivery:   ''
-
-      },
-
-      # Новоаганск
-      '86-6-0-18' => {
-
-        code:       13140,
-        address:    '',
-        phone:      '',
-        work_time:  '',
-        delivery:   ''
+        delivery:   '5 - 9',
+        cost:       415
 
       },
 
@@ -35660,10 +37982,12 @@ module CdekApi
       '86-0-5-0' => {
 
         code:       626,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '3 - 5',
+        cost:       1580
 
       },
 
@@ -35671,10 +37995,12 @@ module CdekApi
       '86-7-0-1' => {
 
         code:       1745,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '5 - 8',
+        cost:       1930
 
       },
 
@@ -35682,10 +38008,12 @@ module CdekApi
       '86-0-6-0' => {
 
         code:       73,
+        tariff:     137,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '7 - 11',
+        cost:       495
 
       },
 
@@ -35693,10 +38021,12 @@ module CdekApi
       '86-7-0-14' => {
 
         code:       13066,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '5 - 8',
+        cost:       1930
 
       },
 
@@ -35704,10 +38034,12 @@ module CdekApi
       '86-0-7-0' => {
 
         code:       229,
+        tariff:     137,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '6 - 11',
+        cost:       1265
 
       },
 
@@ -35715,10 +38047,12 @@ module CdekApi
       '86-0-15-0' => {
 
         code:       20,
+        tariff:     137,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '8 - 12',
+        cost:       895
 
       },
 
@@ -35726,10 +38060,12 @@ module CdekApi
       '86-10-0-22' => {
 
         code:       13135,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '4 - 8',
+        cost:       2310
 
       },
 
@@ -35737,10 +38073,12 @@ module CdekApi
       '86-8-1-0' => {
 
         code:       1217,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '3 - 5',
+        cost:       1580
 
       },
 
@@ -35748,10 +38086,12 @@ module CdekApi
       '86-9-0-19' => {
 
         code:       13069,
+        tariff:     137,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '7 - 12',
+        cost:       945
 
       },
 
@@ -35759,10 +38099,12 @@ module CdekApi
       '86-0-10-0' => {
 
         code:       254,
+        tariff:     136,
         address:    '30 лет победы ул., д.44б, оф.110 / 1',
         phone:      '(3462) 44-21-31',
         work_time:  'пн.-пт. 9-21, сб. 10-19, вс. 12-17',
-        delivery:   ''
+        delivery:   '5 - 7',
+        cost:       415
 
       },
 
@@ -35770,10 +38112,12 @@ module CdekApi
       '86-0-9-0' => {
 
         code:       540,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '3 - 5',
+        cost:       1580
 
       },
 
@@ -35781,10 +38125,12 @@ module CdekApi
       '86-0-1-0' => {
 
         code:       625,
+        tariff:     136,
         address:    'Мира, д.51, оф.1022',
         phone:      '(3467)322-311',
         work_time:  'пн.-пт. 9-18',
-        delivery:   ''
+        delivery:   '6 - 8',
+        cost:       415
 
       },
 
@@ -35792,21 +38138,12 @@ module CdekApi
       '86-0-10-0' => {
 
         code:       627,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
-
-      },
-
-      # Югорск
-      '86-0-16-0' => {
-
-        code:       13070,
-        address:    '',
-        phone:      '',
-        work_time:  '',
-        delivery:   ''
+        delivery:   '5 - 8',
+        cost:       1730
 
       },
 
@@ -35814,10 +38151,12 @@ module CdekApi
       '74-25-0-1' => {
 
         code:       3134,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '2 - 3',
+        cost:       410
 
       },
 
@@ -35825,10 +38164,12 @@ module CdekApi
       '74-27-0-3' => {
 
         code:       13921,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '2 - 3',
+        cost:       410
 
       },
 
@@ -35836,10 +38177,12 @@ module CdekApi
       '74-26-0-1' => {
 
         code:       1344,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '2 - 3',
+        cost:       410
 
       },
 
@@ -35847,10 +38190,12 @@ module CdekApi
       '74-2-3-0' => {
 
         code:       688,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '3 - 5',
+        cost:       625
 
       },
 
@@ -35858,10 +38203,12 @@ module CdekApi
       '74-0-1-0' => {
 
         code:       13207,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '2 - 3',
+        cost:       300
 
       },
 
@@ -35869,10 +38216,12 @@ module CdekApi
       '74-9-0-5' => {
 
         code:       13903,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '2 - 3',
+        cost:       410
 
       },
 
@@ -35880,10 +38229,12 @@ module CdekApi
       '74-17-0-38' => {
 
         code:       13909,
+        tariff:     137,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '6 - 9',
+        cost:       535
 
       },
 
@@ -35891,10 +38242,12 @@ module CdekApi
       '74-30-0-4' => {
 
         code:       13890,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '2 - 3',
+        cost:       410
 
       },
 
@@ -35902,10 +38255,12 @@ module CdekApi
       '74-30-0-5' => {
 
         code:       13889,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '2 - 3',
+        cost:       410
 
       },
 
@@ -35913,10 +38268,12 @@ module CdekApi
       '74-17-0-4' => {
 
         code:       13913,
+        tariff:     137,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '6 - 9',
+        cost:       535
 
       },
 
@@ -35924,10 +38281,12 @@ module CdekApi
       '74-9-0-6' => {
 
         code:       13210,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '2 - 3',
+        cost:       300
 
       },
 
@@ -35935,10 +38294,12 @@ module CdekApi
       '74-33-0-11' => {
 
         code:       13900,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '2 - 3',
+        cost:       410
 
       },
 
@@ -35946,10 +38307,12 @@ module CdekApi
       '74-32-0-12' => {
 
         code:       13895,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '2 - 3',
+        cost:       410
 
       },
 
@@ -35957,10 +38320,12 @@ module CdekApi
       '74-9-0-7' => {
 
         code:       13902,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '2 - 3',
+        cost:       410
 
       },
 
@@ -35968,10 +38333,12 @@ module CdekApi
       '74-25-0-6' => {
 
         code:       13922,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '2 - 3',
+        cost:       410
 
       },
 
@@ -35979,10 +38346,12 @@ module CdekApi
       '74-42-0-14' => {
 
         code:       13880,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '2 - 3',
+        cost:       410
 
       },
 
@@ -35990,10 +38359,12 @@ module CdekApi
       '74-0-6-0' => {
 
         code:       3132,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '2 - 3',
+        cost:       410
 
       },
 
@@ -36001,10 +38372,12 @@ module CdekApi
       '74-29-1-0' => {
 
         code:       13985,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '2 - 3',
+        cost:       330
 
       },
 
@@ -36012,10 +38385,12 @@ module CdekApi
       '74-0-2-0' => {
 
         code:       1104,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '2 - 3',
+        cost:       410
 
       },
 
@@ -36023,10 +38398,12 @@ module CdekApi
       '74-9-0-8' => {
 
         code:       3135,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '2 - 3',
+        cost:       410
 
       },
 
@@ -36034,21 +38411,12 @@ module CdekApi
       '74-26-0-27' => {
 
         code:       13908,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
-
-      },
-
-      # Дзержинского
-      '74-0-9-9' => {
-
-        code:       13153,
-        address:    '',
-        phone:      '',
-        work_time:  '',
-        delivery:   ''
+        delivery:   '2 - 3',
+        cost:       410
 
       },
 
@@ -36056,10 +38424,12 @@ module CdekApi
       '74-38-0-1' => {
 
         code:       3133,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '2 - 3',
+        cost:       410
 
       },
 
@@ -36067,10 +38437,12 @@ module CdekApi
       '74-30-0-11' => {
 
         code:       13891,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '2 - 3',
+        cost:       410
 
       },
 
@@ -36078,10 +38450,12 @@ module CdekApi
       '74-44-1-0' => {
 
         code:       1347,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '2 - 3',
+        cost:       410
 
       },
 
@@ -36089,10 +38463,12 @@ module CdekApi
       '74-38-0-18' => {
 
         code:       13887,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '2 - 3',
+        cost:       410
 
       },
 
@@ -36100,10 +38476,12 @@ module CdekApi
       '74-30-0-1' => {
 
         code:       13888,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '2 - 3',
+        cost:       410
 
       },
 
@@ -36111,10 +38489,12 @@ module CdekApi
       '74-17-0-10' => {
 
         code:       13912,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '2 - 3',
+        cost:       410
 
       },
 
@@ -36122,10 +38502,12 @@ module CdekApi
       '74-0-4-0' => {
 
         code:       685,
+        tariff:     62,
         address:    'Южно-есаульская ул., д.8',
         phone:      '+7(3513)672-190; +7-922-016-07-04',
         work_time:  'пн.-пт. 8.30-19.30, сб. 8.30-17',
-        delivery:   ''
+        delivery:   '1 - 2',
+        cost:       120
 
       },
 
@@ -36133,10 +38515,12 @@ module CdekApi
       '74-26-0-32' => {
 
         code:       13906,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '2 - 3',
+        cost:       410
 
       },
 
@@ -36144,10 +38528,12 @@ module CdekApi
       '74-0-5-0' => {
 
         code:       3136,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '2 - 3',
+        cost:       410
 
       },
 
@@ -36155,10 +38541,12 @@ module CdekApi
       '74-7-0-4' => {
 
         code:       684,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '2 - 3',
+        cost:       410
 
       },
 
@@ -36166,10 +38554,12 @@ module CdekApi
       '74-9-0-8' => {
 
         code:       686,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '2 - 3',
+        cost:       410
 
       },
 
@@ -36177,10 +38567,12 @@ module CdekApi
       '74-40-0-14' => {
 
         code:       13917,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '2 - 3',
+        cost:       410
 
       },
 
@@ -36188,10 +38580,12 @@ module CdekApi
       '74-39-0-28' => {
 
         code:       13918,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '2 - 3',
+        cost:       410
 
       },
 
@@ -36199,10 +38593,12 @@ module CdekApi
       '74-30-0-10' => {
 
         code:       13892,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '2 - 3',
+        cost:       410
 
       },
 
@@ -36210,10 +38606,12 @@ module CdekApi
       '74-0-6-0' => {
 
         code:       961,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '2 - 3',
+        cost:       410
 
       },
 
@@ -36221,10 +38619,12 @@ module CdekApi
       '74-45-0-4' => {
 
         code:       1753,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '2 - 3',
+        cost:       410
 
       },
 
@@ -36232,10 +38632,12 @@ module CdekApi
       '74-37-0-6' => {
 
         code:       13920,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '2 - 3',
+        cost:       410
 
       },
 
@@ -36243,10 +38645,12 @@ module CdekApi
       '74-26-0-13' => {
 
         code:       13907,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '2 - 3',
+        cost:       410
 
       },
 
@@ -36254,10 +38658,12 @@ module CdekApi
       '74-41-0-28' => {
 
         code:       13883,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '2 - 3',
+        cost:       410
 
       },
 
@@ -36265,10 +38671,12 @@ module CdekApi
       '74-33-0-1' => {
 
         code:       13899,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '2 - 3',
+        cost:       410
 
       },
 
@@ -36276,10 +38684,12 @@ module CdekApi
       '74-42-0-13' => {
 
         code:       13881,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '2 - 3',
+        cost:       410
 
       },
 
@@ -36287,10 +38697,12 @@ module CdekApi
       '74-34-1-0' => {
 
         code:       3137,
+        tariff:     137,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '5 - 8',
+        cost:       490
 
       },
 
@@ -36298,10 +38710,12 @@ module CdekApi
       '74-0-8-0' => {
 
         code:       687,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '2 - 3',
+        cost:       410
 
       },
 
@@ -36309,10 +38723,12 @@ module CdekApi
       '74-32-0-31' => {
 
         code:       13894,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '2 - 3',
+        cost:       410
 
       },
 
@@ -36320,21 +38736,12 @@ module CdekApi
       '74-41-0-15' => {
 
         code:       13884,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
-
-      },
-
-      # Локомотивный
-      '74-0-0-2' => {
-
-        code:       13010,
-        address:    '',
-        phone:      '',
-        work_time:  '',
-        delivery:   ''
+        delivery:   '2 - 3',
+        cost:       410
 
       },
 
@@ -36342,10 +38749,12 @@ module CdekApi
       '74-17-1-7' => {
 
         code:       13914,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '2 - 3',
+        cost:       410
 
       },
 
@@ -36353,10 +38762,12 @@ module CdekApi
       '74-0-9-0' => {
 
         code:       258,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '1 - 2',
+        cost:       410
 
       },
 
@@ -36364,10 +38775,12 @@ module CdekApi
       '74-9-0-27' => {
 
         code:       13901,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '2 - 3',
+        cost:       410
 
       },
 
@@ -36375,10 +38788,12 @@ module CdekApi
       '74-34-0-9' => {
 
         code:       13915,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '2 - 3',
+        cost:       410
 
       },
 
@@ -36386,10 +38801,12 @@ module CdekApi
       '74-17-0-16' => {
 
         code:       13910,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '2 - 3',
+        cost:       410
 
       },
 
@@ -36397,10 +38814,12 @@ module CdekApi
       '74-0-10-0' => {
 
         code:       7,
+        tariff:     62,
         address:    'Ильмен-тау, д.8, оф.3',
         phone:      '8(951) 124 73 07',
         work_time:  'пн-пт с 9-18',
-        delivery:   ''
+        delivery:   '1 - 2',
+        cost:       120
 
       },
 
@@ -36408,10 +38827,12 @@ module CdekApi
       '74-32-0-1' => {
 
         code:       13893,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '2 - 3',
+        cost:       410
 
       },
 
@@ -36419,10 +38840,12 @@ module CdekApi
       '74-33-0-44' => {
 
         code:       13898,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '2 - 3',
+        cost:       410
 
       },
 
@@ -36430,10 +38853,12 @@ module CdekApi
       '74-36-0-25' => {
 
         code:       13916,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '2 - 3',
+        cost:       410
 
       },
 
@@ -36441,10 +38866,12 @@ module CdekApi
       '74-9-0-30' => {
 
         code:       13904,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '2 - 3',
+        cost:       410
 
       },
 
@@ -36452,10 +38879,12 @@ module CdekApi
       '74-0-11-0' => {
 
         code:       692,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '2 - 3',
+        cost:       410
 
       },
 
@@ -36463,10 +38892,12 @@ module CdekApi
       '74-46-0-2' => {
 
         code:       3138,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '2 - 3',
+        cost:       410
 
       },
 
@@ -36474,10 +38905,12 @@ module CdekApi
       '74-38-0-48' => {
 
         code:       13885,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '2 - 3',
+        cost:       410
 
       },
 
@@ -36485,10 +38918,12 @@ module CdekApi
       '74-38-0-9' => {
 
         code:       13886,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '2 - 3',
+        cost:       410
 
       },
 
@@ -36496,10 +38931,12 @@ module CdekApi
       '74-25-0-9' => {
 
         code:       13923,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '2 - 3',
+        cost:       410
 
       },
 
@@ -36507,10 +38944,12 @@ module CdekApi
       '74-38-0-59' => {
 
         code:       14328,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '2 - 3',
+        cost:       410
 
       },
 
@@ -36518,10 +38957,12 @@ module CdekApi
       '74-17-2-0' => {
 
         code:       689,
+        tariff:     137,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '5 - 8',
+        cost:       490
 
       },
 
@@ -36529,10 +38970,12 @@ module CdekApi
       '74-0-13-0' => {
 
         code:       693,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '2 - 3',
+        cost:       410
 
       },
 
@@ -36540,10 +38983,12 @@ module CdekApi
       '74-29-0-39' => {
 
         code:       13924,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '2 - 3',
+        cost:       410
 
       },
 
@@ -36551,10 +38996,12 @@ module CdekApi
       '74-32-0-27' => {
 
         code:       13896,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '2 - 3',
+        cost:       410
 
       },
 
@@ -36562,10 +39009,12 @@ module CdekApi
       '74-17-0-28' => {
 
         code:       13911,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '2 - 3',
+        cost:       410
 
       },
 
@@ -36573,10 +39022,12 @@ module CdekApi
       '74-42-0-54' => {
 
         code:       13879,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '2 - 3',
+        cost:       410
 
       },
 
@@ -36584,10 +39035,12 @@ module CdekApi
       '74-42-0-49' => {
 
         code:       13878,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '2 - 3',
+        cost:       410
 
       },
 
@@ -36595,10 +39048,12 @@ module CdekApi
       '74-0-14-0' => {
 
         code:       3218,
+        tariff:     137,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '6 - 9',
+        cost:       535
 
       },
 
@@ -36606,10 +39061,12 @@ module CdekApi
       '74-0-36-0' => {
 
         code:       690,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '2 - 3',
+        cost:       410
 
       },
 
@@ -36617,10 +39074,12 @@ module CdekApi
       '74-9-0-16' => {
 
         code:       3139,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '2 - 3',
+        cost:       410
 
       },
 
@@ -36628,21 +39087,12 @@ module CdekApi
       '74-37-0-48' => {
 
         code:       3140,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
-
-      },
-
-      # Увильды
-      '74-0-8-18' => {
-
-        code:       13009,
-        address:    '',
-        phone:      '',
-        work_time:  '',
-        delivery:   ''
+        delivery:   '2 - 3',
+        cost:       410
 
       },
 
@@ -36650,10 +39100,12 @@ module CdekApi
       '74-41-0-1' => {
 
         code:       13882,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '2 - 3',
+        cost:       410
 
       },
 
@@ -36661,10 +39113,12 @@ module CdekApi
       '74-33-0-2' => {
 
         code:       13897,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '2 - 3',
+        cost:       410
 
       },
 
@@ -36672,10 +39126,12 @@ module CdekApi
       '74-0-15-0' => {
 
         code:       1754,
+        tariff:     137,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '6 - 9',
+        cost:       535
 
       },
 
@@ -36683,10 +39139,12 @@ module CdekApi
       '74-42-0-2' => {
 
         code:       3219,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '2 - 3',
+        cost:       220
 
       },
 
@@ -36694,10 +39152,12 @@ module CdekApi
       '74-0-1-0' => {
 
         code:       259,
+        tariff:     136,
         address:    'Ленина пр-т., д.15',
         phone:      '(351) 225-01-84',
         work_time:  'пн.-пт. 9-20, сб.-вс. 9-18',
-        delivery:   ''
+        delivery:   '1 - 2',
+        cost:       85
 
       },
 
@@ -36705,10 +39165,12 @@ module CdekApi
       '74-0-2-5' => {
 
         code:       3141,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '2 - 3',
+        cost:       410
 
       },
 
@@ -36716,10 +39178,12 @@ module CdekApi
       '74-0-1-0' => {
 
         code:       13208,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '2 - 3',
+        cost:       295
 
       },
 
@@ -36727,10 +39191,12 @@ module CdekApi
       '74-0-16-0' => {
 
         code:       962,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '2 - 3',
+        cost:       410
 
       },
 
@@ -36738,43 +39204,12 @@ module CdekApi
       '74-39-0-36' => {
 
         code:       13919,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
-
-      },
-
-      # Аргун
-      '20-0-2-0' => {
-
-        code:       3143,
-        address:    '',
-        phone:      '',
-        work_time:  '',
-        delivery:   ''
-
-      },
-
-      # Ачхой-Мартан
-      '20-2-0-1' => {
-
-        code:       3142,
-        address:    '',
-        phone:      '',
-        work_time:  '',
-        delivery:   ''
-
-      },
-
-      # Ведено
-      '20-3-0-1' => {
-
-        code:       3152,
-        address:    '',
-        phone:      '',
-        work_time:  '',
-        delivery:   ''
+        delivery:   '2 - 3',
+        cost:       410
 
       },
 
@@ -36782,10 +39217,12 @@ module CdekApi
       '20-0-1-0' => {
 
         code:       441,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '6 - 8',
+        cost:       1330
 
       },
 
@@ -36793,109 +39230,12 @@ module CdekApi
       '20-5-1-0' => {
 
         code:       3144,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
-
-      },
-
-      # Знаменское
-      '20-7-0-4' => {
-
-        code:       3145,
-        address:    '',
-        phone:      '',
-        work_time:  '',
-        delivery:   ''
-
-      },
-
-      # Итум-Кали
-      '20-28-0-1' => {
-
-        code:       3150,
-        address:    '',
-        phone:      '',
-        work_time:  '',
-        delivery:   ''
-
-      },
-
-      # Курчалой
-      '20-6-0-1' => {
-
-        code:       3154,
-        address:    '',
-        phone:      '',
-        work_time:  '',
-        delivery:   ''
-
-      },
-
-      # Наурская
-      '20-8-0-1' => {
-
-        code:       3146,
-        address:    '',
-        phone:      '',
-        work_time:  '',
-        delivery:   ''
-
-      },
-
-      # Урус-Мартан
-      '20-10-0-1' => {
-
-        code:       3147,
-        address:    '',
-        phone:      '',
-        work_time:  '',
-        delivery:   ''
-
-      },
-
-      # Шали
-      '20-12-1-0' => {
-
-        code:       3148,
-        address:    '',
-        phone:      '',
-        work_time:  '',
-        delivery:   ''
-
-      },
-
-      # Кенхи
-      '20-19-0-1' => {
-
-        code:       3153,
-        address:    '',
-        phone:      '',
-        work_time:  '',
-        delivery:   ''
-
-      },
-
-      # Шатой
-      '20-18-0-1' => {
-
-        code:       3151,
-        address:    '',
-        phone:      '',
-        work_time:  '',
-        delivery:   ''
-
-      },
-
-      # Шатой
-      '20-18-0-1' => {
-
-        code:       3149,
-        address:    '',
-        phone:      '',
-        work_time:  '',
-        delivery:   ''
+        delivery:   '8 - 14',
+        cost:       2200
 
       },
 
@@ -36903,10 +39243,12 @@ module CdekApi
       '21-0-22-0' => {
 
         code:       3159,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '4 - 7',
+        cost:       1510
 
       },
 
@@ -36914,10 +39256,12 @@ module CdekApi
       '21-3-0-1' => {
 
         code:       3189,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '4 - 7',
+        cost:       1510
 
       },
 
@@ -36925,10 +39269,12 @@ module CdekApi
       '21-4-0-1' => {
 
         code:       3190,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '4 - 7',
+        cost:       1510
 
       },
 
@@ -36936,10 +39282,12 @@ module CdekApi
       '21-5-0-1' => {
 
         code:       3191,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '4 - 7',
+        cost:       1510
 
       },
 
@@ -36947,10 +39295,12 @@ module CdekApi
       '21-6-0-1' => {
 
         code:       3192,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '4 - 7',
+        cost:       1510
 
       },
 
@@ -36958,10 +39308,12 @@ module CdekApi
       '21-8-0-64' => {
 
         code:       3160,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '4 - 7',
+        cost:       1510
 
       },
 
@@ -36969,10 +39321,12 @@ module CdekApi
       '21-9-0-1' => {
 
         code:       3193,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '4 - 7',
+        cost:       1510
 
       },
 
@@ -36980,10 +39334,12 @@ module CdekApi
       '21-10-0-1' => {
 
         code:       3194,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '4 - 7',
+        cost:       1510
 
       },
 
@@ -36991,10 +39347,12 @@ module CdekApi
       '21-11-0-1' => {
 
         code:       3195,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '4 - 7',
+        cost:       1510
 
       },
 
@@ -37002,10 +39360,12 @@ module CdekApi
       '21-17-0-1' => {
 
         code:       3155,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '4 - 7',
+        cost:       1510
 
       },
 
@@ -37013,10 +39373,12 @@ module CdekApi
       '21-12-0-5' => {
 
         code:       3157,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '4 - 7',
+        cost:       1510
 
       },
 
@@ -37024,10 +39386,12 @@ module CdekApi
       '21-13-0-1' => {
 
         code:       3196,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '4 - 7',
+        cost:       1510
 
       },
 
@@ -37035,10 +39399,12 @@ module CdekApi
       '21-0-24-0' => {
 
         code:       387,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '4 - 7',
+        cost:       1310
 
       },
 
@@ -37046,10 +39412,12 @@ module CdekApi
       '21-14-0-1' => {
 
         code:       3197,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '4 - 7',
+        cost:       1510
 
       },
 
@@ -37057,10 +39425,12 @@ module CdekApi
       '21-15-0-1' => {
 
         code:       3198,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '4 - 7',
+        cost:       1510
 
       },
 
@@ -37068,10 +39438,12 @@ module CdekApi
       '21-16-0-26' => {
 
         code:       3199,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '4 - 7',
+        cost:       1510
 
       },
 
@@ -37079,10 +39451,12 @@ module CdekApi
       '21-0-1-0' => {
 
         code:       419,
+        tariff:     136,
         address:    'Ильбекова ул., д.4, оф.202',
         phone:      '(8352)64-17-30,677-678,211-444',
         work_time:  'пн.-пт. 9-18, сб. 11-15',
-        delivery:   ''
+        delivery:   '4 - 6',
+        cost:       335
 
       },
 
@@ -37090,10 +39464,12 @@ module CdekApi
       '21-18-0-1' => {
 
         code:       3200,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '4 - 7',
+        cost:       1510
 
       },
 
@@ -37101,10 +39477,12 @@ module CdekApi
       '21-7-0-9' => {
 
         code:       3188,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '4 - 7',
+        cost:       1510
 
       },
 
@@ -37112,10 +39490,12 @@ module CdekApi
       '21-0-25-0' => {
 
         code:       1749,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '4 - 7',
+        cost:       1510
 
       },
 
@@ -37123,10 +39503,12 @@ module CdekApi
       '21-20-0-28' => {
 
         code:       3158,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '4 - 7',
+        cost:       1510
 
       },
 
@@ -37134,10 +39516,12 @@ module CdekApi
       '21-21-0-1' => {
 
         code:       3201,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '4 - 7',
+        cost:       1510
 
       },
 
@@ -37145,10 +39529,12 @@ module CdekApi
       '21-22-0-1' => {
 
         code:       3202,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '4 - 7',
+        cost:       1510
 
       },
 
@@ -37156,10 +39542,12 @@ module CdekApi
       '87-0-1-0' => {
 
         code:       2381,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '9 - 11',
+        cost:       2200
 
       },
 
@@ -37167,10 +39555,12 @@ module CdekApi
       '87-3-0-2' => {
 
         code:       3163,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '12 - 30',
+        cost:       3040
 
       },
 
@@ -37178,10 +39568,12 @@ module CdekApi
       '87-6-0-4' => {
 
         code:       3164,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '12 - 30',
+        cost:       3040
 
       },
 
@@ -37189,21 +39581,12 @@ module CdekApi
       '87-5-0-1' => {
 
         code:       3166,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
-
-      },
-
-      # Тавайваам
-      '87-0-1-2' => {
-
-        code:       13149,
-        address:    '',
-        phone:      '',
-        work_time:  '',
-        delivery:   ''
+        delivery:   '12 - 30',
+        cost:       3040
 
       },
 
@@ -37211,10 +39594,12 @@ module CdekApi
       '87-9-0-1' => {
 
         code:       3162,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '12 - 30',
+        cost:       3040
 
       },
 
@@ -37222,10 +39607,12 @@ module CdekApi
       '87-4-0-1' => {
 
         code:       3165,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '12 - 30',
+        cost:       3040
 
       },
 
@@ -37233,10 +39620,12 @@ module CdekApi
       '89-3-0-1' => {
 
         code:       1741,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '4 - 6',
+        cost:       1930
 
       },
 
@@ -37244,10 +39633,12 @@ module CdekApi
       '89-0-2-0' => {
 
         code:       618,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '4 - 7',
+        cost:       1720
 
       },
 
@@ -37255,10 +39646,12 @@ module CdekApi
       '89-2-0-1' => {
 
         code:       1441,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '5 - 9',
+        cost:       1830
 
       },
 
@@ -37266,10 +39659,12 @@ module CdekApi
       '89-0-3-0' => {
 
         code:       680,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '6 - 8',
+        cost:       1930
 
       },
 
@@ -37277,10 +39672,12 @@ module CdekApi
       '89-6-0-1' => {
 
         code:       1442,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '6 - 10',
+        cost:       1830
 
       },
 
@@ -37288,10 +39685,12 @@ module CdekApi
       '89-0-1-0' => {
 
         code:       678,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '4 - 6',
+        cost:       1720
 
       },
 
@@ -37299,10 +39698,12 @@ module CdekApi
       '89-0-5-0' => {
 
         code:       681,
+        tariff:     136,
         address:    '13 проезд, д.промзона, панел, оф.20',
         phone:      '+7 (3499)597897,  8-951-992-9282',
         work_time:  'пн.-пт. 9-18, обед с 12:30 до 14:00',
-        delivery:   ''
+        delivery:   '7 - 10',
+        cost:       415
 
       },
 
@@ -37310,10 +39711,12 @@ module CdekApi
       '89-0-6-0' => {
 
         code:       12,
+        tariff:     137,
         address:    'Оптимистов мкр, д.4/3, оф.85',
         phone:      '(3494) 24-50-59, 24-50-77',
         work_time:  'пн.-пт. 9-18, сб. 10-14',
-        delivery:   ''
+        delivery:   '7 - 10',
+        cost:       660
 
       },
 
@@ -37321,10 +39724,12 @@ module CdekApi
       '89-0-7-0' => {
 
         code:       679,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '3 - 6',
+        cost:       1480
 
       },
 
@@ -37332,10 +39737,12 @@ module CdekApi
       '89-0-5-2' => {
 
         code:       3211,
+        tariff:     137,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '6 - 10',
+        cost:       1405
 
       },
 
@@ -37343,10 +39750,12 @@ module CdekApi
       '89-8-0-9' => {
 
         code:       13486,
+        tariff:     137,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '6 - 11',
+        cost:       1135
 
       },
 
@@ -37354,10 +39763,12 @@ module CdekApi
       '89-4-0-4' => {
 
         code:       3212,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '4 - 6',
+        cost:       1720
 
       },
 
@@ -37365,10 +39776,12 @@ module CdekApi
       '89-4-0-5' => {
 
         code:       51,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '4 - 6',
+        cost:       1720
 
       },
 
@@ -37376,10 +39789,12 @@ module CdekApi
       '89-0-1-0' => {
 
         code:       677,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '3 - 5',
+        cost:       1110
 
       },
 
@@ -37387,10 +39802,12 @@ module CdekApi
       '89-0-5-0' => {
 
         code:       13485,
+        tariff:     137,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '6 - 11',
+        cost:       855
 
       },
 
@@ -37398,10 +39815,12 @@ module CdekApi
       '89-5-0-1' => {
 
         code:       1340,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '4 - 6',
+        cost:       1720
 
       },
 
@@ -37409,21 +39828,12 @@ module CdekApi
       '89-4-1-0' => {
 
         code:       682,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
-
-      },
-
-      # Толька
-      '89-2-0-5' => {
-
-        code:       13150,
-        address:    '',
-        phone:      '',
-        work_time:  '',
-        delivery:   ''
+        delivery:   '4 - 7',
+        cost:       1580
 
       },
 
@@ -37431,10 +39841,12 @@ module CdekApi
       '89-4-0-9' => {
 
         code:       3167,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '4 - 6',
+        cost:       2460
 
       },
 
@@ -37442,21 +39854,12 @@ module CdekApi
       '89-3-0-20' => {
 
         code:       2008,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
-
-      },
-
-      # Ямбург
-      '89-8-0-12' => {
-
-        code:       3231,
-        address:    '',
-        phone:      '',
-        work_time:  '',
-        delivery:   ''
+        delivery:   '4 - 6',
+        cost:       2460
 
       },
 
@@ -37464,10 +39867,12 @@ module CdekApi
       '89-7-0-1' => {
 
         code:       1338,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '4 - 6',
+        cost:       2460
 
       },
 
@@ -37475,21 +39880,12 @@ module CdekApi
       '76-2-0-1' => {
 
         code:       3175,
+        tariff:     137,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
-
-      },
-
-      # Борисоглебский
-      '76-3-0-1' => {
-
-        code:       13063,
-        address:    '',
-        phone:      '',
-        work_time:  '',
-        delivery:   ''
+        delivery:   '6 - 9',
+        cost:       745
 
       },
 
@@ -37497,10 +39893,12 @@ module CdekApi
       '76-5-0-10' => {
 
         code:       1437,
+        tariff:     137,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '6 - 9',
+        cost:       745
 
       },
 
@@ -37508,10 +39906,12 @@ module CdekApi
       '76-6-0-7' => {
 
         code:       531,
+        tariff:     137,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '6 - 9',
+        cost:       745
 
       },
 
@@ -37519,10 +39919,12 @@ module CdekApi
       '76-1-0-40' => {
 
         code:       3168,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '4 - 6',
+        cost:       1300
 
       },
 
@@ -37530,10 +39932,12 @@ module CdekApi
       '76-15-0-97' => {
 
         code:       3176,
+        tariff:     137,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '6 - 9',
+        cost:       745
 
       },
 
@@ -37541,10 +39945,12 @@ module CdekApi
       '76-1-0-20' => {
 
         code:       1412,
+        tariff:     137,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '6 - 9',
+        cost:       745
 
       },
 
@@ -37552,10 +39958,12 @@ module CdekApi
       '76-16-0-2' => {
 
         code:       3169,
+        tariff:     137,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '6 - 9',
+        cost:       745
 
       },
 
@@ -37563,10 +39971,12 @@ module CdekApi
       '76-1-0-246' => {
 
         code:       3170,
+        tariff:     137,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '6 - 9',
+        cost:       745
 
       },
 
@@ -37574,10 +39984,12 @@ module CdekApi
       '76-1-0-276' => {
 
         code:       3171,
+        tariff:     137,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '6 - 9',
+        cost:       745
 
       },
 
@@ -37585,10 +39997,12 @@ module CdekApi
       '76-7-0-34' => {
 
         code:       13156,
+        tariff:     137,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '6 - 9',
+        cost:       675
 
       },
 
@@ -37596,10 +40010,12 @@ module CdekApi
       '76-8-0-3' => {
 
         code:       1411,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '4 - 6',
+        cost:       1300
 
       },
 
@@ -37607,10 +40023,12 @@ module CdekApi
       '76-1-0-5' => {
 
         code:       3172,
+        tariff:     137,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '6 - 9',
+        cost:       745
 
       },
 
@@ -37618,10 +40036,12 @@ module CdekApi
       '76-15-0-11' => {
 
         code:       3177,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '4 - 6',
+        cost:       1300
 
       },
 
@@ -37629,10 +40049,12 @@ module CdekApi
       '76-0-2-0' => {
 
         code:       187,
+        tariff:     137,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '6 - 9',
+        cost:       745
 
       },
 
@@ -37640,10 +40062,12 @@ module CdekApi
       '76-14-0-14' => {
 
         code:       1413,
+        tariff:     137,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '6 - 9',
+        cost:       745
 
       },
 
@@ -37651,10 +40075,12 @@ module CdekApi
       '76-13-0-2' => {
 
         code:       1410,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '4 - 6',
+        cost:       1300
 
       },
 
@@ -37662,10 +40088,12 @@ module CdekApi
       '76-14-1-0' => {
 
         code:       434,
+        tariff:     11,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '4 - 6',
+        cost:       1300
 
       },
 
@@ -37673,10 +40101,12 @@ module CdekApi
       '76-15-1-0' => {
 
         code:       147,
+        tariff:     137,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '6 - 9',
+        cost:       745
 
       },
 
@@ -37684,10 +40114,12 @@ module CdekApi
       '76-14-0-40' => {
 
         code:       3173,
+        tariff:     137,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '6 - 9',
+        cost:       745
 
       },
 
@@ -37695,10 +40127,12 @@ module CdekApi
       '76-2-0-6' => {
 
         code:       1409,
+        tariff:     137,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '6 - 9',
+        cost:       745
 
       },
 
@@ -37706,10 +40140,12 @@ module CdekApi
       '76-17-0-14' => {
 
         code:       1110,
+        tariff:     137,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '6 - 9',
+        cost:       745
 
       },
 
@@ -37717,10 +40153,12 @@ module CdekApi
       '76-1-0-573' => {
 
         code:       3174,
+        tariff:     137,
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   ''
+        delivery:   '6 - 9',
+        cost:       745
 
       },
 
@@ -37728,10 +40166,12 @@ module CdekApi
       '76-0-1-0' => {
 
         code:       146,
+        tariff:     136,
         address:    'Карабулина ул., д.33/72, оф.105',
         phone:      '(4852) 45-15-25, 42-95-85',
         work_time:  'пн.-чт. 9-17, пт. 9-16',
-        delivery:   ''
+        delivery:   '4 - 6',
+        cost:       335
 
       }
 

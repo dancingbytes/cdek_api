@@ -4,7 +4,9 @@ require 'digest/md5'
 
 require "cdek_api/version"
 require "cdek_api/ext"
+
 require "cdek_api/cities"
+
 require "cdek_api/delivery"
 
 require "cdek_api/errors"
@@ -21,13 +23,12 @@ module CdekApi
 
   extend self
 
-  CALC_HOST     = 'api.edostavka.ru'
-  CALC_PORT     = 80
-  CALC_USE_SSL  = false
-
   HOST          = 'gw.edostavka.ru'
   PORT          = 11443
   USE_SSL       = false
+  RETRY         = 5
+  WAIT_TIME     = (defined?(::Rake) ? 10 : 5)
+  UUID          = "51ee154e8a67ade33b00000a".freeze
 
   DATE_FORMAT   = "%Y-%m-%dT%H:%M:%S"
 
@@ -45,11 +46,12 @@ module CdekApi
   end # api
 
   def calculate(params)
-
-    @calc ||= ::CdekApi::Calculator.new(@account, @passw)
-    @calc.calculate(params)
-
+    calc.calculate(params)
   end # calculate
+
+  def best_tariff(city_id)
+    calc.best_tariff(city_id)
+  end # best_tariff
 
   def generate_secure(date, pass)
     ::Digest::MD5.hexdigest("#{date}&#{pass}")
@@ -81,5 +83,11 @@ module CdekApi
     self
 
   end # log
+
+  private
+
+  def calc
+    @calc ||= ::CdekApi::Calculator.new(@account, @passw)
+  end # calc
 
 end # CdekApi
