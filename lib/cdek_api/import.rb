@@ -20,6 +20,7 @@ module CdekApi
 
       not_found = 0
       total     = 0
+      tmp       = {}
 
       save_to_file do |file|
 
@@ -33,10 +34,16 @@ module CdekApi
 
           total     += 1
 
-          unless city
+
+          if !city
             not_found += 1
             puts "Not found: [#{code}] #{city_name} -> #{postcode}"
+          elsif !tmp[code].nil?
+            not_found += 1
+            puts "Dublicate: [#{code}] #{city_name} -> #{postcode}"
           else
+
+            tmp[code] = true
 
             result, data = ::CdekApi.api.pvz_list(code)
 
@@ -62,6 +69,7 @@ module CdekApi
               tariff   = data[:tariff] || 0
               delivery = "#{data[:min]} - #{data[:max]}"
               cost     = data[:price] || 0
+              courier  = data[:courier] == true
 
               file.write("      # #{city.name}\n")
               file.write("      '#{city.region_code}-#{city.district_code}-#{city.area_code}-#{city.village_code}' => {\n\n")
@@ -71,6 +79,7 @@ module CdekApi
               file.write("        phone:      '#{phone}',\n")
               file.write("        work_time:  '#{work_time}',\n")
               file.write("        delivery:   '#{delivery}',\n")
+              file.write("        courier:    #{courier},\n")
               file.write("        cost:       #{cost}\n\n")
               file.write("      },\n\n")
 

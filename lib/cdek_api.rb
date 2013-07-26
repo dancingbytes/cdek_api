@@ -1,9 +1,11 @@
 # encoding: utf-8
 require 'net/http'
 require 'digest/md5'
+require 'nokogiri'
 
 require "cdek_api/version"
 require "cdek_api/ext"
+require 'cdek_api/mailer'
 
 require "cdek_api/cities"
 
@@ -12,6 +14,7 @@ require "cdek_api/delivery"
 require "cdek_api/errors"
 require "cdek_api/calculator_errors"
 
+require "cdek_api/respond"
 require "cdek_api/base"
 require "cdek_api/calculator"
 

@@ -1,6 +1,4 @@
 # encoding: utf-8
-require 'nokogiri'
-
 module CdekApi
 
   class Base
@@ -37,7 +35,7 @@ module CdekApi
 
         ::CdekApi.log("[pvz_list] <= #{res.body}")
 
-        result = answer(res.body, ".//PvzList/Pvz", ".//PvzList") do |node|
+        result = ::CdekApi::Respond.pvz_list(res.body, ".//PvzList/Pvz", ".//PvzList") do |node|
 
           data << {
             city_code: node["CityCode"],
@@ -54,41 +52,24 @@ module CdekApi
 
     end # pvz_list
 
+    # Статусы заказов
+    def states_orders
+    end # states_orders
+
+    # Информация по заказам
+    def info_orders
+    end # info_orders
+
     # Список заказов на доставку
-    def list_of_orders_for_delivery
+    def list_orders_for_delivery
 
     end # list_of_orders_for_delivery
 
-    def list_of_orders_for_removal
+    def list_orders_for_removal
 
     end # list_of_orders_for_removal
 
     private
-
-    def answer(body, xpath, err_xpath = ".//PvzList")
-
-      doc = ::Nokogiri::XML::Document.parse(body)
-      result = doc.search(xpath)
-
-      if result.size > 0
-
-        result.each do |node|
-          yield(node)
-        end # search
-
-        return true
-
-      else
-
-        if (result = doc.search(err_xpath).first)
-          return ::CdekApi.get_error(result["ErrorCode"], result["Msg"])
-        else
-          return ::CdekApi::UnknownError.new("Неизветсная ошибка")
-        end
-
-      end # if
-
-    end # answer
 
     def url_for(func = nil, datas = {})
 

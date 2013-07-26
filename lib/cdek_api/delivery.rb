@@ -30,7 +30,7 @@ module CdekApi
         @cost += (@order.basket_price * 0.04)
       end
 
-      @cost += (@tariff * 1.04)
+      @cost += ((@tariff + self.additional_cost) * 1.04)
       @cost += (@order.package_price * 1.1)
       @cost
 
@@ -58,25 +58,32 @@ module CdekApi
       end
 
       @reward += (@tariff * 1.0375)
+      @reward += self.additional_cost
       @reward
 
     end # reward
 
     def reward_return
 
-      return 0        unless self.valid?
-      return @reward  unless @reward.nil?
+      return 0          unless self.valid?
+      return @reward_r  unless @reward_r.nil?
 
-      @reward = 0
+      @reward_r = 0
 
       unless @order.payed?
-        @reward += (@order.basket_price * 0.0375)
+        @reward_r += (@order.basket_price * 0.0375)
       end
 
-      @reward += (@tariff * 1.0375)
-      @reward
+      @reward_r += (@tariff * 1.0375)
+      @reward_r += self.additional_cost
+      @reward_r
 
     end # reward_return
+
+    # Доп. расходы
+    def additional_cost
+      (@table[:courier] == true ? 19 : 0)
+    end # additional_cost
 
     def valid?
       !@tariff.nil?

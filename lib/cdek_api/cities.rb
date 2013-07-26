@@ -14,6 +14,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '8 - 11',
+        courier:    true,
         cost:       1370
 
       },
@@ -27,6 +28,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '8 - 11',
+        courier:    true,
         cost:       1370
 
       },
@@ -40,6 +42,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '8 - 11',
+        courier:    true,
         cost:       1370
 
       },
@@ -53,6 +56,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '8 - 11',
+        courier:    true,
         cost:       1370
 
       },
@@ -66,6 +70,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '6 - 8',
+        courier:    true,
         cost:       960
 
       },
@@ -79,6 +84,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '8 - 11',
+        courier:    true,
         cost:       1370
 
       },
@@ -92,6 +98,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '8 - 11',
+        courier:    true,
         cost:       1370
 
       },
@@ -105,6 +112,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '8 - 11',
+        courier:    true,
         cost:       1370
 
       },
@@ -118,6 +126,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '8 - 11',
+        courier:    true,
         cost:       1370
 
       },
@@ -131,6 +140,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '8 - 11',
+        courier:    true,
         cost:       1370
 
       },
@@ -144,6 +154,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '8 - 11',
+        courier:    true,
         cost:       1370
 
       },
@@ -157,6 +168,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '4 - 6',
+        courier:    true,
         cost:       3190
 
       },
@@ -170,6 +182,7 @@ module CdekApi
         phone:      '8(38822)2-32-40,8(38822)9-40-60,8-913-999-40-60',
         work_time:  'пн.-пт. 9-18',
         delivery:   '6 - 7',
+        courier:    false,
         cost:       175
 
       },
@@ -183,6 +196,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '6 - 9',
+        courier:    true,
         cost:       495
 
       },
@@ -196,6 +210,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '6 - 10',
+        courier:    true,
         cost:       915
 
       },
@@ -209,6 +224,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '4 - 6',
+        courier:    true,
         cost:       3590
 
       },
@@ -222,6 +238,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '6 - 10',
+        courier:    true,
         cost:       495
 
       },
@@ -235,6 +252,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '4 - 6',
+        courier:    true,
         cost:       2490
 
       },
@@ -248,6 +266,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '4 - 6',
+        courier:    true,
         cost:       2690
 
       },
@@ -261,6 +280,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '4 - 7',
+        courier:    true,
         cost:       1260
 
       },
@@ -274,6 +294,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '4 - 7',
+        courier:    true,
         cost:       1260
 
       },
@@ -287,6 +308,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '6 - 10',
+        courier:    true,
         cost:       915
 
       },
@@ -300,6 +322,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '4 - 7',
+        courier:    true,
         cost:       1260
 
       },
@@ -313,6 +336,7 @@ module CdekApi
         phone:      '',
         work_time:  'пн.-пт. 9-18, сб. 10-14',
         delivery:   '4 - 6',
+        courier:    false,
         cost:       175
 
       },
@@ -326,6 +350,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '4 - 7',
+        courier:    true,
         cost:       1260
 
       },
@@ -339,6 +364,7 @@ module CdekApi
         phone:      '8(3854)555-017, 335-253, 8-962-790-49-01, 8-962-810-75-96',
         work_time:  'пн.-пт. 9-18',
         delivery:   '4 - 6',
+        courier:    false,
         cost:       175
 
       },
@@ -352,6 +378,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '6 - 10',
+        courier:    true,
         cost:       1015
 
       },
@@ -365,6 +392,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '4 - 7',
+        courier:    true,
         cost:       1260
 
       },
@@ -378,6 +406,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '4 - 7',
+        courier:    true,
         cost:       1330
 
       },
@@ -391,6 +420,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '4 - 7',
+        courier:    true,
         cost:       1260
 
       },
@@ -404,6 +434,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '4 - 7',
+        courier:    true,
         cost:       1260
 
       },
@@ -417,6 +448,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '4 - 7',
+        courier:    true,
         cost:       1260
 
       },
@@ -430,6 +462,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '4 - 7',
+        courier:    true,
         cost:       1260
 
       },
@@ -443,6 +476,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '7 - 11',
+        courier:    true,
         cost:       555
 
       },
@@ -456,6 +490,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '4 - 7',
+        courier:    true,
         cost:       1260
 
       },
@@ -469,6 +504,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '4 - 7',
+        courier:    true,
         cost:       1260
 
       },
@@ -482,6 +518,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '4 - 7',
+        courier:    true,
         cost:       1260
 
       },
@@ -495,6 +532,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '4 - 7',
+        courier:    true,
         cost:       1260
 
       },
@@ -508,6 +546,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '4 - 7',
+        courier:    true,
         cost:       1260
 
       },
@@ -521,6 +560,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '4 - 7',
+        courier:    true,
         cost:       1260
 
       },
@@ -534,6 +574,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '4 - 7',
+        courier:    true,
         cost:       1260
 
       },
@@ -547,6 +588,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '4 - 7',
+        courier:    true,
         cost:       1260
 
       },
@@ -560,6 +602,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '4 - 7',
+        courier:    true,
         cost:       1260
 
       },
@@ -573,6 +616,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '4 - 7',
+        courier:    true,
         cost:       1260
 
       },
@@ -586,6 +630,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '4 - 7',
+        courier:    true,
         cost:       1260
 
       },
@@ -599,6 +644,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '4 - 7',
+        courier:    true,
         cost:       1260
 
       },
@@ -612,6 +658,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '4 - 7',
+        courier:    true,
         cost:       1260
 
       },
@@ -625,6 +672,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '4 - 7',
+        courier:    true,
         cost:       1260
 
       },
@@ -638,6 +686,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '4 - 7',
+        courier:    true,
         cost:       1260
 
       },
@@ -651,6 +700,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '4 - 7',
+        courier:    true,
         cost:       1260
 
       },
@@ -664,6 +714,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '4 - 7',
+        courier:    true,
         cost:       1260
 
       },
@@ -677,6 +728,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '4 - 7',
+        courier:    true,
         cost:       1260
 
       },
@@ -690,6 +742,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '4 - 7',
+        courier:    true,
         cost:       1260
 
       },
@@ -703,6 +756,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '4 - 7',
+        courier:    true,
         cost:       1260
 
       },
@@ -716,6 +770,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '4 - 7',
+        courier:    true,
         cost:       1260
 
       },
@@ -729,6 +784,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '4 - 7',
+        courier:    true,
         cost:       1260
 
       },
@@ -742,6 +798,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '4 - 7',
+        courier:    true,
         cost:       1260
 
       },
@@ -755,6 +812,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '6 - 9',
+        courier:    true,
         cost:       545
 
       },
@@ -768,6 +826,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '4 - 7',
+        courier:    true,
         cost:       1260
 
       },
@@ -781,6 +840,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '7 - 11',
+        courier:    true,
         cost:       555
 
       },
@@ -794,6 +854,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '4 - 7',
+        courier:    true,
         cost:       1260
 
       },
@@ -807,6 +868,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '4 - 7',
+        courier:    true,
         cost:       1260
 
       },
@@ -820,6 +882,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '4 - 7',
+        courier:    true,
         cost:       1260
 
       },
@@ -833,6 +896,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '4 - 7',
+        courier:    true,
         cost:       1260
 
       },
@@ -846,6 +910,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '4 - 7',
+        courier:    true,
         cost:       1260
 
       },
@@ -859,6 +924,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '4 - 7',
+        courier:    true,
         cost:       1260
 
       },
@@ -872,6 +938,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '4 - 7',
+        courier:    true,
         cost:       1260
 
       },
@@ -885,6 +952,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '4 - 6',
+        courier:    true,
         cost:       1060
 
       },
@@ -898,6 +966,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '3 - 6',
+        courier:    true,
         cost:       1145
 
       },
@@ -911,6 +980,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '4 - 7',
+        courier:    true,
         cost:       1260
 
       },
@@ -924,6 +994,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '4 - 7',
+        courier:    true,
         cost:       1260
 
       },
@@ -937,6 +1008,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '4 - 7',
+        courier:    true,
         cost:       1260
 
       },
@@ -950,6 +1022,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '4 - 7',
+        courier:    true,
         cost:       1260
 
       },
@@ -963,6 +1036,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '4 - 7',
+        courier:    true,
         cost:       1260
 
       },
@@ -976,6 +1050,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '4 - 7',
+        courier:    true,
         cost:       1260
 
       },
@@ -989,6 +1064,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '4 - 7',
+        courier:    true,
         cost:       1260
 
       },
@@ -1002,6 +1078,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '4 - 7',
+        courier:    true,
         cost:       1260
 
       },
@@ -1015,6 +1092,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '4 - 7',
+        courier:    true,
         cost:       1260
 
       },
@@ -1028,6 +1106,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '4 - 7',
+        courier:    true,
         cost:       1260
 
       },
@@ -1041,6 +1120,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '4 - 7',
+        courier:    true,
         cost:       1260
 
       },
@@ -1054,6 +1134,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '4 - 7',
+        courier:    true,
         cost:       1260
 
       },
@@ -1067,6 +1148,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '4 - 7',
+        courier:    true,
         cost:       1260
 
       },
@@ -1080,6 +1162,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '4 - 7',
+        courier:    true,
         cost:       1260
 
       },
@@ -1093,6 +1176,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '4 - 7',
+        courier:    true,
         cost:       1260
 
       },
@@ -1106,6 +1190,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '4 - 7',
+        courier:    true,
         cost:       1260
 
       },
@@ -1119,6 +1204,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '4 - 7',
+        courier:    true,
         cost:       1260
 
       },
@@ -1132,6 +1218,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '4 - 7',
+        courier:    true,
         cost:       1260
 
       },
@@ -1145,6 +1232,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '4 - 7',
+        courier:    true,
         cost:       1260
 
       },
@@ -1158,6 +1246,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '4 - 7',
+        courier:    true,
         cost:       1260
 
       },
@@ -1171,6 +1260,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '7 - 11',
+        courier:    true,
         cost:       555
 
       },
@@ -1184,6 +1274,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '4 - 7',
+        courier:    true,
         cost:       1260
 
       },
@@ -1197,6 +1288,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '6 - 10',
+        courier:    true,
         cost:       895
 
       },
@@ -1210,6 +1302,7 @@ module CdekApi
         phone:      '(4162) 779-445,387-445',
         work_time:  'пн-пт 9-18, сб 9-14',
         delivery:   '6 - 8',
+        courier:    false,
         cost:       415
 
       },
@@ -1223,6 +1316,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '5 - 9',
+        courier:    true,
         cost:       1980
 
       },
@@ -1236,6 +1330,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '5 - 9',
+        courier:    true,
         cost:       1980
 
       },
@@ -1249,6 +1344,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '5 - 9',
+        courier:    true,
         cost:       1980
 
       },
@@ -1262,6 +1358,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '4 - 8',
+        courier:    true,
         cost:       1980
 
       },
@@ -1275,6 +1372,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '6 - 11',
+        courier:    true,
         cost:       1065
 
       },
@@ -1288,6 +1386,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '4 - 7',
+        courier:    true,
         cost:       1810
 
       },
@@ -1301,6 +1400,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '5 - 9',
+        courier:    true,
         cost:       1980
 
       },
@@ -1314,6 +1414,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '5 - 8',
+        courier:    true,
         cost:       1980
 
       },
@@ -1327,6 +1428,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '6 - 11',
+        courier:    true,
         cost:       1065
 
       },
@@ -1340,6 +1442,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '6 - 10',
+        courier:    true,
         cost:       895
 
       },
@@ -1353,6 +1456,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '6 - 10',
+        courier:    true,
         cost:       895
 
       },
@@ -1366,6 +1470,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '6 - 11',
+        courier:    true,
         cost:       1065
 
       },
@@ -1379,6 +1484,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '5 - 9',
+        courier:    true,
         cost:       1980
 
       },
@@ -1392,6 +1498,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '4 - 8',
+        courier:    true,
         cost:       1980
 
       },
@@ -1405,6 +1512,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '4 - 7',
+        courier:    true,
         cost:       1810
 
       },
@@ -1418,6 +1526,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '5 - 9',
+        courier:    true,
         cost:       1810
 
       },
@@ -1431,6 +1540,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '7 - 12',
+        courier:    true,
         cost:       1065
 
       },
@@ -1444,6 +1554,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '4 - 8',
+        courier:    true,
         cost:       1980
 
       },
@@ -1457,6 +1568,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '5 - 10',
+        courier:    true,
         cost:       2180
 
       },
@@ -1470,6 +1582,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '7 - 12',
+        courier:    true,
         cost:       1065
 
       },
@@ -1483,6 +1596,7 @@ module CdekApi
         phone:      '',
         work_time:  'пн-пт 9-17',
         delivery:   '4 - 6',
+        courier:    true,
         cost:       960
 
       },
@@ -1496,6 +1610,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '6 - 11',
+        courier:    true,
         cost:       1370
 
       },
@@ -1509,6 +1624,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '6 - 11',
+        courier:    true,
         cost:       1370
 
       },
@@ -1522,6 +1638,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '6 - 11',
+        courier:    true,
         cost:       1370
 
       },
@@ -1535,6 +1652,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '6 - 11',
+        courier:    true,
         cost:       1370
 
       },
@@ -1548,6 +1666,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '6 - 11',
+        courier:    true,
         cost:       1370
 
       },
@@ -1561,6 +1680,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '6 - 11',
+        courier:    true,
         cost:       1370
 
       },
@@ -1574,6 +1694,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '6 - 11',
+        courier:    true,
         cost:       1370
 
       },
@@ -1587,6 +1708,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '6 - 11',
+        courier:    true,
         cost:       1370
 
       },
@@ -1600,6 +1722,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '6 - 11',
+        courier:    true,
         cost:       1370
 
       },
@@ -1613,6 +1736,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '6 - 11',
+        courier:    true,
         cost:       1370
 
       },
@@ -1626,6 +1750,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '6 - 11',
+        courier:    true,
         cost:       1370
 
       },
@@ -1639,6 +1764,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '6 - 11',
+        courier:    true,
         cost:       1370
 
       },
@@ -1652,6 +1778,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '6 - 11',
+        courier:    true,
         cost:       1370
 
       },
@@ -1665,6 +1792,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '6 - 11',
+        courier:    true,
         cost:       1370
 
       },
@@ -1678,6 +1806,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '6 - 11',
+        courier:    true,
         cost:       1370
 
       },
@@ -1691,6 +1820,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '6 - 11',
+        courier:    true,
         cost:       1370
 
       },
@@ -1704,6 +1834,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '6 - 11',
+        courier:    true,
         cost:       1370
 
       },
@@ -1717,6 +1848,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '6 - 11',
+        courier:    true,
         cost:       1370
 
       },
@@ -1730,6 +1862,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '6 - 11',
+        courier:    true,
         cost:       1370
 
       },
@@ -1743,6 +1876,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '6 - 11',
+        courier:    true,
         cost:       1370
 
       },
@@ -1756,6 +1890,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '6 - 11',
+        courier:    true,
         cost:       1370
 
       },
@@ -1769,6 +1904,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '6 - 11',
+        courier:    true,
         cost:       1370
 
       },
@@ -1782,6 +1918,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '3 - 4',
+        courier:    false,
         cost:       810
 
       },
@@ -1795,6 +1932,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '5 - 7',
+        courier:    true,
         cost:       1500
 
       },
@@ -1808,6 +1946,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '5 - 7',
+        courier:    true,
         cost:       1430
 
       },
@@ -1821,6 +1960,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '5 - 7',
+        courier:    true,
         cost:       1500
 
       },
@@ -1834,6 +1974,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '5 - 7',
+        courier:    true,
         cost:       1500
 
       },
@@ -1847,6 +1988,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '5 - 7',
+        courier:    true,
         cost:       1500
 
       },
@@ -1860,6 +2002,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '5 - 7',
+        courier:    true,
         cost:       1430
 
       },
@@ -1873,6 +2016,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '5 - 7',
+        courier:    true,
         cost:       1500
 
       },
@@ -1886,6 +2030,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '5 - 7',
+        courier:    true,
         cost:       1500
 
       },
@@ -1899,6 +2044,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '5 - 7',
+        courier:    true,
         cost:       1500
 
       },
@@ -1912,6 +2058,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '5 - 7',
+        courier:    true,
         cost:       1500
 
       },
@@ -1925,6 +2072,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '5 - 7',
+        courier:    true,
         cost:       1430
 
       },
@@ -1938,6 +2086,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '5 - 7',
+        courier:    true,
         cost:       1500
 
       },
@@ -1951,6 +2100,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '5 - 7',
+        courier:    true,
         cost:       1500
 
       },
@@ -1964,6 +2114,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '5 - 7',
+        courier:    true,
         cost:       1430
 
       },
@@ -1977,6 +2128,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '5 - 7',
+        courier:    true,
         cost:       1430
 
       },
@@ -1990,6 +2142,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '5 - 7',
+        courier:    true,
         cost:       1430
 
       },
@@ -2003,6 +2156,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '5 - 7',
+        courier:    true,
         cost:       1500
 
       },
@@ -2016,6 +2170,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '2 - 4',
+        courier:    true,
         cost:       720
 
       },
@@ -2029,6 +2184,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '5 - 7',
+        courier:    true,
         cost:       560
 
       },
@@ -2042,6 +2198,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '2 - 4',
+        courier:    true,
         cost:       720
 
       },
@@ -2055,6 +2212,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '2 - 4',
+        courier:    true,
         cost:       720
 
       },
@@ -2068,6 +2226,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '2 - 4',
+        courier:    true,
         cost:       720
 
       },
@@ -2081,6 +2240,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '2 - 4',
+        courier:    true,
         cost:       720
 
       },
@@ -2094,6 +2254,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '2 - 4',
+        courier:    true,
         cost:       720
 
       },
@@ -2107,6 +2268,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '2 - 4',
+        courier:    true,
         cost:       720
 
       },
@@ -2120,6 +2282,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '3 - 5',
+        courier:    true,
         cost:       1070
 
       },
@@ -2133,6 +2296,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '2 - 4',
+        courier:    true,
         cost:       720
 
       },
@@ -2146,6 +2310,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '2 - 4',
+        courier:    true,
         cost:       720
 
       },
@@ -2159,6 +2324,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '2 - 4',
+        courier:    true,
         cost:       720
 
       },
@@ -2172,6 +2338,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '5 - 8',
+        courier:    true,
         cost:       500
 
       },
@@ -2185,6 +2352,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '2 - 4',
+        courier:    true,
         cost:       720
 
       },
@@ -2198,6 +2366,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '2 - 4',
+        courier:    true,
         cost:       720
 
       },
@@ -2211,6 +2380,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '2 - 4',
+        courier:    true,
         cost:       720
 
       },
@@ -2224,6 +2394,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '2 - 4',
+        courier:    true,
         cost:       720
 
       },
@@ -2237,6 +2408,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '2 - 4',
+        courier:    true,
         cost:       720
 
       },
@@ -2250,6 +2422,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '2 - 4',
+        courier:    true,
         cost:       720
 
       },
@@ -2263,6 +2436,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '2 - 4',
+        courier:    true,
         cost:       720
 
       },
@@ -2276,6 +2450,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '2 - 4',
+        courier:    true,
         cost:       720
 
       },
@@ -2289,6 +2464,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '2 - 4',
+        courier:    true,
         cost:       720
 
       },
@@ -2302,6 +2478,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '2 - 4',
+        courier:    true,
         cost:       720
 
       },
@@ -2315,6 +2492,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '2 - 4',
+        courier:    true,
         cost:       720
 
       },
@@ -2328,6 +2506,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '2 - 4',
+        courier:    true,
         cost:       720
 
       },
@@ -2341,6 +2520,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '2 - 4',
+        courier:    true,
         cost:       720
 
       },
@@ -2354,6 +2534,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '2 - 4',
+        courier:    true,
         cost:       720
 
       },
@@ -2367,6 +2548,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '2 - 4',
+        courier:    true,
         cost:       720
 
       },
@@ -2380,6 +2562,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '5 - 8',
+        courier:    true,
         cost:       500
 
       },
@@ -2393,6 +2576,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '2 - 4',
+        courier:    true,
         cost:       720
 
       },
@@ -2406,6 +2590,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '2 - 4',
+        courier:    true,
         cost:       720
 
       },
@@ -2419,6 +2604,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '2 - 4',
+        courier:    true,
         cost:       720
 
       },
@@ -2432,6 +2618,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '2 - 4',
+        courier:    true,
         cost:       720
 
       },
@@ -2445,6 +2632,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '2 - 4',
+        courier:    true,
         cost:       720
 
       },
@@ -2458,6 +2646,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '2 - 4',
+        courier:    true,
         cost:       650
 
       },
@@ -2471,6 +2660,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '2 - 4',
+        courier:    true,
         cost:       720
 
       },
@@ -2484,6 +2674,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '2 - 4',
+        courier:    true,
         cost:       720
 
       },
@@ -2497,6 +2688,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '3 - 5',
+        courier:    true,
         cost:       1330
 
       },
@@ -2510,6 +2702,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '2 - 4',
+        courier:    true,
         cost:       720
 
       },
@@ -2523,6 +2716,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '2 - 4',
+        courier:    true,
         cost:       720
 
       },
@@ -2536,6 +2730,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '4 - 6',
+        courier:    true,
         cost:       420
 
       },
@@ -2549,6 +2744,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '2 - 4',
+        courier:    true,
         cost:       720
 
       },
@@ -2562,6 +2758,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '2 - 4',
+        courier:    true,
         cost:       720
 
       },
@@ -2575,6 +2772,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '2 - 4',
+        courier:    true,
         cost:       720
 
       },
@@ -2588,6 +2786,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '2 - 4',
+        courier:    true,
         cost:       720
 
       },
@@ -2601,7 +2800,22 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '2 - 4',
+        courier:    true,
         cost:       720
+
+      },
+
+      # Кумертау
+      '2-0-7-0' => {
+
+        code:       653,
+        tariff:     11,
+        address:    '',
+        phone:      '',
+        work_time:  '',
+        delivery:   '2 - 3',
+        courier:    true,
+        cost:       660
 
       },
 
@@ -2614,6 +2828,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '5 - 8',
+        courier:    true,
         cost:       570
 
       },
@@ -2627,6 +2842,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '2 - 4',
+        courier:    true,
         cost:       720
 
       },
@@ -2640,6 +2856,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '2 - 4',
+        courier:    true,
         cost:       720
 
       },
@@ -2653,6 +2870,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '5 - 8',
+        courier:    true,
         cost:       500
 
       },
@@ -2666,6 +2884,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '2 - 4',
+        courier:    true,
         cost:       720
 
       },
@@ -2679,7 +2898,22 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '2 - 4',
+        courier:    true,
         cost:       720
+
+      },
+
+      # Мелеуз
+      '2-35-1-0' => {
+
+        code:       946,
+        tariff:     11,
+        address:    '',
+        phone:      '',
+        work_time:  '',
+        delivery:   '3 - 5',
+        courier:    true,
+        cost:       810
 
       },
 
@@ -2692,6 +2926,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '2 - 4',
+        courier:    true,
         cost:       720
 
       },
@@ -2705,6 +2940,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '5 - 8',
+        courier:    true,
         cost:       570
 
       },
@@ -2718,6 +2954,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '2 - 4',
+        courier:    true,
         cost:       720
 
       },
@@ -2731,6 +2968,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '2 - 4',
+        courier:    true,
         cost:       720
 
       },
@@ -2744,6 +2982,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '2 - 4',
+        courier:    true,
         cost:       720
 
       },
@@ -2757,6 +2996,7 @@ module CdekApi
         phone:      '8(34783) 4-400-4, 8-917-770-1920, 8-927-089-6845',
         work_time:  'пн.-пт. 9-19, об. 13-14, сб. 10-15',
         delivery:   '5 - 6',
+        courier:    false,
         cost:       340
 
       },
@@ -2770,6 +3010,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '2 - 4',
+        courier:    true,
         cost:       720
 
       },
@@ -2783,6 +3024,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '5 - 7',
+        courier:    true,
         cost:       380
 
       },
@@ -2796,6 +3038,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '2 - 4',
+        courier:    true,
         cost:       720
 
       },
@@ -2809,6 +3052,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '3 - 5',
+        courier:    true,
         cost:       720
 
       },
@@ -2822,6 +3066,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '2 - 4',
+        courier:    true,
         cost:       720
 
       },
@@ -2835,6 +3080,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '2 - 4',
+        courier:    true,
         cost:       720
 
       },
@@ -2848,6 +3094,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '2 - 4',
+        courier:    true,
         cost:       720
 
       },
@@ -2861,6 +3108,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '2 - 4',
+        courier:    true,
         cost:       720
 
       },
@@ -2874,6 +3122,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '2 - 4',
+        courier:    true,
         cost:       720
 
       },
@@ -2882,12 +3131,13 @@ module CdekApi
       '2-0-5-0' => {
 
         code:       111,
-        tariff:     11,
+        tariff:     10,
         address:    'Нуриманова ул, д.20л',
         phone:      '(927)953-70-72, (987)612-09-91',
         work_time:  'пн.-пт. 9-18, сб. 10-14',
-        delivery:   '2 - 4',
-        cost:       720
+        delivery:   '2 - 3',
+        courier:    false,
+        cost:       480
 
       },
 
@@ -2900,6 +3150,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '2 - 4',
+        courier:    true,
         cost:       720
 
       },
@@ -2913,6 +3164,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '2 - 4',
+        courier:    true,
         cost:       720
 
       },
@@ -2926,6 +3178,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '2 - 4',
+        courier:    true,
         cost:       720
 
       },
@@ -2939,6 +3192,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '2 - 4',
+        courier:    true,
         cost:       720
 
       },
@@ -2952,6 +3206,7 @@ module CdekApi
         phone:      '(3473) 23-55-33',
         work_time:  'пн-пт 9-18, сб 10-14',
         delivery:   '5 - 8',
+        courier:    false,
         cost:       340
 
       },
@@ -2965,6 +3220,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '2 - 4',
+        courier:    true,
         cost:       720
 
       },
@@ -2978,6 +3234,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '2 - 4',
+        courier:    true,
         cost:       720
 
       },
@@ -2991,6 +3248,7 @@ module CdekApi
         phone:      '(347) 224-20-91',
         work_time:  'пн.-пт. 9.00-18.30, сб. 10-14',
         delivery:   '1 - 3',
+        courier:    false,
         cost:       160
 
       },
@@ -3004,6 +3262,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '2 - 4',
+        courier:    true,
         cost:       720
 
       },
@@ -3017,6 +3276,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '2 - 4',
+        courier:    true,
         cost:       720
 
       },
@@ -3030,6 +3290,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '2 - 4',
+        courier:    true,
         cost:       720
 
       },
@@ -3043,6 +3304,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '5 - 8',
+        courier:    true,
         cost:       500
 
       },
@@ -3056,6 +3318,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '2 - 4',
+        courier:    true,
         cost:       720
 
       },
@@ -3069,6 +3332,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '5 - 8',
+        courier:    true,
         cost:       500
 
       },
@@ -3082,6 +3346,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '2 - 4',
+        courier:    true,
         cost:       720
 
       },
@@ -3095,6 +3360,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '2 - 4',
+        courier:    true,
         cost:       720
 
       },
@@ -3108,6 +3374,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '2 - 4',
+        courier:    true,
         cost:       720
 
       },
@@ -3121,6 +3388,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '2 - 4',
+        courier:    true,
         cost:       720
 
       },
@@ -3134,6 +3402,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '5 - 8',
+        courier:    true,
         cost:       760
 
       },
@@ -3147,6 +3416,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '4 - 7',
+        courier:    true,
         cost:       1180
 
       },
@@ -3160,6 +3430,7 @@ module CdekApi
         phone:      '(4722)500-290, 903-642-02-90',
         work_time:  'пн.-пт. 9:00 - 17:30, сб.9-14, вс. 14-18',
         delivery:   '4 - 6',
+        courier:    false,
         cost:       335
 
       },
@@ -3173,6 +3444,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '4 - 7',
+        courier:    true,
         cost:       1180
 
       },
@@ -3186,6 +3458,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '4 - 7',
+        courier:    true,
         cost:       1180
 
       },
@@ -3199,6 +3472,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '4 - 7',
+        courier:    true,
         cost:       1180
 
       },
@@ -3212,6 +3486,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '4 - 7',
+        courier:    true,
         cost:       1180
 
       },
@@ -3225,6 +3500,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '4 - 7',
+        courier:    true,
         cost:       1180
 
       },
@@ -3238,6 +3514,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '4 - 7',
+        courier:    true,
         cost:       1180
 
       },
@@ -3251,6 +3528,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '4 - 7',
+        courier:    true,
         cost:       1180
 
       },
@@ -3264,6 +3542,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '4 - 7',
+        courier:    true,
         cost:       620
 
       },
@@ -3277,6 +3556,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '4 - 7',
+        courier:    true,
         cost:       1180
 
       },
@@ -3290,6 +3570,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '4 - 7',
+        courier:    true,
         cost:       1180
 
       },
@@ -3303,6 +3584,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '4 - 7',
+        courier:    true,
         cost:       1180
 
       },
@@ -3316,6 +3598,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '4 - 7',
+        courier:    true,
         cost:       1180
 
       },
@@ -3329,6 +3612,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '4 - 7',
+        courier:    true,
         cost:       1180
 
       },
@@ -3342,6 +3626,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '4 - 7',
+        courier:    true,
         cost:       1180
 
       },
@@ -3355,6 +3640,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '4 - 7',
+        courier:    true,
         cost:       1180
 
       },
@@ -3368,6 +3654,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '4 - 7',
+        courier:    true,
         cost:       1180
 
       },
@@ -3381,6 +3668,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '4 - 7',
+        courier:    true,
         cost:       1180
 
       },
@@ -3394,6 +3682,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '4 - 7',
+        courier:    true,
         cost:       1180
 
       },
@@ -3407,6 +3696,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '4 - 7',
+        courier:    true,
         cost:       1180
 
       },
@@ -3420,6 +3710,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '4 - 7',
+        courier:    true,
         cost:       1180
 
       },
@@ -3433,6 +3724,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '4 - 7',
+        courier:    true,
         cost:       1180
 
       },
@@ -3446,6 +3738,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '4 - 7',
+        courier:    true,
         cost:       1180
 
       },
@@ -3459,6 +3752,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '4 - 7',
+        courier:    true,
         cost:       1180
 
       },
@@ -3472,6 +3766,7 @@ module CdekApi
         phone:      '(4725) 48-72-78; 8-910-329-10-19',
         work_time:  'пн.-пт. 9-18',
         delivery:   '4 - 6',
+        courier:    false,
         cost:       335
 
       },
@@ -3485,6 +3780,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '4 - 7',
+        courier:    true,
         cost:       1180
 
       },
@@ -3498,6 +3794,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '4 - 7',
+        courier:    true,
         cost:       1180
 
       },
@@ -3511,6 +3808,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '6 - 9',
+        courier:    true,
         cost:       745
 
       },
@@ -3524,6 +3822,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '6 - 9',
+        courier:    true,
         cost:       745
 
       },
@@ -3537,6 +3836,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '4 - 7',
+        courier:    true,
         cost:       1370
 
       },
@@ -3550,6 +3850,7 @@ module CdekApi
         phone:      '(4832) 777124,777129',
         work_time:  'пн.-пт. 9-18, сб. 9-12',
         delivery:   '4 - 6',
+        courier:    false,
         cost:       335
 
       },
@@ -3563,6 +3864,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '6 - 9',
+        courier:    true,
         cost:       745
 
       },
@@ -3576,6 +3878,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '6 - 9',
+        courier:    true,
         cost:       745
 
       },
@@ -3589,6 +3892,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '4 - 7',
+        courier:    true,
         cost:       1370
 
       },
@@ -3602,6 +3906,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '6 - 9',
+        courier:    true,
         cost:       745
 
       },
@@ -3615,6 +3920,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '4 - 7',
+        courier:    true,
         cost:       1370
 
       },
@@ -3628,6 +3934,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '4 - 7',
+        courier:    true,
         cost:       1370
 
       },
@@ -3641,6 +3948,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '4 - 7',
+        courier:    true,
         cost:       1370
 
       },
@@ -3654,6 +3962,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '4 - 7',
+        courier:    true,
         cost:       1370
 
       },
@@ -3667,6 +3976,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '6 - 9',
+        courier:    true,
         cost:       745
 
       },
@@ -3680,6 +3990,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '4 - 7',
+        courier:    true,
         cost:       1370
 
       },
@@ -3693,6 +4004,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '4 - 7',
+        courier:    true,
         cost:       1370
 
       },
@@ -3706,6 +4018,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '4 - 7',
+        courier:    true,
         cost:       1370
 
       },
@@ -3719,6 +4032,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '4 - 7',
+        courier:    true,
         cost:       1370
 
       },
@@ -3732,6 +4046,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '4 - 7',
+        courier:    true,
         cost:       1370
 
       },
@@ -3745,6 +4060,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '4 - 7',
+        courier:    true,
         cost:       1370
 
       },
@@ -3758,6 +4074,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '4 - 7',
+        courier:    true,
         cost:       1370
 
       },
@@ -3771,6 +4088,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '4 - 7',
+        courier:    true,
         cost:       1370
 
       },
@@ -3784,6 +4102,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '6 - 9',
+        courier:    true,
         cost:       745
 
       },
@@ -3797,6 +4116,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '4 - 7',
+        courier:    true,
         cost:       1370
 
       },
@@ -3810,6 +4130,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '4 - 7',
+        courier:    true,
         cost:       1370
 
       },
@@ -3823,6 +4144,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '6 - 9',
+        courier:    true,
         cost:       745
 
       },
@@ -3836,6 +4158,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '4 - 7',
+        courier:    true,
         cost:       1370
 
       },
@@ -3849,6 +4172,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '4 - 7',
+        courier:    true,
         cost:       1370
 
       },
@@ -3862,6 +4186,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '6 - 9',
+        courier:    true,
         cost:       745
 
       },
@@ -3875,6 +4200,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '4 - 7',
+        courier:    true,
         cost:       1370
 
       },
@@ -3888,6 +4214,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '4 - 7',
+        courier:    true,
         cost:       1370
 
       },
@@ -3901,6 +4228,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '6 - 9',
+        courier:    true,
         cost:       745
 
       },
@@ -3914,6 +4242,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '4 - 7',
+        courier:    true,
         cost:       1370
 
       },
@@ -3927,6 +4256,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '4 - 7',
+        courier:    true,
         cost:       1370
 
       },
@@ -3940,6 +4270,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '4 - 7',
+        courier:    true,
         cost:       1370
 
       },
@@ -3953,6 +4284,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '6 - 9',
+        courier:    true,
         cost:       745
 
       },
@@ -3966,6 +4298,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '5 - 8',
+        courier:    true,
         cost:       1980
 
       },
@@ -3979,6 +4312,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '5 - 8',
+        courier:    true,
         cost:       1980
 
       },
@@ -3992,6 +4326,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '5 - 8',
+        courier:    true,
         cost:       1980
 
       },
@@ -4005,6 +4340,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '5 - 8',
+        courier:    true,
         cost:       1980
 
       },
@@ -4018,6 +4354,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '5 - 8',
+        courier:    true,
         cost:       1980
 
       },
@@ -4031,6 +4368,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '5 - 8',
+        courier:    true,
         cost:       1980
 
       },
@@ -4044,6 +4382,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '5 - 8',
+        courier:    true,
         cost:       1980
 
       },
@@ -4057,6 +4396,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '5 - 8',
+        courier:    true,
         cost:       1980
 
       },
@@ -4070,6 +4410,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '5 - 8',
+        courier:    true,
         cost:       1980
 
       },
@@ -4083,6 +4424,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '5 - 8',
+        courier:    true,
         cost:       1980
 
       },
@@ -4096,6 +4438,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '5 - 8',
+        courier:    true,
         cost:       1980
 
       },
@@ -4109,6 +4452,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '5 - 8',
+        courier:    true,
         cost:       1980
 
       },
@@ -4122,6 +4466,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '5 - 8',
+        courier:    true,
         cost:       1980
 
       },
@@ -4135,6 +4480,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '5 - 8',
+        courier:    true,
         cost:       1980
 
       },
@@ -4148,6 +4494,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '5 - 8',
+        courier:    true,
         cost:       1980
 
       },
@@ -4161,6 +4508,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '5 - 8',
+        courier:    true,
         cost:       1980
 
       },
@@ -4174,6 +4522,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '5 - 8',
+        courier:    true,
         cost:       1980
 
       },
@@ -4187,6 +4536,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '5 - 8',
+        courier:    true,
         cost:       1980
 
       },
@@ -4200,6 +4550,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '5 - 8',
+        courier:    true,
         cost:       1980
 
       },
@@ -4213,6 +4564,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '5 - 8',
+        courier:    true,
         cost:       1980
 
       },
@@ -4226,6 +4578,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '5 - 8',
+        courier:    true,
         cost:       1980
 
       },
@@ -4239,6 +4592,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '5 - 8',
+        courier:    true,
         cost:       1980
 
       },
@@ -4252,6 +4606,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '5 - 8',
+        courier:    true,
         cost:       1980
 
       },
@@ -4265,6 +4620,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '5 - 8',
+        courier:    true,
         cost:       1980
 
       },
@@ -4278,6 +4634,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '5 - 8',
+        courier:    true,
         cost:       1980
 
       },
@@ -4291,6 +4648,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '5 - 8',
+        courier:    true,
         cost:       1980
 
       },
@@ -4304,6 +4662,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '5 - 8',
+        courier:    true,
         cost:       1980
 
       },
@@ -4317,6 +4676,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '5 - 8',
+        courier:    true,
         cost:       1980
 
       },
@@ -4330,6 +4690,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '5 - 8',
+        courier:    true,
         cost:       1980
 
       },
@@ -4343,6 +4704,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '5 - 8',
+        courier:    true,
         cost:       1980
 
       },
@@ -4356,6 +4718,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '5 - 8',
+        courier:    true,
         cost:       1980
 
       },
@@ -4369,6 +4732,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '5 - 8',
+        courier:    true,
         cost:       1980
 
       },
@@ -4382,6 +4746,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '5 - 8',
+        courier:    true,
         cost:       1980
 
       },
@@ -4395,6 +4760,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '5 - 8',
+        courier:    true,
         cost:       1980
 
       },
@@ -4408,6 +4774,7 @@ module CdekApi
         phone:      '(3012) 68-08-85, (3012) 22-30-82',
         work_time:  'пн.-пт. 10-18',
         delivery:   '5 - 8',
+        courier:    false,
         cost:       415
 
       },
@@ -4421,6 +4788,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '4 - 6',
+        courier:    true,
         cost:       1440
 
       },
@@ -4434,6 +4802,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '3 - 4',
+        courier:    true,
         cost:       1300
 
       },
@@ -4447,6 +4816,7 @@ module CdekApi
         phone:      '(4922) 377003',
         work_time:  'пн.-пт. 9-18, сб. 10-14',
         delivery:   '4 - 6',
+        courier:    false,
         cost:       335
 
       },
@@ -4460,6 +4830,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '4 - 6',
+        courier:    true,
         cost:       1340
 
       },
@@ -4473,6 +4844,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '4 - 6',
+        courier:    true,
         cost:       1300
 
       },
@@ -4486,6 +4858,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '4 - 6',
+        courier:    true,
         cost:       1440
 
       },
@@ -4499,6 +4872,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '4 - 6',
+        courier:    true,
         cost:       1340
 
       },
@@ -4512,6 +4886,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '4 - 6',
+        courier:    true,
         cost:       1440
 
       },
@@ -4525,6 +4900,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '3 - 4',
+        courier:    true,
         cost:       1300
 
       },
@@ -4538,6 +4914,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '4 - 6',
+        courier:    true,
         cost:       1480
 
       },
@@ -4551,6 +4928,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '4 - 6',
+        courier:    true,
         cost:       1370
 
       },
@@ -4564,6 +4942,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '4 - 6',
+        courier:    true,
         cost:       1370
 
       },
@@ -4577,6 +4956,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '4 - 6',
+        courier:    true,
         cost:       1340
 
       },
@@ -4590,6 +4970,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '4 - 6',
+        courier:    true,
         cost:       1370
 
       },
@@ -4603,6 +4984,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '3 - 4',
+        courier:    true,
         cost:       1300
 
       },
@@ -4616,6 +4998,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '4 - 6',
+        courier:    true,
         cost:       1360
 
       },
@@ -4629,6 +5012,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '4 - 6',
+        courier:    true,
         cost:       1480
 
       },
@@ -4642,6 +5026,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '4 - 6',
+        courier:    true,
         cost:       1360
 
       },
@@ -4655,6 +5040,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '3 - 4',
+        courier:    true,
         cost:       1260
 
       },
@@ -4668,6 +5054,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '3 - 4',
+        courier:    true,
         cost:       1260
 
       },
@@ -4681,6 +5068,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '4 - 6',
+        courier:    true,
         cost:       1440
 
       },
@@ -4694,6 +5082,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '4 - 6',
+        courier:    true,
         cost:       1300
 
       },
@@ -4707,6 +5096,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '4 - 6',
+        courier:    true,
         cost:       1180
 
       },
@@ -4720,6 +5110,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '7 - 10',
+        courier:    true,
         cost:       260
 
       },
@@ -4733,6 +5124,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '7 - 10',
+        courier:    true,
         cost:       260
 
       },
@@ -4746,6 +5138,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '7 - 10',
+        courier:    true,
         cost:       260
 
       },
@@ -4759,6 +5152,7 @@ module CdekApi
         phone:      '+7 (8442) 551-500, 551-501, 551-505, +7-995-408-6658',
         work_time:  'пн.-пт. 9-18, сб. 10-14',
         delivery:   '5 - 6',
+        courier:    false,
         cost:       340
 
       },
@@ -4772,6 +5166,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '7 - 10',
+        courier:    true,
         cost:       330
 
       },
@@ -4785,6 +5180,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '7 - 10',
+        courier:    true,
         cost:       260
 
       },
@@ -4798,6 +5194,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '7 - 10',
+        courier:    true,
         cost:       260
 
       },
@@ -4811,6 +5208,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '4 - 6',
+        courier:    true,
         cost:       1180
 
       },
@@ -4824,6 +5222,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '4 - 6',
+        courier:    true,
         cost:       1180
 
       },
@@ -4837,6 +5236,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '7 - 10',
+        courier:    true,
         cost:       260
 
       },
@@ -4850,6 +5250,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '7 - 10',
+        courier:    true,
         cost:       260
 
       },
@@ -4863,6 +5264,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '4 - 6',
+        courier:    true,
         cost:       1180
 
       },
@@ -4876,6 +5278,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '4 - 6',
+        courier:    true,
         cost:       1180
 
       },
@@ -4889,6 +5292,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '4 - 6',
+        courier:    true,
         cost:       1180
 
       },
@@ -4902,6 +5306,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '3 - 6',
+        courier:    true,
         cost:       1180
 
       },
@@ -4915,6 +5320,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '7 - 10',
+        courier:    true,
         cost:       260
 
       },
@@ -4928,6 +5334,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '4 - 6',
+        courier:    true,
         cost:       1180
 
       },
@@ -4941,6 +5348,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '4 - 6',
+        courier:    true,
         cost:       1180
 
       },
@@ -4954,6 +5362,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '4 - 6',
+        courier:    true,
         cost:       1180
 
       },
@@ -4967,6 +5376,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '7 - 10',
+        courier:    true,
         cost:       260
 
       },
@@ -4980,6 +5390,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '4 - 6',
+        courier:    true,
         cost:       1180
 
       },
@@ -4993,6 +5404,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '4 - 6',
+        courier:    true,
         cost:       1180
 
       },
@@ -5006,6 +5418,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '7 - 10',
+        courier:    true,
         cost:       260
 
       },
@@ -5019,6 +5432,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '4 - 6',
+        courier:    true,
         cost:       1180
 
       },
@@ -5032,6 +5446,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '4 - 6',
+        courier:    true,
         cost:       1180
 
       },
@@ -5045,6 +5460,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '7 - 10',
+        courier:    true,
         cost:       260
 
       },
@@ -5058,6 +5474,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '4 - 6',
+        courier:    true,
         cost:       1180
 
       },
@@ -5071,6 +5488,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '3 - 5',
+        courier:    true,
         cost:       1055
 
       },
@@ -5084,6 +5502,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '4 - 6',
+        courier:    true,
         cost:       1180
 
       },
@@ -5097,6 +5516,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '7 - 10',
+        courier:    true,
         cost:       260
 
       },
@@ -5110,6 +5530,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '4 - 6',
+        courier:    true,
         cost:       1180
 
       },
@@ -5123,6 +5544,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '4 - 6',
+        courier:    true,
         cost:       1180
 
       },
@@ -5136,6 +5558,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '4 - 6',
+        courier:    true,
         cost:       1180
 
       },
@@ -5149,6 +5572,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '4 - 7',
+        courier:    true,
         cost:       1330
 
       },
@@ -5162,6 +5586,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '4 - 7',
+        courier:    true,
         cost:       1330
 
       },
@@ -5175,6 +5600,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '4 - 7',
+        courier:    true,
         cost:       1360
 
       },
@@ -5188,6 +5614,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '4 - 7',
+        courier:    true,
         cost:       1330
 
       },
@@ -5201,6 +5628,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '4 - 7',
+        courier:    true,
         cost:       1330
 
       },
@@ -5214,6 +5642,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '2 - 4',
+        courier:    true,
         cost:       960
 
       },
@@ -5227,6 +5656,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '4 - 7',
+        courier:    true,
         cost:       1330
 
       },
@@ -5240,6 +5670,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '4 - 7',
+        courier:    true,
         cost:       1330
 
       },
@@ -5253,6 +5684,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '4 - 7',
+        courier:    true,
         cost:       1330
 
       },
@@ -5266,6 +5698,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '4 - 7',
+        courier:    true,
         cost:       1330
 
       },
@@ -5279,6 +5712,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '4 - 7',
+        courier:    true,
         cost:       1330
 
       },
@@ -5292,6 +5726,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '4 - 7',
+        courier:    true,
         cost:       1330
 
       },
@@ -5305,6 +5740,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '4 - 7',
+        courier:    true,
         cost:       1330
 
       },
@@ -5318,6 +5754,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '4 - 7',
+        courier:    true,
         cost:       1330
 
       },
@@ -5331,6 +5768,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '4 - 7',
+        courier:    true,
         cost:       1330
 
       },
@@ -5344,6 +5782,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '4 - 7',
+        courier:    true,
         cost:       1330
 
       },
@@ -5357,6 +5796,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '4 - 7',
+        courier:    true,
         cost:       1330
 
       },
@@ -5370,6 +5810,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '4 - 7',
+        courier:    true,
         cost:       1330
 
       },
@@ -5383,6 +5824,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '4 - 7',
+        courier:    true,
         cost:       1330
 
       },
@@ -5396,6 +5838,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '4 - 7',
+        courier:    true,
         cost:       1330
 
       },
@@ -5409,6 +5852,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '4 - 7',
+        courier:    true,
         cost:       1330
 
       },
@@ -5422,6 +5866,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '4 - 7',
+        courier:    true,
         cost:       1330
 
       },
@@ -5435,6 +5880,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '4 - 7',
+        courier:    true,
         cost:       1330
 
       },
@@ -5448,6 +5894,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '4 - 7',
+        courier:    true,
         cost:       1330
 
       },
@@ -5461,6 +5908,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '4 - 7',
+        courier:    true,
         cost:       1330
 
       },
@@ -5474,6 +5922,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '4 - 7',
+        courier:    true,
         cost:       1330
 
       },
@@ -5487,6 +5936,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '4 - 7',
+        courier:    true,
         cost:       1330
 
       },
@@ -5500,6 +5950,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '4 - 7',
+        courier:    true,
         cost:       1330
 
       },
@@ -5513,6 +5964,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '4 - 7',
+        courier:    true,
         cost:       1330
 
       },
@@ -5526,6 +5978,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '4 - 7',
+        courier:    true,
         cost:       1330
 
       },
@@ -5539,6 +5992,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '4 - 7',
+        courier:    true,
         cost:       1330
 
       },
@@ -5552,6 +6006,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '4 - 7',
+        courier:    true,
         cost:       1330
 
       },
@@ -5565,6 +6020,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '4 - 7',
+        courier:    true,
         cost:       1300
 
       },
@@ -5578,6 +6034,7 @@ module CdekApi
         phone:      '',
         work_time:  'пн-пт 9-18',
         delivery:   '3 - 4',
+        courier:    true,
         cost:       720
 
       },
@@ -5591,6 +6048,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '4 - 7',
+        courier:    true,
         cost:       1330
 
       },
@@ -5604,6 +6062,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '4 - 7',
+        courier:    true,
         cost:       1330
 
       },
@@ -5617,6 +6076,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '3 - 6',
+        courier:    true,
         cost:       1230
 
       },
@@ -5630,6 +6090,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '4 - 6',
+        courier:    true,
         cost:       1230
 
       },
@@ -5643,6 +6104,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '4 - 6',
+        courier:    true,
         cost:       1230
 
       },
@@ -5656,6 +6118,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '4 - 6',
+        courier:    true,
         cost:       1230
 
       },
@@ -5669,6 +6132,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '4 - 6',
+        courier:    true,
         cost:       1230
 
       },
@@ -5682,6 +6146,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '4 - 6',
+        courier:    true,
         cost:       1230
 
       },
@@ -5695,6 +6160,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '4 - 6',
+        courier:    true,
         cost:       1230
 
       },
@@ -5708,6 +6174,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '4 - 6',
+        courier:    true,
         cost:       1230
 
       },
@@ -5721,6 +6188,7 @@ module CdekApi
         phone:      '',
         work_time:  'пн.-пт. 9-18, сб. 10-14',
         delivery:   '4 - 6',
+        courier:    false,
         cost:       335
 
       },
@@ -5734,6 +6202,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '4 - 6',
+        courier:    true,
         cost:       1230
 
       },
@@ -5747,6 +6216,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '4 - 6',
+        courier:    true,
         cost:       1230
 
       },
@@ -5760,6 +6230,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '4 - 6',
+        courier:    true,
         cost:       1230
 
       },
@@ -5773,6 +6244,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '4 - 6',
+        courier:    true,
         cost:       1230
 
       },
@@ -5786,6 +6258,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '4 - 6',
+        courier:    true,
         cost:       1230
 
       },
@@ -5799,6 +6272,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '4 - 6',
+        courier:    true,
         cost:       1230
 
       },
@@ -5812,6 +6286,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '3 - 5',
+        courier:    true,
         cost:       1230
 
       },
@@ -5825,6 +6300,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '3 - 5',
+        courier:    true,
         cost:       1230
 
       },
@@ -5838,6 +6314,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '3 - 5',
+        courier:    true,
         cost:       1230
 
       },
@@ -5851,6 +6328,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '4 - 6',
+        courier:    true,
         cost:       1230
 
       },
@@ -5864,6 +6342,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '3 - 5',
+        courier:    true,
         cost:       1230
 
       },
@@ -5877,6 +6356,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '3 - 5',
+        courier:    true,
         cost:       1230
 
       },
@@ -5890,6 +6370,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '3 - 6',
+        courier:    true,
         cost:       1230
 
       },
@@ -5903,6 +6384,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '4 - 6',
+        courier:    true,
         cost:       1230
 
       },
@@ -5916,6 +6398,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '3 - 5',
+        courier:    true,
         cost:       1230
 
       },
@@ -5929,6 +6412,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '4 - 6',
+        courier:    true,
         cost:       1230
 
       },
@@ -5942,6 +6426,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '4 - 6',
+        courier:    true,
         cost:       1230
 
       },
@@ -5955,6 +6440,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '4 - 6',
+        courier:    true,
         cost:       1230
 
       },
@@ -5968,6 +6454,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '4 - 6',
+        courier:    true,
         cost:       1230
 
       },
@@ -5981,6 +6468,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '4 - 6',
+        courier:    true,
         cost:       1230
 
       },
@@ -5994,6 +6482,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '4 - 6',
+        courier:    true,
         cost:       1230
 
       },
@@ -6007,6 +6496,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '4 - 6',
+        courier:    true,
         cost:       1230
 
       },
@@ -6020,6 +6510,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '4 - 6',
+        courier:    true,
         cost:       1230
 
       },
@@ -6033,6 +6524,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '4 - 6',
+        courier:    true,
         cost:       1230
 
       },
@@ -6046,6 +6538,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '4 - 6',
+        courier:    true,
         cost:       1230
 
       },
@@ -6059,6 +6552,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '4 - 6',
+        courier:    true,
         cost:       1230
 
       },
@@ -6072,6 +6566,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '4 - 6',
+        courier:    true,
         cost:       1230
 
       },
@@ -6085,6 +6580,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '4 - 6',
+        courier:    true,
         cost:       1230
 
       },
@@ -6098,6 +6594,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '6 - 9',
+        courier:    true,
         cost:       795
 
       },
@@ -6111,6 +6608,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '6 - 9',
+        courier:    true,
         cost:       795
 
       },
@@ -6124,6 +6622,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '4 - 6',
+        courier:    true,
         cost:       1230
 
       },
@@ -6137,6 +6636,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '4 - 6',
+        courier:    true,
         cost:       1230
 
       },
@@ -6150,6 +6650,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '4 - 6',
+        courier:    true,
         cost:       1230
 
       },
@@ -6163,6 +6664,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '4 - 6',
+        courier:    true,
         cost:       1230
 
       },
@@ -6176,6 +6678,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '4 - 6',
+        courier:    true,
         cost:       1230
 
       },
@@ -6189,6 +6692,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '3 - 5',
+        courier:    true,
         cost:       1230
 
       },
@@ -6202,6 +6706,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '4 - 6',
+        courier:    true,
         cost:       1230
 
       },
@@ -6215,6 +6720,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '4 - 6',
+        courier:    true,
         cost:       1230
 
       },
@@ -6228,6 +6734,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '6 - 10',
+        courier:    true,
         cost:       1615
 
       },
@@ -6241,6 +6748,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '6 - 10',
+        courier:    true,
         cost:       1740
 
       },
@@ -6254,6 +6762,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '6 - 9',
+        courier:    true,
         cost:       2130
 
       },
@@ -6267,6 +6776,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '6 - 9',
+        courier:    true,
         cost:       2230
 
       },
@@ -6280,6 +6790,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '6 - 9',
+        courier:    true,
         cost:       2030
 
       },
@@ -6293,6 +6804,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '6 - 9',
+        courier:    true,
         cost:       1740
 
       },
@@ -6306,6 +6818,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '6 - 9',
+        courier:    true,
         cost:       2130
 
       },
@@ -6319,6 +6832,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '6 - 10',
+        courier:    true,
         cost:       2230
 
       },
@@ -6332,6 +6846,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '4 - 6',
+        courier:    true,
         cost:       1330
 
       },
@@ -6345,6 +6860,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '6 - 9',
+        courier:    true,
         cost:       2230
 
       },
@@ -6358,6 +6874,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '3 - 5',
+        courier:    true,
         cost:       1330
 
       },
@@ -6371,6 +6888,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '4 - 7',
+        courier:    true,
         cost:       1970
 
       },
@@ -6384,6 +6902,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '5 - 9',
+        courier:    true,
         cost:       1980
 
       },
@@ -6397,6 +6916,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '5 - 9',
+        courier:    true,
         cost:       1980
 
       },
@@ -6410,6 +6930,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '5 - 9',
+        courier:    true,
         cost:       1980
 
       },
@@ -6423,6 +6944,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '4 - 7',
+        courier:    true,
         cost:       1740
 
       },
@@ -6436,6 +6958,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '4 - 7',
+        courier:    true,
         cost:       1740
 
       },
@@ -6449,6 +6972,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '4 - 7',
+        courier:    true,
         cost:       1465
 
       },
@@ -6462,6 +6986,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '4 - 7',
+        courier:    true,
         cost:       1740
 
       },
@@ -6475,6 +7000,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '4 - 7',
+        courier:    true,
         cost:       1740
 
       },
@@ -6488,6 +7014,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '7 - 11',
+        courier:    true,
         cost:       620
 
       },
@@ -6501,6 +7028,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '4 - 7',
+        courier:    true,
         cost:       1740
 
       },
@@ -6514,6 +7042,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '4 - 7',
+        courier:    true,
         cost:       1465
 
       },
@@ -6527,6 +7056,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '4 - 7',
+        courier:    true,
         cost:       1740
 
       },
@@ -6540,6 +7070,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '4 - 7',
+        courier:    true,
         cost:       1740
 
       },
@@ -6553,6 +7084,7 @@ module CdekApi
         phone:      '(3022)35-03-67, +7-914-498-0756',
         work_time:  'пн.-пт. 10-18',
         delivery:   '5 - 8',
+        courier:    false,
         cost:       415
 
       },
@@ -6566,6 +7098,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '4 - 7',
+        courier:    true,
         cost:       1740
 
       },
@@ -6579,6 +7112,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '4 - 8',
+        courier:    true,
         cost:       1740
 
       },
@@ -6592,6 +7126,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '5 - 8',
+        courier:    true,
         cost:       1300
 
       },
@@ -6605,6 +7140,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '6 - 10',
+        courier:    true,
         cost:       795
 
       },
@@ -6618,6 +7154,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '5 - 8',
+        courier:    true,
         cost:       1300
 
       },
@@ -6631,6 +7168,7 @@ module CdekApi
         phone:      '(4932) 49-68-98, 202-900',
         work_time:  'пн.-пт. 9-18',
         delivery:   '4 - 6',
+        courier:    false,
         cost:       335
 
       },
@@ -6644,6 +7182,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '6 - 10',
+        courier:    true,
         cost:       935
 
       },
@@ -6657,6 +7196,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '6 - 10',
+        courier:    true,
         cost:       825
 
       },
@@ -6670,6 +7210,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '6 - 10',
+        courier:    true,
         cost:       745
 
       },
@@ -6683,6 +7224,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '6 - 10',
+        courier:    true,
         cost:       745
 
       },
@@ -6696,6 +7238,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '5 - 8',
+        courier:    true,
         cost:       1300
 
       },
@@ -6709,6 +7252,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '5 - 8',
+        courier:    true,
         cost:       1620
 
       },
@@ -6722,6 +7266,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '5 - 8',
+        courier:    true,
         cost:       1740
 
       },
@@ -6735,6 +7280,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '5 - 8',
+        courier:    true,
         cost:       1300
 
       },
@@ -6748,6 +7294,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '5 - 8',
+        courier:    true,
         cost:       1300
 
       },
@@ -6761,6 +7308,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '6 - 10',
+        courier:    true,
         cost:       745
 
       },
@@ -6774,6 +7322,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '6 - 10',
+        courier:    true,
         cost:       815
 
       },
@@ -6787,6 +7336,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '6 - 10',
+        courier:    true,
         cost:       825
 
       },
@@ -6800,6 +7350,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '5 - 8',
+        courier:    true,
         cost:       1750
 
       },
@@ -6813,6 +7364,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '5 - 8',
+        courier:    true,
         cost:       1300
 
       },
@@ -6826,6 +7378,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '5 - 8',
+        courier:    true,
         cost:       1300
 
       },
@@ -6839,6 +7392,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '6 - 10',
+        courier:    true,
         cost:       745
 
       },
@@ -6852,6 +7406,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '6 - 10',
+        courier:    true,
         cost:       745
 
       },
@@ -6865,6 +7420,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '6 - 10',
+        courier:    true,
         cost:       745
 
       },
@@ -6878,6 +7434,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '6 - 8',
+        courier:    true,
         cost:       1810
 
       },
@@ -6891,6 +7448,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '5 - 7',
+        courier:    true,
         cost:       1500
 
       },
@@ -6904,6 +7462,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '8 - 11',
+        courier:    true,
         cost:       2180
 
       },
@@ -6917,6 +7476,7 @@ module CdekApi
         phone:      '(3955) 68-30-45',
         work_time:  'пн- пт с 09.00 до 18,00',
         delivery:   '5 - 8',
+        courier:    false,
         cost:       415
 
       },
@@ -6930,6 +7490,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '4 - 8',
+        courier:    true,
         cost:       1540
 
       },
@@ -6943,6 +7504,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '4 - 8',
+        courier:    true,
         cost:       1540
 
       },
@@ -6956,6 +7518,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '7 - 11',
+        courier:    true,
         cost:       2360
 
       },
@@ -6969,6 +7532,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '4 - 8',
+        courier:    true,
         cost:       1540
 
       },
@@ -6982,6 +7546,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '5 - 9',
+        courier:    true,
         cost:       1924
 
       },
@@ -6995,6 +7560,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '8 - 14',
+        courier:    true,
         cost:       730
 
       },
@@ -7008,6 +7574,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '5 - 9',
+        courier:    true,
         cost:       1800
 
       },
@@ -7021,6 +7588,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '7 - 12',
+        courier:    true,
         cost:       770
 
       },
@@ -7034,6 +7602,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '4 - 8',
+        courier:    true,
         cost:       1995
 
       },
@@ -7047,6 +7616,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '4 - 8',
+        courier:    true,
         cost:       1800
 
       },
@@ -7060,6 +7630,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '4 - 8',
+        courier:    true,
         cost:       1800
 
       },
@@ -7073,6 +7644,7 @@ module CdekApi
         phone:      '(3952)702-094, 702-083',
         work_time:  'пн.-пт. 9-19, сб. 10-16',
         delivery:   '6 - 8',
+        courier:    false,
         cost:       415
 
       },
@@ -7086,6 +7658,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '5 - 9',
+        courier:    true,
         cost:       1925
 
       },
@@ -7099,6 +7672,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '5 - 9',
+        courier:    true,
         cost:       1925
 
       },
@@ -7112,6 +7686,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '5 - 9',
+        courier:    true,
         cost:       1925
 
       },
@@ -7125,6 +7700,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '4 - 8',
+        courier:    true,
         cost:       1800
 
       },
@@ -7138,6 +7714,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '5 - 9',
+        courier:    true,
         cost:       1925
 
       },
@@ -7151,6 +7728,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '5 - 9',
+        courier:    true,
         cost:       1925
 
       },
@@ -7164,6 +7742,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '5 - 9',
+        courier:    true,
         cost:       1925
 
       },
@@ -7177,6 +7756,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '4 - 8',
+        courier:    true,
         cost:       1600
 
       },
@@ -7190,6 +7770,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '5 - 8',
+        courier:    true,
         cost:       1740
 
       },
@@ -7203,6 +7784,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '5 - 9',
+        courier:    true,
         cost:       1925
 
       },
@@ -7216,6 +7798,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '8 - 14',
+        courier:    true,
         cost:       1280
 
       },
@@ -7229,6 +7812,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '4 - 7',
+        courier:    true,
         cost:       1470
 
       },
@@ -7242,6 +7826,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '7 - 11',
+        courier:    true,
         cost:       745
 
       },
@@ -7255,6 +7840,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '4 - 8',
+        courier:    true,
         cost:       1670
 
       },
@@ -7268,6 +7854,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '4 - 8',
+        courier:    true,
         cost:       1540
 
       },
@@ -7281,6 +7868,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '5 - 9',
+        courier:    true,
         cost:       1925
 
       },
@@ -7294,6 +7882,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '4 - 8',
+        courier:    true,
         cost:       1370
 
       },
@@ -7307,6 +7896,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '5 - 9',
+        courier:    true,
         cost:       1925
 
       },
@@ -7320,6 +7910,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '7 - 11',
+        courier:    true,
         cost:       825
 
       },
@@ -7333,6 +7924,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '4 - 8',
+        courier:    true,
         cost:       1670
 
       },
@@ -7346,6 +7938,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '5 - 9',
+        courier:    true,
         cost:       1925
 
       },
@@ -7359,6 +7952,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '4 - 8',
+        courier:    true,
         cost:       1600
 
       },
@@ -7372,6 +7966,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '6 - 10',
+        courier:    true,
         cost:       1065
 
       },
@@ -7385,6 +7980,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '4 - 8',
+        courier:    true,
         cost:       1670
 
       },
@@ -7398,6 +7994,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '4 - 8',
+        courier:    true,
         cost:       1670
 
       },
@@ -7411,6 +8008,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '4 - 8',
+        courier:    true,
         cost:       1600
 
       },
@@ -7424,6 +8022,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '4 - 8',
+        courier:    true,
         cost:       1470
 
       },
@@ -7437,6 +8036,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '4 - 8',
+        courier:    true,
         cost:       1670
 
       },
@@ -7450,6 +8050,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '4 - 8',
+        courier:    true,
         cost:       1670
 
       },
@@ -7463,6 +8064,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '4 - 8',
+        courier:    true,
         cost:       1540
 
       },
@@ -7476,6 +8078,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '4 - 7',
+        courier:    true,
         cost:       1360
 
       },
@@ -7489,6 +8092,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '4 - 8',
+        courier:    true,
         cost:       1540
 
       },
@@ -7502,6 +8106,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '5 - 9',
+        courier:    true,
         cost:       1925
 
       },
@@ -7515,6 +8120,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '7 - 11',
+        courier:    true,
         cost:       805
 
       },
@@ -7528,6 +8134,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '5 - 9',
+        courier:    true,
         cost:       1690
 
       },
@@ -7541,6 +8148,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '3 - 5',
+        courier:    true,
         cost:       1240
 
       },
@@ -7554,6 +8162,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '5 - 8',
+        courier:    true,
         cost:       1540
 
       },
@@ -7567,6 +8176,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '5 - 8',
+        courier:    true,
         cost:       1490
 
       },
@@ -7580,6 +8190,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '3 - 5',
+        courier:    true,
         cost:       1240
 
       },
@@ -7593,6 +8204,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '5 - 8',
+        courier:    true,
         cost:       1490
 
       },
@@ -7606,6 +8218,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '5 - 8',
+        courier:    true,
         cost:       1500
 
       },
@@ -7619,6 +8232,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '5 - 8',
+        courier:    true,
         cost:       1490
 
       },
@@ -7632,6 +8246,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '5 - 8',
+        courier:    true,
         cost:       1390
 
       },
@@ -7645,6 +8260,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '5 - 8',
+        courier:    true,
         cost:       1490
 
       },
@@ -7658,6 +8274,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '5 - 8',
+        courier:    true,
         cost:       1540
 
       },
@@ -7671,6 +8288,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '3 - 8',
+        courier:    true,
         cost:       1430
 
       },
@@ -7684,6 +8302,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '3 - 5',
+        courier:    true,
         cost:       1240
 
       },
@@ -7697,6 +8316,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '3 - 5',
+        courier:    true,
         cost:       1240
 
       },
@@ -7710,6 +8330,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '3 - 5',
+        courier:    true,
         cost:       1240
 
       },
@@ -7723,6 +8344,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '5 - 8',
+        courier:    true,
         cost:       1510
 
       },
@@ -7736,6 +8358,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '5 - 8',
+        courier:    true,
         cost:       1540
 
       },
@@ -7749,6 +8372,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '4 - 6',
+        courier:    true,
         cost:       1090
 
       },
@@ -7762,6 +8386,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '5 - 8',
+        courier:    true,
         cost:       1540
 
       },
@@ -7775,6 +8400,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '4 - 6',
+        courier:    true,
         cost:       1090
 
       },
@@ -7788,6 +8414,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '5 - 8',
+        courier:    true,
         cost:       1500
 
       },
@@ -7801,6 +8428,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '3 - 8',
+        courier:    true,
         cost:       1850
 
       },
@@ -7814,6 +8442,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '5 - 8',
+        courier:    true,
         cost:       1540
 
       },
@@ -7827,6 +8456,7 @@ module CdekApi
         phone:      '+7 (8662) 96-79-75, 89289100769',
         work_time:  'пн-пт 9-18',
         delivery:   '5 - 7',
+        courier:    false,
         cost:       340
 
       },
@@ -7840,6 +8470,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '5 - 8',
+        courier:    true,
         cost:       1390
 
       },
@@ -7853,6 +8484,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '3 - 8',
+        courier:    true,
         cost:       1694
 
       },
@@ -7866,6 +8498,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '3 - 8',
+        courier:    true,
         cost:       1694
 
       },
@@ -7879,6 +8512,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '5 - 8',
+        courier:    true,
         cost:       1500
 
       },
@@ -7892,6 +8526,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '4 - 6',
+        courier:    true,
         cost:       1090
 
       },
@@ -7905,6 +8540,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '3 - 5',
+        courier:    true,
         cost:       1240
 
       },
@@ -7918,6 +8554,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '5 - 8',
+        courier:    true,
         cost:       1540
 
       },
@@ -7931,6 +8568,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '5 - 8',
+        courier:    true,
         cost:       1500
 
       },
@@ -7944,6 +8582,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '3 - 8',
+        courier:    true,
         cost:       1910
 
       },
@@ -7957,6 +8596,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '3 - 8',
+        courier:    true,
         cost:       1910
 
       },
@@ -7970,6 +8610,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '4 - 6',
+        courier:    true,
         cost:       1090
 
       },
@@ -7983,6 +8624,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '4 - 6',
+        courier:    true,
         cost:       1090
 
       },
@@ -7996,6 +8638,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '3 - 8',
+        courier:    true,
         cost:       1490
 
       },
@@ -8009,6 +8652,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '5 - 8',
+        courier:    true,
         cost:       1390
 
       },
@@ -8022,6 +8666,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '5 - 8',
+        courier:    true,
         cost:       1490
 
       },
@@ -8035,6 +8680,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '5 - 8',
+        courier:    true,
         cost:       1390
 
       },
@@ -8048,6 +8694,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '6 - 9',
+        courier:    true,
         cost:       675
 
       },
@@ -8061,6 +8708,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '5 - 7',
+        courier:    true,
         cost:       1050
 
       },
@@ -8074,6 +8722,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '5 - 7',
+        courier:    true,
         cost:       1050
 
       },
@@ -8087,6 +8736,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '6 - 9',
+        courier:    true,
         cost:       675
 
       },
@@ -8100,6 +8750,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '6 - 9',
+        courier:    true,
         cost:       675
 
       },
@@ -8113,6 +8764,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '5 - 7',
+        courier:    true,
         cost:       1050
 
       },
@@ -8126,6 +8778,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '6 - 9',
+        courier:    true,
         cost:       675
 
       },
@@ -8139,6 +8792,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '5 - 7',
+        courier:    true,
         cost:       1050
 
       },
@@ -8152,6 +8806,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '4 - 6',
+        courier:    true,
         cost:       1050
 
       },
@@ -8165,6 +8820,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '5 - 7',
+        courier:    true,
         cost:       1050
 
       },
@@ -8178,6 +8834,7 @@ module CdekApi
         phone:      '8(4012)777-272, 976-231, 976-230',
         work_time:  'пн.-пт. 9-18, сб. 10-14',
         delivery:   '4 - 6',
+        courier:    false,
         cost:       415
 
       },
@@ -8191,6 +8848,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '5 - 7',
+        courier:    true,
         cost:       1050
 
       },
@@ -8204,6 +8862,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '4 - 6',
+        courier:    true,
         cost:       1050
 
       },
@@ -8217,6 +8876,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '4 - 5',
+        courier:    true,
         cost:       950
 
       },
@@ -8230,6 +8890,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '5 - 7',
+        courier:    true,
         cost:       1050
 
       },
@@ -8243,6 +8904,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '5 - 7',
+        courier:    true,
         cost:       1050
 
       },
@@ -8256,6 +8918,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '5 - 7',
+        courier:    true,
         cost:       1050
 
       },
@@ -8269,6 +8932,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '5 - 7',
+        courier:    true,
         cost:       1050
 
       },
@@ -8282,6 +8946,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '4 - 6',
+        courier:    true,
         cost:       1050
 
       },
@@ -8295,6 +8960,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '5 - 7',
+        courier:    true,
         cost:       1050
 
       },
@@ -8308,6 +8974,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '5 - 7',
+        courier:    true,
         cost:       1050
 
       },
@@ -8321,6 +8988,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '5 - 7',
+        courier:    true,
         cost:       1050
 
       },
@@ -8334,6 +9002,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '6 - 9',
+        courier:    true,
         cost:       675
 
       },
@@ -8347,6 +9016,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '5 - 7',
+        courier:    true,
         cost:       1050
 
       },
@@ -8360,6 +9030,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '5 - 7',
+        courier:    true,
         cost:       1030
 
       },
@@ -8373,6 +9044,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '5 - 7',
+        courier:    true,
         cost:       1050
 
       },
@@ -8386,6 +9058,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '7 - 11',
+        courier:    true,
         cost:       775
 
       },
@@ -8399,6 +9072,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '5 - 7',
+        courier:    true,
         cost:       1050
 
       },
@@ -8412,6 +9086,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '5 - 7',
+        courier:    true,
         cost:       1050
 
       },
@@ -8425,6 +9100,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '5 - 7',
+        courier:    true,
         cost:       1050
 
       },
@@ -8438,6 +9114,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '6 - 9',
+        courier:    true,
         cost:       675
 
       },
@@ -8451,6 +9128,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '6 - 9',
+        courier:    true,
         cost:       675
 
       },
@@ -8464,6 +9142,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '7 - 10',
+        courier:    true,
         cost:       1740
 
       },
@@ -8477,6 +9156,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '7 - 10',
+        courier:    true,
         cost:       1740
 
       },
@@ -8490,6 +9170,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '7 - 10',
+        courier:    true,
         cost:       1740
 
       },
@@ -8503,6 +9184,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '5 - 7',
+        courier:    true,
         cost:       1330
 
       },
@@ -8516,6 +9198,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '6 - 9',
+        courier:    true,
         cost:       675
 
       },
@@ -8529,6 +9212,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '6 - 9',
+        courier:    true,
         cost:       905
 
       },
@@ -8542,6 +9226,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '6 - 9',
+        courier:    true,
         cost:       745
 
       },
@@ -8555,6 +9240,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '4 - 6',
+        courier:    true,
         cost:       1300
 
       },
@@ -8568,6 +9254,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '6 - 9',
+        courier:    true,
         cost:       745
 
       },
@@ -8581,6 +9268,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '4 - 6',
+        courier:    true,
         cost:       1300
 
       },
@@ -8594,6 +9282,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '6 - 9',
+        courier:    true,
         cost:       835
 
       },
@@ -8607,6 +9296,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '6 - 9',
+        courier:    true,
         cost:       745
 
       },
@@ -8620,6 +9310,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '6 - 9',
+        courier:    true,
         cost:       835
 
       },
@@ -8633,6 +9324,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '6 - 9',
+        courier:    true,
         cost:       675
 
       },
@@ -8646,6 +9338,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '6 - 9',
+        courier:    true,
         cost:       745
 
       },
@@ -8659,6 +9352,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '4 - 6',
+        courier:    true,
         cost:       1300
 
       },
@@ -8672,6 +9366,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '6 - 9',
+        courier:    true,
         cost:       745
 
       },
@@ -8685,6 +9380,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '4 - 6',
+        courier:    true,
         cost:       1300
 
       },
@@ -8698,6 +9394,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '4 - 6',
+        courier:    true,
         cost:       1300
 
       },
@@ -8711,6 +9408,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '6 - 9',
+        courier:    true,
         cost:       745
 
       },
@@ -8724,6 +9422,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '4 - 6',
+        courier:    true,
         cost:       1300
 
       },
@@ -8737,6 +9436,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '4 - 6',
+        courier:    true,
         cost:       1300
 
       },
@@ -8750,6 +9450,7 @@ module CdekApi
         phone:      '(4842) 53-36-50; 53-36-88',
         work_time:  'пн.-пт. 9-18',
         delivery:   '4 - 6',
+        courier:    false,
         cost:       335
 
       },
@@ -8763,6 +9464,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '6 - 9',
+        courier:    true,
         cost:       1025
 
       },
@@ -8776,6 +9478,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '4 - 6',
+        courier:    true,
         cost:       1300
 
       },
@@ -8789,6 +9492,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '4 - 6',
+        courier:    true,
         cost:       1300
 
       },
@@ -8802,6 +9506,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '4 - 6',
+        courier:    true,
         cost:       1640
 
       },
@@ -8815,6 +9520,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '6 - 9',
+        courier:    true,
         cost:       745
 
       },
@@ -8828,6 +9534,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '6 - 9',
+        courier:    true,
         cost:       1025
 
       },
@@ -8841,6 +9548,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '6 - 9',
+        courier:    true,
         cost:       745
 
       },
@@ -8854,6 +9562,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '4 - 6',
+        courier:    true,
         cost:       1300
 
       },
@@ -8867,6 +9576,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '4 - 6',
+        courier:    true,
         cost:       1300
 
       },
@@ -8880,6 +9590,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '4 - 6',
+        courier:    true,
         cost:       1300
 
       },
@@ -8893,6 +9604,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '6 - 9',
+        courier:    true,
         cost:       675
 
       },
@@ -8906,6 +9618,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '2 - 4',
+        courier:    true,
         cost:       550
 
       },
@@ -8919,6 +9632,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '4 - 6',
+        courier:    true,
         cost:       1300
 
       },
@@ -8932,6 +9646,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '4 - 6',
+        courier:    true,
         cost:       1300
 
       },
@@ -8945,6 +9660,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '4 - 6',
+        courier:    true,
         cost:       1300
 
       },
@@ -8958,6 +9674,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '4 - 6',
+        courier:    true,
         cost:       1300
 
       },
@@ -8971,6 +9688,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '4 - 6',
+        courier:    true,
         cost:       1300
 
       },
@@ -8984,6 +9702,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '4 - 6',
+        courier:    true,
         cost:       1300
 
       },
@@ -8997,6 +9716,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '4 - 6',
+        courier:    true,
         cost:       1300
 
       },
@@ -9010,6 +9730,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '4 - 6',
+        courier:    true,
         cost:       1300
 
       },
@@ -9023,6 +9744,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '4 - 6',
+        courier:    true,
         cost:       1300
 
       },
@@ -9036,6 +9758,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '6 - 9',
+        courier:    true,
         cost:       675
 
       },
@@ -9049,6 +9772,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '4 - 6',
+        courier:    true,
         cost:       1300
 
       },
@@ -9062,6 +9786,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '4 - 6',
+        courier:    true,
         cost:       1300
 
       },
@@ -9075,6 +9800,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '6 - 9',
+        courier:    true,
         cost:       1175
 
       },
@@ -9088,6 +9814,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '4 - 6',
+        courier:    true,
         cost:       1300
 
       },
@@ -9101,6 +9828,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '4 - 7',
+        courier:    true,
         cost:       2030
 
       },
@@ -9114,6 +9842,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '6 - 10',
+        courier:    true,
         cost:       1105
 
       },
@@ -9127,6 +9856,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '4 - 7',
+        courier:    true,
         cost:       2170
 
       },
@@ -9140,6 +9870,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '6 - 10',
+        courier:    true,
         cost:       1105
 
       },
@@ -9153,6 +9884,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '6 - 10',
+        courier:    true,
         cost:       1105
 
       },
@@ -9166,6 +9898,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '6 - 10',
+        courier:    true,
         cost:       1105
 
       },
@@ -9179,6 +9912,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '4 - 7',
+        courier:    true,
         cost:       2030
 
       },
@@ -9192,6 +9926,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '4 - 7',
+        courier:    true,
         cost:       2170
 
       },
@@ -9205,6 +9940,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '4 - 7',
+        courier:    true,
         cost:       1860
 
       },
@@ -9218,6 +9954,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '4 - 7',
+        courier:    true,
         cost:       1860
 
       },
@@ -9231,6 +9968,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '4 - 7',
+        courier:    true,
         cost:       1860
 
       },
@@ -9244,6 +9982,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '4 - 7',
+        courier:    true,
         cost:       1860
 
       },
@@ -9257,6 +9996,7 @@ module CdekApi
         phone:      '(4152) 30-78-78',
         work_time:  'пн.-пт. 9-18, сб. 10-14',
         delivery:   '5 - 8',
+        courier:    false,
         cost:       755
 
       },
@@ -9270,6 +10010,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '4 - 7',
+        courier:    true,
         cost:       2170
 
       },
@@ -9283,6 +10024,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '4 - 7',
+        courier:    true,
         cost:       1860
 
       },
@@ -9296,6 +10038,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '4 - 7',
+        courier:    true,
         cost:       2170
 
       },
@@ -9309,6 +10052,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '4 - 7',
+        courier:    true,
         cost:       1860
 
       },
@@ -9322,6 +10066,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '4 - 7',
+        courier:    true,
         cost:       1860
 
       },
@@ -9335,6 +10080,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '4 - 7',
+        courier:    true,
         cost:       2170
 
       },
@@ -9348,6 +10094,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '6 - 10',
+        courier:    true,
         cost:       1516
 
       },
@@ -9361,6 +10108,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '6 - 10',
+        courier:    true,
         cost:       1432
 
       },
@@ -9374,6 +10122,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '6 - 10',
+        courier:    true,
         cost:       1540
 
       },
@@ -9387,6 +10136,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '6 - 10',
+        courier:    true,
         cost:       1180
 
       },
@@ -9400,6 +10150,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '6 - 10',
+        courier:    true,
         cost:       1340
 
       },
@@ -9413,6 +10164,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '6 - 10',
+        courier:    true,
         cost:       1432
 
       },
@@ -9426,6 +10178,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '6 - 10',
+        courier:    true,
         cost:       904
 
       },
@@ -9439,6 +10192,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '6 - 10',
+        courier:    true,
         cost:       1540
 
       },
@@ -9452,6 +10206,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '6 - 10',
+        courier:    true,
         cost:       1036
 
       },
@@ -9465,6 +10220,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '6 - 10',
+        courier:    true,
         cost:       1540
 
       },
@@ -9478,6 +10234,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '6 - 10',
+        courier:    true,
         cost:       1036
 
       },
@@ -9491,6 +10248,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '6 - 10',
+        courier:    true,
         cost:       1320
 
       },
@@ -9504,6 +10262,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '6 - 10',
+        courier:    true,
         cost:       964
 
       },
@@ -9517,6 +10276,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '6 - 10',
+        courier:    true,
         cost:       1432
 
       },
@@ -9530,6 +10290,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '2 - 5',
+        courier:    true,
         cost:       770
 
       },
@@ -9543,6 +10304,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '6 - 10',
+        courier:    true,
         cost:       1320
 
       },
@@ -9556,6 +10318,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '5 - 8',
+        courier:    true,
         cost:       1710
 
       },
@@ -9569,6 +10332,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '5 - 8',
+        courier:    true,
         cost:       1710
 
       },
@@ -9582,6 +10346,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '5 - 8',
+        courier:    true,
         cost:       1710
 
       },
@@ -9595,6 +10360,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '5 - 8',
+        courier:    true,
         cost:       1710
 
       },
@@ -9608,6 +10374,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '7 - 12',
+        courier:    true,
         cost:       1165
 
       },
@@ -9621,6 +10388,7 @@ module CdekApi
         phone:      '+7 911 419 12 17',
         work_time:  'пн.-пт. 9-18',
         delivery:   '7 - 11',
+        courier:    false,
         cost:       415
 
       },
@@ -9634,6 +10402,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '5 - 8',
+        courier:    true,
         cost:       1710
 
       },
@@ -9647,6 +10416,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '5 - 8',
+        courier:    true,
         cost:       1710
 
       },
@@ -9660,6 +10430,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '5 - 8',
+        courier:    true,
         cost:       1710
 
       },
@@ -9673,6 +10444,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '5 - 8',
+        courier:    true,
         cost:       1710
 
       },
@@ -9686,6 +10458,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '5 - 8',
+        courier:    true,
         cost:       1710
 
       },
@@ -9699,6 +10472,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '5 - 8',
+        courier:    true,
         cost:       1710
 
       },
@@ -9712,6 +10486,7 @@ module CdekApi
         phone:      '(8142)59-59-69, 33-01-03, 63-46-90',
         work_time:  'пн.-пт. 9-19, сб.10-16',
         delivery:   '5 - 7',
+        courier:    false,
         cost:       415
 
       },
@@ -9725,6 +10500,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '5 - 8',
+        courier:    true,
         cost:       1710
 
       },
@@ -9738,6 +10514,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '5 - 8',
+        courier:    true,
         cost:       1710
 
       },
@@ -9751,6 +10528,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '5 - 8',
+        courier:    true,
         cost:       1710
 
       },
@@ -9764,6 +10542,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '5 - 8',
+        courier:    true,
         cost:       1710
 
       },
@@ -9777,6 +10556,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '5 - 8',
+        courier:    true,
         cost:       1710
 
       },
@@ -9790,6 +10570,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '5 - 8',
+        courier:    true,
         cost:       1710
 
       },
@@ -9803,6 +10584,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '7 - 12',
+        courier:    true,
         cost:       1165
 
       },
@@ -9816,6 +10598,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '8 - 11',
+        courier:    true,
         cost:       665
 
       },
@@ -9829,6 +10612,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '5 - 7',
+        courier:    true,
         cost:       1260
 
       },
@@ -9842,6 +10626,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '7 - 10',
+        courier:    true,
         cost:       665
 
       },
@@ -9855,6 +10640,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '5 - 7',
+        courier:    true,
         cost:       1260
 
       },
@@ -9868,6 +10654,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '5 - 7',
+        courier:    true,
         cost:       1260
 
       },
@@ -9881,6 +10668,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '8 - 11',
+        courier:    true,
         cost:       665
 
       },
@@ -9894,6 +10682,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '5 - 7',
+        courier:    true,
         cost:       1260
 
       },
@@ -9907,6 +10696,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '5 - 7',
+        courier:    true,
         cost:       1150
 
       },
@@ -9920,6 +10710,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '5 - 7',
+        courier:    true,
         cost:       1260
 
       },
@@ -9933,6 +10724,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '6 - 9',
+        courier:    true,
         cost:       760
 
       },
@@ -9946,6 +10738,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '5 - 7',
+        courier:    true,
         cost:       1260
 
       },
@@ -9959,6 +10752,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '4 - 6',
+        courier:    true,
         cost:       1260
 
       },
@@ -9972,6 +10766,7 @@ module CdekApi
         phone:      '(3842) 45-25-65',
         work_time:  'пн.-пт. 9-18, сб. 10-14',
         delivery:   '4 - 6',
+        courier:    false,
         cost:       175
 
       },
@@ -9985,6 +10780,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '7 - 10',
+        courier:    true,
         cost:       760
 
       },
@@ -9998,6 +10794,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '5 - 7',
+        courier:    true,
         cost:       1260
 
       },
@@ -10011,6 +10808,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '5 - 7',
+        courier:    true,
         cost:       1260
 
       },
@@ -10024,6 +10822,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '5 - 7',
+        courier:    true,
         cost:       1150
 
       },
@@ -10037,6 +10836,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '7 - 10',
+        courier:    true,
         cost:       665
 
       },
@@ -10050,6 +10850,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '6 - 8',
+        courier:    true,
         cost:       1260
 
       },
@@ -10063,6 +10864,7 @@ module CdekApi
         phone:      '(38475) 2-60-06',
         work_time:  'пн.-пт. 9-18',
         delivery:   '6 - 9',
+        courier:    true,
         cost:       425
 
       },
@@ -10076,6 +10878,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '5 - 7',
+        courier:    true,
         cost:       1150
 
       },
@@ -10089,6 +10892,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '6 - 9',
+        courier:    true,
         cost:       425
 
       },
@@ -10102,6 +10906,7 @@ module CdekApi
         phone:      '(3843) 92-02-24, +7-903-908-3311',
         work_time:  'пн.-пт. 9-20, сб. 9-17',
         delivery:   '4 - 6',
+        courier:    false,
         cost:       175
 
       },
@@ -10115,6 +10920,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '6 - 9',
+        courier:    true,
         cost:       760
 
       },
@@ -10128,6 +10934,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '5 - 7',
+        courier:    true,
         cost:       1260
 
       },
@@ -10141,6 +10948,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '5 - 7',
+        courier:    true,
         cost:       1260
 
       },
@@ -10154,6 +10962,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '7 - 10',
+        courier:    true,
         cost:       665
 
       },
@@ -10167,6 +10976,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '6 - 9',
+        courier:    true,
         cost:       760
 
       },
@@ -10180,6 +10990,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '5 - 7',
+        courier:    true,
         cost:       1260
 
       },
@@ -10193,6 +11004,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '5 - 7',
+        courier:    true,
         cost:       1260
 
       },
@@ -10206,6 +11018,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '5 - 7',
+        courier:    true,
         cost:       1150
 
       },
@@ -10219,6 +11032,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '5 - 7',
+        courier:    true,
         cost:       1260
 
       },
@@ -10232,6 +11046,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '5 - 7',
+        courier:    true,
         cost:       1500
 
       },
@@ -10245,6 +11060,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '5 - 7',
+        courier:    true,
         cost:       1150
 
       },
@@ -10258,6 +11074,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '5 - 7',
+        courier:    true,
         cost:       1260
 
       },
@@ -10271,6 +11088,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '5 - 7',
+        courier:    true,
         cost:       1260
 
       },
@@ -10284,6 +11102,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '5 - 7',
+        courier:    true,
         cost:       1260
 
       },
@@ -10297,6 +11116,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '7 - 10',
+        courier:    true,
         cost:       665
 
       },
@@ -10310,6 +11130,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '5 - 7',
+        courier:    true,
         cost:       1260
 
       },
@@ -10323,6 +11144,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '5 - 7',
+        courier:    true,
         cost:       1260
 
       },
@@ -10336,6 +11158,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '8 - 11',
+        courier:    true,
         cost:       665
 
       },
@@ -10349,6 +11172,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '5 - 7',
+        courier:    true,
         cost:       1260
 
       },
@@ -10362,6 +11186,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '5 - 7',
+        courier:    true,
         cost:       1260
 
       },
@@ -10375,6 +11200,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '5 - 7',
+        courier:    true,
         cost:       1260
 
       },
@@ -10388,6 +11214,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '4 - 6',
+        courier:    true,
         cost:       1375
 
       },
@@ -10401,6 +11228,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '4 - 6',
+        courier:    true,
         cost:       1500
 
       },
@@ -10414,6 +11242,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '4 - 6',
+        courier:    true,
         cost:       1500
 
       },
@@ -10427,6 +11256,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '4 - 6',
+        courier:    true,
         cost:       1500
 
       },
@@ -10440,6 +11270,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '4 - 6',
+        courier:    true,
         cost:       1500
 
       },
@@ -10453,6 +11284,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '4 - 6',
+        courier:    true,
         cost:       1500
 
       },
@@ -10466,6 +11298,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '4 - 6',
+        courier:    true,
         cost:       1500
 
       },
@@ -10477,8 +11310,9 @@ module CdekApi
         tariff:     136,
         address:    'Октябрьский проспект, д.114',
         phone:      '(8332) 341-340',
-        work_time:  'пн-пт 9-18, обед 13-14, сб 10-15',
+        work_time:  'пн-пт 9-18, сб 10-15',
         delivery:   '5 - 7',
+        courier:    false,
         cost:       340
 
       },
@@ -10492,6 +11326,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '4 - 6',
+        courier:    true,
         cost:       1500
 
       },
@@ -10505,6 +11340,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '4 - 6',
+        courier:    true,
         cost:       1500
 
       },
@@ -10518,6 +11354,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '4 - 6',
+        courier:    true,
         cost:       1500
 
       },
@@ -10531,6 +11368,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '3 - 6',
+        courier:    true,
         cost:       1500
 
       },
@@ -10544,6 +11382,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '4 - 6',
+        courier:    true,
         cost:       1500
 
       },
@@ -10557,6 +11396,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '4 - 6',
+        courier:    true,
         cost:       1500
 
       },
@@ -10570,6 +11410,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '4 - 6',
+        courier:    true,
         cost:       1500
 
       },
@@ -10583,6 +11424,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '4 - 6',
+        courier:    true,
         cost:       1500
 
       },
@@ -10596,6 +11438,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '4 - 6',
+        courier:    true,
         cost:       1500
 
       },
@@ -10609,6 +11452,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '4 - 6',
+        courier:    true,
         cost:       1500
 
       },
@@ -10622,6 +11466,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '4 - 6',
+        courier:    true,
         cost:       1500
 
       },
@@ -10635,6 +11480,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '4 - 6',
+        courier:    true,
         cost:       1500
 
       },
@@ -10648,6 +11494,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '4 - 6',
+        courier:    true,
         cost:       1500
 
       },
@@ -10661,6 +11508,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '4 - 6',
+        courier:    true,
         cost:       1500
 
       },
@@ -10674,6 +11522,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '4 - 6',
+        courier:    true,
         cost:       1500
 
       },
@@ -10687,6 +11536,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '4 - 6',
+        courier:    true,
         cost:       1500
 
       },
@@ -10700,6 +11550,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '4 - 6',
+        courier:    true,
         cost:       1500
 
       },
@@ -10713,6 +11564,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '4 - 6',
+        courier:    true,
         cost:       1500
 
       },
@@ -10726,6 +11578,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '4 - 6',
+        courier:    true,
         cost:       1500
 
       },
@@ -10739,6 +11592,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '4 - 6',
+        courier:    true,
         cost:       1500
 
       },
@@ -10752,6 +11606,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '4 - 6',
+        courier:    true,
         cost:       1500
 
       },
@@ -10765,6 +11620,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '6 - 12',
+        courier:    true,
         cost:       570
 
       },
@@ -10778,6 +11634,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '6 - 12',
+        courier:    true,
         cost:       570
 
       },
@@ -10791,6 +11648,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '5 - 11',
+        courier:    true,
         cost:       1500
 
       },
@@ -10804,6 +11662,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '5 - 11',
+        courier:    true,
         cost:       1500
 
       },
@@ -10817,6 +11676,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '5 - 11',
+        courier:    true,
         cost:       1500
 
       },
@@ -10830,6 +11690,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '6 - 12',
+        courier:    true,
         cost:       570
 
       },
@@ -10843,6 +11704,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '6 - 12',
+        courier:    true,
         cost:       570
 
       },
@@ -10856,6 +11718,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '5 - 11',
+        courier:    true,
         cost:       1500
 
       },
@@ -10869,6 +11732,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '5 - 11',
+        courier:    true,
         cost:       1500
 
       },
@@ -10882,6 +11746,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '5 - 11',
+        courier:    true,
         cost:       1500
 
       },
@@ -10895,6 +11760,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '6 - 12',
+        courier:    true,
         cost:       570
 
       },
@@ -10908,6 +11774,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '5 - 11',
+        courier:    true,
         cost:       1500
 
       },
@@ -10921,6 +11788,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '5 - 11',
+        courier:    true,
         cost:       1500
 
       },
@@ -10934,6 +11802,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '5 - 11',
+        courier:    true,
         cost:       1500
 
       },
@@ -10947,6 +11816,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '5 - 11',
+        courier:    true,
         cost:       1500
 
       },
@@ -10960,6 +11830,7 @@ module CdekApi
         phone:      '(8212) 29-38-82',
         work_time:  'пн.-пт. 9-18',
         delivery:   '5 - 7',
+        courier:    false,
         cost:       340
 
       },
@@ -10973,6 +11844,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '5 - 11',
+        courier:    true,
         cost:       1500
 
       },
@@ -10986,6 +11858,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '5 - 11',
+        courier:    true,
         cost:       1500
 
       },
@@ -10999,6 +11872,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '5 - 11',
+        courier:    true,
         cost:       1500
 
       },
@@ -11012,6 +11886,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '5 - 8',
+        courier:    true,
         cost:       570
 
       },
@@ -11025,6 +11900,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '5 - 11',
+        courier:    true,
         cost:       1500
 
       },
@@ -11038,6 +11914,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '4 - 6',
+        courier:    true,
         cost:       1370
 
       },
@@ -11051,6 +11928,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '4 - 6',
+        courier:    true,
         cost:       1370
 
       },
@@ -11064,6 +11942,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '4 - 6',
+        courier:    true,
         cost:       1370
 
       },
@@ -11077,6 +11956,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '4 - 6',
+        courier:    true,
         cost:       1370
 
       },
@@ -11090,6 +11970,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '4 - 6',
+        courier:    true,
         cost:       1370
 
       },
@@ -11103,6 +11984,7 @@ module CdekApi
         phone:      '(4942)622-052',
         work_time:  'пн.-пт. 9-18',
         delivery:   '4 - 6',
+        courier:    false,
         cost:       335
 
       },
@@ -11116,6 +11998,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '4 - 6',
+        courier:    true,
         cost:       1370
 
       },
@@ -11129,6 +12012,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '4 - 6',
+        courier:    true,
         cost:       1370
 
       },
@@ -11142,6 +12026,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '4 - 6',
+        courier:    true,
         cost:       1370
 
       },
@@ -11155,6 +12040,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '4 - 6',
+        courier:    true,
         cost:       1370
 
       },
@@ -11168,6 +12054,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '4 - 6',
+        courier:    true,
         cost:       1370
 
       },
@@ -11181,6 +12068,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '4 - 6',
+        courier:    true,
         cost:       1370
 
       },
@@ -11194,6 +12082,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '4 - 6',
+        courier:    true,
         cost:       1370
 
       },
@@ -11207,6 +12096,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '4 - 6',
+        courier:    true,
         cost:       1370
 
       },
@@ -11220,6 +12110,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '4 - 6',
+        courier:    true,
         cost:       1370
 
       },
@@ -11233,6 +12124,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '4 - 6',
+        courier:    true,
         cost:       1370
 
       },
@@ -11246,6 +12138,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '4 - 6',
+        courier:    true,
         cost:       1370
 
       },
@@ -11259,6 +12152,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '4 - 6',
+        courier:    true,
         cost:       1370
 
       },
@@ -11272,6 +12166,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '4 - 6',
+        courier:    true,
         cost:       1200
 
       },
@@ -11285,6 +12180,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '4 - 6',
+        courier:    true,
         cost:       1180
 
       },
@@ -11298,6 +12194,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '3 - 4',
+        courier:    true,
         cost:       1320
 
       },
@@ -11311,6 +12208,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '7 - 12',
+        courier:    true,
         cost:       550
 
       },
@@ -11324,6 +12222,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '4 - 6',
+        courier:    true,
         cost:       1180
 
       },
@@ -11337,6 +12236,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '4 - 6',
+        courier:    true,
         cost:       1200
 
       },
@@ -11350,6 +12250,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '4 - 6',
+        courier:    true,
         cost:       1200
 
       },
@@ -11363,6 +12264,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '4 - 6',
+        courier:    true,
         cost:       1320
 
       },
@@ -11376,6 +12278,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '3 - 5',
+        courier:    true,
         cost:       1100
 
       },
@@ -11389,6 +12292,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '4 - 7',
+        courier:    true,
         cost:       1200
 
       },
@@ -11402,6 +12306,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '4 - 6',
+        courier:    true,
         cost:       1200
 
       },
@@ -11415,6 +12320,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '4 - 7',
+        courier:    true,
         cost:       1305
 
       },
@@ -11428,6 +12334,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '4 - 6',
+        courier:    true,
         cost:       1200
 
       },
@@ -11441,6 +12348,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '6 - 9',
+        courier:    true,
         cost:       620
 
       },
@@ -11454,6 +12362,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '5 - 8',
+        courier:    true,
         cost:       1450
 
       },
@@ -11467,6 +12376,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '6 - 9',
+        courier:    true,
         cost:       590
 
       },
@@ -11480,6 +12390,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '4 - 6',
+        courier:    true,
         cost:       1180
 
       },
@@ -11493,6 +12404,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '4 - 6',
+        courier:    true,
         cost:       1180
 
       },
@@ -11506,6 +12418,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '4 - 6',
+        courier:    true,
         cost:       1180
 
       },
@@ -11519,6 +12432,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '4 - 6',
+        courier:    true,
         cost:       1200
 
       },
@@ -11532,6 +12446,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '4 - 6',
+        courier:    true,
         cost:       1180
 
       },
@@ -11545,6 +12460,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '7 - 12',
+        courier:    true,
         cost:       550
 
       },
@@ -11558,6 +12474,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '4 - 7',
+        courier:    true,
         cost:       1375
 
       },
@@ -11571,6 +12488,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '4 - 7',
+        courier:    true,
         cost:       1370
 
       },
@@ -11584,6 +12502,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '4 - 6',
+        courier:    true,
         cost:       1200
 
       },
@@ -11597,6 +12516,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '4 - 6',
+        courier:    true,
         cost:       1200
 
       },
@@ -11610,6 +12530,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '6 - 9',
+        courier:    true,
         cost:       620
 
       },
@@ -11623,6 +12544,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '4 - 7',
+        courier:    true,
         cost:       1375
 
       },
@@ -11636,6 +12558,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '4 - 7',
+        courier:    true,
         cost:       1270
 
       },
@@ -11649,6 +12572,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '4 - 6',
+        courier:    true,
         cost:       1180
 
       },
@@ -11662,6 +12586,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '3 - 5',
+        courier:    true,
         cost:       1100
 
       },
@@ -11675,6 +12600,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '7 - 10',
+        courier:    true,
         cost:       680
 
       },
@@ -11688,6 +12614,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '4 - 6',
+        courier:    true,
         cost:       1200
 
       },
@@ -11701,6 +12628,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '7 - 10',
+        courier:    true,
         cost:       680
 
       },
@@ -11714,6 +12642,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '4 - 6',
+        courier:    true,
         cost:       1370
 
       },
@@ -11727,6 +12656,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '7 - 10',
+        courier:    true,
         cost:       680
 
       },
@@ -11740,6 +12670,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '4 - 6',
+        courier:    true,
         cost:       1150
 
       },
@@ -11753,6 +12684,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '7 - 10',
+        courier:    true,
         cost:       680
 
       },
@@ -11766,6 +12698,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '7 - 12',
+        courier:    true,
         cost:       550
 
       },
@@ -11779,6 +12712,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '4 - 6',
+        courier:    true,
         cost:       1200
 
       },
@@ -11792,6 +12726,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '4 - 6',
+        courier:    true,
         cost:       1305
 
       },
@@ -11805,6 +12740,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '4 - 6',
+        courier:    true,
         cost:       1200
 
       },
@@ -11818,6 +12754,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '4 - 6',
+        courier:    true,
         cost:       1200
 
       },
@@ -11831,6 +12768,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '7 - 10',
+        courier:    true,
         cost:       680
 
       },
@@ -11844,6 +12782,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '4 - 7',
+        courier:    true,
         cost:       1370
 
       },
@@ -11857,6 +12796,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '4 - 6',
+        courier:    true,
         cost:       1220
 
       },
@@ -11870,6 +12810,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '6 - 9',
+        courier:    true,
         cost:       730
 
       },
@@ -11883,6 +12824,7 @@ module CdekApi
         phone:      '+7 (861)204-00-64, +7 (909) 444-7227',
         work_time:  'пн.-пт. 9-18, сб. 10-14',
         delivery:   '4 - 6',
+        courier:    false,
         cost:       340
 
       },
@@ -11896,6 +12838,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '4 - 6',
+        courier:    true,
         cost:       1305
 
       },
@@ -11909,6 +12852,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '4 - 6',
+        courier:    true,
         cost:       1200
 
       },
@@ -11922,6 +12866,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '4 - 6',
+        courier:    true,
         cost:       1200
 
       },
@@ -11935,6 +12880,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '4 - 6',
+        courier:    true,
         cost:       1200
 
       },
@@ -11948,6 +12894,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '6 - 9',
+        courier:    true,
         cost:       620
 
       },
@@ -11961,6 +12908,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '4 - 6',
+        courier:    true,
         cost:       1250
 
       },
@@ -11974,6 +12922,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '4 - 6',
+        courier:    true,
         cost:       1200
 
       },
@@ -11987,6 +12936,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '4 - 6',
+        courier:    true,
         cost:       1250
 
       },
@@ -12000,6 +12950,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '7 - 10',
+        courier:    true,
         cost:       730
 
       },
@@ -12013,6 +12964,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '4 - 6',
+        courier:    true,
         cost:       1200
 
       },
@@ -12026,6 +12978,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '4 - 6',
+        courier:    true,
         cost:       1270
 
       },
@@ -12039,6 +12992,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '6 - 9',
+        courier:    true,
         cost:       620
 
       },
@@ -12052,6 +13006,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '7 - 10',
+        courier:    true,
         cost:       680
 
       },
@@ -12065,6 +13020,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '4 - 6',
+        courier:    true,
         cost:       1170
 
       },
@@ -12078,6 +13034,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '4 - 6',
+        courier:    true,
         cost:       1150
 
       },
@@ -12091,6 +13048,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '4 - 6',
+        courier:    true,
         cost:       1250
 
       },
@@ -12104,6 +13062,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '4 - 6',
+        courier:    true,
         cost:       1180
 
       },
@@ -12117,6 +13076,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '4 - 6',
+        courier:    true,
         cost:       1180
 
       },
@@ -12130,6 +13090,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '4 - 6',
+        courier:    true,
         cost:       1375
 
       },
@@ -12143,6 +13104,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '4 - 6',
+        courier:    true,
         cost:       1180
 
       },
@@ -12156,6 +13118,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '4 - 6',
+        courier:    true,
         cost:       1270
 
       },
@@ -12169,6 +13132,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '4 - 6',
+        courier:    true,
         cost:       1375
 
       },
@@ -12182,6 +13146,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '4 - 6',
+        courier:    true,
         cost:       1270
 
       },
@@ -12195,6 +13160,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '4 - 6',
+        courier:    true,
         cost:       1200
 
       },
@@ -12208,6 +13174,7 @@ module CdekApi
         phone:      '8(9887)699-544; 8(9887)700-113',
         work_time:  'пн.-пт. 9-18, сб. 10-14',
         delivery:   '4 - 6',
+        courier:    false,
         cost:       340
 
       },
@@ -12221,6 +13188,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '4 - 6',
+        courier:    true,
         cost:       1200
 
       },
@@ -12234,6 +13202,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '4 - 6',
+        courier:    true,
         cost:       1250
 
       },
@@ -12247,6 +13216,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '4 - 6',
+        courier:    true,
         cost:       1200
 
       },
@@ -12260,6 +13230,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '4 - 6',
+        courier:    true,
         cost:       1180
 
       },
@@ -12273,6 +13244,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '4 - 6',
+        courier:    true,
         cost:       1200
 
       },
@@ -12286,6 +13258,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '4 - 6',
+        courier:    true,
         cost:       1180
 
       },
@@ -12299,6 +13272,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '4 - 7',
+        courier:    true,
         cost:       1370
 
       },
@@ -12312,6 +13286,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '4 - 6',
+        courier:    true,
         cost:       1180
 
       },
@@ -12325,6 +13300,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '4 - 6',
+        courier:    true,
         cost:       1170
 
       },
@@ -12338,6 +13314,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '4 - 7',
+        courier:    true,
         cost:       1450
 
       },
@@ -12351,6 +13328,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '4 - 6',
+        courier:    true,
         cost:       1200
 
       },
@@ -12364,6 +13342,7 @@ module CdekApi
         phone:      '(862) 261-39-62, 237-43-19',
         work_time:  'пн.-пт. 9-18, сб. 10-14',
         delivery:   '5 - 7',
+        courier:    false,
         cost:       340
 
       },
@@ -12377,6 +13356,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '4 - 7',
+        courier:    true,
         cost:       1305
 
       },
@@ -12390,6 +13370,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '4 - 6',
+        courier:    true,
         cost:       1200
 
       },
@@ -12403,6 +13384,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '4 - 6',
+        courier:    true,
         cost:       1370
 
       },
@@ -12416,6 +13398,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '4 - 7',
+        courier:    true,
         cost:       1450
 
       },
@@ -12429,6 +13412,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '4 - 6',
+        courier:    true,
         cost:       1200
 
       },
@@ -12442,6 +13426,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '4 - 7',
+        courier:    true,
         cost:       1200
 
       },
@@ -12455,6 +13440,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '4 - 6',
+        courier:    true,
         cost:       1200
 
       },
@@ -12468,6 +13454,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '4 - 6',
+        courier:    true,
         cost:       1250
 
       },
@@ -12481,6 +13468,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '4 - 6',
+        courier:    true,
         cost:       1200
 
       },
@@ -12494,6 +13482,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '4 - 6',
+        courier:    true,
         cost:       1200
 
       },
@@ -12507,6 +13496,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '4 - 6',
+        courier:    true,
         cost:       1200
 
       },
@@ -12520,6 +13510,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '4 - 7',
+        courier:    true,
         cost:       1450
 
       },
@@ -12533,6 +13524,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '4 - 7',
+        courier:    true,
         cost:       1200
 
       },
@@ -12546,6 +13538,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '4 - 6',
+        courier:    true,
         cost:       1220
 
       },
@@ -12559,6 +13552,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '4 - 6',
+        courier:    true,
         cost:       1250
 
       },
@@ -12572,6 +13566,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '4 - 6',
+        courier:    true,
         cost:       1855
 
       },
@@ -12585,6 +13580,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '4 - 6',
+        courier:    true,
         cost:       1200
 
       },
@@ -12598,6 +13594,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '3 - 6',
+        courier:    true,
         cost:       1185
 
       },
@@ -12611,6 +13608,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '4 - 7',
+        courier:    true,
         cost:       1520
 
       },
@@ -12624,6 +13622,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '5 - 7',
+        courier:    true,
         cost:       1870
 
       },
@@ -12637,6 +13636,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '4 - 7',
+        courier:    true,
         cost:       1520
 
       },
@@ -12650,6 +13650,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '7 - 10',
+        courier:    true,
         cost:       1405
 
       },
@@ -12663,6 +13664,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '4 - 7',
+        courier:    true,
         cost:       1520
 
       },
@@ -12676,6 +13678,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '7 - 12',
+        courier:    true,
         cost:       660
 
       },
@@ -12689,6 +13692,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '4 - 7',
+        courier:    true,
         cost:       1520
 
       },
@@ -12702,6 +13706,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '4 - 7',
+        courier:    true,
         cost:       1520
 
       },
@@ -12715,6 +13720,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '4 - 7',
+        courier:    true,
         cost:       1520
 
       },
@@ -12728,6 +13734,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '4 - 7',
+        courier:    true,
         cost:       1520
 
       },
@@ -12741,6 +13748,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '4 - 7',
+        courier:    true,
         cost:       1520
 
       },
@@ -12754,6 +13762,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '5 - 7',
+        courier:    true,
         cost:       1870
 
       },
@@ -12767,6 +13776,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '4 - 6',
+        courier:    true,
         cost:       1275
 
       },
@@ -12780,6 +13790,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '7 - 12',
+        courier:    true,
         cost:       660
 
       },
@@ -12793,6 +13804,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '5 - 7',
+        courier:    true,
         cost:       2240
 
       },
@@ -12806,6 +13818,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '8 - 11',
+        courier:    true,
         cost:       2310
 
       },
@@ -12819,6 +13832,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '7 - 13',
+        courier:    true,
         cost:       1170
 
       },
@@ -12832,6 +13846,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '4 - 7',
+        courier:    true,
         cost:       1520
 
       },
@@ -12845,6 +13860,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '4 - 6',
+        courier:    true,
         cost:       1285
 
       },
@@ -12858,6 +13874,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '4 - 7',
+        courier:    true,
         cost:       1520
 
       },
@@ -12871,6 +13888,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '4 - 7',
+        courier:    true,
         cost:       1520
 
       },
@@ -12884,6 +13902,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '4 - 7',
+        courier:    true,
         cost:       1520
 
       },
@@ -12897,6 +13916,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '7 - 10',
+        courier:    true,
         cost:       1520
 
       },
@@ -12910,6 +13930,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '4 - 7',
+        courier:    true,
         cost:       1285
 
       },
@@ -12923,6 +13944,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '4 - 7',
+        courier:    true,
         cost:       1520
 
       },
@@ -12936,6 +13958,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '4 - 7',
+        courier:    true,
         cost:       1520
 
       },
@@ -12949,6 +13972,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '4 - 8',
+        courier:    true,
         cost:       1710
 
       },
@@ -12962,6 +13986,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '4 - 7',
+        courier:    true,
         cost:       1520
 
       },
@@ -12975,6 +14000,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '4 - 6',
+        courier:    true,
         cost:       1790
 
       },
@@ -12988,6 +14014,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '4 - 7',
+        courier:    true,
         cost:       1520
 
       },
@@ -13001,6 +14028,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '4 - 7',
+        courier:    true,
         cost:       1275
 
       },
@@ -13014,6 +14042,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '4 - 7',
+        courier:    true,
         cost:       1520
 
       },
@@ -13027,6 +14056,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '4 - 7',
+        courier:    true,
         cost:       1520
 
       },
@@ -13040,6 +14070,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '4 - 7',
+        courier:    true,
         cost:       1520
 
       },
@@ -13053,6 +14084,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '4 - 7',
+        courier:    true,
         cost:       1520
 
       },
@@ -13066,6 +14098,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '4 - 6',
+        courier:    true,
         cost:       1450
 
       },
@@ -13079,6 +14112,7 @@ module CdekApi
         phone:      '(391) 295-88-10, 274-50-92',
         work_time:  'пн-пт. 09-21; сб, вс, с 10-18',
         delivery:   '4 - 6',
+        courier:    false,
         cost:       175
 
       },
@@ -13092,6 +14126,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '4 - 7',
+        courier:    true,
         cost:       1520
 
       },
@@ -13105,6 +14140,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '4 - 7',
+        courier:    true,
         cost:       1520
 
       },
@@ -13118,6 +14154,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '4 - 7',
+        courier:    true,
         cost:       1520
 
       },
@@ -13131,6 +14168,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '4 - 8',
+        courier:    true,
         cost:       1510
 
       },
@@ -13144,6 +14182,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '4 - 6',
+        courier:    true,
         cost:       1560
 
       },
@@ -13157,6 +14196,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '4 - 7',
+        courier:    true,
         cost:       1520
 
       },
@@ -13170,6 +14210,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '4 - 6',
+        courier:    true,
         cost:       1285
 
       },
@@ -13183,6 +14224,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '4 - 7',
+        courier:    true,
         cost:       1520
 
       },
@@ -13196,6 +14238,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '4 - 7',
+        courier:    true,
         cost:       1520
 
       },
@@ -13209,6 +14252,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '4 - 7',
+        courier:    true,
         cost:       1520
 
       },
@@ -13222,6 +14266,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '2 - 4',
+        courier:    true,
         cost:       880
 
       },
@@ -13235,6 +14280,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '4 - 7',
+        courier:    true,
         cost:       1520
 
       },
@@ -13248,6 +14294,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '4 - 7',
+        courier:    true,
         cost:       1520
 
       },
@@ -13261,6 +14308,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '4 - 6',
+        courier:    true,
         cost:       1560
 
       },
@@ -13274,6 +14322,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '7 - 12',
+        courier:    true,
         cost:       685
 
       },
@@ -13287,6 +14336,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '7 - 12',
+        courier:    true,
         cost:       850
 
       },
@@ -13300,6 +14350,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '4 - 7',
+        courier:    true,
         cost:       1520
 
       },
@@ -13313,6 +14364,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '5 - 7',
+        courier:    true,
         cost:       1870
 
       },
@@ -13326,6 +14378,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '4 - 7',
+        courier:    true,
         cost:       1275
 
       },
@@ -13339,6 +14392,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '5 - 8',
+        courier:    true,
         cost:       1790
 
       },
@@ -13352,6 +14406,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '7 - 10',
+        courier:    true,
         cost:       1520
 
       },
@@ -13365,6 +14420,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '4 - 7',
+        courier:    true,
         cost:       1520
 
       },
@@ -13378,6 +14434,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '4 - 6',
+        courier:    true,
         cost:       1185
 
       },
@@ -13391,6 +14448,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '4 - 7',
+        courier:    true,
         cost:       1520
 
       },
@@ -13404,6 +14462,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '4 - 7',
+        courier:    true,
         cost:       1520
 
       },
@@ -13417,6 +14476,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '4 - 7',
+        courier:    true,
         cost:       1520
 
       },
@@ -13430,6 +14490,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '4 - 7',
+        courier:    true,
         cost:       1520
 
       },
@@ -13443,6 +14504,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '4 - 7',
+        courier:    true,
         cost:       1520
 
       },
@@ -13456,6 +14518,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '4 - 8',
+        courier:    true,
         cost:       1760
 
       },
@@ -13469,6 +14532,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '3 - 5',
+        courier:    true,
         cost:       940
 
       },
@@ -13482,6 +14546,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '3 - 5',
+        courier:    true,
         cost:       825
 
       },
@@ -13495,6 +14560,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '3 - 5',
+        courier:    true,
         cost:       940
 
       },
@@ -13508,6 +14574,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '3 - 5',
+        courier:    true,
         cost:       940
 
       },
@@ -13521,6 +14588,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '3 - 5',
+        courier:    true,
         cost:       940
 
       },
@@ -13534,6 +14602,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '3 - 5',
+        courier:    true,
         cost:       940
 
       },
@@ -13547,6 +14616,7 @@ module CdekApi
         phone:      '',
         work_time:  'пн-пт 9-18',
         delivery:   '2 - 3',
+        courier:    false,
         cost:       360
 
       },
@@ -13560,6 +14630,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '3 - 5',
+        courier:    true,
         cost:       940
 
       },
@@ -13573,6 +14644,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '3 - 5',
+        courier:    true,
         cost:       940
 
       },
@@ -13586,6 +14658,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '3 - 5',
+        courier:    true,
         cost:       940
 
       },
@@ -13599,6 +14672,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '3 - 5',
+        courier:    true,
         cost:       940
 
       },
@@ -13612,6 +14686,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '3 - 5',
+        courier:    true,
         cost:       940
 
       },
@@ -13625,6 +14700,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '6 - 9',
+        courier:    true,
         cost:       745
 
       },
@@ -13638,6 +14714,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '6 - 9',
+        courier:    true,
         cost:       745
 
       },
@@ -13651,6 +14728,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '4 - 6',
+        courier:    true,
         cost:       1300
 
       },
@@ -13664,6 +14742,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '6 - 9',
+        courier:    true,
         cost:       745
 
       },
@@ -13677,6 +14756,7 @@ module CdekApi
         phone:      '(4712)31-07-36',
         work_time:  'пн.-пт. 9-18, сб. 10-14',
         delivery:   '4 - 6',
+        courier:    false,
         cost:       335
 
       },
@@ -13690,6 +14770,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '6 - 9',
+        courier:    true,
         cost:       745
 
       },
@@ -13703,6 +14784,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '4 - 6',
+        courier:    true,
         cost:       1300
 
       },
@@ -13716,6 +14798,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '4 - 6',
+        courier:    true,
         cost:       1300
 
       },
@@ -13729,6 +14812,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '4 - 6',
+        courier:    true,
         cost:       1300
 
       },
@@ -13742,6 +14826,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '4 - 6',
+        courier:    true,
         cost:       1300
 
       },
@@ -13755,6 +14840,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '6 - 9',
+        courier:    true,
         cost:       745
 
       },
@@ -13768,6 +14854,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '6 - 9',
+        courier:    true,
         cost:       745
 
       },
@@ -13781,6 +14868,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '4 - 6',
+        courier:    true,
         cost:       1300
 
       },
@@ -13794,6 +14882,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '4 - 6',
+        courier:    true,
         cost:       1300
 
       },
@@ -13807,6 +14896,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '4 - 6',
+        courier:    true,
         cost:       650
 
       },
@@ -13820,6 +14910,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '7 - 10',
+        courier:    true,
         cost:       980
 
       },
@@ -13833,6 +14924,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '5 - 8',
+        courier:    true,
         cost:       720
 
       },
@@ -13846,6 +14938,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '4 - 6',
+        courier:    true,
         cost:       650
 
       },
@@ -13859,6 +14952,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '5 - 8',
+        courier:    true,
         cost:       720
 
       },
@@ -13872,6 +14966,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '5 - 8',
+        courier:    true,
         cost:       650
 
       },
@@ -13885,6 +14980,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '5 - 8',
+        courier:    true,
         cost:       720
 
       },
@@ -13898,6 +14994,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '5 - 8',
+        courier:    true,
         cost:       850
 
       },
@@ -13911,6 +15008,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '5 - 8',
+        courier:    true,
         cost:       980
 
       },
@@ -13924,6 +15022,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '4 - 6',
+        courier:    true,
         cost:       650
 
       },
@@ -13937,6 +15036,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '5 - 8',
+        courier:    true,
         cost:       850
 
       },
@@ -13950,6 +15050,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '5 - 8',
+        courier:    true,
         cost:       850
 
       },
@@ -13958,12 +15059,13 @@ module CdekApi
       '47-7-0-30' => {
 
         code:       981,
-        tariff:     11,
+        tariff:     10,
         address:    '25 октября пр-кт, д.10',
         phone:      '(81371) 99527',
         work_time:  'пн.-пт. 10-18',
-        delivery:   '4 - 6',
-        cost:       720
+        delivery:   '3 - 5',
+        courier:    false,
+        cost:       640
 
       },
 
@@ -13976,6 +15078,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '4 - 6',
+        courier:    true,
         cost:       650
 
       },
@@ -13989,6 +15092,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '5 - 8',
+        courier:    true,
         cost:       850
 
       },
@@ -14002,6 +15106,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '7 - 10',
+        courier:    true,
         cost:       980
 
       },
@@ -14015,6 +15120,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '5 - 8',
+        courier:    true,
         cost:       980
 
       },
@@ -14028,6 +15134,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '7 - 10',
+        courier:    true,
         cost:       980
 
       },
@@ -14041,6 +15148,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '4 - 6',
+        courier:    true,
         cost:       850
 
       },
@@ -14054,6 +15162,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '7 - 10',
+        courier:    true,
         cost:       850
 
       },
@@ -14067,6 +15176,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '5 - 8',
+        courier:    true,
         cost:       980
 
       },
@@ -14080,6 +15190,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '4 - 6',
+        courier:    true,
         cost:       720
 
       },
@@ -14093,6 +15204,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '4 - 6',
+        courier:    true,
         cost:       650
 
       },
@@ -14106,6 +15218,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '5 - 8',
+        courier:    true,
         cost:       650
 
       },
@@ -14119,6 +15232,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '7 - 10',
+        courier:    true,
         cost:       850
 
       },
@@ -14132,6 +15246,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '5 - 8',
+        courier:    true,
         cost:       650
 
       },
@@ -14145,6 +15260,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '4 - 6',
+        courier:    true,
         cost:       650
 
       },
@@ -14158,6 +15274,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '5 - 8',
+        courier:    true,
         cost:       650
 
       },
@@ -14171,6 +15288,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '5 - 8',
+        courier:    true,
         cost:       720
 
       },
@@ -14184,6 +15302,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '7 - 10',
+        courier:    true,
         cost:       980
 
       },
@@ -14197,6 +15316,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '5 - 8',
+        courier:    true,
         cost:       850
 
       },
@@ -14210,6 +15330,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '5 - 8',
+        courier:    true,
         cost:       850
 
       },
@@ -14223,6 +15344,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '5 - 8',
+        courier:    true,
         cost:       650
 
       },
@@ -14236,6 +15358,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '4 - 6',
+        courier:    true,
         cost:       650
 
       },
@@ -14249,6 +15372,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '5 - 8',
+        courier:    true,
         cost:       720
 
       },
@@ -14262,6 +15386,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '5 - 8',
+        courier:    true,
         cost:       720
 
       },
@@ -14275,6 +15400,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '4 - 6',
+        courier:    true,
         cost:       650
 
       },
@@ -14288,6 +15414,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '5 - 8',
+        courier:    true,
         cost:       650
 
       },
@@ -14301,6 +15428,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '5 - 8',
+        courier:    true,
         cost:       850
 
       },
@@ -14314,6 +15442,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '4 - 6',
+        courier:    true,
         cost:       650
 
       },
@@ -14327,6 +15456,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '4 - 6',
+        courier:    true,
         cost:       650
 
       },
@@ -14340,6 +15470,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '4 - 6',
+        courier:    true,
         cost:       980
 
       },
@@ -14353,6 +15484,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '5 - 8',
+        courier:    true,
         cost:       720
 
       },
@@ -14366,6 +15498,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '4 - 6',
+        courier:    true,
         cost:       650
 
       },
@@ -14379,6 +15512,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '4 - 6',
+        courier:    true,
         cost:       850
 
       },
@@ -14392,6 +15526,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '4 - 6',
+        courier:    true,
         cost:       980
 
       },
@@ -14405,6 +15540,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '5 - 8',
+        courier:    true,
         cost:       650
 
       },
@@ -14418,6 +15554,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '5 - 8',
+        courier:    true,
         cost:       650
 
       },
@@ -14431,6 +15568,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '4 - 6',
+        courier:    true,
         cost:       650
 
       },
@@ -14444,6 +15582,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '7 - 10',
+        courier:    true,
         cost:       720
 
       },
@@ -14457,6 +15596,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '7 - 10',
+        courier:    true,
         cost:       720
 
       },
@@ -14470,6 +15610,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '7 - 10',
+        courier:    true,
         cost:       980
 
       },
@@ -14483,6 +15624,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '5 - 8',
+        courier:    true,
         cost:       720
 
       },
@@ -14496,6 +15638,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '7 - 10',
+        courier:    true,
         cost:       980
 
       },
@@ -14509,6 +15652,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '4 - 6',
+        courier:    true,
         cost:       650
 
       },
@@ -14522,6 +15666,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '5 - 8',
+        courier:    true,
         cost:       850
 
       },
@@ -14535,6 +15680,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '5 - 8',
+        courier:    true,
         cost:       720
 
       },
@@ -14548,6 +15694,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '7 - 10',
+        courier:    true,
         cost:       850
 
       },
@@ -14561,6 +15708,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '7 - 10',
+        courier:    true,
         cost:       850
 
       },
@@ -14574,6 +15722,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '5 - 8',
+        courier:    true,
         cost:       720
 
       },
@@ -14587,6 +15736,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '7 - 10',
+        courier:    true,
         cost:       650
 
       },
@@ -14600,6 +15750,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '7 - 10',
+        courier:    true,
         cost:       980
 
       },
@@ -14613,6 +15764,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '7 - 10',
+        courier:    true,
         cost:       980
 
       },
@@ -14626,6 +15778,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '4 - 6',
+        courier:    true,
         cost:       650
 
       },
@@ -14639,6 +15792,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '5 - 8',
+        courier:    true,
         cost:       720
 
       },
@@ -14652,6 +15806,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '5 - 8',
+        courier:    true,
         cost:       650
 
       },
@@ -14665,6 +15820,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '7 - 10',
+        courier:    true,
         cost:       980
 
       },
@@ -14678,6 +15834,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '7 - 10',
+        courier:    true,
         cost:       850
 
       },
@@ -14691,6 +15848,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '7 - 10',
+        courier:    true,
         cost:       720
 
       },
@@ -14704,6 +15862,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '5 - 8',
+        courier:    true,
         cost:       850
 
       },
@@ -14717,6 +15876,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '7 - 10',
+        courier:    true,
         cost:       980
 
       },
@@ -14730,6 +15890,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '5 - 8',
+        courier:    true,
         cost:       650
 
       },
@@ -14743,6 +15904,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '4 - 6',
+        courier:    true,
         cost:       650
 
       },
@@ -14756,6 +15918,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '7 - 10',
+        courier:    true,
         cost:       980
 
       },
@@ -14769,6 +15932,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '5 - 8',
+        courier:    true,
         cost:       650
 
       },
@@ -14782,6 +15946,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '5 - 8',
+        courier:    true,
         cost:       720
 
       },
@@ -14795,6 +15960,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '5 - 8',
+        courier:    true,
         cost:       650
 
       },
@@ -14808,6 +15974,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '7 - 10',
+        courier:    true,
         cost:       980
 
       },
@@ -14821,6 +15988,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '5 - 8',
+        courier:    true,
         cost:       720
 
       },
@@ -14834,6 +16002,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '4 - 6',
+        courier:    true,
         cost:       650
 
       },
@@ -14847,6 +16016,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '5 - 8',
+        courier:    true,
         cost:       850
 
       },
@@ -14860,6 +16030,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '3 - 6',
+        courier:    true,
         cost:       650
 
       },
@@ -14873,6 +16044,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '4 - 6',
+        courier:    true,
         cost:       650
 
       },
@@ -14886,6 +16058,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '4 - 7',
+        courier:    true,
         cost:       1180
 
       },
@@ -14899,6 +16072,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '4 - 7',
+        courier:    true,
         cost:       1180
 
       },
@@ -14912,6 +16086,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '4 - 7',
+        courier:    true,
         cost:       1180
 
       },
@@ -14925,6 +16100,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '4 - 7',
+        courier:    true,
         cost:       1180
 
       },
@@ -14938,6 +16114,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '4 - 7',
+        courier:    true,
         cost:       1180
 
       },
@@ -14951,6 +16128,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '3 - 7',
+        courier:    true,
         cost:       1120
 
       },
@@ -14964,6 +16142,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '4 - 7',
+        courier:    true,
         cost:       1180
 
       },
@@ -14977,6 +16156,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '4 - 7',
+        courier:    true,
         cost:       1055
 
       },
@@ -14990,6 +16170,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '4 - 7',
+        courier:    true,
         cost:       1180
 
       },
@@ -15003,6 +16184,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '3 - 7',
+        courier:    true,
         cost:       1265
 
       },
@@ -15016,6 +16198,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '3 - 6',
+        courier:    true,
         cost:       1010
 
       },
@@ -15029,6 +16212,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '4 - 6',
+        courier:    true,
         cost:       1125
 
       },
@@ -15042,6 +16226,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '4 - 7',
+        courier:    true,
         cost:       1180
 
       },
@@ -15055,6 +16240,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '3 - 6',
+        courier:    true,
         cost:       1370
 
       },
@@ -15068,6 +16254,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '4 - 7',
+        courier:    true,
         cost:       1180
 
       },
@@ -15081,6 +16268,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '4 - 7',
+        courier:    true,
         cost:       1180
 
       },
@@ -15094,6 +16282,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '4 - 7',
+        courier:    true,
         cost:       1180
 
       },
@@ -15107,6 +16296,7 @@ module CdekApi
         phone:      '(4742)74-44-07, 77-15-61',
         work_time:  'пн.-пт. 9-18',
         delivery:   '4 - 6',
+        courier:    false,
         cost:       335
 
       },
@@ -15120,6 +16310,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '4 - 7',
+        courier:    true,
         cost:       1180
 
       },
@@ -15133,6 +16324,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '4 - 7',
+        courier:    true,
         cost:       1180
 
       },
@@ -15146,6 +16338,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '3 - 7',
+        courier:    true,
         cost:       1070
 
       },
@@ -15159,6 +16352,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '4 - 7',
+        courier:    true,
         cost:       1180
 
       },
@@ -15172,6 +16366,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '4 - 7',
+        courier:    true,
         cost:       1180
 
       },
@@ -15185,6 +16380,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '4 - 7',
+        courier:    true,
         cost:       1180
 
       },
@@ -15198,6 +16394,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '4 - 7',
+        courier:    true,
         cost:       1180
 
       },
@@ -15211,6 +16408,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '3 - 6',
+        courier:    true,
         cost:       1090
 
       },
@@ -15224,6 +16422,7 @@ module CdekApi
         phone:      '(4132)602244',
         work_time:  'пн.-пт. 9-18, об. 13-14',
         delivery:   '6 - 9',
+        courier:    false,
         cost:       755
 
       },
@@ -15237,6 +16436,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '7 - 16',
+        courier:    true,
         cost:       1705
 
       },
@@ -15250,6 +16450,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '5 - 12',
+        courier:    true,
         cost:       1810
 
       },
@@ -15263,6 +16464,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '5 - 12',
+        courier:    true,
         cost:       2160
 
       },
@@ -15276,6 +16478,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '5 - 12',
+        courier:    true,
         cost:       2160
 
       },
@@ -15289,6 +16492,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '5 - 12',
+        courier:    true,
         cost:       2160
 
       },
@@ -15302,6 +16506,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '5 - 12',
+        courier:    true,
         cost:       2160
 
       },
@@ -15315,6 +16520,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '5 - 12',
+        courier:    true,
         cost:       2160
 
       },
@@ -15328,6 +16534,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '5 - 12',
+        courier:    true,
         cost:       2160
 
       },
@@ -15341,6 +16548,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '5 - 7',
+        courier:    true,
         cost:       1620
 
       },
@@ -15352,8 +16560,9 @@ module CdekApi
         tariff:     136,
         address:    'Пролетарская ул., д.39, оф.20',
         phone:      '(987) 712-3222, 712-3663, 8 (902) 67-07-307',
-        work_time:  'пн.-пт. 9-19, об. 13-14',
+        work_time:  'пн.-пт. 9-19, сб. 13-14',
         delivery:   '5 - 8',
+        courier:    false,
         cost:       340
 
       },
@@ -15367,6 +16576,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '5 - 8',
+        courier:    true,
         cost:       1620
 
       },
@@ -15380,6 +16590,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '5 - 7',
+        courier:    true,
         cost:       1620
 
       },
@@ -15393,6 +16604,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '6 - 9',
+        courier:    true,
         cost:       570
 
       },
@@ -15406,6 +16618,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '5 - 7',
+        courier:    true,
         cost:       1620
 
       },
@@ -15419,6 +16632,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '5 - 7',
+        courier:    true,
         cost:       1620
 
       },
@@ -15432,6 +16646,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '5 - 7',
+        courier:    true,
         cost:       1620
 
       },
@@ -15445,6 +16660,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '4 - 6',
+        courier:    true,
         cost:       1620
 
       },
@@ -15458,6 +16674,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '6 - 9',
+        courier:    true,
         cost:       570
 
       },
@@ -15471,6 +16688,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '5 - 7',
+        courier:    true,
         cost:       1620
 
       },
@@ -15484,6 +16702,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '5 - 7',
+        courier:    true,
         cost:       1620
 
       },
@@ -15497,6 +16716,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '5 - 7',
+        courier:    true,
         cost:       1180
 
       },
@@ -15510,6 +16730,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '5 - 7',
+        courier:    true,
         cost:       1180
 
       },
@@ -15523,6 +16744,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '5 - 7',
+        courier:    true,
         cost:       1180
 
       },
@@ -15536,6 +16758,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '5 - 7',
+        courier:    true,
         cost:       1180
 
       },
@@ -15549,6 +16772,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '5 - 7',
+        courier:    true,
         cost:       1180
 
       },
@@ -15562,6 +16786,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '5 - 7',
+        courier:    true,
         cost:       1180
 
       },
@@ -15575,6 +16800,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '5 - 7',
+        courier:    true,
         cost:       1180
 
       },
@@ -15588,6 +16814,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '5 - 7',
+        courier:    true,
         cost:       1180
 
       },
@@ -15601,6 +16828,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '5 - 7',
+        courier:    true,
         cost:       1180
 
       },
@@ -15614,6 +16842,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '5 - 7',
+        courier:    true,
         cost:       1180
 
       },
@@ -15627,6 +16856,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '5 - 7',
+        courier:    true,
         cost:       1180
 
       },
@@ -15640,6 +16870,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '3 - 4',
+        courier:    true,
         cost:       770
 
       },
@@ -15653,6 +16884,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '5 - 7',
+        courier:    true,
         cost:       1180
 
       },
@@ -15666,6 +16898,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '5 - 7',
+        courier:    true,
         cost:       1180
 
       },
@@ -15679,6 +16912,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '5 - 7',
+        courier:    true,
         cost:       1180
 
       },
@@ -15692,6 +16926,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '4 - 7',
+        courier:    true,
         cost:       575
 
       },
@@ -15705,6 +16940,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '4 - 7',
+        courier:    true,
         cost:       540
 
       },
@@ -15718,6 +16954,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '4 - 7',
+        courier:    true,
         cost:       505
 
       },
@@ -15731,6 +16968,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '4 - 7',
+        courier:    true,
         cost:       505
 
       },
@@ -15744,6 +16982,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '4 - 7',
+        courier:    true,
         cost:       575
 
       },
@@ -15757,6 +16996,7 @@ module CdekApi
         phone:      '+7 (495) 66-55-8-99',
         work_time:  'пн.-пт. 10-19, сб. 10-17, вс 11-18',
         delivery:   '3 - 5',
+        courier:    false,
         cost:       175
 
       },
@@ -15770,6 +17010,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '4 - 7',
+        courier:    true,
         cost:       505
 
       },
@@ -15783,6 +17024,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '4 - 7',
+        courier:    true,
         cost:       505
 
       },
@@ -15796,6 +17038,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '4 - 7',
+        courier:    true,
         cost:       505
 
       },
@@ -15809,6 +17052,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '4 - 7',
+        courier:    true,
         cost:       505
 
       },
@@ -15822,6 +17066,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '4 - 7',
+        courier:    true,
         cost:       505
 
       },
@@ -15835,6 +17080,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '3 - 6',
+        courier:    true,
         cost:       1170
 
       },
@@ -15848,6 +17094,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '4 - 7',
+        courier:    true,
         cost:       505
 
       },
@@ -15861,6 +17108,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '4 - 7',
+        courier:    true,
         cost:       755
 
       },
@@ -15874,6 +17122,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '4 - 7',
+        courier:    true,
         cost:       575
 
       },
@@ -15887,6 +17136,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '3 - 6',
+        courier:    true,
         cost:       1120
 
       },
@@ -15900,6 +17150,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '5 - 7',
+        courier:    true,
         cost:       520
 
       },
@@ -15913,6 +17164,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '4 - 7',
+        courier:    true,
         cost:       575
 
       },
@@ -15926,6 +17178,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '4 - 7',
+        courier:    true,
         cost:       505
 
       },
@@ -15939,6 +17192,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '4 - 6',
+        courier:    true,
         cost:       520
 
       },
@@ -15952,6 +17206,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '4 - 7',
+        courier:    true,
         cost:       575
 
       },
@@ -15965,6 +17220,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '2 - 4',
+        courier:    true,
         cost:       910
 
       },
@@ -15978,6 +17234,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '4 - 7',
+        courier:    true,
         cost:       505
 
       },
@@ -15991,6 +17248,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '4 - 7',
+        courier:    true,
         cost:       755
 
       },
@@ -16004,6 +17262,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '4 - 7',
+        courier:    true,
         cost:       575
 
       },
@@ -16017,6 +17276,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '4 - 7',
+        courier:    true,
         cost:       505
 
       },
@@ -16030,6 +17290,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '4 - 7',
+        courier:    true,
         cost:       505
 
       },
@@ -16043,6 +17304,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '4 - 7',
+        courier:    true,
         cost:       755
 
       },
@@ -16056,6 +17318,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '4 - 7',
+        courier:    true,
         cost:       755
 
       },
@@ -16069,6 +17332,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '4 - 7',
+        courier:    true,
         cost:       505
 
       },
@@ -16082,6 +17346,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '4 - 7',
+        courier:    true,
         cost:       755
 
       },
@@ -16095,6 +17360,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '4 - 7',
+        courier:    true,
         cost:       755
 
       },
@@ -16108,6 +17374,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '4 - 7',
+        courier:    true,
         cost:       575
 
       },
@@ -16121,6 +17388,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '3 - 6',
+        courier:    true,
         cost:       1120
 
       },
@@ -16134,6 +17402,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '4 - 7',
+        courier:    true,
         cost:       505
 
       },
@@ -16147,6 +17416,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '2 - 4',
+        courier:    true,
         cost:       910
 
       },
@@ -16160,6 +17430,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '4 - 7',
+        courier:    true,
         cost:       575
 
       },
@@ -16173,6 +17444,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '4 - 7',
+        courier:    true,
         cost:       575
 
       },
@@ -16186,6 +17458,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '4 - 7',
+        courier:    true,
         cost:       575
 
       },
@@ -16199,6 +17472,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '4 - 7',
+        courier:    true,
         cost:       505
 
       },
@@ -16212,6 +17486,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '3 - 6',
+        courier:    true,
         cost:       1040
 
       },
@@ -16225,6 +17500,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '4 - 7',
+        courier:    true,
         cost:       575
 
       },
@@ -16238,6 +17514,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '4 - 7',
+        courier:    true,
         cost:       505
 
       },
@@ -16251,6 +17528,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '4 - 7',
+        courier:    true,
         cost:       505
 
       },
@@ -16264,6 +17542,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '4 - 7',
+        courier:    true,
         cost:       505
 
       },
@@ -16277,6 +17556,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '4 - 7',
+        courier:    true,
         cost:       505
 
       },
@@ -16290,6 +17570,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '4 - 7',
+        courier:    true,
         cost:       505
 
       },
@@ -16303,6 +17584,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '3 - 4',
+        courier:    true,
         cost:       710
 
       },
@@ -16316,6 +17598,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '2 - 4',
+        courier:    true,
         cost:       700
 
       },
@@ -16329,6 +17612,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '4 - 7',
+        courier:    true,
         cost:       505
 
       },
@@ -16342,6 +17626,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '4 - 7',
+        courier:    true,
         cost:       505
 
       },
@@ -16355,6 +17640,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '4 - 7',
+        courier:    true,
         cost:       505
 
       },
@@ -16368,6 +17654,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '3 - 6',
+        courier:    true,
         cost:       1120
 
       },
@@ -16381,6 +17668,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '4 - 7',
+        courier:    true,
         cost:       755
 
       },
@@ -16394,6 +17682,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '4 - 7',
+        courier:    true,
         cost:       755
 
       },
@@ -16407,6 +17696,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '5 - 8',
+        courier:    true,
         cost:       930
 
       },
@@ -16420,6 +17710,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '4 - 7',
+        courier:    true,
         cost:       755
 
       },
@@ -16433,6 +17724,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '5 - 8',
+        courier:    true,
         cost:       675
 
       },
@@ -16446,6 +17738,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '4 - 7',
+        courier:    true,
         cost:       755
 
       },
@@ -16459,6 +17752,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '4 - 7',
+        courier:    true,
         cost:       575
 
       },
@@ -16472,6 +17766,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '4 - 7',
+        courier:    true,
         cost:       755
 
       },
@@ -16485,6 +17780,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '3 - 6',
+        courier:    true,
         cost:       1120
 
       },
@@ -16498,6 +17794,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '5 - 9',
+        courier:    true,
         cost:       875
 
       },
@@ -16511,6 +17808,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '4 - 7',
+        courier:    true,
         cost:       505
 
       },
@@ -16524,6 +17822,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '4 - 7',
+        courier:    true,
         cost:       575
 
       },
@@ -16537,6 +17836,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '4 - 7',
+        courier:    true,
         cost:       575
 
       },
@@ -16550,6 +17850,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '4 - 7',
+        courier:    true,
         cost:       575
 
       },
@@ -16563,6 +17864,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '4 - 7',
+        courier:    true,
         cost:       495
 
       },
@@ -16576,6 +17878,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '4 - 7',
+        courier:    true,
         cost:       505
 
       },
@@ -16589,6 +17892,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '2 - 4',
+        courier:    true,
         cost:       690
 
       },
@@ -16602,6 +17906,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '4 - 7',
+        courier:    true,
         cost:       575
 
       },
@@ -16615,6 +17920,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '3 - 6',
+        courier:    true,
         cost:       1070
 
       },
@@ -16628,6 +17934,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '4 - 7',
+        courier:    true,
         cost:       755
 
       },
@@ -16641,6 +17948,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '4 - 7',
+        courier:    true,
         cost:       755
 
       },
@@ -16654,6 +17962,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '3 - 4',
+        courier:    true,
         cost:       710
 
       },
@@ -16667,6 +17976,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '5 - 9',
+        courier:    true,
         cost:       625
 
       },
@@ -16680,6 +17990,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '4 - 7',
+        courier:    true,
         cost:       505
 
       },
@@ -16693,6 +18004,7 @@ module CdekApi
         phone:      '(4962) 94804, 94805',
         work_time:  'Пн-Пт с 9-18, Сб, Вс - выходной',
         delivery:   '3 - 4',
+        courier:    true,
         cost:       710
 
       },
@@ -16706,6 +18018,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '3 - 6',
+        courier:    true,
         cost:       1040
 
       },
@@ -16719,6 +18032,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '4 - 7',
+        courier:    true,
         cost:       755
 
       },
@@ -16732,6 +18046,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '4 - 7',
+        courier:    true,
         cost:       505
 
       },
@@ -16745,6 +18060,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '4 - 7',
+        courier:    true,
         cost:       505
 
       },
@@ -16758,6 +18074,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '4 - 7',
+        courier:    true,
         cost:       505
 
       },
@@ -16771,6 +18088,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '4 - 7',
+        courier:    true,
         cost:       755
 
       },
@@ -16784,6 +18102,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '4 - 7',
+        courier:    true,
         cost:       755
 
       },
@@ -16797,6 +18116,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '4 - 7',
+        courier:    true,
         cost:       505
 
       },
@@ -16810,6 +18130,7 @@ module CdekApi
         phone:      '89853050571, (496) 219-48-04, (496)219-48-05',
         work_time:  'пн.-пт. 9-18',
         delivery:   '2 - 3',
+        courier:    false,
         cost:       630
 
       },
@@ -16823,6 +18144,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '4 - 7',
+        courier:    true,
         cost:       1110
 
       },
@@ -16836,6 +18158,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '5 - 7',
+        courier:    true,
         cost:       715
 
       },
@@ -16849,6 +18172,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '3 - 6',
+        courier:    true,
         cost:       1120
 
       },
@@ -16862,6 +18186,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '4 - 7',
+        courier:    true,
         cost:       755
 
       },
@@ -16875,6 +18200,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '3 - 6',
+        courier:    true,
         cost:       1120
 
       },
@@ -16888,6 +18214,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '4 - 7',
+        courier:    true,
         cost:       755
 
       },
@@ -16901,6 +18228,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '4 - 7',
+        courier:    true,
         cost:       755
 
       },
@@ -16914,6 +18242,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '4 - 7',
+        courier:    true,
         cost:       505
 
       },
@@ -16927,6 +18256,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '4 - 7',
+        courier:    true,
         cost:       505
 
       },
@@ -16940,6 +18270,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '4 - 7',
+        courier:    true,
         cost:       505
 
       },
@@ -16953,6 +18284,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '4 - 7',
+        courier:    true,
         cost:       505
 
       },
@@ -16966,6 +18298,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '4 - 7',
+        courier:    true,
         cost:       755
 
       },
@@ -16979,6 +18312,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '4 - 7',
+        courier:    true,
         cost:       575
 
       },
@@ -16992,6 +18326,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '4 - 7',
+        courier:    true,
         cost:       505
 
       },
@@ -17005,6 +18340,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '4 - 7',
+        courier:    true,
         cost:       505
 
       },
@@ -17018,6 +18354,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '4 - 7',
+        courier:    true,
         cost:       575
 
       },
@@ -17031,6 +18368,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '4 - 7',
+        courier:    true,
         cost:       505
 
       },
@@ -17044,6 +18382,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '3 - 4',
+        courier:    true,
         cost:       710
 
       },
@@ -17057,6 +18396,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '4 - 7',
+        courier:    true,
         cost:       755
 
       },
@@ -17070,6 +18410,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '4 - 7',
+        courier:    true,
         cost:       505
 
       },
@@ -17083,6 +18424,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '4 - 7',
+        courier:    true,
         cost:       575
 
       },
@@ -17096,6 +18438,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '4 - 7',
+        courier:    true,
         cost:       575
 
       },
@@ -17109,6 +18452,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '4 - 7',
+        courier:    true,
         cost:       575
 
       },
@@ -17122,6 +18466,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '4 - 7',
+        courier:    true,
         cost:       505
 
       },
@@ -17135,6 +18480,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '4 - 7',
+        courier:    true,
         cost:       575
 
       },
@@ -17148,6 +18494,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '4 - 7',
+        courier:    true,
         cost:       575
 
       },
@@ -17161,6 +18508,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '2 - 4',
+        courier:    true,
         cost:       730
 
       },
@@ -17174,6 +18522,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '4 - 7',
+        courier:    true,
         cost:       505
 
       },
@@ -17187,6 +18536,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '3 - 6',
+        courier:    true,
         cost:       1070
 
       },
@@ -17200,6 +18550,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '3 - 6',
+        courier:    true,
         cost:       1120
 
       },
@@ -17213,6 +18564,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '4 - 7',
+        courier:    true,
         cost:       505
 
       },
@@ -17226,6 +18578,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '4 - 7',
+        courier:    true,
         cost:       505
 
       },
@@ -17239,6 +18592,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '4 - 7',
+        courier:    true,
         cost:       575
 
       },
@@ -17252,6 +18606,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '4 - 7',
+        courier:    true,
         cost:       505
 
       },
@@ -17265,6 +18620,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '4 - 7',
+        courier:    true,
         cost:       575
 
       },
@@ -17278,6 +18634,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '4 - 7',
+        courier:    true,
         cost:       755
 
       },
@@ -17291,6 +18648,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '4 - 7',
+        courier:    true,
         cost:       575
 
       },
@@ -17304,6 +18662,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '5 - 9',
+        courier:    true,
         cost:       625
 
       },
@@ -17317,6 +18676,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '4 - 7',
+        courier:    true,
         cost:       575
 
       },
@@ -17330,6 +18690,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '4 - 7',
+        courier:    true,
         cost:       505
 
       },
@@ -17343,6 +18704,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '4 - 7',
+        courier:    true,
         cost:       575
 
       },
@@ -17356,6 +18718,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '4 - 7',
+        courier:    true,
         cost:       505
 
       },
@@ -17369,6 +18732,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '4 - 7',
+        courier:    true,
         cost:       755
 
       },
@@ -17382,6 +18746,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '4 - 7',
+        courier:    true,
         cost:       575
 
       },
@@ -17395,6 +18760,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '4 - 7',
+        courier:    true,
         cost:       575
 
       },
@@ -17408,6 +18774,7 @@ module CdekApi
         phone:      '88005551291',
         work_time:  'пн.-пт. 9-18',
         delivery:   '4 - 6',
+        courier:    false,
         cost:       405
 
       },
@@ -17421,6 +18788,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '4 - 7',
+        courier:    true,
         cost:       505
 
       },
@@ -17434,6 +18802,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '4 - 7',
+        courier:    true,
         cost:       575
 
       },
@@ -17447,6 +18816,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '4 - 7',
+        courier:    true,
         cost:       755
 
       },
@@ -17460,6 +18830,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '4 - 7',
+        courier:    true,
         cost:       755
 
       },
@@ -17473,6 +18844,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '4 - 7',
+        courier:    true,
         cost:       505
 
       },
@@ -17486,6 +18858,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '4 - 7',
+        courier:    true,
         cost:       505
 
       },
@@ -17499,6 +18872,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '3 - 6',
+        courier:    true,
         cost:       1120
 
       },
@@ -17512,6 +18886,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '4 - 7',
+        courier:    true,
         cost:       575
 
       },
@@ -17525,6 +18900,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '4 - 7',
+        courier:    true,
         cost:       505
 
       },
@@ -17538,6 +18914,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '4 - 7',
+        courier:    true,
         cost:       505
 
       },
@@ -17551,6 +18928,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '4 - 7',
+        courier:    true,
         cost:       505
 
       },
@@ -17564,6 +18942,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '4 - 7',
+        courier:    true,
         cost:       575
 
       },
@@ -17577,6 +18956,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '4 - 7',
+        courier:    true,
         cost:       575
 
       },
@@ -17590,6 +18970,7 @@ module CdekApi
         phone:      '+7 (498) 505-6546',
         work_time:  'пн.-пт. 10-18, сб. вс.- выходной',
         delivery:   '4 - 6',
+        courier:    false,
         cost:       405
 
       },
@@ -17603,6 +18984,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '3 - 4',
+        courier:    true,
         cost:       710
 
       },
@@ -17616,6 +18998,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '4 - 7',
+        courier:    true,
         cost:       575
 
       },
@@ -17629,6 +19012,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '4 - 7',
+        courier:    true,
         cost:       505
 
       },
@@ -17642,6 +19026,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '4 - 7',
+        courier:    true,
         cost:       575
 
       },
@@ -17655,6 +19040,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '4 - 7',
+        courier:    true,
         cost:       755
 
       },
@@ -17668,6 +19054,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '4 - 7',
+        courier:    true,
         cost:       575
 
       },
@@ -17681,6 +19068,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '4 - 7',
+        courier:    true,
         cost:       755
 
       },
@@ -17694,6 +19082,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '4 - 7',
+        courier:    true,
         cost:       575
 
       },
@@ -17707,6 +19096,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '4 - 7',
+        courier:    true,
         cost:       505
 
       },
@@ -17720,6 +19110,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '4 - 7',
+        courier:    true,
         cost:       755
 
       },
@@ -17733,6 +19124,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '4 - 7',
+        courier:    true,
         cost:       575
 
       },
@@ -17746,6 +19138,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '3 - 6',
+        courier:    true,
         cost:       1040
 
       },
@@ -17759,6 +19152,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '4 - 7',
+        courier:    true,
         cost:       575
 
       },
@@ -17772,6 +19166,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '3 - 6',
+        courier:    true,
         cost:       1120
 
       },
@@ -17785,6 +19180,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '4 - 7',
+        courier:    true,
         cost:       505
 
       },
@@ -17798,6 +19194,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '4 - 7',
+        courier:    true,
         cost:       755
 
       },
@@ -17811,6 +19208,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '4 - 7',
+        courier:    true,
         cost:       575
 
       },
@@ -17824,6 +19222,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '4 - 7',
+        courier:    true,
         cost:       505
 
       },
@@ -17837,6 +19236,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '5 - 9',
+        courier:    true,
         cost:       625
 
       },
@@ -17850,6 +19250,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '2 - 4',
+        courier:    true,
         cost:       730
 
       },
@@ -17863,6 +19264,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '4 - 7',
+        courier:    true,
         cost:       755
 
       },
@@ -17876,6 +19278,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '4 - 7',
+        courier:    true,
         cost:       505
 
       },
@@ -17889,6 +19292,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '4 - 7',
+        courier:    true,
         cost:       575
 
       },
@@ -17902,6 +19306,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '4 - 7',
+        courier:    true,
         cost:       755
 
       },
@@ -17915,6 +19320,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '4 - 7',
+        courier:    true,
         cost:       575
 
       },
@@ -17928,6 +19334,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '4 - 7',
+        courier:    true,
         cost:       755
 
       },
@@ -17941,6 +19348,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '5 - 8',
+        courier:    true,
         cost:       675
 
       },
@@ -17954,6 +19362,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '4 - 7',
+        courier:    true,
         cost:       505
 
       },
@@ -17967,6 +19376,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '4 - 7',
+        courier:    true,
         cost:       575
 
       },
@@ -17980,6 +19390,7 @@ module CdekApi
         phone:      '(495) 744-93-03',
         work_time:  'пн.-пт. 09 -18',
         delivery:   '4 - 6',
+        courier:    false,
         cost:       405
 
       },
@@ -17993,6 +19404,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '4 - 7',
+        courier:    true,
         cost:       575
 
       },
@@ -18006,6 +19418,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '4 - 7',
+        courier:    true,
         cost:       755
 
       },
@@ -18019,6 +19432,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '4 - 7',
+        courier:    true,
         cost:       505
 
       },
@@ -18032,6 +19446,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '3 - 6',
+        courier:    true,
         cost:       1040
 
       },
@@ -18045,6 +19460,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '4 - 8',
+        courier:    true,
         cost:       525
 
       },
@@ -18058,6 +19474,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '3 - 6',
+        courier:    true,
         cost:       1040
 
       },
@@ -18071,6 +19488,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '4 - 7',
+        courier:    true,
         cost:       575
 
       },
@@ -18084,6 +19502,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '4 - 7',
+        courier:    true,
         cost:       505
 
       },
@@ -18097,6 +19516,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '4 - 7',
+        courier:    true,
         cost:       505
 
       },
@@ -18110,6 +19530,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '3 - 6',
+        courier:    true,
         cost:       1040
 
       },
@@ -18123,6 +19544,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '4 - 7',
+        courier:    true,
         cost:       505
 
       },
@@ -18136,6 +19558,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '3 - 6',
+        courier:    true,
         cost:       1040
 
       },
@@ -18149,6 +19572,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '4 - 7',
+        courier:    true,
         cost:       575
 
       },
@@ -18162,6 +19586,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '4 - 7',
+        courier:    true,
         cost:       505
 
       },
@@ -18175,6 +19600,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '4 - 7',
+        courier:    true,
         cost:       505
 
       },
@@ -18188,6 +19614,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '4 - 7',
+        courier:    true,
         cost:       755
 
       },
@@ -18201,6 +19628,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '4 - 7',
+        courier:    true,
         cost:       755
 
       },
@@ -18214,6 +19642,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '4 - 7',
+        courier:    true,
         cost:       755
 
       },
@@ -18227,6 +19656,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '4 - 7',
+        courier:    true,
         cost:       575
 
       },
@@ -18240,6 +19670,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '4 - 7',
+        courier:    true,
         cost:       505
 
       },
@@ -18253,6 +19684,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '4 - 7',
+        courier:    true,
         cost:       575
 
       },
@@ -18266,6 +19698,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '4 - 7',
+        courier:    true,
         cost:       505
 
       },
@@ -18279,6 +19712,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '4 - 7',
+        courier:    true,
         cost:       505
 
       },
@@ -18292,6 +19726,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '4 - 7',
+        courier:    true,
         cost:       505
 
       },
@@ -18305,6 +19740,7 @@ module CdekApi
         phone:      '(498) 301-09-01;(495) 786-42-48',
         work_time:  'пн.-пт. 9-18',
         delivery:   '4 - 6',
+        courier:    false,
         cost:       405
 
       },
@@ -18318,6 +19754,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '3 - 6',
+        courier:    true,
         cost:       1040
 
       },
@@ -18331,6 +19768,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '4 - 7',
+        courier:    true,
         cost:       755
 
       },
@@ -18344,6 +19782,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '3 - 6',
+        courier:    true,
         cost:       1120
 
       },
@@ -18357,6 +19796,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '4 - 7',
+        courier:    true,
         cost:       495
 
       },
@@ -18370,6 +19810,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '4 - 7',
+        courier:    true,
         cost:       505
 
       },
@@ -18383,6 +19824,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '4 - 7',
+        courier:    true,
         cost:       505
 
       },
@@ -18396,6 +19838,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '4 - 7',
+        courier:    true,
         cost:       505
 
       },
@@ -18409,6 +19852,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '4 - 7',
+        courier:    true,
         cost:       505
 
       },
@@ -18422,6 +19866,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '3 - 6',
+        courier:    true,
         cost:       1120
 
       },
@@ -18435,6 +19880,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '4 - 7',
+        courier:    true,
         cost:       575
 
       },
@@ -18448,6 +19894,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '3 - 6',
+        courier:    true,
         cost:       1040
 
       },
@@ -18461,6 +19908,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '4 - 7',
+        courier:    true,
         cost:       575
 
       },
@@ -18474,6 +19922,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '3 - 6',
+        courier:    true,
         cost:       1120
 
       },
@@ -18487,6 +19936,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '4 - 7',
+        courier:    true,
         cost:       755
 
       },
@@ -18500,6 +19950,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '4 - 7',
+        courier:    true,
         cost:       575
 
       },
@@ -18513,6 +19964,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '5 - 7',
+        courier:    true,
         cost:       520
 
       },
@@ -18526,6 +19978,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '4 - 7',
+        courier:    true,
         cost:       505
 
       },
@@ -18539,6 +19992,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '4 - 7',
+        courier:    true,
         cost:       755
 
       },
@@ -18552,6 +20006,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '4 - 7',
+        courier:    true,
         cost:       755
 
       },
@@ -18565,6 +20020,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '4 - 7',
+        courier:    true,
         cost:       505
 
       },
@@ -18578,6 +20034,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '4 - 7',
+        courier:    true,
         cost:       495
 
       },
@@ -18591,6 +20048,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '4 - 7',
+        courier:    true,
         cost:       755
 
       },
@@ -18604,6 +20062,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '4 - 7',
+        courier:    true,
         cost:       505
 
       },
@@ -18617,6 +20076,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '4 - 7',
+        courier:    true,
         cost:       505
 
       },
@@ -18630,6 +20090,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '4 - 7',
+        courier:    true,
         cost:       575
 
       },
@@ -18643,6 +20104,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '4 - 7',
+        courier:    true,
         cost:       505
 
       },
@@ -18656,6 +20118,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '3 - 6',
+        courier:    true,
         cost:       1040
 
       },
@@ -18669,6 +20132,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '4 - 7',
+        courier:    true,
         cost:       505
 
       },
@@ -18682,6 +20146,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '3 - 4',
+        courier:    true,
         cost:       710
 
       },
@@ -18695,6 +20160,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '3 - 6',
+        courier:    true,
         cost:       1040
 
       },
@@ -18708,6 +20174,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '4 - 7',
+        courier:    true,
         cost:       755
 
       },
@@ -18721,6 +20188,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '4 - 7',
+        courier:    true,
         cost:       505
 
       },
@@ -18734,6 +20202,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '4 - 7',
+        courier:    true,
         cost:       575
 
       },
@@ -18747,6 +20216,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '3 - 6',
+        courier:    true,
         cost:       1120
 
       },
@@ -18760,6 +20230,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '4 - 7',
+        courier:    true,
         cost:       505
 
       },
@@ -18773,6 +20244,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '3 - 6',
+        courier:    true,
         cost:       1040
 
       },
@@ -18786,6 +20258,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '4 - 7',
+        courier:    true,
         cost:       575
 
       },
@@ -18799,6 +20272,7 @@ module CdekApi
         phone:      '(4967)52-65-32',
         work_time:  'пн.-пт. 9-18, сб. 10-14',
         delivery:   '4 - 7',
+        courier:    true,
         cost:       505
 
       },
@@ -18812,6 +20286,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '3 - 6',
+        courier:    true,
         cost:       1040
 
       },
@@ -18825,6 +20300,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '3 - 6',
+        courier:    true,
         cost:       1040
 
       },
@@ -18838,6 +20314,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '4 - 7',
+        courier:    true,
         cost:       505
 
       },
@@ -18851,6 +20328,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '3 - 6',
+        courier:    true,
         cost:       1040
 
       },
@@ -18864,6 +20342,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '4 - 7',
+        courier:    true,
         cost:       755
 
       },
@@ -18877,6 +20356,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '4 - 7',
+        courier:    true,
         cost:       755
 
       },
@@ -18890,6 +20370,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '2 - 4',
+        courier:    true,
         cost:       910
 
       },
@@ -18903,6 +20384,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '4 - 7',
+        courier:    true,
         cost:       505
 
       },
@@ -18916,6 +20398,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '4 - 7',
+        courier:    true,
         cost:       505
 
       },
@@ -18929,6 +20412,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '4 - 7',
+        courier:    true,
         cost:       505
 
       },
@@ -18942,6 +20426,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '4 - 7',
+        courier:    true,
         cost:       755
 
       },
@@ -18955,6 +20440,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '4 - 7',
+        courier:    true,
         cost:       505
 
       },
@@ -18968,6 +20454,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '4 - 7',
+        courier:    true,
         cost:       575
 
       },
@@ -18981,6 +20468,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '4 - 7',
+        courier:    true,
         cost:       575
 
       },
@@ -18994,6 +20482,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '4 - 7',
+        courier:    true,
         cost:       575
 
       },
@@ -19007,6 +20496,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '4 - 7',
+        courier:    true,
         cost:       505
 
       },
@@ -19020,6 +20510,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '4 - 7',
+        courier:    true,
         cost:       755
 
       },
@@ -19033,6 +20524,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '3 - 6',
+        courier:    true,
         cost:       1040
 
       },
@@ -19046,6 +20538,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '4 - 7',
+        courier:    true,
         cost:       575
 
       },
@@ -19059,6 +20552,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '3 - 6',
+        courier:    true,
         cost:       1070
 
       },
@@ -19072,6 +20566,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '4 - 7',
+        courier:    true,
         cost:       505
 
       },
@@ -19085,6 +20580,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '4 - 7',
+        courier:    true,
         cost:       505
 
       },
@@ -19098,6 +20594,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '4 - 7',
+        courier:    true,
         cost:       755
 
       },
@@ -19111,6 +20608,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '4 - 7',
+        courier:    true,
         cost:       755
 
       },
@@ -19124,6 +20622,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '4 - 7',
+        courier:    true,
         cost:       505
 
       },
@@ -19137,6 +20636,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '2 - 4',
+        courier:    true,
         cost:       580
 
       },
@@ -19150,6 +20650,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '4 - 7',
+        courier:    true,
         cost:       755
 
       },
@@ -19163,6 +20664,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '4 - 7',
+        courier:    true,
         cost:       575
 
       },
@@ -19176,6 +20678,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '3 - 6',
+        courier:    true,
         cost:       1040
 
       },
@@ -19189,6 +20692,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '4 - 7',
+        courier:    true,
         cost:       575
 
       },
@@ -19202,6 +20706,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '3 - 4',
+        courier:    true,
         cost:       710
 
       },
@@ -19215,6 +20720,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '4 - 7',
+        courier:    true,
         cost:       755
 
       },
@@ -19228,6 +20734,7 @@ module CdekApi
         phone:      '(4967) 38-17-10',
         work_time:  'пн.-пт. 9-18, сб. 11-14',
         delivery:   '4 - 6',
+        courier:    false,
         cost:       405
 
       },
@@ -19241,6 +20748,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '3 - 4',
+        courier:    true,
         cost:       710
 
       },
@@ -19254,6 +20762,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '3 - 6',
+        courier:    true,
         cost:       1120
 
       },
@@ -19267,6 +20776,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '3 - 6',
+        courier:    true,
         cost:       1090
 
       },
@@ -19280,6 +20790,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '4 - 7',
+        courier:    true,
         cost:       575
 
       },
@@ -19293,6 +20804,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '5 - 9',
+        courier:    true,
         cost:       895
 
       },
@@ -19306,6 +20818,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '4 - 7',
+        courier:    true,
         cost:       505
 
       },
@@ -19319,6 +20832,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '4 - 7',
+        courier:    true,
         cost:       505
 
       },
@@ -19332,6 +20846,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '4 - 7',
+        courier:    true,
         cost:       755
 
       },
@@ -19345,6 +20860,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '4 - 7',
+        courier:    true,
         cost:       575
 
       },
@@ -19358,6 +20874,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '4 - 7',
+        courier:    true,
         cost:       755
 
       },
@@ -19371,6 +20888,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '4 - 7',
+        courier:    true,
         cost:       505
 
       },
@@ -19384,6 +20902,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '4 - 7',
+        courier:    true,
         cost:       755
 
       },
@@ -19397,6 +20916,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '4 - 7',
+        courier:    true,
         cost:       505
 
       },
@@ -19410,6 +20930,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '4 - 7',
+        courier:    true,
         cost:       575
 
       },
@@ -19423,6 +20944,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '3 - 6',
+        courier:    true,
         cost:       1040
 
       },
@@ -19436,6 +20958,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '2 - 4',
+        courier:    true,
         cost:       660
 
       },
@@ -19449,6 +20972,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '4 - 7',
+        courier:    true,
         cost:       755
 
       },
@@ -19462,6 +20986,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '4 - 7',
+        courier:    true,
         cost:       755
 
       },
@@ -19475,6 +21000,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '6 - 10',
+        courier:    true,
         cost:       875
 
       },
@@ -19488,6 +21014,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '4 - 7',
+        courier:    true,
         cost:       755
 
       },
@@ -19501,6 +21028,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '3 - 4',
+        courier:    true,
         cost:       710
 
       },
@@ -19514,6 +21042,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '4 - 7',
+        courier:    true,
         cost:       505
 
       },
@@ -19527,6 +21056,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '4 - 7',
+        courier:    true,
         cost:       505
 
       },
@@ -19540,6 +21070,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '4 - 7',
+        courier:    true,
         cost:       505
 
       },
@@ -19553,6 +21084,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '4 - 7',
+        courier:    true,
         cost:       755
 
       },
@@ -19566,6 +21098,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '3 - 6',
+        courier:    true,
         cost:       1120
 
       },
@@ -19579,6 +21112,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '4 - 7',
+        courier:    true,
         cost:       755
 
       },
@@ -19592,6 +21126,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '4 - 7',
+        courier:    true,
         cost:       755
 
       },
@@ -19605,6 +21140,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '4 - 7',
+        courier:    true,
         cost:       505
 
       },
@@ -19618,6 +21154,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '4 - 7',
+        courier:    true,
         cost:       505
 
       },
@@ -19631,6 +21168,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '4 - 7',
+        courier:    true,
         cost:       505
 
       },
@@ -19644,6 +21182,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '3 - 6',
+        courier:    true,
         cost:       1040
 
       },
@@ -19657,6 +21196,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '4 - 7',
+        courier:    true,
         cost:       575
 
       },
@@ -19670,6 +21210,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '4 - 7',
+        courier:    true,
         cost:       755
 
       },
@@ -19683,6 +21224,7 @@ module CdekApi
         phone:      '8-925-240-27-50, 8-916-565-55-83',
         work_time:  'пн.-пт. 09.30-18.30, сб. 10.00-14.00',
         delivery:   '4 - 6',
+        courier:    false,
         cost:       405
 
       },
@@ -19696,6 +21238,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '3 - 6',
+        courier:    true,
         cost:       1120
 
       },
@@ -19709,6 +21252,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '4 - 7',
+        courier:    true,
         cost:       755
 
       },
@@ -19722,6 +21266,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '3 - 4',
+        courier:    true,
         cost:       710
 
       },
@@ -19735,6 +21280,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '3 - 6',
+        courier:    true,
         cost:       1040
 
       },
@@ -19748,6 +21294,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '4 - 7',
+        courier:    true,
         cost:       575
 
       },
@@ -19761,6 +21308,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '4 - 7',
+        courier:    true,
         cost:       505
 
       },
@@ -19774,6 +21322,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '4 - 7',
+        courier:    true,
         cost:       755
 
       },
@@ -19787,6 +21336,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '4 - 7',
+        courier:    true,
         cost:       505
 
       },
@@ -19800,6 +21350,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '4 - 7',
+        courier:    true,
         cost:       505
 
       },
@@ -19813,6 +21364,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '4 - 7',
+        courier:    true,
         cost:       755
 
       },
@@ -19826,6 +21378,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '4 - 7',
+        courier:    true,
         cost:       755
 
       },
@@ -19839,6 +21392,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '4 - 7',
+        courier:    true,
         cost:       755
 
       },
@@ -19852,6 +21406,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '4 - 7',
+        courier:    true,
         cost:       540
 
       },
@@ -19865,6 +21420,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '4 - 7',
+        courier:    true,
         cost:       755
 
       },
@@ -19878,6 +21434,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '4 - 7',
+        courier:    true,
         cost:       755
 
       },
@@ -19891,6 +21448,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '4 - 7',
+        courier:    true,
         cost:       755
 
       },
@@ -19904,6 +21462,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '4 - 8',
+        courier:    true,
         cost:       795
 
       },
@@ -19917,6 +21476,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '4 - 7',
+        courier:    true,
         cost:       575
 
       },
@@ -19930,6 +21490,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '2 - 4',
+        courier:    true,
         cost:       910
 
       },
@@ -19943,6 +21504,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '4 - 7',
+        courier:    true,
         cost:       755
 
       },
@@ -19956,6 +21518,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '4 - 7',
+        courier:    true,
         cost:       755
 
       },
@@ -19969,6 +21532,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '3 - 6',
+        courier:    true,
         cost:       1070
 
       },
@@ -19982,6 +21546,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '4 - 7',
+        courier:    true,
         cost:       505
 
       },
@@ -19995,6 +21560,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '3 - 6',
+        courier:    true,
         cost:       1040
 
       },
@@ -20008,6 +21574,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '4 - 7',
+        courier:    true,
         cost:       505
 
       },
@@ -20021,6 +21588,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '4 - 7',
+        courier:    true,
         cost:       505
 
       },
@@ -20034,6 +21602,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '4 - 7',
+        courier:    true,
         cost:       505
 
       },
@@ -20047,6 +21616,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '4 - 7',
+        courier:    true,
         cost:       755
 
       },
@@ -20060,6 +21630,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '4 - 7',
+        courier:    true,
         cost:       575
 
       },
@@ -20073,6 +21644,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '4 - 7',
+        courier:    true,
         cost:       505
 
       },
@@ -20086,6 +21658,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '4 - 7',
+        courier:    true,
         cost:       505
 
       },
@@ -20099,6 +21672,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '4 - 7',
+        courier:    true,
         cost:       505
 
       },
@@ -20112,6 +21686,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '3 - 6',
+        courier:    true,
         cost:       1040
 
       },
@@ -20125,6 +21700,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '3 - 4',
+        courier:    true,
         cost:       710
 
       },
@@ -20138,6 +21714,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '6 - 9',
+        courier:    true,
         cost:       1505
 
       },
@@ -20151,6 +21728,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '9 - 12',
+        courier:    true,
         cost:       1755
 
       },
@@ -20164,6 +21742,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '9 - 12',
+        courier:    true,
         cost:       1755
 
       },
@@ -20177,6 +21756,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '9 - 12',
+        courier:    true,
         cost:       1630
 
       },
@@ -20190,6 +21770,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '9 - 12',
+        courier:    true,
         cost:       1630
 
       },
@@ -20203,6 +21784,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '9 - 12',
+        courier:    true,
         cost:       1755
 
       },
@@ -20216,6 +21798,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '6 - 9',
+        courier:    true,
         cost:       1505
 
       },
@@ -20229,6 +21812,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '9 - 12',
+        courier:    true,
         cost:       1755
 
       },
@@ -20242,6 +21826,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '6 - 9',
+        courier:    true,
         cost:       1505
 
       },
@@ -20255,6 +21840,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '9 - 12',
+        courier:    true,
         cost:       1755
 
       },
@@ -20268,6 +21854,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '9 - 12',
+        courier:    true,
         cost:       1755
 
       },
@@ -20281,6 +21868,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '6 - 9',
+        courier:    true,
         cost:       1505
 
       },
@@ -20294,6 +21882,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '6 - 9',
+        courier:    true,
         cost:       1505
 
       },
@@ -20307,6 +21896,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '9 - 12',
+        courier:    true,
         cost:       1755
 
       },
@@ -20320,6 +21910,7 @@ module CdekApi
         phone:      '(8152)701-781, 701-957',
         work_time:  'пн.-пт. 9-18',
         delivery:   '5 - 7',
+        courier:    false,
         cost:       415
 
       },
@@ -20333,6 +21924,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '6 - 9',
+        courier:    true,
         cost:       1505
 
       },
@@ -20346,6 +21938,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '9 - 12',
+        courier:    true,
         cost:       1755
 
       },
@@ -20359,6 +21952,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '9 - 12',
+        courier:    true,
         cost:       1630
 
       },
@@ -20372,6 +21966,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '9 - 12',
+        courier:    true,
         cost:       1755
 
       },
@@ -20385,6 +21980,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '9 - 12',
+        courier:    true,
         cost:       1755
 
       },
@@ -20398,6 +21994,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '9 - 12',
+        courier:    true,
         cost:       1630
 
       },
@@ -20411,6 +22008,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '9 - 12',
+        courier:    true,
         cost:       1630
 
       },
@@ -20424,6 +22022,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '9 - 12',
+        courier:    true,
         cost:       1630
 
       },
@@ -20437,6 +22036,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '6 - 9',
+        courier:    true,
         cost:       1630
 
       },
@@ -20450,6 +22050,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '9 - 12',
+        courier:    true,
         cost:       1630
 
       },
@@ -20463,6 +22064,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '9 - 12',
+        courier:    true,
         cost:       1630
 
       },
@@ -20476,6 +22078,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '9 - 14',
+        courier:    true,
         cost:       1460
 
       },
@@ -20489,6 +22092,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '7 - 9',
+        courier:    true,
         cost:       1090
 
       },
@@ -20502,6 +22106,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '7 - 10',
+        courier:    true,
         cost:       1495
 
       },
@@ -20515,6 +22120,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '7 - 10',
+        courier:    true,
         cost:       1080
 
       },
@@ -20528,6 +22134,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '7 - 10',
+        courier:    true,
         cost:       1855
 
       },
@@ -20541,6 +22148,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '5 - 8',
+        courier:    true,
         cost:       755
 
       },
@@ -20554,6 +22162,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '5 - 8',
+        courier:    true,
         cost:       755
 
       },
@@ -20567,6 +22176,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '5 - 7',
+        courier:    true,
         cost:       1515
 
       },
@@ -20580,6 +22190,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '6 - 9',
+        courier:    true,
         cost:       1005
 
       },
@@ -20593,6 +22204,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '4 - 6',
+        courier:    true,
         cost:       1190
 
       },
@@ -20606,6 +22218,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '7 - 10',
+        courier:    true,
         cost:       1855
 
       },
@@ -20619,6 +22232,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '6 - 9',
+        courier:    true,
         cost:       755
 
       },
@@ -20632,6 +22246,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '7 - 10',
+        courier:    true,
         cost:       1080
 
       },
@@ -20645,6 +22260,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '7 - 10',
+        courier:    true,
         cost:       755
 
       },
@@ -20658,6 +22274,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '7 - 10',
+        courier:    true,
         cost:       1280
 
       },
@@ -20671,6 +22288,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '7 - 10',
+        courier:    true,
         cost:       1080
 
       },
@@ -20684,6 +22302,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '7 - 10',
+        courier:    true,
         cost:       1495
 
       },
@@ -20697,6 +22316,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '7 - 10',
+        courier:    true,
         cost:       1495
 
       },
@@ -20710,6 +22330,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '7 - 10',
+        courier:    true,
         cost:       1855
 
       },
@@ -20723,6 +22344,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '7 - 10',
+        courier:    true,
         cost:       1080
 
       },
@@ -20736,6 +22358,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '7 - 10',
+        courier:    true,
         cost:       1855
 
       },
@@ -20749,6 +22372,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '7 - 10',
+        courier:    true,
         cost:       1495
 
       },
@@ -20762,6 +22386,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '7 - 10',
+        courier:    true,
         cost:       1495
 
       },
@@ -20775,6 +22400,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '7 - 10',
+        courier:    true,
         cost:       1855
 
       },
@@ -20788,6 +22414,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '7 - 10',
+        courier:    true,
         cost:       1005
 
       },
@@ -20801,6 +22428,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '7 - 10',
+        courier:    true,
         cost:       1280
 
       },
@@ -20814,6 +22442,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '7 - 10',
+        courier:    true,
         cost:       1080
 
       },
@@ -20827,6 +22456,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '7 - 10',
+        courier:    true,
         cost:       1280
 
       },
@@ -20840,6 +22470,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '7 - 10',
+        courier:    true,
         cost:       1080
 
       },
@@ -20853,6 +22484,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '7 - 10',
+        courier:    true,
         cost:       1495
 
       },
@@ -20866,6 +22498,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '5 - 7',
+        courier:    true,
         cost:       1930
 
       },
@@ -20879,6 +22512,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '6 - 9',
+        courier:    true,
         cost:       755
 
       },
@@ -20892,6 +22526,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '7 - 10',
+        courier:    true,
         cost:       1080
 
       },
@@ -20905,6 +22540,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '7 - 10',
+        courier:    true,
         cost:       1005
 
       },
@@ -20918,6 +22554,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '7 - 10',
+        courier:    true,
         cost:       1080
 
       },
@@ -20931,6 +22568,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '6 - 9',
+        courier:    true,
         cost:       755
 
       },
@@ -20944,6 +22582,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '7 - 10',
+        courier:    true,
         cost:       1495
 
       },
@@ -20957,6 +22596,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '3 - 5',
+        courier:    true,
         cost:       1190
 
       },
@@ -20970,6 +22610,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '5 - 8',
+        courier:    true,
         cost:       755
 
       },
@@ -20983,6 +22624,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '5 - 7',
+        courier:    true,
         cost:       1440
 
       },
@@ -20996,6 +22638,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '7 - 10',
+        courier:    true,
         cost:       1005
 
       },
@@ -21009,6 +22652,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '6 - 9',
+        courier:    true,
         cost:       755
 
       },
@@ -21022,6 +22666,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '5 - 7',
+        courier:    true,
         cost:       1440
 
       },
@@ -21035,6 +22680,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '7 - 10',
+        courier:    true,
         cost:       1080
 
       },
@@ -21048,6 +22694,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '7 - 10',
+        courier:    true,
         cost:       1495
 
       },
@@ -21061,6 +22708,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '7 - 10',
+        courier:    true,
         cost:       1080
 
       },
@@ -21074,6 +22722,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '7 - 10',
+        courier:    true,
         cost:       1080
 
       },
@@ -21087,6 +22736,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '7 - 10',
+        courier:    true,
         cost:       1280
 
       },
@@ -21100,6 +22750,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '6 - 9',
+        courier:    true,
         cost:       755
 
       },
@@ -21113,6 +22764,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '3 - 5',
+        courier:    true,
         cost:       1190
 
       },
@@ -21126,6 +22778,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '7 - 10',
+        courier:    true,
         cost:       1495
 
       },
@@ -21139,6 +22792,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '7 - 10',
+        courier:    true,
         cost:       1495
 
       },
@@ -21152,6 +22806,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '7 - 10',
+        courier:    true,
         cost:       1495
 
       },
@@ -21165,6 +22820,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '7 - 10',
+        courier:    true,
         cost:       1080
 
       },
@@ -21178,6 +22834,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '6 - 9',
+        courier:    true,
         cost:       755
 
       },
@@ -21191,6 +22848,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '7 - 10',
+        courier:    true,
         cost:       1495
 
       },
@@ -21204,6 +22862,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '7 - 10',
+        courier:    true,
         cost:       1495
 
       },
@@ -21217,6 +22876,7 @@ module CdekApi
         phone:      '',
         work_time:  'пн.-пт. 9-18, сб. 10-14',
         delivery:   '4 - 6',
+        courier:    false,
         cost:       335
 
       },
@@ -21230,6 +22890,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '5 - 7',
+        courier:    true,
         cost:       1515
 
       },
@@ -21243,6 +22904,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '3 - 5',
+        courier:    true,
         cost:       1190
 
       },
@@ -21256,6 +22918,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '7 - 10',
+        courier:    true,
         cost:       1080
 
       },
@@ -21269,6 +22932,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '6 - 9',
+        courier:    true,
         cost:       755
 
       },
@@ -21282,6 +22946,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '7 - 10',
+        courier:    true,
         cost:       1495
 
       },
@@ -21295,6 +22960,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '7 - 10',
+        courier:    true,
         cost:       1080
 
       },
@@ -21308,6 +22974,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '7 - 10',
+        courier:    true,
         cost:       1855
 
       },
@@ -21321,6 +22988,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '7 - 10',
+        courier:    true,
         cost:       1495
 
       },
@@ -21334,6 +23002,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '3 - 5',
+        courier:    true,
         cost:       1190
 
       },
@@ -21347,6 +23016,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '7 - 10',
+        courier:    true,
         cost:       1005
 
       },
@@ -21360,6 +23030,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '7 - 10',
+        courier:    true,
         cost:       1005
 
       },
@@ -21373,6 +23044,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '5 - 7',
+        courier:    true,
         cost:       1190
 
       },
@@ -21386,6 +23058,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '7 - 10',
+        courier:    true,
         cost:       1495
 
       },
@@ -21399,6 +23072,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '7 - 10',
+        courier:    true,
         cost:       1495
 
       },
@@ -21412,6 +23086,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '7 - 10',
+        courier:    true,
         cost:       1080
 
       },
@@ -21425,6 +23100,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '7 - 10',
+        courier:    true,
         cost:       1495
 
       },
@@ -21438,6 +23114,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '5 - 7',
+        courier:    true,
         cost:       1515
 
       },
@@ -21451,6 +23128,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '7 - 10',
+        courier:    true,
         cost:       1005
 
       },
@@ -21464,6 +23142,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '7 - 10',
+        courier:    true,
         cost:       1280
 
       },
@@ -21477,6 +23156,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '3 - 5',
+        courier:    true,
         cost:       1190
 
       },
@@ -21490,6 +23170,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '7 - 10',
+        courier:    true,
         cost:       1080
 
       },
@@ -21503,6 +23184,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '5 - 7',
+        courier:    true,
         cost:       1190
 
       },
@@ -21516,6 +23198,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '7 - 10',
+        courier:    true,
         cost:       1280
 
       },
@@ -21529,6 +23212,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '7 - 10',
+        courier:    true,
         cost:       1855
 
       },
@@ -21542,6 +23226,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '7 - 10',
+        courier:    true,
         cost:       1855
 
       },
@@ -21555,6 +23240,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '7 - 10',
+        courier:    true,
         cost:       1855
 
       },
@@ -21568,6 +23254,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '7 - 10',
+        courier:    true,
         cost:       1080
 
       },
@@ -21581,6 +23268,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '4 - 6',
+        courier:    true,
         cost:       1180
 
       },
@@ -21594,6 +23282,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '7 - 10',
+        courier:    true,
         cost:       1855
 
       },
@@ -21607,6 +23296,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '4 - 6',
+        courier:    true,
         cost:       1190
 
       },
@@ -21620,6 +23310,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '3 - 5',
+        courier:    true,
         cost:       1190
 
       },
@@ -21633,6 +23324,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '7 - 10',
+        courier:    true,
         cost:       1080
 
       },
@@ -21646,6 +23338,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '7 - 10',
+        courier:    true,
         cost:       1855
 
       },
@@ -21659,6 +23352,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '7 - 10',
+        courier:    true,
         cost:       1280
 
       },
@@ -21672,6 +23366,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '7 - 10',
+        courier:    true,
         cost:       1855
 
       },
@@ -21685,6 +23380,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '7 - 10',
+        courier:    true,
         cost:       1005
 
       },
@@ -21698,6 +23394,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '5 - 7',
+        courier:    true,
         cost:       1300
 
       },
@@ -21711,6 +23408,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '5 - 7',
+        courier:    true,
         cost:       1300
 
       },
@@ -21724,6 +23422,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '5 - 7',
+        courier:    true,
         cost:       1300
 
       },
@@ -21737,6 +23436,7 @@ module CdekApi
         phone:      '(8162) 22-44-40',
         work_time:  'пн.-пт. 9-18',
         delivery:   '4 - 6',
+        courier:    false,
         cost:       335
 
       },
@@ -21750,6 +23450,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '5 - 7',
+        courier:    true,
         cost:       1300
 
       },
@@ -21763,6 +23464,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '5 - 7',
+        courier:    true,
         cost:       1300
 
       },
@@ -21776,6 +23478,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '5 - 7',
+        courier:    true,
         cost:       1300
 
       },
@@ -21789,6 +23492,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '5 - 7',
+        courier:    true,
         cost:       1300
 
       },
@@ -21802,6 +23506,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '5 - 7',
+        courier:    true,
         cost:       1300
 
       },
@@ -21815,6 +23520,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '5 - 7',
+        courier:    true,
         cost:       1300
 
       },
@@ -21828,6 +23534,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '5 - 7',
+        courier:    true,
         cost:       1300
 
       },
@@ -21841,6 +23548,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '5 - 7',
+        courier:    true,
         cost:       1300
 
       },
@@ -21854,6 +23562,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '5 - 7',
+        courier:    true,
         cost:       1300
 
       },
@@ -21867,6 +23576,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '5 - 7',
+        courier:    true,
         cost:       1300
 
       },
@@ -21880,6 +23590,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '5 - 7',
+        courier:    true,
         cost:       1300
 
       },
@@ -21893,6 +23604,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '5 - 7',
+        courier:    true,
         cost:       1300
 
       },
@@ -21906,6 +23618,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '5 - 7',
+        courier:    true,
         cost:       1300
 
       },
@@ -21919,6 +23632,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '5 - 7',
+        courier:    true,
         cost:       1300
 
       },
@@ -21932,6 +23646,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '5 - 7',
+        courier:    true,
         cost:       1300
 
       },
@@ -21945,6 +23660,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '5 - 7',
+        courier:    true,
         cost:       1300
 
       },
@@ -21958,6 +23674,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '5 - 7',
+        courier:    true,
         cost:       1300
 
       },
@@ -21971,6 +23688,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '4 - 7',
+        courier:    true,
         cost:       800
 
       },
@@ -21984,6 +23702,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '4 - 7',
+        courier:    true,
         cost:       800
 
       },
@@ -21997,6 +23716,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '4 - 7',
+        courier:    true,
         cost:       800
 
       },
@@ -22010,6 +23730,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '4 - 7',
+        courier:    true,
         cost:       800
 
       },
@@ -22023,6 +23744,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '4 - 7',
+        courier:    true,
         cost:       800
 
       },
@@ -22036,6 +23758,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '7 - 11',
+        courier:    true,
         cost:       665
 
       },
@@ -22049,6 +23772,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '4 - 7',
+        courier:    true,
         cost:       800
 
       },
@@ -22062,6 +23786,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '6 - 9',
+        courier:    true,
         cost:       405
 
       },
@@ -22075,6 +23800,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '4 - 7',
+        courier:    true,
         cost:       800
 
       },
@@ -22088,6 +23814,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '4 - 7',
+        courier:    true,
         cost:       800
 
       },
@@ -22101,6 +23828,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '4 - 7',
+        courier:    true,
         cost:       800
 
       },
@@ -22114,6 +23842,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '4 - 7',
+        courier:    true,
         cost:       800
 
       },
@@ -22127,6 +23856,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '4 - 7',
+        courier:    true,
         cost:       800
 
       },
@@ -22140,6 +23870,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '4 - 7',
+        courier:    true,
         cost:       800
 
       },
@@ -22153,6 +23884,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '4 - 7',
+        courier:    true,
         cost:       800
 
       },
@@ -22166,6 +23898,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '4 - 7',
+        courier:    true,
         cost:       800
 
       },
@@ -22179,6 +23912,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '6 - 9',
+        courier:    true,
         cost:       405
 
       },
@@ -22192,6 +23926,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '4 - 7',
+        courier:    true,
         cost:       800
 
       },
@@ -22205,6 +23940,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '4 - 7',
+        courier:    true,
         cost:       800
 
       },
@@ -22218,6 +23954,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '4 - 6',
+        courier:    true,
         cost:       800
 
       },
@@ -22231,6 +23968,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '4 - 7',
+        courier:    true,
         cost:       800
 
       },
@@ -22244,6 +23982,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '4 - 7',
+        courier:    true,
         cost:       800
 
       },
@@ -22257,6 +23996,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '4 - 7',
+        courier:    true,
         cost:       800
 
       },
@@ -22270,6 +24010,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '4 - 7',
+        courier:    true,
         cost:       800
 
       },
@@ -22283,6 +24024,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '4 - 7',
+        courier:    true,
         cost:       800
 
       },
@@ -22296,6 +24038,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '4 - 7',
+        courier:    true,
         cost:       800
 
       },
@@ -22309,6 +24052,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '4 - 7',
+        courier:    true,
         cost:       800
 
       },
@@ -22322,6 +24066,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '4 - 7',
+        courier:    true,
         cost:       800
 
       },
@@ -22335,6 +24080,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '4 - 7',
+        courier:    true,
         cost:       800
 
       },
@@ -22348,6 +24094,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '4 - 7',
+        courier:    true,
         cost:       800
 
       },
@@ -22361,6 +24108,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '7 - 11',
+        courier:    true,
         cost:       665
 
       },
@@ -22374,6 +24122,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '4 - 7',
+        courier:    true,
         cost:       800
 
       },
@@ -22387,6 +24136,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '4 - 7',
+        courier:    true,
         cost:       800
 
       },
@@ -22400,6 +24150,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '4 - 7',
+        courier:    true,
         cost:       800
 
       },
@@ -22413,6 +24164,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '4 - 7',
+        courier:    true,
         cost:       800
 
       },
@@ -22426,6 +24178,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '4 - 6',
+        courier:    true,
         cost:       800
 
       },
@@ -22439,6 +24192,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '4 - 7',
+        courier:    true,
         cost:       800
 
       },
@@ -22452,6 +24206,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '4 - 7',
+        courier:    true,
         cost:       800
 
       },
@@ -22465,6 +24220,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '4 - 7',
+        courier:    true,
         cost:       800
 
       },
@@ -22478,6 +24234,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '4 - 7',
+        courier:    true,
         cost:       800
 
       },
@@ -22491,6 +24248,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '6 - 9',
+        courier:    true,
         cost:       405
 
       },
@@ -22504,6 +24262,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '4 - 7',
+        courier:    true,
         cost:       800
 
       },
@@ -22517,6 +24276,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '4 - 7',
+        courier:    true,
         cost:       800
 
       },
@@ -22530,6 +24290,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '4 - 7',
+        courier:    true,
         cost:       800
 
       },
@@ -22543,6 +24304,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '4 - 7',
+        courier:    true,
         cost:       800
 
       },
@@ -22556,6 +24318,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '4 - 7',
+        courier:    true,
         cost:       800
 
       },
@@ -22569,6 +24332,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '6 - 9',
+        courier:    true,
         cost:       405
 
       },
@@ -22582,6 +24346,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '4 - 6',
+        courier:    true,
         cost:       800
 
       },
@@ -22595,6 +24360,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '4 - 6',
+        courier:    true,
         cost:       800
 
       },
@@ -22608,6 +24374,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '4 - 7',
+        courier:    true,
         cost:       800
 
       },
@@ -22621,6 +24388,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '4 - 7',
+        courier:    true,
         cost:       800
 
       },
@@ -22634,6 +24402,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '4 - 7',
+        courier:    true,
         cost:       690
 
       },
@@ -22647,6 +24416,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '4 - 7',
+        courier:    true,
         cost:       800
 
       },
@@ -22660,6 +24430,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '4 - 7',
+        courier:    true,
         cost:       800
 
       },
@@ -22673,6 +24444,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '4 - 7',
+        courier:    true,
         cost:       800
 
       },
@@ -22686,6 +24458,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '4 - 7',
+        courier:    true,
         cost:       800
 
       },
@@ -22699,6 +24472,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '4 - 7',
+        courier:    true,
         cost:       800
 
       },
@@ -22712,6 +24486,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '4 - 6',
+        courier:    true,
         cost:       800
 
       },
@@ -22725,6 +24500,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '4 - 7',
+        courier:    true,
         cost:       800
 
       },
@@ -22738,6 +24514,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '4 - 7',
+        courier:    true,
         cost:       800
 
       },
@@ -22751,6 +24528,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '3 - 5',
+        courier:    true,
         cost:       540
 
       },
@@ -22764,6 +24542,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '4 - 7',
+        courier:    true,
         cost:       800
 
       },
@@ -22777,6 +24556,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '4 - 7',
+        courier:    true,
         cost:       800
 
       },
@@ -22790,6 +24570,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '4 - 7',
+        courier:    true,
         cost:       800
 
       },
@@ -22803,6 +24584,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '3 - 5',
+        courier:    true,
         cost:       690
 
       },
@@ -22816,6 +24598,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '4 - 7',
+        courier:    true,
         cost:       800
 
       },
@@ -22829,6 +24612,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '4 - 6',
+        courier:    true,
         cost:       850
 
       },
@@ -22842,6 +24626,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '4 - 6',
+        courier:    true,
         cost:       850
 
       },
@@ -22855,6 +24640,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '6 - 9',
+        courier:    true,
         cost:       555
 
       },
@@ -22868,6 +24654,7 @@ module CdekApi
         phone:      '(383) 362-27-47',
         work_time:  'пн.-пт. 9-20,обед 14-15, сб.-вс. 10-18,обед 14-15',
         delivery:   '3 - 5',
+        courier:    false,
         cost:       175
 
       },
@@ -22881,6 +24668,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '4 - 7',
+        courier:    true,
         cost:       800
 
       },
@@ -22894,6 +24682,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '4 - 7',
+        courier:    true,
         cost:       800
 
       },
@@ -22907,6 +24696,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '4 - 6',
+        courier:    true,
         cost:       800
 
       },
@@ -22920,6 +24710,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '6 - 9',
+        courier:    true,
         cost:       405
 
       },
@@ -22933,6 +24724,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '4 - 7',
+        courier:    true,
         cost:       800
 
       },
@@ -22946,6 +24738,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '4 - 7',
+        courier:    true,
         cost:       800
 
       },
@@ -22959,6 +24752,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '4 - 7',
+        courier:    true,
         cost:       800
 
       },
@@ -22972,6 +24766,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '4 - 7',
+        courier:    true,
         cost:       800
 
       },
@@ -22985,6 +24780,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '4 - 6',
+        courier:    true,
         cost:       800
 
       },
@@ -22998,6 +24794,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '4 - 7',
+        courier:    true,
         cost:       800
 
       },
@@ -23011,6 +24808,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '4 - 6',
+        courier:    true,
         cost:       850
 
       },
@@ -23024,6 +24822,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '4 - 6',
+        courier:    true,
         cost:       800
 
       },
@@ -23037,6 +24836,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '4 - 7',
+        courier:    true,
         cost:       800
 
       },
@@ -23050,6 +24850,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '4 - 6',
+        courier:    true,
         cost:       800
 
       },
@@ -23063,6 +24864,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '4 - 6',
+        courier:    true,
         cost:       800
 
       },
@@ -23076,6 +24878,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '4 - 6',
+        courier:    true,
         cost:       800
 
       },
@@ -23089,6 +24892,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '4 - 7',
+        courier:    true,
         cost:       800
 
       },
@@ -23102,6 +24906,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '4 - 7',
+        courier:    true,
         cost:       800
 
       },
@@ -23115,6 +24920,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '4 - 7',
+        courier:    true,
         cost:       800
 
       },
@@ -23128,6 +24934,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '4 - 7',
+        courier:    true,
         cost:       800
 
       },
@@ -23141,6 +24948,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '4 - 7',
+        courier:    true,
         cost:       800
 
       },
@@ -23154,6 +24962,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '4 - 7',
+        courier:    true,
         cost:       800
 
       },
@@ -23167,6 +24976,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '3 - 5',
+        courier:    true,
         cost:       540
 
       },
@@ -23180,6 +24990,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '4 - 7',
+        courier:    true,
         cost:       800
 
       },
@@ -23193,6 +25004,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '4 - 7',
+        courier:    true,
         cost:       800
 
       },
@@ -23206,6 +25018,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '4 - 7',
+        courier:    true,
         cost:       800
 
       },
@@ -23219,6 +25032,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '4 - 7',
+        courier:    true,
         cost:       800
 
       },
@@ -23232,6 +25046,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '4 - 7',
+        courier:    true,
         cost:       800
 
       },
@@ -23245,6 +25060,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '4 - 7',
+        courier:    true,
         cost:       800
 
       },
@@ -23258,6 +25074,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '4 - 7',
+        courier:    true,
         cost:       800
 
       },
@@ -23271,6 +25088,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '4 - 7',
+        courier:    true,
         cost:       800
 
       },
@@ -23284,6 +25102,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '4 - 6',
+        courier:    true,
         cost:       850
 
       },
@@ -23297,6 +25116,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '4 - 7',
+        courier:    true,
         cost:       800
 
       },
@@ -23310,6 +25130,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '4 - 7',
+        courier:    true,
         cost:       800
 
       },
@@ -23323,6 +25144,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '4 - 7',
+        courier:    true,
         cost:       800
 
       },
@@ -23336,6 +25158,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '4 - 7',
+        courier:    true,
         cost:       800
 
       },
@@ -23349,6 +25172,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '6 - 9',
+        courier:    true,
         cost:       555
 
       },
@@ -23362,6 +25186,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '3 - 7',
+        courier:    true,
         cost:       800
 
       },
@@ -23375,6 +25200,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '6 - 9',
+        courier:    true,
         cost:       555
 
       },
@@ -23388,6 +25214,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '3 - 7',
+        courier:    true,
         cost:       800
 
       },
@@ -23401,6 +25228,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '6 - 9',
+        courier:    true,
         cost:       405
 
       },
@@ -23414,6 +25242,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '3 - 5',
+        courier:    true,
         cost:       800
 
       },
@@ -23427,6 +25256,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '6 - 9',
+        courier:    true,
         cost:       405
 
       },
@@ -23440,6 +25270,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '3 - 5',
+        courier:    true,
         cost:       800
 
       },
@@ -23453,6 +25284,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '6 - 9',
+        courier:    true,
         cost:       405
 
       },
@@ -23466,6 +25298,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '6 - 9',
+        courier:    true,
         cost:       405
 
       },
@@ -23479,6 +25312,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '6 - 9',
+        courier:    true,
         cost:       405
 
       },
@@ -23492,6 +25326,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '3 - 7',
+        courier:    true,
         cost:       800
 
       },
@@ -23505,6 +25340,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '3 - 7',
+        courier:    true,
         cost:       800
 
       },
@@ -23518,6 +25354,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '3 - 7',
+        courier:    true,
         cost:       800
 
       },
@@ -23531,6 +25368,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '6 - 9',
+        courier:    true,
         cost:       555
 
       },
@@ -23544,6 +25382,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '3 - 5',
+        courier:    true,
         cost:       800
 
       },
@@ -23557,6 +25396,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '3 - 7',
+        courier:    true,
         cost:       800
 
       },
@@ -23570,6 +25410,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '3 - 5',
+        courier:    true,
         cost:       800
 
       },
@@ -23583,6 +25424,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '3 - 5',
+        courier:    true,
         cost:       800
 
       },
@@ -23596,6 +25438,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '3 - 5',
+        courier:    true,
         cost:       800
 
       },
@@ -23609,6 +25452,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '3 - 5',
+        courier:    true,
         cost:       800
 
       },
@@ -23622,6 +25466,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '6 - 9',
+        courier:    true,
         cost:       555
 
       },
@@ -23635,6 +25480,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '3 - 7',
+        courier:    true,
         cost:       800
 
       },
@@ -23648,6 +25494,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '6 - 9',
+        courier:    true,
         cost:       555
 
       },
@@ -23661,6 +25508,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '3 - 7',
+        courier:    true,
         cost:       800
 
       },
@@ -23674,6 +25522,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '3 - 5',
+        courier:    true,
         cost:       800
 
       },
@@ -23687,6 +25536,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '3 - 7',
+        courier:    true,
         cost:       800
 
       },
@@ -23700,6 +25550,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '3 - 5',
+        courier:    true,
         cost:       800
 
       },
@@ -23713,6 +25564,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '3 - 7',
+        courier:    true,
         cost:       800
 
       },
@@ -23726,6 +25578,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '6 - 9',
+        courier:    true,
         cost:       405
 
       },
@@ -23739,6 +25592,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '3 - 5',
+        courier:    true,
         cost:       800
 
       },
@@ -23752,6 +25606,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '3 - 5',
+        courier:    true,
         cost:       800
 
       },
@@ -23765,6 +25620,7 @@ module CdekApi
         phone:      '(3812)662360',
         work_time:  'пн.-пт. 8.30-19.00, сб. 10-14 ',
         delivery:   '3 - 5',
+        courier:    false,
         cost:       175
 
       },
@@ -23778,6 +25634,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '3 - 5',
+        courier:    true,
         cost:       800
 
       },
@@ -23791,6 +25648,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '3 - 7',
+        courier:    true,
         cost:       800
 
       },
@@ -23804,6 +25662,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '3 - 5',
+        courier:    true,
         cost:       800
 
       },
@@ -23817,6 +25676,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '6 - 9',
+        courier:    true,
         cost:       405
 
       },
@@ -23830,6 +25690,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '6 - 9',
+        courier:    true,
         cost:       405
 
       },
@@ -23843,6 +25704,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '3 - 7',
+        courier:    true,
         cost:       800
 
       },
@@ -23856,6 +25718,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '3 - 7',
+        courier:    true,
         cost:       800
 
       },
@@ -23869,6 +25732,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '6 - 9',
+        courier:    true,
         cost:       555
 
       },
@@ -23882,6 +25746,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '3 - 5',
+        courier:    true,
         cost:       800
 
       },
@@ -23895,6 +25760,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '3 - 7',
+        courier:    true,
         cost:       800
 
       },
@@ -23908,6 +25774,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '3 - 7',
+        courier:    true,
         cost:       800
 
       },
@@ -23921,6 +25788,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '3 - 5',
+        courier:    true,
         cost:       800
 
       },
@@ -23934,6 +25802,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '6 - 9',
+        courier:    true,
         cost:       405
 
       },
@@ -23947,6 +25816,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '3 - 7',
+        courier:    true,
         cost:       800
 
       },
@@ -23960,6 +25830,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '3 - 5',
+        courier:    true,
         cost:       800
 
       },
@@ -23973,6 +25844,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '6 - 9',
+        courier:    true,
         cost:       555
 
       },
@@ -23986,6 +25858,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '6 - 9',
+        courier:    true,
         cost:       555
 
       },
@@ -23999,6 +25872,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '3 - 7',
+        courier:    true,
         cost:       800
 
       },
@@ -24012,6 +25886,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '3 - 5',
+        courier:    true,
         cost:       800
 
       },
@@ -24025,6 +25900,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '3 - 7',
+        courier:    true,
         cost:       800
 
       },
@@ -24038,6 +25914,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '4 - 6',
+        courier:    true,
         cost:       1180
 
       },
@@ -24051,6 +25928,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '5 - 10',
+        courier:    true,
         cost:       610
 
       },
@@ -24064,6 +25942,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '4 - 6',
+        courier:    true,
         cost:       1180
 
       },
@@ -24077,6 +25956,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '4 - 6',
+        courier:    true,
         cost:       1180
 
       },
@@ -24090,6 +25970,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '4 - 6',
+        courier:    true,
         cost:       1180
 
       },
@@ -24103,6 +25984,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '4 - 6',
+        courier:    true,
         cost:       1180
 
       },
@@ -24116,6 +25998,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '4 - 6',
+        courier:    true,
         cost:       1180
 
       },
@@ -24129,6 +26012,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '3 - 5',
+        courier:    true,
         cost:       1055
 
       },
@@ -24142,6 +26026,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '5 - 9',
+        courier:    true,
         cost:       610
 
       },
@@ -24155,6 +26040,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '4 - 6',
+        courier:    true,
         cost:       1180
 
       },
@@ -24168,6 +26054,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '4 - 6',
+        courier:    true,
         cost:       1180
 
       },
@@ -24181,6 +26068,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '4 - 6',
+        courier:    true,
         cost:       1180
 
       },
@@ -24194,6 +26082,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '6 - 9',
+        courier:    true,
         cost:       500
 
       },
@@ -24207,6 +26096,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '6 - 9',
+        courier:    true,
         cost:       500
 
       },
@@ -24220,6 +26110,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '3 - 5',
+        courier:    true,
         cost:       1180
 
       },
@@ -24233,6 +26124,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '4 - 6',
+        courier:    true,
         cost:       1180
 
       },
@@ -24246,6 +26138,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '5 - 10',
+        courier:    true,
         cost:       610
 
       },
@@ -24259,6 +26152,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '4 - 6',
+        courier:    true,
         cost:       1110
 
       },
@@ -24272,6 +26166,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '4 - 6',
+        courier:    true,
         cost:       1180
 
       },
@@ -24285,6 +26180,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '8 - 13',
+        courier:    true,
         cost:       620
 
       },
@@ -24298,6 +26194,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '4 - 6',
+        courier:    true,
         cost:       1110
 
       },
@@ -24311,6 +26208,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '4 - 6',
+        courier:    true,
         cost:       1180
 
       },
@@ -24324,6 +26222,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '4 - 6',
+        courier:    true,
         cost:       1240
 
       },
@@ -24337,6 +26236,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '6 - 9',
+        courier:    true,
         cost:       500
 
       },
@@ -24350,6 +26250,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '6 - 9',
+        courier:    true,
         cost:       500
 
       },
@@ -24363,6 +26264,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '4 - 6',
+        courier:    true,
         cost:       1180
 
       },
@@ -24376,6 +26278,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '5 - 9',
+        courier:    true,
         cost:       610
 
       },
@@ -24389,6 +26292,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '4 - 6',
+        courier:    true,
         cost:       1180
 
       },
@@ -24402,6 +26306,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '5 - 8',
+        courier:    true,
         cost:       410
 
       },
@@ -24413,8 +26318,9 @@ module CdekApi
         tariff:     136,
         address:    'Восточная ул, д.23',
         phone:      '(3532) 90-10-50, 90-10-60',
-        work_time:  'пн.-пт. 9-18, сб. 10-14',
+        work_time:  'пн.-чт. 9-18',
         delivery:   '5 - 7',
+        courier:    false,
         cost:       340
 
       },
@@ -24428,6 +26334,7 @@ module CdekApi
         phone:      '83537299111, 83537299333, 89228509109',
         work_time:  'пн.-пт. 9-18',
         delivery:   '5 - 7',
+        courier:    false,
         cost:       340
 
       },
@@ -24441,6 +26348,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '4 - 6',
+        courier:    true,
         cost:       1180
 
       },
@@ -24454,6 +26362,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '4 - 6',
+        courier:    true,
         cost:       1110
 
       },
@@ -24467,6 +26376,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '2 - 4',
+        courier:    true,
         cost:       1055
 
       },
@@ -24480,6 +26390,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '4 - 6',
+        courier:    true,
         cost:       1180
 
       },
@@ -24493,6 +26404,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '6 - 9',
+        courier:    true,
         cost:       500
 
       },
@@ -24506,6 +26418,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '4 - 6',
+        courier:    true,
         cost:       1180
 
       },
@@ -24519,6 +26432,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '4 - 6',
+        courier:    true,
         cost:       1180
 
       },
@@ -24532,6 +26446,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '4 - 6',
+        courier:    true,
         cost:       1180
 
       },
@@ -24545,6 +26460,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '4 - 6',
+        courier:    true,
         cost:       1180
 
       },
@@ -24558,6 +26474,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '4 - 6',
+        courier:    true,
         cost:       1180
 
       },
@@ -24571,6 +26488,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '4 - 6',
+        courier:    true,
         cost:       1180
 
       },
@@ -24584,6 +26502,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '6 - 9',
+        courier:    true,
         cost:       500
 
       },
@@ -24597,6 +26516,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '4 - 6',
+        courier:    true,
         cost:       1180
 
       },
@@ -24610,6 +26530,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '4 - 6',
+        courier:    true,
         cost:       420
 
       },
@@ -24623,6 +26544,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '6 - 9',
+        courier:    true,
         cost:       500
 
       },
@@ -24636,6 +26558,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '3 - 6',
+        courier:    true,
         cost:       1240
 
       },
@@ -24649,6 +26572,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '3 - 5',
+        courier:    true,
         cost:       1340
 
       },
@@ -24662,6 +26586,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '3 - 6',
+        courier:    true,
         cost:       1390
 
       },
@@ -24675,6 +26600,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '4 - 7',
+        courier:    true,
         cost:       1300
 
       },
@@ -24688,6 +26614,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '3 - 5',
+        courier:    true,
         cost:       1140
 
       },
@@ -24701,6 +26628,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '3 - 5',
+        courier:    true,
         cost:       1040
 
       },
@@ -24714,6 +26642,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '3 - 6',
+        courier:    true,
         cost:       1590
 
       },
@@ -24727,6 +26656,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '3 - 6',
+        courier:    true,
         cost:       1140
 
       },
@@ -24740,6 +26670,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '3 - 5',
+        courier:    true,
         cost:       1040
 
       },
@@ -24753,6 +26684,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '3 - 6',
+        courier:    true,
         cost:       1540
 
       },
@@ -24766,6 +26698,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '3 - 6',
+        courier:    true,
         cost:       1440
 
       },
@@ -24779,6 +26712,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '3 - 6',
+        courier:    true,
         cost:       1240
 
       },
@@ -24792,6 +26726,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '3 - 5',
+        courier:    true,
         cost:       1140
 
       },
@@ -24805,6 +26740,7 @@ module CdekApi
         phone:      '(4862) 73-42-08',
         work_time:  'пн.-пт. 9-18',
         delivery:   '4 - 6',
+        courier:    false,
         cost:       335
 
       },
@@ -24818,6 +26754,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '3 - 5',
+        courier:    true,
         cost:       1090
 
       },
@@ -24831,6 +26768,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '3 - 6',
+        courier:    true,
         cost:       1390
 
       },
@@ -24844,6 +26782,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '3 - 5',
+        courier:    true,
         cost:       1190
 
       },
@@ -24857,6 +26796,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '3 - 6',
+        courier:    true,
         cost:       1290
 
       },
@@ -24870,6 +26810,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '3 - 6',
+        courier:    true,
         cost:       1290
 
       },
@@ -24883,6 +26824,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '3 - 5',
+        courier:    true,
         cost:       1520
 
       },
@@ -24896,6 +26838,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '3 - 5',
+        courier:    true,
         cost:       1520
 
       },
@@ -24909,6 +26852,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '3 - 5',
+        courier:    true,
         cost:       1520
 
       },
@@ -24922,6 +26866,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '3 - 5',
+        courier:    true,
         cost:       1520
 
       },
@@ -24935,6 +26880,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '3 - 5',
+        courier:    true,
         cost:       1520
 
       },
@@ -24948,6 +26894,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '3 - 5',
+        courier:    true,
         cost:       1520
 
       },
@@ -24961,6 +26908,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '3 - 5',
+        courier:    true,
         cost:       1520
 
       },
@@ -24974,6 +26922,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '3 - 5',
+        courier:    true,
         cost:       1520
 
       },
@@ -24987,6 +26936,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '3 - 5',
+        courier:    true,
         cost:       1375
 
       },
@@ -25000,6 +26950,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '3 - 5',
+        courier:    true,
         cost:       1690
 
       },
@@ -25013,6 +26964,7 @@ module CdekApi
         phone:      '(8412) 68-47-79, 68-57-48, 8-963-109-48-38',
         work_time:  'пн.-пт. 9-18',
         delivery:   '5 - 7',
+        courier:    false,
         cost:       340
 
       },
@@ -25026,6 +26978,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '3 - 5',
+        courier:    true,
         cost:       1520
 
       },
@@ -25039,6 +26992,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '3 - 5',
+        courier:    true,
         cost:       1690
 
       },
@@ -25052,6 +27006,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '3 - 5',
+        courier:    true,
         cost:       720
 
       },
@@ -25065,6 +27020,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '3 - 5',
+        courier:    true,
         cost:       720
 
       },
@@ -25078,6 +27034,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '3 - 5',
+        courier:    true,
         cost:       720
 
       },
@@ -25091,6 +27048,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '3 - 5',
+        courier:    true,
         cost:       720
 
       },
@@ -25104,6 +27062,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '3 - 5',
+        courier:    true,
         cost:       720
 
       },
@@ -25117,6 +27076,7 @@ module CdekApi
         phone:      '(3424) 20-10-28',
         work_time:  'пн.-пт. 9-18',
         delivery:   '1 - 3',
+        courier:    false,
         cost:       160
 
       },
@@ -25130,6 +27090,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '3 - 5',
+        courier:    true,
         cost:       720
 
       },
@@ -25143,6 +27104,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '3 - 5',
+        courier:    true,
         cost:       720
 
       },
@@ -25156,6 +27118,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '3 - 5',
+        courier:    true,
         cost:       720
 
       },
@@ -25169,6 +27132,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '3 - 5',
+        courier:    true,
         cost:       650
 
       },
@@ -25182,6 +27146,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '3 - 5',
+        courier:    true,
         cost:       650
 
       },
@@ -25195,6 +27160,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '3 - 5',
+        courier:    true,
         cost:       720
 
       },
@@ -25208,6 +27174,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '3 - 5',
+        courier:    true,
         cost:       720
 
       },
@@ -25221,6 +27188,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '3 - 5',
+        courier:    true,
         cost:       650
 
       },
@@ -25234,6 +27202,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '3 - 5',
+        courier:    true,
         cost:       720
 
       },
@@ -25247,6 +27216,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '3 - 5',
+        courier:    true,
         cost:       720
 
       },
@@ -25260,6 +27230,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '3 - 5',
+        courier:    true,
         cost:       720
 
       },
@@ -25273,6 +27244,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '3 - 5',
+        courier:    true,
         cost:       720
 
       },
@@ -25286,6 +27258,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '3 - 5',
+        courier:    true,
         cost:       720
 
       },
@@ -25299,6 +27272,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '3 - 5',
+        courier:    true,
         cost:       720
 
       },
@@ -25312,6 +27286,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '3 - 5',
+        courier:    true,
         cost:       720
 
       },
@@ -25325,6 +27300,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '3 - 5',
+        courier:    true,
         cost:       720
 
       },
@@ -25338,6 +27314,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '3 - 5',
+        courier:    true,
         cost:       720
 
       },
@@ -25351,6 +27328,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '3 - 5',
+        courier:    true,
         cost:       720
 
       },
@@ -25364,6 +27342,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '3 - 5',
+        courier:    true,
         cost:       720
 
       },
@@ -25377,6 +27356,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '3 - 5',
+        courier:    true,
         cost:       720
 
       },
@@ -25390,6 +27370,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '3 - 5',
+        courier:    true,
         cost:       720
 
       },
@@ -25403,6 +27384,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '3 - 5',
+        courier:    true,
         cost:       720
 
       },
@@ -25416,6 +27398,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '3 - 5',
+        courier:    true,
         cost:       720
 
       },
@@ -25429,6 +27412,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '3 - 5',
+        courier:    true,
         cost:       720
 
       },
@@ -25442,6 +27426,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '3 - 5',
+        courier:    true,
         cost:       720
 
       },
@@ -25455,6 +27440,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '3 - 5',
+        courier:    true,
         cost:       720
 
       },
@@ -25468,6 +27454,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '3 - 5',
+        courier:    true,
         cost:       720
 
       },
@@ -25481,6 +27468,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '3 - 5',
+        courier:    true,
         cost:       720
 
       },
@@ -25494,6 +27482,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '3 - 5',
+        courier:    true,
         cost:       720
 
       },
@@ -25507,6 +27496,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '3 - 5',
+        courier:    true,
         cost:       720
 
       },
@@ -25520,6 +27510,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '3 - 5',
+        courier:    true,
         cost:       720
 
       },
@@ -25533,6 +27524,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '3 - 5',
+        courier:    true,
         cost:       720
 
       },
@@ -25546,6 +27538,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '3 - 5',
+        courier:    true,
         cost:       720
 
       },
@@ -25559,6 +27552,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '3 - 5',
+        courier:    true,
         cost:       720
 
       },
@@ -25572,6 +27566,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '3 - 5',
+        courier:    true,
         cost:       650
 
       },
@@ -25585,6 +27580,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '3 - 5',
+        courier:    true,
         cost:       720
 
       },
@@ -25598,6 +27594,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '3 - 5',
+        courier:    true,
         cost:       720
 
       },
@@ -25611,6 +27608,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '3 - 5',
+        courier:    true,
         cost:       720
 
       },
@@ -25624,6 +27622,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '3 - 5',
+        courier:    true,
         cost:       720
 
       },
@@ -25637,6 +27636,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '3 - 5',
+        courier:    true,
         cost:       720
 
       },
@@ -25650,6 +27650,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '3 - 5',
+        courier:    true,
         cost:       720
 
       },
@@ -25663,6 +27664,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '3 - 5',
+        courier:    true,
         cost:       720
 
       },
@@ -25676,6 +27678,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '3 - 5',
+        courier:    true,
         cost:       720
 
       },
@@ -25689,6 +27692,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '3 - 5',
+        courier:    true,
         cost:       720
 
       },
@@ -25702,6 +27706,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '3 - 5',
+        courier:    true,
         cost:       650
 
       },
@@ -25715,6 +27720,7 @@ module CdekApi
         phone:      '8(342)200-90-28',
         work_time:  'пн.-пт. 8-20, сб. 10-14',
         delivery:   '1 - 2',
+        courier:    false,
         cost:       150
 
       },
@@ -25728,6 +27734,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '3 - 5',
+        courier:    true,
         cost:       650
 
       },
@@ -25741,6 +27748,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '3 - 5',
+        courier:    true,
         cost:       720
 
       },
@@ -25754,6 +27762,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '3 - 5',
+        courier:    true,
         cost:       720
 
       },
@@ -25767,6 +27776,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '3 - 5',
+        courier:    true,
         cost:       720
 
       },
@@ -25780,6 +27790,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '3 - 5',
+        courier:    true,
         cost:       720
 
       },
@@ -25793,6 +27804,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '3 - 5',
+        courier:    true,
         cost:       720
 
       },
@@ -25806,6 +27818,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '3 - 5',
+        courier:    true,
         cost:       720
 
       },
@@ -25819,6 +27832,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '3 - 5',
+        courier:    true,
         cost:       720
 
       },
@@ -25832,6 +27846,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '4 - 6',
+        courier:    true,
         cost:       780
 
       },
@@ -25845,6 +27860,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '3 - 5',
+        courier:    true,
         cost:       720
 
       },
@@ -25858,6 +27874,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '3 - 5',
+        courier:    true,
         cost:       720
 
       },
@@ -25871,6 +27888,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '3 - 5',
+        courier:    true,
         cost:       720
 
       },
@@ -25884,6 +27902,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '3 - 5',
+        courier:    true,
         cost:       720
 
       },
@@ -25897,6 +27916,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '3 - 5',
+        courier:    true,
         cost:       720
 
       },
@@ -25910,6 +27930,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '3 - 5',
+        courier:    true,
         cost:       720
 
       },
@@ -25923,6 +27944,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '3 - 5',
+        courier:    true,
         cost:       720
 
       },
@@ -25936,6 +27958,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '3 - 5',
+        courier:    true,
         cost:       650
 
       },
@@ -25949,6 +27972,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '3 - 5',
+        courier:    true,
         cost:       720
 
       },
@@ -25962,6 +27986,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '3 - 5',
+        courier:    true,
         cost:       720
 
       },
@@ -25975,6 +28000,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '2 - 3',
+        courier:    true,
         cost:       330
 
       },
@@ -25988,6 +28014,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '3 - 5',
+        courier:    true,
         cost:       720
 
       },
@@ -26001,6 +28028,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '3 - 5',
+        courier:    true,
         cost:       720
 
       },
@@ -26014,6 +28042,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '3 - 5',
+        courier:    true,
         cost:       720
 
       },
@@ -26027,6 +28056,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '3 - 5',
+        courier:    true,
         cost:       720
 
       },
@@ -26040,6 +28070,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '3 - 5',
+        courier:    true,
         cost:       720
 
       },
@@ -26053,6 +28084,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '3 - 5',
+        courier:    true,
         cost:       720
 
       },
@@ -26066,6 +28098,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '3 - 5',
+        courier:    true,
         cost:       720
 
       },
@@ -26079,6 +28112,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '3 - 5',
+        courier:    true,
         cost:       720
 
       },
@@ -26092,6 +28126,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '4 - 8',
+        courier:    true,
         cost:       1540
 
       },
@@ -26105,6 +28140,7 @@ module CdekApi
         phone:      '+7 (914) 324-89-48, 8 (42337) 3-11-24',
         work_time:  'пн.-пт. 9-18',
         delivery:   '2 - 3',
+        courier:    false,
         cost:       370
 
       },
@@ -26118,6 +28154,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '2 - 6',
+        courier:    true,
         cost:       520
 
       },
@@ -26131,6 +28168,7 @@ module CdekApi
         phone:      '(4232) 243854, 2653864',
         work_time:  'пн.-пт. 9-18',
         delivery:   '6 - 9',
+        courier:    false,
         cost:       415
 
       },
@@ -26144,6 +28182,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '6 - 10',
+        courier:    true,
         cost:       815
 
       },
@@ -26157,6 +28196,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '3 - 6',
+        courier:    true,
         cost:       520
 
       },
@@ -26170,6 +28210,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '4 - 8',
+        courier:    true,
         cost:       1540
 
       },
@@ -26183,6 +28224,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '4 - 8',
+        courier:    true,
         cost:       1265
 
       },
@@ -26196,6 +28238,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '4 - 8',
+        courier:    true,
         cost:       1540
 
       },
@@ -26209,6 +28252,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '4 - 8',
+        courier:    true,
         cost:       1540
 
       },
@@ -26222,6 +28266,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '4 - 7',
+        courier:    true,
         cost:       1250
 
       },
@@ -26235,6 +28280,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '4 - 8',
+        courier:    true,
         cost:       1730
 
       },
@@ -26248,6 +28294,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '6 - 10',
+        courier:    true,
         cost:       815
 
       },
@@ -26261,6 +28308,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '4 - 8',
+        courier:    true,
         cost:       1540
 
       },
@@ -26274,6 +28322,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '3 - 6',
+        courier:    true,
         cost:       520
 
       },
@@ -26287,6 +28336,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '7 - 12',
+        courier:    true,
         cost:       795
 
       },
@@ -26300,6 +28350,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '7 - 12',
+        courier:    true,
         cost:       795
 
       },
@@ -26313,6 +28364,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '4 - 8',
+        courier:    true,
         cost:       1540
 
       },
@@ -26326,6 +28378,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '6 - 10',
+        courier:    true,
         cost:       885
 
       },
@@ -26339,6 +28392,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '4 - 8',
+        courier:    true,
         cost:       1540
 
       },
@@ -26352,6 +28406,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '3 - 6',
+        courier:    true,
         cost:       520
 
       },
@@ -26365,6 +28420,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '8 - 14',
+        courier:    true,
         cost:       890
 
       },
@@ -26378,6 +28434,7 @@ module CdekApi
         phone:      '(4236) 697070',
         work_time:  'пн.-пт.9-18',
         delivery:   '6 - 9',
+        courier:    false,
         cost:       415
 
       },
@@ -26391,6 +28448,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '3 - 5',
+        courier:    true,
         cost:       880
 
       },
@@ -26404,6 +28462,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '3 - 5',
+        courier:    true,
         cost:       880
 
       },
@@ -26417,6 +28476,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '3 - 6',
+        courier:    true,
         cost:       520
 
       },
@@ -26430,6 +28490,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '3 - 5',
+        courier:    true,
         cost:       880
 
       },
@@ -26443,6 +28504,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '3 - 6',
+        courier:    true,
         cost:       520
 
       },
@@ -26456,6 +28518,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '6 - 10',
+        courier:    true,
         cost:       885
 
       },
@@ -26469,6 +28532,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '4 - 8',
+        courier:    true,
         cost:       1540
 
       },
@@ -26482,6 +28546,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '3 - 5',
+        courier:    true,
         cost:       880
 
       },
@@ -26495,6 +28560,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '4 - 8',
+        courier:    true,
         cost:       1540
 
       },
@@ -26508,6 +28574,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '3 - 6',
+        courier:    true,
         cost:       520
 
       },
@@ -26521,6 +28588,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '3 - 5',
+        courier:    true,
         cost:       880
 
       },
@@ -26534,6 +28602,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '3 - 5',
+        courier:    true,
         cost:       880
 
       },
@@ -26547,6 +28616,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '4 - 8',
+        courier:    true,
         cost:       1540
 
       },
@@ -26560,6 +28630,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '4 - 8',
+        courier:    true,
         cost:       1540
 
       },
@@ -26573,6 +28644,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '3 - 5',
+        courier:    true,
         cost:       880
 
       },
@@ -26586,6 +28658,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '4 - 8',
+        courier:    true,
         cost:       1540
 
       },
@@ -26599,6 +28672,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '9 - 16',
+        courier:    true,
         cost:       1015
 
       },
@@ -26612,6 +28686,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '3 - 6',
+        courier:    true,
         cost:       520
 
       },
@@ -26625,6 +28700,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '7 - 12',
+        courier:    true,
         cost:       795
 
       },
@@ -26638,6 +28714,7 @@ module CdekApi
         phone:      '(4234) 32-48-08',
         work_time:  'пн.-пт. 9.00-18.00',
         delivery:   '3 - 5',
+        courier:    false,
         cost:       500
 
       },
@@ -26651,6 +28728,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '3 - 5',
+        courier:    true,
         cost:       1000
 
       },
@@ -26664,6 +28742,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '3 - 5',
+        courier:    true,
         cost:       880
 
       },
@@ -26677,6 +28756,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '3 - 5',
+        courier:    true,
         cost:       880
 
       },
@@ -26690,6 +28770,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '4 - 8',
+        courier:    true,
         cost:       1540
 
       },
@@ -26703,6 +28784,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '3 - 5',
+        courier:    true,
         cost:       880
 
       },
@@ -26716,6 +28798,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '6 - 10',
+        courier:    true,
         cost:       885
 
       },
@@ -26729,6 +28812,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '9 - 16',
+        courier:    true,
         cost:       1015
 
       },
@@ -26742,6 +28826,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '5 - 7',
+        courier:    true,
         cost:       1300
 
       },
@@ -26755,6 +28840,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '5 - 7',
+        courier:    true,
         cost:       1300
 
       },
@@ -26768,6 +28854,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '5 - 7',
+        courier:    true,
         cost:       1300
 
       },
@@ -26781,6 +28868,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '5 - 7',
+        courier:    true,
         cost:       1300
 
       },
@@ -26794,6 +28882,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '5 - 7',
+        courier:    true,
         cost:       1300
 
       },
@@ -26807,6 +28896,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '5 - 7',
+        courier:    true,
         cost:       1300
 
       },
@@ -26820,6 +28910,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '5 - 7',
+        courier:    true,
         cost:       1300
 
       },
@@ -26833,6 +28924,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '5 - 7',
+        courier:    true,
         cost:       1300
 
       },
@@ -26846,6 +28938,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '5 - 7',
+        courier:    true,
         cost:       1300
 
       },
@@ -26859,6 +28952,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '5 - 7',
+        courier:    true,
         cost:       1300
 
       },
@@ -26872,6 +28966,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '5 - 7',
+        courier:    true,
         cost:       1300
 
       },
@@ -26885,6 +28980,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '5 - 7',
+        courier:    true,
         cost:       1300
 
       },
@@ -26898,6 +28994,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '5 - 7',
+        courier:    true,
         cost:       1300
 
       },
@@ -26911,6 +29008,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '5 - 7',
+        courier:    true,
         cost:       1300
 
       },
@@ -26924,6 +29022,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '5 - 7',
+        courier:    true,
         cost:       1300
 
       },
@@ -26937,6 +29036,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '5 - 7',
+        courier:    true,
         cost:       1300
 
       },
@@ -26950,6 +29050,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '5 - 7',
+        courier:    true,
         cost:       1300
 
       },
@@ -26963,6 +29064,7 @@ module CdekApi
         phone:      '(8112)57-00-05; 8-911-364-44-11',
         work_time:  'пн.-чт. 9-18, пт. 9-17',
         delivery:   '5 - 8',
+        courier:    false,
         cost:       335
 
       },
@@ -26976,6 +29078,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '5 - 7',
+        courier:    true,
         cost:       1300
 
       },
@@ -26989,6 +29092,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '5 - 7',
+        courier:    true,
         cost:       1300
 
       },
@@ -27002,6 +29106,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '5 - 7',
+        courier:    true,
         cost:       1300
 
       },
@@ -27015,6 +29120,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '5 - 7',
+        courier:    true,
         cost:       1300
 
       },
@@ -27028,6 +29134,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '5 - 7',
+        courier:    true,
         cost:       1300
 
       },
@@ -27041,6 +29148,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '5 - 7',
+        courier:    true,
         cost:       1300
 
       },
@@ -27054,6 +29162,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '7 - 10',
+        courier:    true,
         cost:       750
 
       },
@@ -27067,6 +29176,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '6 - 9',
+        courier:    true,
         cost:       750
 
       },
@@ -27080,6 +29190,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '4 - 6',
+        courier:    true,
         cost:       1180
 
       },
@@ -27093,6 +29204,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '6 - 9',
+        courier:    true,
         cost:       750
 
       },
@@ -27106,6 +29218,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '4 - 6',
+        courier:    true,
         cost:       1180
 
       },
@@ -27119,6 +29232,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '4 - 6',
+        courier:    true,
         cost:       1180
 
       },
@@ -27132,6 +29246,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '4 - 6',
+        courier:    true,
         cost:       1110
 
       },
@@ -27145,6 +29260,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '4 - 6',
+        courier:    true,
         cost:       1180
 
       },
@@ -27158,6 +29274,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '4 - 6',
+        courier:    true,
         cost:       1180
 
       },
@@ -27171,6 +29288,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '3 - 5',
+        courier:    true,
         cost:       1180
 
       },
@@ -27184,6 +29302,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '4 - 6',
+        courier:    true,
         cost:       1180
 
       },
@@ -27197,6 +29316,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '4 - 6',
+        courier:    true,
         cost:       1180
 
       },
@@ -27210,6 +29330,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '4 - 6',
+        courier:    true,
         cost:       1180
 
       },
@@ -27223,6 +29344,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '4 - 6',
+        courier:    true,
         cost:       1180
 
       },
@@ -27236,6 +29358,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '4 - 6',
+        courier:    true,
         cost:       1180
 
       },
@@ -27249,6 +29372,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '4 - 6',
+        courier:    true,
         cost:       1180
 
       },
@@ -27262,6 +29386,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '4 - 6',
+        courier:    true,
         cost:       1180
 
       },
@@ -27275,6 +29400,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '4 - 6',
+        courier:    true,
         cost:       1180
 
       },
@@ -27288,6 +29414,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '4 - 6',
+        courier:    true,
         cost:       1180
 
       },
@@ -27301,6 +29428,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '4 - 6',
+        courier:    true,
         cost:       1180
 
       },
@@ -27314,6 +29442,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '4 - 6',
+        courier:    true,
         cost:       1180
 
       },
@@ -27327,6 +29456,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '4 - 6',
+        courier:    true,
         cost:       1180
 
       },
@@ -27340,6 +29470,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '4 - 6',
+        courier:    true,
         cost:       1180
 
       },
@@ -27353,6 +29484,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '4 - 6',
+        courier:    true,
         cost:       1180
 
       },
@@ -27366,6 +29498,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '4 - 6',
+        courier:    true,
         cost:       1180
 
       },
@@ -27379,6 +29512,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '4 - 6',
+        courier:    true,
         cost:       1180
 
       },
@@ -27392,6 +29526,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '4 - 6',
+        courier:    true,
         cost:       1180
 
       },
@@ -27405,6 +29540,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '4 - 6',
+        courier:    true,
         cost:       1180
 
       },
@@ -27418,6 +29554,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '4 - 6',
+        courier:    true,
         cost:       1180
 
       },
@@ -27431,6 +29568,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '4 - 6',
+        courier:    true,
         cost:       1180
 
       },
@@ -27444,6 +29582,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '4 - 6',
+        courier:    true,
         cost:       1180
 
       },
@@ -27457,6 +29596,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '4 - 6',
+        courier:    true,
         cost:       1180
 
       },
@@ -27470,6 +29610,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '4 - 6',
+        courier:    true,
         cost:       1180
 
       },
@@ -27483,6 +29624,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '4 - 6',
+        courier:    true,
         cost:       1180
 
       },
@@ -27496,6 +29638,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '4 - 6',
+        courier:    true,
         cost:       1180
 
       },
@@ -27509,6 +29652,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '4 - 6',
+        courier:    true,
         cost:       1180
 
       },
@@ -27522,6 +29666,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '4 - 6',
+        courier:    true,
         cost:       1180
 
       },
@@ -27535,6 +29680,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '4 - 6',
+        courier:    true,
         cost:       1180
 
       },
@@ -27548,6 +29694,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '4 - 6',
+        courier:    true,
         cost:       1180
 
       },
@@ -27561,6 +29708,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '4 - 6',
+        courier:    true,
         cost:       1180
 
       },
@@ -27574,6 +29722,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '4 - 6',
+        courier:    true,
         cost:       1180
 
       },
@@ -27587,6 +29736,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '4 - 6',
+        courier:    true,
         cost:       1180
 
       },
@@ -27600,6 +29750,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '4 - 6',
+        courier:    true,
         cost:       1180
 
       },
@@ -27613,6 +29764,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '4 - 6',
+        courier:    true,
         cost:       1180
 
       },
@@ -27626,6 +29778,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '4 - 6',
+        courier:    true,
         cost:       1180
 
       },
@@ -27639,6 +29792,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '4 - 6',
+        courier:    true,
         cost:       1180
 
       },
@@ -27652,6 +29806,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '4 - 6',
+        courier:    true,
         cost:       1180
 
       },
@@ -27665,6 +29820,7 @@ module CdekApi
         phone:      '(863) 209-80-85',
         work_time:  'пн.-пт.9-18,сб. 10-14',
         delivery:   '4 - 6',
+        courier:    false,
         cost:       340
 
       },
@@ -27678,6 +29834,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '4 - 6',
+        courier:    true,
         cost:       1180
 
       },
@@ -27691,6 +29848,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '4 - 6',
+        courier:    true,
         cost:       1180
 
       },
@@ -27704,6 +29862,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '4 - 6',
+        courier:    true,
         cost:       1180
 
       },
@@ -27717,6 +29876,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '4 - 6',
+        courier:    true,
         cost:       1180
 
       },
@@ -27730,6 +29890,7 @@ module CdekApi
         phone:      '(8634) 61-00-15, 365-387',
         work_time:  'пн.-пт. 9-18, сб. 10-14',
         delivery:   '4 - 6',
+        courier:    false,
         cost:       340
 
       },
@@ -27743,6 +29904,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '4 - 6',
+        courier:    true,
         cost:       1180
 
       },
@@ -27756,6 +29918,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '4 - 6',
+        courier:    true,
         cost:       1180
 
       },
@@ -27769,6 +29932,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '4 - 6',
+        courier:    true,
         cost:       1180
 
       },
@@ -27782,6 +29946,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '4 - 6',
+        courier:    true,
         cost:       1180
 
       },
@@ -27795,6 +29960,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '4 - 6',
+        courier:    true,
         cost:       1180
 
       },
@@ -27808,6 +29974,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '3 - 5',
+        courier:    true,
         cost:       1180
 
       },
@@ -27821,6 +29988,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '4 - 6',
+        courier:    true,
         cost:       1180
 
       },
@@ -27834,6 +30002,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '4 - 6',
+        courier:    true,
         cost:       1180
 
       },
@@ -27847,6 +30016,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '4 - 6',
+        courier:    true,
         cost:       1180
 
       },
@@ -27860,6 +30030,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '6 - 9',
+        courier:    true,
         cost:       1115
 
       },
@@ -27873,6 +30044,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '6 - 9',
+        courier:    true,
         cost:       1505
 
       },
@@ -27886,6 +30058,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '6 - 9',
+        courier:    true,
         cost:       1375
 
       },
@@ -27899,6 +30072,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '4 - 7',
+        courier:    true,
         cost:       2190
 
       },
@@ -27912,6 +30086,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '4 - 7',
+        courier:    true,
         cost:       2840
 
       },
@@ -27925,6 +30100,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '6 - 9',
+        courier:    true,
         cost:       595
 
       },
@@ -27938,6 +30114,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '6 - 9',
+        courier:    true,
         cost:       595
 
       },
@@ -27951,6 +30128,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '6 - 9',
+        courier:    true,
         cost:       745
 
       },
@@ -27964,6 +30142,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '4 - 7',
+        courier:    true,
         cost:       2840
 
       },
@@ -27977,6 +30156,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '6 - 9',
+        courier:    true,
         cost:       1545
 
       },
@@ -27990,6 +30170,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '6 - 9',
+        courier:    true,
         cost:       1115
 
       },
@@ -28003,6 +30184,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '6 - 9',
+        courier:    true,
         cost:       595
 
       },
@@ -28016,6 +30198,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '6 - 9',
+        courier:    true,
         cost:       1505
 
       },
@@ -28029,6 +30212,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '6 - 9',
+        courier:    true,
         cost:       855
 
       },
@@ -28042,6 +30226,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '6 - 9',
+        courier:    true,
         cost:       595
 
       },
@@ -28055,6 +30240,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '6 - 9',
+        courier:    true,
         cost:       1025
 
       },
@@ -28068,6 +30254,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '6 - 9',
+        courier:    true,
         cost:       985
 
       },
@@ -28081,6 +30268,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '6 - 9',
+        courier:    true,
         cost:       595
 
       },
@@ -28094,6 +30282,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '6 - 9',
+        courier:    true,
         cost:       895
 
       },
@@ -28107,6 +30296,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '6 - 9',
+        courier:    true,
         cost:       595
 
       },
@@ -28120,6 +30310,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '6 - 9',
+        courier:    true,
         cost:       1195
 
       },
@@ -28133,6 +30324,7 @@ module CdekApi
         phone:      '(4912) 99-18-02',
         work_time:  'пн.-пт. 9-18',
         delivery:   '4 - 6',
+        courier:    false,
         cost:       335
 
       },
@@ -28146,6 +30338,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '6 - 9',
+        courier:    true,
         cost:       1375
 
       },
@@ -28159,6 +30352,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '6 - 9',
+        courier:    true,
         cost:       1575
 
       },
@@ -28172,6 +30366,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '6 - 9',
+        courier:    true,
         cost:       1765
 
       },
@@ -28185,6 +30380,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '6 - 9',
+        courier:    true,
         cost:       1285
 
       },
@@ -28198,6 +30394,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '6 - 9',
+        courier:    true,
         cost:       595
 
       },
@@ -28211,6 +30408,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '6 - 9',
+        courier:    true,
         cost:       925
 
       },
@@ -28224,6 +30422,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '6 - 9',
+        courier:    true,
         cost:       855
 
       },
@@ -28237,6 +30436,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '6 - 9',
+        courier:    true,
         cost:       765
 
       },
@@ -28250,6 +30450,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '6 - 9',
+        courier:    true,
         cost:       745
 
       },
@@ -28263,6 +30464,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '6 - 9',
+        courier:    true,
         cost:       1115
 
       },
@@ -28276,6 +30478,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '6 - 9',
+        courier:    true,
         cost:       1505
 
       },
@@ -28289,6 +30492,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '6 - 9',
+        courier:    true,
         cost:       725
 
       },
@@ -28302,6 +30506,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '6 - 9',
+        courier:    true,
         cost:       745
 
       },
@@ -28315,6 +30520,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '6 - 9',
+        courier:    true,
         cost:       1575
 
       },
@@ -28328,6 +30534,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '6 - 9',
+        courier:    true,
         cost:       1505
 
       },
@@ -28341,6 +30548,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '6 - 9',
+        courier:    true,
         cost:       1115
 
       },
@@ -28354,6 +30562,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '3 - 5',
+        courier:    true,
         cost:       1000
 
       },
@@ -28367,6 +30576,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '3 - 5',
+        courier:    true,
         cost:       1180
 
       },
@@ -28380,6 +30590,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '3 - 5',
+        courier:    true,
         cost:       1180
 
       },
@@ -28393,6 +30604,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '3 - 5',
+        courier:    true,
         cost:       1180
 
       },
@@ -28406,6 +30618,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '3 - 5',
+        courier:    true,
         cost:       1180
 
       },
@@ -28419,6 +30632,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '3 - 5',
+        courier:    true,
         cost:       1180
 
       },
@@ -28432,6 +30646,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '3 - 5',
+        courier:    true,
         cost:       1180
 
       },
@@ -28445,6 +30660,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '6 - 9',
+        courier:    true,
         cost:       740
 
       },
@@ -28458,6 +30674,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '3 - 5',
+        courier:    true,
         cost:       1000
 
       },
@@ -28471,6 +30688,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '4 - 6',
+        courier:    true,
         cost:       1055
 
       },
@@ -28484,6 +30702,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '3 - 5',
+        courier:    true,
         cost:       1180
 
       },
@@ -28497,6 +30716,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '6 - 8',
+        courier:    true,
         cost:       620
 
       },
@@ -28510,6 +30730,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '3 - 5',
+        courier:    true,
         cost:       1180
 
       },
@@ -28523,6 +30744,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '3 - 5',
+        courier:    true,
         cost:       1180
 
       },
@@ -28536,6 +30758,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '3 - 5',
+        courier:    true,
         cost:       1000
 
       },
@@ -28549,6 +30772,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '3 - 5',
+        courier:    true,
         cost:       1180
 
       },
@@ -28562,6 +30786,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '3 - 5',
+        courier:    true,
         cost:       1180
 
       },
@@ -28575,6 +30800,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '3 - 5',
+        courier:    true,
         cost:       1110
 
       },
@@ -28588,6 +30814,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '3 - 5',
+        courier:    true,
         cost:       1180
 
       },
@@ -28601,6 +30828,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '3 - 5',
+        courier:    true,
         cost:       1180
 
       },
@@ -28614,6 +30842,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '3 - 5',
+        courier:    true,
         cost:       1000
 
       },
@@ -28627,6 +30856,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '3 - 5',
+        courier:    true,
         cost:       1020
 
       },
@@ -28640,6 +30870,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '3 - 5',
+        courier:    true,
         cost:       1000
 
       },
@@ -28653,6 +30884,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '3 - 5',
+        courier:    true,
         cost:       1180
 
       },
@@ -28666,6 +30898,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '3 - 5',
+        courier:    true,
         cost:       1000
 
       },
@@ -28679,6 +30912,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '5 - 7',
+        courier:    true,
         cost:       1055
 
       },
@@ -28692,7 +30926,8 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '3 - 5',
-        cost:       1000
+        courier:    true,
+        cost:       1170
 
       },
 
@@ -28705,6 +30940,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '3 - 5',
+        courier:    true,
         cost:       1180
 
       },
@@ -28718,6 +30954,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '3 - 5',
+        courier:    true,
         cost:       1180
 
       },
@@ -28731,6 +30968,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '3 - 5',
+        courier:    true,
         cost:       1180
 
       },
@@ -28744,6 +30982,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '3 - 5',
+        courier:    true,
         cost:       1180
 
       },
@@ -28757,6 +30996,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '3 - 5',
+        courier:    true,
         cost:       1180
 
       },
@@ -28770,6 +31010,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '3 - 6',
+        courier:    true,
         cost:       1180
 
       },
@@ -28783,6 +31024,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '3 - 5',
+        courier:    true,
         cost:       1180
 
       },
@@ -28796,6 +31038,7 @@ module CdekApi
         phone:      '(846) 222-90-12, 221-85-85',
         work_time:  'пн. -пт - 9-18, сб. 10-14',
         delivery:   '4 - 6',
+        courier:    false,
         cost:       340
 
       },
@@ -28809,6 +31052,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '3 - 5',
+        courier:    true,
         cost:       1180
 
       },
@@ -28822,6 +31066,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '3 - 5',
+        courier:    true,
         cost:       1000
 
       },
@@ -28835,6 +31080,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '3 - 5',
+        courier:    true,
         cost:       1110
 
       },
@@ -28848,6 +31094,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '3 - 5',
+        courier:    true,
         cost:       1180
 
       },
@@ -28861,6 +31108,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '3 - 5',
+        courier:    true,
         cost:       975
 
       },
@@ -28874,6 +31122,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '6 - 9',
+        courier:    true,
         cost:       740
 
       },
@@ -28887,6 +31136,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '3 - 5',
+        courier:    true,
         cost:       1180
 
       },
@@ -28900,6 +31150,7 @@ module CdekApi
         phone:      '(8482) 63-32-63, 53- 79-43',
         work_time:  'пн.-пт. 9-18, сб. 10-14',
         delivery:   '5 - 7',
+        courier:    false,
         cost:       340
 
       },
@@ -28913,6 +31164,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '3 - 5',
+        courier:    true,
         cost:       1110
 
       },
@@ -28926,6 +31178,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '3 - 5',
+        courier:    true,
         cost:       1000
 
       },
@@ -28939,6 +31192,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '3 - 5',
+        courier:    true,
         cost:       1180
 
       },
@@ -28952,6 +31206,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '5 - 7',
+        courier:    true,
         cost:       1055
 
       },
@@ -28965,6 +31220,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '3 - 5',
+        courier:    true,
         cost:       1180
 
       },
@@ -28978,6 +31234,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '3 - 5',
+        courier:    true,
         cost:       1180
 
       },
@@ -28991,6 +31248,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '3 - 5',
+        courier:    true,
         cost:       1180
 
       },
@@ -29004,6 +31262,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '3 - 5',
+        courier:    true,
         cost:       1180
 
       },
@@ -29017,6 +31276,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '5 - 7',
+        courier:    true,
         cost:       1055
 
       },
@@ -29030,6 +31290,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '5 - 11',
+        courier:    true,
         cost:       580
 
       },
@@ -29043,6 +31304,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '4 - 6',
+        courier:    true,
         cost:       650
 
       },
@@ -29056,6 +31318,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '4 - 6',
+        courier:    true,
         cost:       720
 
       },
@@ -29069,6 +31332,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '3 - 6',
+        courier:    true,
         cost:       650
 
       },
@@ -29082,6 +31346,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '5 - 8',
+        courier:    true,
         cost:       650
 
       },
@@ -29095,6 +31360,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '3 - 6',
+        courier:    true,
         cost:       650
 
       },
@@ -29108,6 +31374,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '4 - 6',
+        courier:    true,
         cost:       720
 
       },
@@ -29121,6 +31388,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '3 - 6',
+        courier:    true,
         cost:       650
 
       },
@@ -29134,6 +31402,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '3 - 6',
+        courier:    true,
         cost:       650
 
       },
@@ -29147,6 +31416,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '4 - 6',
+        courier:    true,
         cost:       650
 
       },
@@ -29160,6 +31430,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '3 - 6',
+        courier:    true,
         cost:       650
 
       },
@@ -29173,6 +31444,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '7 - 10',
+        courier:    true,
         cost:       720
 
       },
@@ -29186,6 +31458,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '3 - 6',
+        courier:    true,
         cost:       650
 
       },
@@ -29199,6 +31472,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '3 - 6',
+        courier:    true,
         cost:       650
 
       },
@@ -29212,6 +31486,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '3 - 6',
+        courier:    true,
         cost:       650
 
       },
@@ -29225,6 +31500,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '3 - 6',
+        courier:    true,
         cost:       650
 
       },
@@ -29238,6 +31514,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '3 - 6',
+        courier:    true,
         cost:       650
 
       },
@@ -29251,6 +31528,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '3 - 6',
+        courier:    true,
         cost:       650
 
       },
@@ -29264,6 +31542,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '3 - 6',
+        courier:    true,
         cost:       650
 
       },
@@ -29277,6 +31556,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '5 - 8',
+        courier:    true,
         cost:       650
 
       },
@@ -29290,6 +31570,7 @@ module CdekApi
         phone:      '',
         work_time:  'пн.-пт. 8.30-20.00, сб. 10-16',
         delivery:   '3 - 5',
+        courier:    false,
         cost:       175
 
       },
@@ -29303,6 +31584,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '3 - 6',
+        courier:    true,
         cost:       650
 
       },
@@ -29316,6 +31598,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '7 - 10',
+        courier:    true,
         cost:       720
 
       },
@@ -29329,6 +31612,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '3 - 6',
+        courier:    true,
         cost:       720
 
       },
@@ -29342,6 +31626,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '7 - 10',
+        courier:    true,
         cost:       720
 
       },
@@ -29355,6 +31640,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '5 - 8',
+        courier:    true,
         cost:       650
 
       },
@@ -29368,6 +31654,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '3 - 6',
+        courier:    true,
         cost:       650
 
       },
@@ -29381,6 +31668,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '3 - 6',
+        courier:    true,
         cost:       650
 
       },
@@ -29394,6 +31682,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '3 - 6',
+        courier:    true,
         cost:       650
 
       },
@@ -29407,6 +31696,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '5 - 8',
+        courier:    true,
         cost:       720
 
       },
@@ -29420,6 +31710,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '3 - 6',
+        courier:    true,
         cost:       650
 
       },
@@ -29433,6 +31724,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '4 - 7',
+        courier:    true,
         cost:       1500
 
       },
@@ -29446,6 +31738,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '4 - 7',
+        courier:    true,
         cost:       1500
 
       },
@@ -29459,6 +31752,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '7 - 10',
+        courier:    true,
         cost:       750
 
       },
@@ -29472,6 +31766,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '4 - 7',
+        courier:    true,
         cost:       1500
 
       },
@@ -29485,6 +31780,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '4 - 7',
+        courier:    true,
         cost:       1500
 
       },
@@ -29498,6 +31794,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '4 - 7',
+        courier:    true,
         cost:       1500
 
       },
@@ -29511,6 +31808,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '7 - 10',
+        courier:    true,
         cost:       750
 
       },
@@ -29524,6 +31822,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '4 - 7',
+        courier:    true,
         cost:       1500
 
       },
@@ -29537,6 +31836,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '4 - 7',
+        courier:    true,
         cost:       1500
 
       },
@@ -29550,6 +31850,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '4 - 7',
+        courier:    true,
         cost:       1500
 
       },
@@ -29563,6 +31864,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '4 - 7',
+        courier:    true,
         cost:       1500
 
       },
@@ -29576,6 +31878,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '4 - 7',
+        courier:    true,
         cost:       1500
 
       },
@@ -29589,6 +31892,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '4 - 7',
+        courier:    true,
         cost:       1500
 
       },
@@ -29602,6 +31906,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '7 - 10',
+        courier:    true,
         cost:       750
 
       },
@@ -29615,6 +31920,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '4 - 7',
+        courier:    true,
         cost:       1500
 
       },
@@ -29628,6 +31934,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '4 - 7',
+        courier:    true,
         cost:       1500
 
       },
@@ -29641,6 +31948,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '4 - 7',
+        courier:    true,
         cost:       1500
 
       },
@@ -29654,6 +31962,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '4 - 7',
+        courier:    true,
         cost:       1500
 
       },
@@ -29667,6 +31976,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '4 - 7',
+        courier:    true,
         cost:       1500
 
       },
@@ -29680,6 +31990,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '4 - 7',
+        courier:    true,
         cost:       1500
 
       },
@@ -29693,6 +32004,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '4 - 7',
+        courier:    true,
         cost:       1500
 
       },
@@ -29706,6 +32018,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '4 - 7',
+        courier:    true,
         cost:       1500
 
       },
@@ -29719,6 +32032,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '4 - 7',
+        courier:    true,
         cost:       1500
 
       },
@@ -29732,6 +32046,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '4 - 7',
+        courier:    true,
         cost:       1500
 
       },
@@ -29745,6 +32060,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '4 - 7',
+        courier:    true,
         cost:       1500
 
       },
@@ -29758,6 +32074,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '4 - 7',
+        courier:    true,
         cost:       1500
 
       },
@@ -29771,6 +32088,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '4 - 7',
+        courier:    true,
         cost:       1500
 
       },
@@ -29784,6 +32102,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '4 - 7',
+        courier:    true,
         cost:       1500
 
       },
@@ -29797,6 +32116,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '4 - 7',
+        courier:    true,
         cost:       1500
 
       },
@@ -29810,6 +32130,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '4 - 7',
+        courier:    true,
         cost:       1500
 
       },
@@ -29823,6 +32144,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '4 - 7',
+        courier:    true,
         cost:       1500
 
       },
@@ -29836,6 +32158,7 @@ module CdekApi
         phone:      '(8452) 475-475',
         work_time:  'пн.-пт. 9-18',
         delivery:   '4 - 6',
+        courier:    false,
         cost:       340
 
       },
@@ -29849,6 +32172,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '4 - 7',
+        courier:    true,
         cost:       1500
 
       },
@@ -29862,6 +32186,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '4 - 7',
+        courier:    true,
         cost:       1500
 
       },
@@ -29875,6 +32200,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '4 - 7',
+        courier:    true,
         cost:       1500
 
       },
@@ -29888,6 +32214,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '4 - 7',
+        courier:    true,
         cost:       1500
 
       },
@@ -29901,6 +32228,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '4 - 7',
+        courier:    true,
         cost:       1500
 
       },
@@ -29914,6 +32242,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '4 - 7',
+        courier:    true,
         cost:       1500
 
       },
@@ -29927,6 +32256,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '4 - 7',
+        courier:    true,
         cost:       1500
 
       },
@@ -29940,6 +32270,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '4 - 7',
+        courier:    true,
         cost:       1500
 
       },
@@ -29953,6 +32284,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '7 - 10',
+        courier:    true,
         cost:       750
 
       },
@@ -29966,6 +32298,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '5 - 9',
+        courier:    true,
         cost:       2560
 
       },
@@ -29979,6 +32312,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '4 - 12',
+        courier:    true,
         cost:       2050
 
       },
@@ -29992,6 +32326,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '5 - 9',
+        courier:    true,
         cost:       2560
 
       },
@@ -30005,6 +32340,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '4 - 12',
+        courier:    true,
         cost:       2050
 
       },
@@ -30018,6 +32354,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '5 - 9',
+        courier:    true,
         cost:       3185
 
       },
@@ -30031,6 +32368,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '5 - 9',
+        courier:    true,
         cost:       3810
 
       },
@@ -30044,6 +32382,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '5 - 9',
+        courier:    true,
         cost:       2560
 
       },
@@ -30057,6 +32396,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '5 - 9',
+        courier:    true,
         cost:       2560
 
       },
@@ -30070,6 +32410,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '5 - 9',
+        courier:    true,
         cost:       3185
 
       },
@@ -30083,6 +32424,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '5 - 9',
+        courier:    true,
         cost:       3185
 
       },
@@ -30096,6 +32438,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '9 - 13',
+        courier:    true,
         cost:       2050
 
       },
@@ -30109,6 +32452,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '5 - 9',
+        courier:    true,
         cost:       3185
 
       },
@@ -30122,6 +32466,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '4 - 12',
+        courier:    true,
         cost:       2050
 
       },
@@ -30135,6 +32480,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '5 - 9',
+        courier:    true,
         cost:       3185
 
       },
@@ -30148,6 +32494,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '5 - 9',
+        courier:    true,
         cost:       3810
 
       },
@@ -30161,6 +32508,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '4 - 12',
+        courier:    true,
         cost:       2050
 
       },
@@ -30174,6 +32522,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '4 - 12',
+        courier:    true,
         cost:       2050
 
       },
@@ -30187,6 +32536,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '5 - 9',
+        courier:    true,
         cost:       3185
 
       },
@@ -30200,6 +32550,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '4 - 12',
+        courier:    true,
         cost:       2050
 
       },
@@ -30213,6 +32564,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '4 - 12',
+        courier:    true,
         cost:       2050
 
       },
@@ -30226,6 +32578,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '4 - 12',
+        courier:    true,
         cost:       2050
 
       },
@@ -30239,6 +32592,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '4 - 12',
+        courier:    true,
         cost:       2050
 
       },
@@ -30252,6 +32606,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '5 - 9',
+        courier:    true,
         cost:       3185
 
       },
@@ -30265,6 +32620,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '4 - 12',
+        courier:    true,
         cost:       2050
 
       },
@@ -30278,6 +32634,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '4 - 12',
+        courier:    true,
         cost:       2050
 
       },
@@ -30291,6 +32648,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '5 - 9',
+        courier:    true,
         cost:       3185
 
       },
@@ -30304,6 +32662,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '4 - 12',
+        courier:    true,
         cost:       2050
 
       },
@@ -30317,6 +32676,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '5 - 9',
+        courier:    true,
         cost:       3185
 
       },
@@ -30330,6 +32690,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '5 - 9',
+        courier:    true,
         cost:       3185
 
       },
@@ -30343,6 +32704,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '5 - 9',
+        courier:    true,
         cost:       3810
 
       },
@@ -30356,6 +32718,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '4 - 12',
+        courier:    true,
         cost:       2050
 
       },
@@ -30369,6 +32732,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '4 - 12',
+        courier:    true,
         cost:       1740
 
       },
@@ -30382,6 +32746,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '5 - 9',
+        courier:    true,
         cost:       2560
 
       },
@@ -30395,6 +32760,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '5 - 9',
+        courier:    true,
         cost:       3185
 
       },
@@ -30408,6 +32774,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '4 - 12',
+        courier:    true,
         cost:       2050
 
       },
@@ -30421,6 +32788,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '4 - 12',
+        courier:    true,
         cost:       2050
 
       },
@@ -30434,6 +32802,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '5 - 9',
+        courier:    true,
         cost:       3810
 
       },
@@ -30447,6 +32816,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '5 - 9',
+        courier:    true,
         cost:       3185
 
       },
@@ -30460,6 +32830,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '5 - 9',
+        courier:    true,
         cost:       3810
 
       },
@@ -30473,6 +32844,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '4 - 12',
+        courier:    true,
         cost:       2050
 
       },
@@ -30486,6 +32858,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '4 - 12',
+        courier:    true,
         cost:       2050
 
       },
@@ -30499,6 +32872,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '4 - 12',
+        courier:    true,
         cost:       2050
 
       },
@@ -30512,6 +32886,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '5 - 9',
+        courier:    true,
         cost:       3810
 
       },
@@ -30525,6 +32900,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '5 - 9',
+        courier:    true,
         cost:       3185
 
       },
@@ -30538,6 +32914,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '5 - 9',
+        courier:    true,
         cost:       3810
 
       },
@@ -30551,6 +32928,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '5 - 9',
+        courier:    true,
         cost:       3185
 
       },
@@ -30564,6 +32942,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '4 - 12',
+        courier:    true,
         cost:       2050
 
       },
@@ -30577,6 +32956,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '4 - 12',
+        courier:    true,
         cost:       2050
 
       },
@@ -30590,6 +32970,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '5 - 9',
+        courier:    true,
         cost:       4435
 
       },
@@ -30603,6 +32984,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '5 - 9',
+        courier:    true,
         cost:       3810
 
       },
@@ -30616,6 +32998,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '4 - 12',
+        courier:    true,
         cost:       2050
 
       },
@@ -30629,6 +33012,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '5 - 9',
+        courier:    true,
         cost:       2560
 
       },
@@ -30642,6 +33026,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '4 - 12',
+        courier:    true,
         cost:       2050
 
       },
@@ -30655,6 +33040,7 @@ module CdekApi
         phone:      '8-924-765-00-63',
         work_time:  'пн.-пт. 9-18',
         delivery:   '6 - 9',
+        courier:    false,
         cost:       415
 
       },
@@ -30668,6 +33054,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '5 - 9',
+        courier:    true,
         cost:       1940
 
       },
@@ -30681,6 +33068,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '5 - 9',
+        courier:    true,
         cost:       1940
 
       },
@@ -30694,6 +33082,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '5 - 9',
+        courier:    true,
         cost:       1940
 
       },
@@ -30707,6 +33096,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '5 - 9',
+        courier:    true,
         cost:       1940
 
       },
@@ -30720,6 +33110,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '5 - 9',
+        courier:    true,
         cost:       1940
 
       },
@@ -30733,6 +33124,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '5 - 9',
+        courier:    true,
         cost:       1940
 
       },
@@ -30746,6 +33138,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '5 - 9',
+        courier:    true,
         cost:       1940
 
       },
@@ -30759,6 +33152,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '5 - 13',
+        courier:    true,
         cost:       1940
 
       },
@@ -30772,6 +33166,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '5 - 9',
+        courier:    true,
         cost:       2040
 
       },
@@ -30785,6 +33180,7 @@ module CdekApi
         phone:      '(4242)43-44-44, 8-913-756-22-34 ',
         work_time:  'пн.-пт. 9-18, сб. 10-14',
         delivery:   '5 - 8',
+        courier:    false,
         cost:       415
 
       },
@@ -30798,6 +33194,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '5 - 9',
+        courier:    true,
         cost:       720
 
       },
@@ -30811,6 +33208,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '2 - 4',
+        courier:    true,
         cost:       680
 
       },
@@ -30824,6 +33222,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '5 - 9',
+        courier:    true,
         cost:       720
 
       },
@@ -30837,6 +33236,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '5 - 8',
+        courier:    true,
         cost:       530
 
       },
@@ -30850,6 +33250,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '5 - 9',
+        courier:    true,
         cost:       700
 
       },
@@ -30863,6 +33264,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '7 - 12',
+        courier:    true,
         cost:       850
 
       },
@@ -30876,6 +33278,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '5 - 8',
+        courier:    true,
         cost:       530
 
       },
@@ -30889,6 +33292,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '8 - 13',
+        courier:    true,
         cost:       1475
 
       },
@@ -30902,6 +33306,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '5 - 8',
+        courier:    true,
         cost:       720
 
       },
@@ -30915,6 +33320,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '5 - 8',
+        courier:    true,
         cost:       530
 
       },
@@ -30928,6 +33334,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '7 - 13',
+        courier:    true,
         cost:       1500
 
       },
@@ -30941,6 +33348,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '5 - 8',
+        courier:    true,
         cost:       720
 
       },
@@ -30954,6 +33362,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '5 - 8',
+        courier:    true,
         cost:       530
 
       },
@@ -30967,6 +33376,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '5 - 9',
+        courier:    true,
         cost:       720
 
       },
@@ -30980,6 +33390,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '7 - 13',
+        courier:    true,
         cost:       1980
 
       },
@@ -30993,6 +33404,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '2 - 5',
+        courier:    true,
         cost:       870
 
       },
@@ -31006,6 +33418,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '3 - 6',
+        courier:    true,
         cost:       870
 
       },
@@ -31019,6 +33432,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '3 - 6',
+        courier:    true,
         cost:       870
 
       },
@@ -31032,6 +33446,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '5 - 8',
+        courier:    true,
         cost:       530
 
       },
@@ -31045,6 +33460,7 @@ module CdekApi
         phone:      '(343) 278-75-28',
         work_time:  'пн.-пт. 8.30-19.00, сб. 10-14 ',
         delivery:   '1 - 2',
+        courier:    false,
         cost:       140
 
       },
@@ -31058,6 +33474,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '5 - 8',
+        courier:    true,
         cost:       530
 
       },
@@ -31071,6 +33488,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '3 - 6',
+        courier:    true,
         cost:       870
 
       },
@@ -31084,6 +33502,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '5 - 9',
+        courier:    true,
         cost:       720
 
       },
@@ -31097,6 +33516,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '5 - 9',
+        courier:    true,
         cost:       530
 
       },
@@ -31110,6 +33530,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '5 - 9',
+        courier:    true,
         cost:       720
 
       },
@@ -31123,6 +33544,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '3 - 6',
+        courier:    true,
         cost:       870
 
       },
@@ -31136,6 +33558,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '3 - 6',
+        courier:    true,
         cost:       870
 
       },
@@ -31149,6 +33572,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '5 - 8',
+        courier:    true,
         cost:       530
 
       },
@@ -31162,6 +33586,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '5 - 8',
+        courier:    true,
         cost:       530
 
       },
@@ -31175,6 +33600,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '3 - 6',
+        courier:    true,
         cost:       870
 
       },
@@ -31188,6 +33614,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '3 - 6',
+        courier:    true,
         cost:       870
 
       },
@@ -31201,6 +33628,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '3 - 6',
+        courier:    true,
         cost:       870
 
       },
@@ -31214,6 +33642,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '2 - 5',
+        courier:    true,
         cost:       870
 
       },
@@ -31227,6 +33656,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '3 - 6',
+        courier:    true,
         cost:       870
 
       },
@@ -31240,6 +33670,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '5 - 8',
+        courier:    true,
         cost:       530
 
       },
@@ -31253,6 +33684,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '5 - 9',
+        courier:    true,
         cost:       720
 
       },
@@ -31266,6 +33698,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '5 - 8',
+        courier:    true,
         cost:       530
 
       },
@@ -31279,6 +33712,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '5 - 9',
+        courier:    true,
         cost:       720
 
       },
@@ -31292,6 +33726,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '5 - 9',
+        courier:    true,
         cost:       530
 
       },
@@ -31305,6 +33740,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '5 - 9',
+        courier:    true,
         cost:       720
 
       },
@@ -31318,6 +33754,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '3 - 6',
+        courier:    true,
         cost:       870
 
       },
@@ -31331,6 +33768,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '3 - 6',
+        courier:    true,
         cost:       870
 
       },
@@ -31344,6 +33782,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '3 - 6',
+        courier:    true,
         cost:       680
 
       },
@@ -31357,6 +33796,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '5 - 8',
+        courier:    true,
         cost:       530
 
       },
@@ -31370,6 +33810,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '5 - 8',
+        courier:    true,
         cost:       530
 
       },
@@ -31383,6 +33824,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '5 - 9',
+        courier:    true,
         cost:       1860
 
       },
@@ -31396,6 +33838,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '5 - 8',
+        courier:    true,
         cost:       530
 
       },
@@ -31409,6 +33852,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '5 - 8',
+        courier:    true,
         cost:       530
 
       },
@@ -31422,6 +33866,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '5 - 9',
+        courier:    true,
         cost:       1400
 
       },
@@ -31435,6 +33880,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '5 - 8',
+        courier:    true,
         cost:       530
 
       },
@@ -31448,6 +33894,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '3 - 6',
+        courier:    true,
         cost:       870
 
       },
@@ -31461,6 +33908,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '3 - 6',
+        courier:    true,
         cost:       870
 
       },
@@ -31474,6 +33922,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '5 - 8',
+        courier:    true,
         cost:       530
 
       },
@@ -31487,6 +33936,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '8 - 13',
+        courier:    true,
         cost:       630
 
       },
@@ -31500,6 +33950,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '5 - 8',
+        courier:    true,
         cost:       720
 
       },
@@ -31513,6 +33964,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '5 - 8',
+        courier:    true,
         cost:       530
 
       },
@@ -31526,6 +33978,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '3 - 6',
+        courier:    true,
         cost:       870
 
       },
@@ -31539,6 +33992,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '3 - 6',
+        courier:    true,
         cost:       870
 
       },
@@ -31552,6 +34006,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '3 - 6',
+        courier:    true,
         cost:       870
 
       },
@@ -31565,6 +34020,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '7 - 13',
+        courier:    true,
         cost:       2135
 
       },
@@ -31578,6 +34034,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '6 - 10',
+        courier:    true,
         cost:       650
 
       },
@@ -31591,6 +34048,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '5 - 8',
+        courier:    true,
         cost:       530
 
       },
@@ -31604,6 +34062,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '7 - 13',
+        courier:    true,
         cost:       575
 
       },
@@ -31617,6 +34076,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '5 - 7',
+        courier:    true,
         cost:       1620
 
       },
@@ -31630,6 +34090,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '5 - 7',
+        courier:    true,
         cost:       1620
 
       },
@@ -31643,6 +34104,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '3 - 5',
+        courier:    true,
         cost:       1240
 
       },
@@ -31656,6 +34118,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '3 - 5',
+        courier:    true,
         cost:       1240
 
       },
@@ -31669,6 +34132,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '5 - 7',
+        courier:    true,
         cost:       1620
 
       },
@@ -31682,6 +34146,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '3 - 4',
+        courier:    true,
         cost:       1210
 
       },
@@ -31695,6 +34160,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '5 - 7',
+        courier:    true,
         cost:       1620
 
       },
@@ -31708,6 +34174,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '5 - 7',
+        courier:    true,
         cost:       1620
 
       },
@@ -31721,6 +34188,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '5 - 7',
+        courier:    true,
         cost:       1620
 
       },
@@ -31734,6 +34202,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '3 - 5',
+        courier:    true,
         cost:       1240
 
       },
@@ -31747,6 +34216,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '3 - 5',
+        courier:    true,
         cost:       1240
 
       },
@@ -31760,6 +34230,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '3 - 5',
+        courier:    true,
         cost:       1240
 
       },
@@ -31773,6 +34244,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '3 - 5',
+        courier:    true,
         cost:       1240
 
       },
@@ -31786,6 +34258,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '3 - 5',
+        courier:    true,
         cost:       1240
 
       },
@@ -31799,6 +34272,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '3 - 5',
+        courier:    true,
         cost:       1240
 
       },
@@ -31812,6 +34286,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '5 - 7',
+        courier:    true,
         cost:       1620
 
       },
@@ -31825,6 +34300,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '3 - 5',
+        courier:    true,
         cost:       1240
 
       },
@@ -31838,6 +34314,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '5 - 7',
+        courier:    true,
         cost:       1620
 
       },
@@ -31851,6 +34328,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '3 - 5',
+        courier:    true,
         cost:       1240
 
       },
@@ -31864,6 +34342,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '3 - 5',
+        courier:    true,
         cost:       1240
 
       },
@@ -31877,6 +34356,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '3 - 5',
+        courier:    true,
         cost:       1240
 
       },
@@ -31890,6 +34370,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '5 - 7',
+        courier:    true,
         cost:       1620
 
       },
@@ -31903,6 +34384,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '5 - 7',
+        courier:    true,
         cost:       1620
 
       },
@@ -31916,6 +34398,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '4 - 6',
+        courier:    true,
         cost:       1180
 
       },
@@ -31929,6 +34412,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '4 - 6',
+        courier:    true,
         cost:       1180
 
       },
@@ -31942,6 +34426,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '4 - 6',
+        courier:    true,
         cost:       1180
 
       },
@@ -31955,6 +34440,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '4 - 6',
+        courier:    true,
         cost:       1180
 
       },
@@ -31968,6 +34454,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '4 - 6',
+        courier:    true,
         cost:       1180
 
       },
@@ -31981,6 +34468,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '4 - 6',
+        courier:    true,
         cost:       1180
 
       },
@@ -31994,6 +34482,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '4 - 6',
+        courier:    true,
         cost:       1180
 
       },
@@ -32007,6 +34496,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '4 - 7',
+        courier:    true,
         cost:       1055
 
       },
@@ -32020,6 +34510,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '4 - 6',
+        courier:    true,
         cost:       1180
 
       },
@@ -32033,6 +34524,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '4 - 6',
+        courier:    true,
         cost:       1180
 
       },
@@ -32046,6 +34538,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '4 - 6',
+        courier:    true,
         cost:       1180
 
       },
@@ -32059,6 +34552,7 @@ module CdekApi
         phone:      '(4812) 40-40-22',
         work_time:  'пн.-пт. 9-18, сб. 11-16',
         delivery:   '5 - 7',
+        courier:    false,
         cost:       335
 
       },
@@ -32072,6 +34566,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '4 - 6',
+        courier:    true,
         cost:       1180
 
       },
@@ -32085,6 +34580,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '4 - 6',
+        courier:    true,
         cost:       1180
 
       },
@@ -32098,6 +34594,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '6 - 10',
+        courier:    true,
         cost:       1324
 
       },
@@ -32111,6 +34608,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '6 - 10',
+        courier:    true,
         cost:       785
 
       },
@@ -32124,6 +34622,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '5 - 7',
+        courier:    true,
         cost:       1500
 
       },
@@ -32137,6 +34636,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '5 - 10',
+        courier:    true,
         cost:       1820
 
       },
@@ -32150,6 +34650,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '5 - 10',
+        courier:    true,
         cost:       1820
 
       },
@@ -32163,6 +34664,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '6 - 8',
+        courier:    true,
         cost:       594
 
       },
@@ -32176,6 +34678,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '6 - 9',
+        courier:    true,
         cost:       835
 
       },
@@ -32189,6 +34692,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '6 - 10',
+        courier:    true,
         cost:       873
 
       },
@@ -32202,6 +34706,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '6 - 8',
+        courier:    true,
         cost:       594
 
       },
@@ -32215,6 +34720,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '6 - 10',
+        courier:    true,
         cost:       785
 
       },
@@ -32228,6 +34734,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '5 - 7',
+        courier:    true,
         cost:       1500
 
       },
@@ -32241,6 +34748,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '5 - 7',
+        courier:    true,
         cost:       1500
 
       },
@@ -32254,6 +34762,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '5 - 7',
+        courier:    true,
         cost:       1500
 
       },
@@ -32267,6 +34776,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '5 - 7',
+        courier:    true,
         cost:       1500
 
       },
@@ -32280,6 +34790,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '6 - 9',
+        courier:    true,
         cost:       930
 
       },
@@ -32293,6 +34804,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '6 - 9',
+        courier:    true,
         cost:       930
 
       },
@@ -32306,6 +34818,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '6 - 9',
+        courier:    true,
         cost:       632
 
       },
@@ -32319,6 +34832,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '6 - 10',
+        courier:    true,
         cost:       1324
 
       },
@@ -32332,6 +34846,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '6 - 10',
+        courier:    true,
         cost:       823
 
       },
@@ -32345,6 +34860,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '5 - 7',
+        courier:    true,
         cost:       1500
 
       },
@@ -32358,6 +34874,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '5 - 10',
+        courier:    true,
         cost:       1770
 
       },
@@ -32371,6 +34888,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '6 - 9',
+        courier:    true,
         cost:       632
 
       },
@@ -32384,6 +34902,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '5 - 7',
+        courier:    true,
         cost:       1500
 
       },
@@ -32397,6 +34916,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '6 - 9',
+        courier:    true,
         cost:       848
 
       },
@@ -32410,6 +34930,7 @@ module CdekApi
         phone:      '8(7937)5-49-02; 8-928-360-48-82; 8-928-37302-93',
         work_time:  'пн-пт 9-18',
         delivery:   '4 - 6',
+        courier:    false,
         cost:       340
 
       },
@@ -32423,6 +34944,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '6 - 10',
+        courier:    true,
         cost:       1000
 
       },
@@ -32436,6 +34958,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '5 - 10',
+        courier:    true,
         cost:       1770
 
       },
@@ -32449,6 +34972,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '5 - 7',
+        courier:    true,
         cost:       1500
 
       },
@@ -32462,6 +34986,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '6 - 10',
+        courier:    true,
         cost:       873
 
       },
@@ -32475,6 +35000,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '6 - 10',
+        courier:    true,
         cost:       1324
 
       },
@@ -32488,6 +35014,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '5 - 7',
+        courier:    true,
         cost:       1500
 
       },
@@ -32501,6 +35028,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '5 - 7',
+        courier:    true,
         cost:       1500
 
       },
@@ -32514,6 +35042,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '6 - 9',
+        courier:    true,
         cost:       639
 
       },
@@ -32527,6 +35056,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '5 - 7',
+        courier:    true,
         cost:       1500
 
       },
@@ -32540,6 +35070,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '6 - 9',
+        courier:    true,
         cost:       750
 
       },
@@ -32553,6 +35084,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '5 - 10',
+        courier:    true,
         cost:       1770
 
       },
@@ -32566,6 +35098,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '6 - 10',
+        courier:    true,
         cost:       1000
 
       },
@@ -32579,6 +35112,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '3 - 5',
+        courier:    true,
         cost:       1240
 
       },
@@ -32592,6 +35126,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '7 - 12',
+        courier:    true,
         cost:       1230
 
       },
@@ -32605,6 +35140,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '6 - 10',
+        courier:    true,
         cost:       785
 
       },
@@ -32618,6 +35154,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '5 - 10',
+        courier:    true,
         cost:       1820
 
       },
@@ -32631,6 +35168,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '5 - 7',
+        courier:    true,
         cost:       1500
 
       },
@@ -32644,6 +35182,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '5 - 10',
+        courier:    true,
         cost:       1820
 
       },
@@ -32657,6 +35196,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '6 - 10',
+        courier:    true,
         cost:       721
 
       },
@@ -32670,6 +35210,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '6 - 10',
+        courier:    true,
         cost:       1000
 
       },
@@ -32683,6 +35224,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '5 - 7',
+        courier:    true,
         cost:       1500
 
       },
@@ -32696,6 +35238,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '5 - 7',
+        courier:    true,
         cost:       1500
 
       },
@@ -32709,6 +35252,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '5 - 7',
+        courier:    true,
         cost:       1500
 
       },
@@ -32722,6 +35266,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '6 - 10',
+        courier:    true,
         cost:       937
 
       },
@@ -32735,6 +35280,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '6 - 10',
+        courier:    true,
         cost:       785
 
       },
@@ -32748,6 +35294,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '7 - 12',
+        courier:    true,
         cost:       1191
 
       },
@@ -32761,6 +35308,7 @@ module CdekApi
         phone:      '+7(8793) 320-921,407-009,  8(905)416-54-64',
         work_time:  'пн.-пт. 9-18',
         delivery:   '4 - 6',
+        courier:    false,
         cost:       340
 
       },
@@ -32774,6 +35322,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '6 - 10',
+        courier:    true,
         cost:       721
 
       },
@@ -32787,6 +35336,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '5 - 7',
+        courier:    true,
         cost:       1500
 
       },
@@ -32800,6 +35350,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '5 - 10',
+        courier:    true,
         cost:       1770
 
       },
@@ -32813,6 +35364,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '5 - 7',
+        courier:    true,
         cost:       1500
 
       },
@@ -32826,6 +35378,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '6 - 9',
+        courier:    true,
         cost:       1039
 
       },
@@ -32839,6 +35392,7 @@ module CdekApi
         phone:      '(8652) 22-15-21, 8-962-402-59-50',
         work_time:  'пн.-пт. 9-18',
         delivery:   '4 - 7',
+        courier:    false,
         cost:       340
 
       },
@@ -32852,6 +35406,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '5 - 7',
+        courier:    true,
         cost:       1500
 
       },
@@ -32865,6 +35420,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '6 - 9',
+        courier:    true,
         cost:       921
 
       },
@@ -32878,6 +35434,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '5 - 7',
+        courier:    true,
         cost:       1500
 
       },
@@ -32891,6 +35448,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '5 - 7',
+        courier:    true,
         cost:       1500
 
       },
@@ -32904,6 +35462,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '6 - 10',
+        courier:    true,
         cost:       778
 
       },
@@ -32917,6 +35476,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '6 - 10',
+        courier:    true,
         cost:       740
 
       },
@@ -32930,6 +35490,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '6 - 10',
+        courier:    true,
         cost:       740
 
       },
@@ -32943,6 +35504,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '5 - 7',
+        courier:    true,
         cost:       1290
 
       },
@@ -32956,6 +35518,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '5 - 7',
+        courier:    true,
         cost:       1690
 
       },
@@ -32969,6 +35532,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '5 - 7',
+        courier:    true,
         cost:       2190
 
       },
@@ -32982,6 +35546,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '5 - 7',
+        courier:    true,
         cost:       2190
 
       },
@@ -32995,6 +35560,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '5 - 7',
+        courier:    true,
         cost:       1590
 
       },
@@ -33008,6 +35574,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '4 - 6',
+        courier:    true,
         cost:       1890
 
       },
@@ -33021,6 +35588,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '5 - 7',
+        courier:    true,
         cost:       1290
 
       },
@@ -33034,6 +35602,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '4 - 6',
+        courier:    true,
         cost:       1440
 
       },
@@ -33047,6 +35616,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '4 - 6',
+        courier:    true,
         cost:       1890
 
       },
@@ -33060,6 +35630,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '5 - 7',
+        courier:    true,
         cost:       1990
 
       },
@@ -33073,6 +35644,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '4 - 6',
+        courier:    true,
         cost:       2090
 
       },
@@ -33086,6 +35658,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '6 - 8',
+        courier:    true,
         cost:       2390
 
       },
@@ -33099,6 +35672,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '4 - 6',
+        courier:    true,
         cost:       1290
 
       },
@@ -33112,6 +35686,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '5 - 7',
+        courier:    true,
         cost:       2190
 
       },
@@ -33125,6 +35700,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '5 - 7',
+        courier:    true,
         cost:       1890
 
       },
@@ -33138,6 +35714,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '6 - 8',
+        courier:    true,
         cost:       1990
 
       },
@@ -33151,6 +35728,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '4 - 6',
+        courier:    true,
         cost:       1490
 
       },
@@ -33164,6 +35742,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '4 - 6',
+        courier:    true,
         cost:       1790
 
       },
@@ -33177,6 +35756,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '5 - 7',
+        courier:    true,
         cost:       1590
 
       },
@@ -33190,6 +35770,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '5 - 7',
+        courier:    true,
         cost:       2190
 
       },
@@ -33203,6 +35784,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '4 - 6',
+        courier:    true,
         cost:       1290
 
       },
@@ -33216,6 +35798,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '5 - 7',
+        courier:    true,
         cost:       1290
 
       },
@@ -33229,6 +35812,7 @@ module CdekApi
         phone:      '(4752) 475754, 8-953-712-13-14',
         work_time:  'пн-пт 9-18',
         delivery:   '4 - 6',
+        courier:    false,
         cost:       335
 
       },
@@ -33242,6 +35826,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '5 - 7',
+        courier:    true,
         cost:       2190
 
       },
@@ -33255,6 +35840,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '5 - 7',
+        courier:    true,
         cost:       2190
 
       },
@@ -33268,6 +35854,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '6 - 8',
+        courier:    true,
         cost:       2390
 
       },
@@ -33281,6 +35868,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '3 - 5',
+        courier:    true,
         cost:       1180
 
       },
@@ -33294,6 +35882,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '3 - 5',
+        courier:    true,
         cost:       1180
 
       },
@@ -33307,6 +35896,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '3 - 5',
+        courier:    true,
         cost:       1180
 
       },
@@ -33320,6 +35910,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '3 - 5',
+        courier:    true,
         cost:       1180
 
       },
@@ -33333,6 +35924,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '3 - 5',
+        courier:    true,
         cost:       1055
 
       },
@@ -33346,6 +35938,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '3 - 5',
+        courier:    true,
         cost:       1180
 
       },
@@ -33359,6 +35952,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '4 - 6',
+        courier:    true,
         cost:       1180
 
       },
@@ -33372,6 +35966,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '3 - 5',
+        courier:    true,
         cost:       1180
 
       },
@@ -33385,6 +35980,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '3 - 5',
+        courier:    true,
         cost:       1180
 
       },
@@ -33398,6 +35994,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '3 - 5',
+        courier:    true,
         cost:       1180
 
       },
@@ -33411,6 +36008,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '3 - 5',
+        courier:    true,
         cost:       1180
 
       },
@@ -33424,6 +36022,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '3 - 5',
+        courier:    true,
         cost:       1180
 
       },
@@ -33437,6 +36036,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '3 - 5',
+        courier:    true,
         cost:       1180
 
       },
@@ -33450,6 +36050,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '3 - 5',
+        courier:    true,
         cost:       1180
 
       },
@@ -33463,6 +36064,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '3 - 5',
+        courier:    true,
         cost:       1180
 
       },
@@ -33476,6 +36078,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '3 - 5',
+        courier:    true,
         cost:       1180
 
       },
@@ -33489,6 +36092,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '3 - 5',
+        courier:    true,
         cost:       1180
 
       },
@@ -33502,6 +36106,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '3 - 5',
+        courier:    true,
         cost:       1180
 
       },
@@ -33515,6 +36120,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '3 - 5',
+        courier:    true,
         cost:       1180
 
       },
@@ -33528,6 +36134,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '3 - 5',
+        courier:    true,
         cost:       1180
 
       },
@@ -33541,6 +36148,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '3 - 5',
+        courier:    true,
         cost:       1180
 
       },
@@ -33554,6 +36162,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '3 - 5',
+        courier:    true,
         cost:       1180
 
       },
@@ -33567,6 +36176,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '3 - 5',
+        courier:    true,
         cost:       1180
 
       },
@@ -33580,6 +36190,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '3 - 5',
+        courier:    true,
         cost:       1170
 
       },
@@ -33593,6 +36204,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '4 - 6',
+        courier:    true,
         cost:       255
 
       },
@@ -33606,6 +36218,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '3 - 5',
+        courier:    true,
         cost:       1180
 
       },
@@ -33619,6 +36232,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '3 - 6',
+        courier:    true,
         cost:       520
 
       },
@@ -33632,6 +36246,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '3 - 5',
+        courier:    true,
         cost:       1180
 
       },
@@ -33645,6 +36260,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '3 - 5',
+        courier:    true,
         cost:       1000
 
       },
@@ -33658,6 +36274,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '6 - 9',
+        courier:    true,
         cost:       675
 
       },
@@ -33671,6 +36288,7 @@ module CdekApi
         phone:      '8(843) 567-12-34, (843) 567-12-35',
         work_time:  'пн.-пт. 9-18, сб. 10-14',
         delivery:   '4 - 6',
+        courier:    false,
         cost:       335
 
       },
@@ -33684,6 +36302,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '3 - 5',
+        courier:    true,
         cost:       1180
 
       },
@@ -33697,6 +36316,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '3 - 5',
+        courier:    true,
         cost:       1180
 
       },
@@ -33710,6 +36330,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '3 - 5',
+        courier:    true,
         cost:       1180
 
       },
@@ -33723,6 +36344,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '3 - 5',
+        courier:    true,
         cost:       1180
 
       },
@@ -33736,6 +36358,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '3 - 5',
+        courier:    true,
         cost:       1180
 
       },
@@ -33749,6 +36372,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '3 - 5',
+        courier:    true,
         cost:       1055
 
       },
@@ -33762,6 +36386,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '3 - 5',
+        courier:    true,
         cost:       1180
 
       },
@@ -33775,6 +36400,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '3 - 5',
+        courier:    true,
         cost:       1180
 
       },
@@ -33788,6 +36414,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '3 - 5',
+        courier:    true,
         cost:       1180
 
       },
@@ -33801,6 +36428,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '6 - 9',
+        courier:    true,
         cost:       675
 
       },
@@ -33814,6 +36442,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '3 - 5',
+        courier:    true,
         cost:       1180
 
       },
@@ -33827,6 +36456,7 @@ module CdekApi
         phone:      '(8552) 91-90-60',
         work_time:  'пн.-пт. 9-19, сб. 10-14',
         delivery:   '5 - 7',
+        courier:    false,
         cost:       340
 
       },
@@ -33836,10 +36466,11 @@ module CdekApi
 
         code:       153,
         tariff:     137,
-        address:    '',
-        phone:      '',
-        work_time:  '',
+        address:    'Сквер лемаева, д.8, оф.101',
+        phone:      '(8555) 40–64-60',
+        work_time:  'пн.-пт. 9-18, сб. 10-14',
         delivery:   '7 - 9',
+        courier:    true,
         cost:       375
 
       },
@@ -33853,6 +36484,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '3 - 5',
+        courier:    true,
         cost:       1180
 
       },
@@ -33866,6 +36498,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '3 - 5',
+        courier:    true,
         cost:       1180
 
       },
@@ -33879,6 +36512,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '3 - 5',
+        courier:    true,
         cost:       1180
 
       },
@@ -33892,6 +36526,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '5 - 8',
+        courier:    true,
         cost:       745
 
       },
@@ -33905,6 +36540,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '3 - 5',
+        courier:    true,
         cost:       1180
 
       },
@@ -33918,6 +36554,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '3 - 5',
+        courier:    true,
         cost:       1180
 
       },
@@ -33931,6 +36568,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '3 - 5',
+        courier:    true,
         cost:       1180
 
       },
@@ -33944,6 +36582,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '3 - 5',
+        courier:    true,
         cost:       1180
 
       },
@@ -33957,6 +36596,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '6 - 9',
+        courier:    true,
         cost:       675
 
       },
@@ -33970,6 +36610,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '3 - 5',
+        courier:    true,
         cost:       1180
 
       },
@@ -33983,6 +36624,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '3 - 5',
+        courier:    true,
         cost:       1180
 
       },
@@ -33996,6 +36638,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '3 - 5',
+        courier:    true,
         cost:       1180
 
       },
@@ -34009,6 +36652,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '3 - 5',
+        courier:    true,
         cost:       1180
 
       },
@@ -34022,6 +36666,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '3 - 5',
+        courier:    true,
         cost:       1180
 
       },
@@ -34035,6 +36680,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '3 - 5',
+        courier:    true,
         cost:       1180
 
       },
@@ -34048,6 +36694,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '4 - 6',
+        courier:    true,
         cost:       1180
 
       },
@@ -34061,6 +36708,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '6 - 9',
+        courier:    true,
         cost:       745
 
       },
@@ -34074,6 +36722,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '4 - 7',
+        courier:    true,
         cost:       1300
 
       },
@@ -34087,6 +36736,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '3 - 7',
+        courier:    true,
         cost:       1300
 
       },
@@ -34100,6 +36750,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '6 - 9',
+        courier:    true,
         cost:       745
 
       },
@@ -34113,6 +36764,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '4 - 7',
+        courier:    true,
         cost:       1300
 
       },
@@ -34126,6 +36778,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '4 - 7',
+        courier:    true,
         cost:       1300
 
       },
@@ -34139,6 +36792,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '4 - 7',
+        courier:    true,
         cost:       1300
 
       },
@@ -34152,6 +36806,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '6 - 9',
+        courier:    true,
         cost:       745
 
       },
@@ -34165,6 +36820,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '4 - 7',
+        courier:    true,
         cost:       1300
 
       },
@@ -34178,6 +36834,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '6 - 9',
+        courier:    true,
         cost:       745
 
       },
@@ -34191,6 +36848,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '4 - 7',
+        courier:    true,
         cost:       1300
 
       },
@@ -34204,6 +36862,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '6 - 9',
+        courier:    true,
         cost:       745
 
       },
@@ -34217,6 +36876,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '4 - 7',
+        courier:    true,
         cost:       1300
 
       },
@@ -34230,6 +36890,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '6 - 9',
+        courier:    true,
         cost:       745
 
       },
@@ -34243,6 +36904,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '6 - 9',
+        courier:    true,
         cost:       745
 
       },
@@ -34256,6 +36918,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '6 - 9',
+        courier:    true,
         cost:       745
 
       },
@@ -34269,6 +36932,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '5 - 8',
+        courier:    true,
         cost:       945
 
       },
@@ -34282,6 +36946,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '6 - 9',
+        courier:    true,
         cost:       745
 
       },
@@ -34295,6 +36960,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '4 - 7',
+        courier:    true,
         cost:       1300
 
       },
@@ -34308,6 +36974,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '6 - 9',
+        courier:    true,
         cost:       745
 
       },
@@ -34321,6 +36988,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '4 - 7',
+        courier:    true,
         cost:       1300
 
       },
@@ -34334,6 +37002,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '6 - 9',
+        courier:    true,
         cost:       745
 
       },
@@ -34347,6 +37016,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '4 - 7',
+        courier:    true,
         cost:       1175
 
       },
@@ -34360,6 +37030,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '6 - 9',
+        courier:    true,
         cost:       745
 
       },
@@ -34373,6 +37044,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '3 - 7',
+        courier:    true,
         cost:       1175
 
       },
@@ -34386,6 +37058,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '4 - 7',
+        courier:    true,
         cost:       1300
 
       },
@@ -34399,6 +37072,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '6 - 9',
+        courier:    true,
         cost:       745
 
       },
@@ -34412,6 +37086,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '4 - 7',
+        courier:    true,
         cost:       1300
 
       },
@@ -34425,6 +37100,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '6 - 9',
+        courier:    true,
         cost:       745
 
       },
@@ -34438,6 +37114,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '6 - 9',
+        courier:    true,
         cost:       745
 
       },
@@ -34451,6 +37128,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '4 - 7',
+        courier:    true,
         cost:       1300
 
       },
@@ -34464,6 +37142,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '4 - 7',
+        courier:    true,
         cost:       1300
 
       },
@@ -34477,6 +37156,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '4 - 7',
+        courier:    true,
         cost:       1300
 
       },
@@ -34490,6 +37170,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '6 - 9',
+        courier:    true,
         cost:       745
 
       },
@@ -34503,6 +37184,7 @@ module CdekApi
         phone:      '(4822) 76-79-24, 75-03-25',
         work_time:  'пн.-пт. 9-18, сб. 11-15',
         delivery:   '4 - 6',
+        courier:    false,
         cost:       335
 
       },
@@ -34516,6 +37198,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '6 - 9',
+        courier:    true,
         cost:       745
 
       },
@@ -34529,6 +37212,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '6 - 9',
+        courier:    true,
         cost:       745
 
       },
@@ -34542,6 +37226,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '6 - 9',
+        courier:    true,
         cost:       745
 
       },
@@ -34555,6 +37240,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '4 - 7',
+        courier:    true,
         cost:       1300
 
       },
@@ -34568,6 +37254,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '3 - 6',
+        courier:    true,
         cost:       1120
 
       },
@@ -34581,6 +37268,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '4 - 7',
+        courier:    true,
         cost:       1260
 
       },
@@ -34594,6 +37282,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '4 - 7',
+        courier:    true,
         cost:       1260
 
       },
@@ -34607,6 +37296,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '4 - 7',
+        courier:    true,
         cost:       1260
 
       },
@@ -34620,6 +37310,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '4 - 7',
+        courier:    true,
         cost:       1260
 
       },
@@ -34633,6 +37324,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '7 - 11',
+        courier:    true,
         cost:       665
 
       },
@@ -34646,6 +37338,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '4 - 7',
+        courier:    true,
         cost:       1260
 
       },
@@ -34659,6 +37352,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '4 - 7',
+        courier:    true,
         cost:       1260
 
       },
@@ -34672,6 +37366,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '4 - 6',
+        courier:    true,
         cost:       1260
 
       },
@@ -34685,6 +37380,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '4 - 7',
+        courier:    true,
         cost:       1260
 
       },
@@ -34698,6 +37394,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '7 - 11',
+        courier:    true,
         cost:       555
 
       },
@@ -34711,6 +37408,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '4 - 7',
+        courier:    true,
         cost:       1260
 
       },
@@ -34724,6 +37422,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '4 - 7',
+        courier:    true,
         cost:       1260
 
       },
@@ -34737,6 +37436,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '4 - 7',
+        courier:    true,
         cost:       1260
 
       },
@@ -34750,6 +37450,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '7 - 11',
+        courier:    true,
         cost:       555
 
       },
@@ -34763,6 +37464,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '4 - 6',
+        courier:    true,
         cost:       1260
 
       },
@@ -34776,6 +37478,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '4 - 7',
+        courier:    true,
         cost:       1260
 
       },
@@ -34789,6 +37492,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '7 - 11',
+        courier:    true,
         cost:       555
 
       },
@@ -34802,6 +37506,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '4 - 7',
+        courier:    true,
         cost:       1260
 
       },
@@ -34815,6 +37520,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '4 - 7',
+        courier:    true,
         cost:       1260
 
       },
@@ -34828,6 +37534,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '4 - 7',
+        courier:    true,
         cost:       1260
 
       },
@@ -34841,6 +37548,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '4 - 7',
+        courier:    true,
         cost:       1260
 
       },
@@ -34854,6 +37562,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '4 - 7',
+        courier:    true,
         cost:       1260
 
       },
@@ -34867,6 +37576,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '4 - 6',
+        courier:    true,
         cost:       1260
 
       },
@@ -34880,6 +37590,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '7 - 11',
+        courier:    true,
         cost:       555
 
       },
@@ -34893,6 +37604,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '4 - 6',
+        courier:    true,
         cost:       1260
 
       },
@@ -34906,6 +37618,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '4 - 7',
+        courier:    true,
         cost:       1260
 
       },
@@ -34919,6 +37632,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '7 - 11',
+        courier:    true,
         cost:       665
 
       },
@@ -34932,6 +37646,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '7 - 11',
+        courier:    true,
         cost:       555
 
       },
@@ -34945,6 +37660,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '4 - 7',
+        courier:    true,
         cost:       1390
 
       },
@@ -34958,6 +37674,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '4 - 7',
+        courier:    true,
         cost:       1260
 
       },
@@ -34971,6 +37688,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '7 - 11',
+        courier:    true,
         cost:       555
 
       },
@@ -34984,6 +37702,7 @@ module CdekApi
         phone:      '(3822)211848,211948,200548,789560',
         work_time:  'пн.-пт. 9-18, сб. 10-14',
         delivery:   '4 - 6',
+        courier:    false,
         cost:       175
 
       },
@@ -34997,6 +37716,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '6 - 9',
+        courier:    true,
         cost:       885
 
       },
@@ -35010,6 +37730,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '7 - 9',
+        courier:    true,
         cost:       1105
 
       },
@@ -35023,6 +37744,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '7 - 9',
+        courier:    true,
         cost:       1435
 
       },
@@ -35036,6 +37758,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '7 - 9',
+        courier:    true,
         cost:       1270
 
       },
@@ -35049,6 +37772,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '6 - 9',
+        courier:    true,
         cost:       885
 
       },
@@ -35062,6 +37786,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '6 - 9',
+        courier:    true,
         cost:       885
 
       },
@@ -35075,6 +37800,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '7 - 9',
+        courier:    true,
         cost:       1105
 
       },
@@ -35088,6 +37814,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '6 - 9',
+        courier:    true,
         cost:       745
 
       },
@@ -35101,6 +37828,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '6 - 9',
+        courier:    true,
         cost:       885
 
       },
@@ -35114,6 +37842,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '6 - 9',
+        courier:    true,
         cost:       885
 
       },
@@ -35127,6 +37856,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '7 - 9',
+        courier:    true,
         cost:       1435
 
       },
@@ -35140,6 +37870,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '7 - 9',
+        courier:    true,
         cost:       1270
 
       },
@@ -35153,6 +37884,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '6 - 9',
+        courier:    true,
         cost:       885
 
       },
@@ -35166,6 +37898,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '6 - 9',
+        courier:    true,
         cost:       885
 
       },
@@ -35179,6 +37912,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '6 - 9',
+        courier:    true,
         cost:       745
 
       },
@@ -35192,6 +37926,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '6 - 9',
+        courier:    true,
         cost:       735
 
       },
@@ -35205,6 +37940,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '6 - 9',
+        courier:    true,
         cost:       665
 
       },
@@ -35218,6 +37954,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '6 - 9',
+        courier:    true,
         cost:       745
 
       },
@@ -35231,6 +37968,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '6 - 9',
+        courier:    true,
         cost:       885
 
       },
@@ -35244,6 +37982,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '6 - 9',
+        courier:    true,
         cost:       885
 
       },
@@ -35257,6 +37996,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '6 - 9',
+        courier:    true,
         cost:       745
 
       },
@@ -35270,6 +38010,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '6 - 9',
+        courier:    true,
         cost:       885
 
       },
@@ -35283,6 +38024,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '6 - 9',
+        courier:    true,
         cost:       745
 
       },
@@ -35296,6 +38038,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '7 - 9',
+        courier:    true,
         cost:       1105
 
       },
@@ -35309,6 +38052,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '6 - 9',
+        courier:    true,
         cost:       885
 
       },
@@ -35322,6 +38066,7 @@ module CdekApi
         phone:      '(4872) 52-12-42, (953) 197-05-05',
         work_time:  'пн.-пт. 9-19, сб. 10-14',
         delivery:   '4 - 6',
+        courier:    false,
         cost:       335
 
       },
@@ -35335,6 +38080,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '6 - 9',
+        courier:    true,
         cost:       885
 
       },
@@ -35348,6 +38094,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '7 - 9',
+        courier:    true,
         cost:       1105
 
       },
@@ -35361,6 +38108,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '6 - 9',
+        courier:    true,
         cost:       665
 
       },
@@ -35374,6 +38122,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '6 - 9',
+        courier:    true,
         cost:       885
 
       },
@@ -35387,6 +38136,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '8 - 11',
+        courier:    true,
         cost:       1610
 
       },
@@ -35400,6 +38150,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '8 - 11',
+        courier:    true,
         cost:       1610
 
       },
@@ -35413,6 +38164,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '6 - 9',
+        courier:    false,
         cost:       440
 
       },
@@ -35426,6 +38178,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '8 - 11',
+        courier:    true,
         cost:       1610
 
       },
@@ -35439,6 +38192,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '8 - 11',
+        courier:    true,
         cost:       1610
 
       },
@@ -35452,6 +38206,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '8 - 11',
+        courier:    true,
         cost:       1610
 
       },
@@ -35465,6 +38220,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '8 - 11',
+        courier:    true,
         cost:       1610
 
       },
@@ -35478,6 +38234,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '8 - 11',
+        courier:    true,
         cost:       1610
 
       },
@@ -35491,6 +38248,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '8 - 11',
+        courier:    true,
         cost:       1610
 
       },
@@ -35504,6 +38262,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '8 - 11',
+        courier:    true,
         cost:       1610
 
       },
@@ -35517,6 +38276,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '8 - 11',
+        courier:    true,
         cost:       1610
 
       },
@@ -35530,6 +38290,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '8 - 11',
+        courier:    true,
         cost:       1610
 
       },
@@ -35543,6 +38304,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '8 - 11',
+        courier:    true,
         cost:       1610
 
       },
@@ -35556,6 +38318,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '3 - 7',
+        courier:    true,
         cost:       910
 
       },
@@ -35569,6 +38332,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '5 - 8',
+        courier:    true,
         cost:       500
 
       },
@@ -35582,6 +38346,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '3 - 7',
+        courier:    true,
         cost:       910
 
       },
@@ -35595,6 +38360,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '2 - 5',
+        courier:    true,
         cost:       910
 
       },
@@ -35608,6 +38374,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '2 - 5',
+        courier:    true,
         cost:       810
 
       },
@@ -35621,6 +38388,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '2 - 5',
+        courier:    true,
         cost:       910
 
       },
@@ -35634,6 +38402,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '2 - 5',
+        courier:    true,
         cost:       910
 
       },
@@ -35647,6 +38416,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '5 - 8',
+        courier:    true,
         cost:       650
 
       },
@@ -35660,6 +38430,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '2 - 5',
+        courier:    true,
         cost:       910
 
       },
@@ -35673,6 +38444,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '2 - 5',
+        courier:    true,
         cost:       910
 
       },
@@ -35686,6 +38458,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '5 - 8',
+        courier:    true,
         cost:       650
 
       },
@@ -35699,6 +38472,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '2 - 5',
+        courier:    true,
         cost:       910
 
       },
@@ -35712,6 +38486,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '2 - 5',
+        courier:    true,
         cost:       1210
 
       },
@@ -35725,6 +38500,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '2 - 5',
+        courier:    true,
         cost:       910
 
       },
@@ -35738,6 +38514,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '5 - 8',
+        courier:    true,
         cost:       650
 
       },
@@ -35751,6 +38528,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '2 - 5',
+        courier:    true,
         cost:       760
 
       },
@@ -35764,6 +38542,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '2 - 5',
+        courier:    true,
         cost:       910
 
       },
@@ -35777,6 +38556,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '2 - 5',
+        courier:    true,
         cost:       910
 
       },
@@ -35790,6 +38570,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '2 - 4',
+        courier:    true,
         cost:       760
 
       },
@@ -35803,6 +38584,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '2 - 5',
+        courier:    true,
         cost:       910
 
       },
@@ -35816,6 +38598,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '2 - 5',
+        courier:    true,
         cost:       810
 
       },
@@ -35829,6 +38612,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '2 - 4',
+        courier:    true,
         cost:       800
 
       },
@@ -35842,6 +38626,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '2 - 5',
+        courier:    true,
         cost:       910
 
       },
@@ -35855,6 +38640,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '2 - 5',
+        courier:    true,
         cost:       910
 
       },
@@ -35868,6 +38654,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '3 - 5',
+        courier:    true,
         cost:       910
 
       },
@@ -35881,6 +38668,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '2 - 5',
+        courier:    true,
         cost:       910
 
       },
@@ -35894,6 +38682,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '2 - 5',
+        courier:    true,
         cost:       910
 
       },
@@ -35907,6 +38696,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '2 - 5',
+        courier:    true,
         cost:       910
 
       },
@@ -35920,6 +38710,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '3 - 5',
+        courier:    true,
         cost:       910
 
       },
@@ -35933,6 +38724,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '5 - 8',
+        courier:    true,
         cost:       650
 
       },
@@ -35946,6 +38738,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '2 - 5',
+        courier:    true,
         cost:       910
 
       },
@@ -35959,6 +38752,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '5 - 8',
+        courier:    true,
         cost:       650
 
       },
@@ -35972,6 +38766,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '2 - 5',
+        courier:    true,
         cost:       910
 
       },
@@ -35985,6 +38780,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '2 - 4',
+        courier:    true,
         cost:       800
 
       },
@@ -35998,6 +38794,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '5 - 8',
+        courier:    true,
         cost:       610
 
       },
@@ -36011,6 +38808,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '2 - 5',
+        courier:    true,
         cost:       910
 
       },
@@ -36024,6 +38822,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '2 - 5',
+        courier:    true,
         cost:       910
 
       },
@@ -36037,6 +38836,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '2 - 5',
+        courier:    true,
         cost:       910
 
       },
@@ -36050,6 +38850,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '2 - 5',
+        courier:    true,
         cost:       910
 
       },
@@ -36063,6 +38864,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '2 - 5',
+        courier:    true,
         cost:       910
 
       },
@@ -36076,6 +38878,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '2 - 5',
+        courier:    true,
         cost:       810
 
       },
@@ -36089,6 +38892,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '5 - 9',
+        courier:    true,
         cost:       460
 
       },
@@ -36102,6 +38906,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '2 - 4',
+        courier:    true,
         cost:       790
 
       },
@@ -36115,6 +38920,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '5 - 8',
+        courier:    true,
         cost:       650
 
       },
@@ -36128,6 +38934,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '2 - 5',
+        courier:    true,
         cost:       810
 
       },
@@ -36141,6 +38948,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '5 - 8',
+        courier:    true,
         cost:       500
 
       },
@@ -36154,6 +38962,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '5 - 8',
+        courier:    true,
         cost:       500
 
       },
@@ -36167,6 +38976,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '2 - 5',
+        courier:    true,
         cost:       910
 
       },
@@ -36180,6 +38990,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '2 - 3',
+        courier:    true,
         cost:       800
 
       },
@@ -36193,6 +39004,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '2 - 5',
+        courier:    true,
         cost:       910
 
       },
@@ -36206,6 +39018,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '5 - 8',
+        courier:    true,
         cost:       500
 
       },
@@ -36219,6 +39032,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '2 - 5',
+        courier:    true,
         cost:       760
 
       },
@@ -36232,6 +39046,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '3 - 7',
+        courier:    true,
         cost:       910
 
       },
@@ -36245,6 +39060,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '2 - 5',
+        courier:    true,
         cost:       760
 
       },
@@ -36258,6 +39074,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '2 - 5',
+        courier:    true,
         cost:       910
 
       },
@@ -36271,6 +39088,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '5 - 9',
+        courier:    true,
         cost:       760
 
       },
@@ -36284,6 +39102,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '2 - 5',
+        courier:    true,
         cost:       910
 
       },
@@ -36297,6 +39116,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '3 - 7',
+        courier:    true,
         cost:       910
 
       },
@@ -36310,6 +39130,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '2 - 5',
+        courier:    true,
         cost:       760
 
       },
@@ -36323,6 +39144,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '2 - 5',
+        courier:    true,
         cost:       910
 
       },
@@ -36336,6 +39158,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '2 - 5',
+        courier:    true,
         cost:       910
 
       },
@@ -36349,6 +39172,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '5 - 8',
+        courier:    true,
         cost:       500
 
       },
@@ -36362,6 +39186,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '2 - 5',
+        courier:    true,
         cost:       910
 
       },
@@ -36375,6 +39200,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '2 - 5',
+        courier:    true,
         cost:       910
 
       },
@@ -36388,6 +39214,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '2 - 5',
+        courier:    true,
         cost:       910
 
       },
@@ -36401,6 +39228,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '2 - 5',
+        courier:    true,
         cost:       910
 
       },
@@ -36414,6 +39242,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '5 - 8',
+        courier:    true,
         cost:       500
 
       },
@@ -36427,6 +39256,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '2 - 5',
+        courier:    true,
         cost:       910
 
       },
@@ -36440,6 +39270,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '2 - 5',
+        courier:    true,
         cost:       910
 
       },
@@ -36453,6 +39284,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '2 - 5',
+        courier:    true,
         cost:       910
 
       },
@@ -36466,6 +39298,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '2 - 5',
+        courier:    true,
         cost:       910
 
       },
@@ -36479,6 +39312,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '2 - 5',
+        courier:    true,
         cost:       910
 
       },
@@ -36492,6 +39326,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '2 - 5',
+        courier:    true,
         cost:       810
 
       },
@@ -36501,10 +39336,11 @@ module CdekApi
 
         code:       252,
         tariff:     62,
-        address:    'Дзержинского пер, д.15, оф.101, 1этаж (напротив банка втб',
+        address:    'Дзержинского ул, д.15, оф.103 (вход с ул.сакко)',
         phone:      '(3452) 560-999; доб. 7203, 7204 ',
         work_time:  'пн.-пт. 9-19, сб 10-14',
         delivery:   '1 - 2',
+        courier:    false,
         cost:       145
 
       },
@@ -36518,6 +39354,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '2 - 5',
+        courier:    true,
         cost:       910
 
       },
@@ -36531,6 +39368,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '3 - 5',
+        courier:    true,
         cost:       910
 
       },
@@ -36544,6 +39382,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '3 - 7',
+        courier:    true,
         cost:       910
 
       },
@@ -36557,6 +39396,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '2 - 5',
+        courier:    true,
         cost:       910
 
       },
@@ -36570,6 +39410,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '2 - 5',
+        courier:    true,
         cost:       910
 
       },
@@ -36583,6 +39424,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '2 - 4',
+        courier:    true,
         cost:       800
 
       },
@@ -36596,6 +39438,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '2 - 5',
+        courier:    true,
         cost:       910
 
       },
@@ -36609,6 +39452,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '2 - 5',
+        courier:    true,
         cost:       910
 
       },
@@ -36622,6 +39466,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '2 - 5',
+        courier:    true,
         cost:       810
 
       },
@@ -36635,6 +39480,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '2 - 5',
+        courier:    true,
         cost:       910
 
       },
@@ -36648,6 +39494,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '2 - 4',
+        courier:    true,
         cost:       800
 
       },
@@ -36661,6 +39508,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '4 - 6',
+        courier:    true,
         cost:       1500
 
       },
@@ -36674,6 +39522,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '6 - 9',
+        courier:    true,
         cost:       570
 
       },
@@ -36687,6 +39536,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '6 - 9',
+        courier:    true,
         cost:       570
 
       },
@@ -36700,6 +39550,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '6 - 9',
+        courier:    true,
         cost:       570
 
       },
@@ -36713,6 +39564,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '6 - 9',
+        courier:    true,
         cost:       570
 
       },
@@ -36726,6 +39578,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '6 - 9',
+        courier:    true,
         cost:       570
 
       },
@@ -36739,6 +39592,7 @@ module CdekApi
         phone:      '(3412)655-023, 655-024',
         work_time:  'пн.-пт. 9-18, сб. 10-14',
         delivery:   '4 - 7',
+        courier:    false,
         cost:       335
 
       },
@@ -36752,6 +39606,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '4 - 6',
+        courier:    true,
         cost:       1500
 
       },
@@ -36765,6 +39620,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '4 - 6',
+        courier:    true,
         cost:       1500
 
       },
@@ -36778,6 +39634,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '6 - 9',
+        courier:    true,
         cost:       570
 
       },
@@ -36791,6 +39648,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '6 - 9',
+        courier:    true,
         cost:       570
 
       },
@@ -36804,6 +39662,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '6 - 9',
+        courier:    true,
         cost:       570
 
       },
@@ -36817,6 +39676,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '6 - 9',
+        courier:    true,
         cost:       570
 
       },
@@ -36830,6 +39690,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '6 - 9',
+        courier:    true,
         cost:       570
 
       },
@@ -36843,6 +39704,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '4 - 6',
+        courier:    true,
         cost:       1500
 
       },
@@ -36856,6 +39718,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '5 - 7',
+        courier:    true,
         cost:       1180
 
       },
@@ -36869,6 +39732,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '5 - 7',
+        courier:    true,
         cost:       1180
 
       },
@@ -36882,6 +39746,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '5 - 7',
+        courier:    true,
         cost:       1180
 
       },
@@ -36895,6 +39760,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '5 - 7',
+        courier:    true,
         cost:       1180
 
       },
@@ -36908,6 +39774,7 @@ module CdekApi
         phone:      '(84235) 9-11-44',
         work_time:  'пн.-пт. 9-18, сб. 9-14',
         delivery:   '4 - 6',
+        courier:    false,
         cost:       340
 
       },
@@ -36921,6 +39788,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '5 - 7',
+        courier:    true,
         cost:       1180
 
       },
@@ -36934,6 +39802,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '5 - 7',
+        courier:    true,
         cost:       1180
 
       },
@@ -36947,6 +39816,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '5 - 7',
+        courier:    true,
         cost:       1180
 
       },
@@ -36960,6 +39830,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '5 - 7',
+        courier:    true,
         cost:       1180
 
       },
@@ -36973,6 +39844,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '5 - 7',
+        courier:    true,
         cost:       1180
 
       },
@@ -36986,6 +39858,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '5 - 7',
+        courier:    true,
         cost:       1180
 
       },
@@ -36999,6 +39872,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '5 - 7',
+        courier:    true,
         cost:       1180
 
       },
@@ -37012,6 +39886,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '5 - 7',
+        courier:    true,
         cost:       1180
 
       },
@@ -37025,6 +39900,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '5 - 7',
+        courier:    true,
         cost:       1180
 
       },
@@ -37038,6 +39914,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '5 - 7',
+        courier:    true,
         cost:       1180
 
       },
@@ -37051,6 +39928,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '5 - 7',
+        courier:    true,
         cost:       1180
 
       },
@@ -37064,6 +39942,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '5 - 7',
+        courier:    true,
         cost:       1180
 
       },
@@ -37077,6 +39956,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '5 - 7',
+        courier:    true,
         cost:       1180
 
       },
@@ -37090,6 +39970,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '5 - 7',
+        courier:    true,
         cost:       1180
 
       },
@@ -37103,6 +39984,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '5 - 7',
+        courier:    true,
         cost:       1180
 
       },
@@ -37116,6 +39998,7 @@ module CdekApi
         phone:      '(8422) 72-83-81 ',
         work_time:  'пн.-пт. 9-18',
         delivery:   '5 - 7',
+        courier:    false,
         cost:       340
 
       },
@@ -37129,6 +40012,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '5 - 7',
+        courier:    true,
         cost:       1180
 
       },
@@ -37142,6 +40026,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '5 - 7',
+        courier:    true,
         cost:       1180
 
       },
@@ -37155,6 +40040,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '5 - 13',
+        courier:    true,
         cost:       1700
 
       },
@@ -37168,6 +40054,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '4 - 12',
+        courier:    true,
         cost:       1930
 
       },
@@ -37181,6 +40068,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '4 - 12',
+        courier:    true,
         cost:       1930
 
       },
@@ -37194,6 +40082,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '4 - 12',
+        courier:    true,
         cost:       1930
 
       },
@@ -37207,6 +40096,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '4 - 8',
+        courier:    true,
         cost:       1930
 
       },
@@ -37220,6 +40110,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '4 - 7',
+        courier:    true,
         cost:       1860
 
       },
@@ -37233,6 +40124,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '4 - 12',
+        courier:    true,
         cost:       1930
 
       },
@@ -37246,6 +40138,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '4 - 8',
+        courier:    true,
         cost:       1930
 
       },
@@ -37259,6 +40152,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '4 - 12',
+        courier:    true,
         cost:       1930
 
       },
@@ -37272,6 +40166,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '4 - 12',
+        courier:    true,
         cost:       1930
 
       },
@@ -37285,6 +40180,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '4 - 12',
+        courier:    true,
         cost:       1930
 
       },
@@ -37298,6 +40194,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '4 - 12',
+        courier:    true,
         cost:       1930
 
       },
@@ -37311,6 +40208,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '4 - 12',
+        courier:    true,
         cost:       1930
 
       },
@@ -37324,6 +40222,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '6 - 12',
+        courier:    true,
         cost:       2190
 
       },
@@ -37337,6 +40236,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '4 - 12',
+        courier:    true,
         cost:       1930
 
       },
@@ -37350,6 +40250,7 @@ module CdekApi
         phone:      '(4217) 300052',
         work_time:  'пн.-пт. 9:00-18:00, обед с 12:00-13:00',
         delivery:   '5 - 8',
+        courier:    false,
         cost:       415
 
       },
@@ -37363,6 +40264,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '4 - 12',
+        courier:    true,
         cost:       1930
 
       },
@@ -37376,6 +40278,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '4 - 12',
+        courier:    true,
         cost:       1930
 
       },
@@ -37389,6 +40292,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '4 - 8',
+        courier:    true,
         cost:       1930
 
       },
@@ -37402,6 +40306,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '4 - 12',
+        courier:    true,
         cost:       1930
 
       },
@@ -37415,6 +40320,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '4 - 12',
+        courier:    true,
         cost:       1930
 
       },
@@ -37428,6 +40334,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '4 - 12',
+        courier:    true,
         cost:       1930
 
       },
@@ -37441,6 +40348,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '3 - 5',
+        courier:    true,
         cost:       1540
 
       },
@@ -37454,6 +40362,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '4 - 12',
+        courier:    true,
         cost:       1930
 
       },
@@ -37467,6 +40376,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '4 - 12',
+        courier:    true,
         cost:       1860
 
       },
@@ -37480,6 +40390,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '4 - 12',
+        courier:    true,
         cost:       1930
 
       },
@@ -37493,6 +40404,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '5 - 12',
+        courier:    true,
         cost:       1930
 
       },
@@ -37506,6 +40418,7 @@ module CdekApi
         phone:      '(4212) 465-015, 465 -016, 623-312',
         work_time:  'пн.-пт. 9-18, сб. 10-14',
         delivery:   '5 - 7',
+        courier:    false,
         cost:       415
 
       },
@@ -37519,6 +40432,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '4 - 12',
+        courier:    true,
         cost:       1930
 
       },
@@ -37532,6 +40446,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '4 - 12',
+        courier:    true,
         cost:       2130
 
       },
@@ -37545,6 +40460,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '4 - 8',
+        courier:    true,
         cost:       1930
 
       },
@@ -37558,6 +40474,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '7 - 13',
+        courier:    true,
         cost:       2190
 
       },
@@ -37571,6 +40488,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '5 - 10',
+        courier:    true,
         cost:       1880
 
       },
@@ -37584,6 +40502,7 @@ module CdekApi
         phone:      '+7 (3902) 32-03-24; +79532590324',
         work_time:  'пн.-пт. 9-18',
         delivery:   '6 - 8',
+        courier:    false,
         cost:       415
 
       },
@@ -37597,6 +40516,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '7 - 11',
+        courier:    true,
         cost:       1415
 
       },
@@ -37610,6 +40530,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '7 - 11',
+        courier:    true,
         cost:       715
 
       },
@@ -37623,6 +40544,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '5 - 8',
+        courier:    true,
         cost:       1700
 
       },
@@ -37636,6 +40558,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '5 - 8',
+        courier:    true,
         cost:       1700
 
       },
@@ -37649,6 +40572,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '5 - 8',
+        courier:    true,
         cost:       1700
 
       },
@@ -37662,6 +40586,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '6 - 10',
+        courier:    true,
         cost:       915
 
       },
@@ -37675,6 +40600,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '7 - 11',
+        courier:    true,
         cost:       905
 
       },
@@ -37688,6 +40614,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '7 - 11',
+        courier:    true,
         cost:       1615
 
       },
@@ -37701,6 +40628,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '7 - 11',
+        courier:    true,
         cost:       715
 
       },
@@ -37714,6 +40642,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '7 - 11',
+        courier:    true,
         cost:       1315
 
       },
@@ -37727,6 +40656,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '5 - 8',
+        courier:    true,
         cost:       1700
 
       },
@@ -37740,6 +40670,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '7 - 11',
+        courier:    true,
         cost:       715
 
       },
@@ -37753,6 +40684,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '5 - 8',
+        courier:    true,
         cost:       1700
 
       },
@@ -37766,6 +40698,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '7 - 11',
+        courier:    true,
         cost:       895
 
       },
@@ -37779,6 +40712,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '4 - 6',
+        courier:    true,
         cost:       1720
 
       },
@@ -37792,6 +40726,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '7 - 11',
+        courier:    true,
         cost:       895
 
       },
@@ -37805,6 +40740,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '5 - 8',
+        courier:    true,
         cost:       1720
 
       },
@@ -37818,6 +40754,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '6 - 9',
+        courier:    true,
         cost:       1910
 
       },
@@ -37831,6 +40768,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '6 - 10',
+        courier:    true,
         cost:       895
 
       },
@@ -37844,6 +40782,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '4 - 7',
+        courier:    true,
         cost:       1480
 
       },
@@ -37857,6 +40796,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '6 - 10',
+        courier:    true,
         cost:       1830
 
       },
@@ -37870,6 +40810,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '3 - 6',
+        courier:    true,
         cost:       1490
 
       },
@@ -37883,6 +40824,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '4 - 7',
+        courier:    true,
         cost:       1440
 
       },
@@ -37896,6 +40838,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '3 - 6',
+        courier:    true,
         cost:       1440
 
       },
@@ -37909,6 +40852,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '7 - 11',
+        courier:    true,
         cost:       1415
 
       },
@@ -37922,6 +40866,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '8 - 12',
+        courier:    true,
         cost:       1065
 
       },
@@ -37935,6 +40880,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '7 - 12',
+        courier:    true,
         cost:       895
 
       },
@@ -37948,6 +40894,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '6 - 10',
+        courier:    true,
         cost:       1830
 
       },
@@ -37961,6 +40908,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '6 - 10',
+        courier:    true,
         cost:       1065
 
       },
@@ -37974,6 +40922,7 @@ module CdekApi
         phone:      '(3466)410-887, 8 912 938 82 39',
         work_time:  'пн.-пт. 9-18, сб. 10-14',
         delivery:   '5 - 9',
+        courier:    false,
         cost:       415
 
       },
@@ -37987,6 +40936,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '3 - 5',
+        courier:    true,
         cost:       1580
 
       },
@@ -38000,6 +40950,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '5 - 8',
+        courier:    true,
         cost:       1930
 
       },
@@ -38013,6 +40964,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '7 - 11',
+        courier:    true,
         cost:       495
 
       },
@@ -38026,6 +40978,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '5 - 8',
+        courier:    true,
         cost:       1930
 
       },
@@ -38039,6 +40992,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '6 - 11',
+        courier:    true,
         cost:       1265
 
       },
@@ -38052,6 +41006,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '8 - 12',
+        courier:    true,
         cost:       895
 
       },
@@ -38065,6 +41020,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '4 - 8',
+        courier:    true,
         cost:       2310
 
       },
@@ -38078,6 +41034,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '3 - 5',
+        courier:    true,
         cost:       1580
 
       },
@@ -38091,6 +41048,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '7 - 12',
+        courier:    true,
         cost:       945
 
       },
@@ -38104,6 +41062,7 @@ module CdekApi
         phone:      '(3462) 44-21-31',
         work_time:  'пн.-пт. 9-21, сб. 10-19, вс. 12-17',
         delivery:   '5 - 7',
+        courier:    false,
         cost:       415
 
       },
@@ -38117,6 +41076,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '3 - 5',
+        courier:    true,
         cost:       1580
 
       },
@@ -38130,6 +41090,7 @@ module CdekApi
         phone:      '(3467)322-311',
         work_time:  'пн.-пт. 9-18',
         delivery:   '6 - 8',
+        courier:    false,
         cost:       415
 
       },
@@ -38143,6 +41104,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '5 - 8',
+        courier:    true,
         cost:       1730
 
       },
@@ -38156,6 +41118,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '2 - 3',
+        courier:    true,
         cost:       410
 
       },
@@ -38169,6 +41132,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '2 - 3',
+        courier:    true,
         cost:       410
 
       },
@@ -38182,6 +41146,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '2 - 3',
+        courier:    true,
         cost:       410
 
       },
@@ -38195,6 +41160,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '3 - 5',
+        courier:    true,
         cost:       625
 
       },
@@ -38208,6 +41174,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '2 - 3',
+        courier:    true,
         cost:       300
 
       },
@@ -38221,6 +41188,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '2 - 3',
+        courier:    true,
         cost:       410
 
       },
@@ -38234,6 +41202,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '6 - 9',
+        courier:    true,
         cost:       535
 
       },
@@ -38247,6 +41216,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '2 - 3',
+        courier:    true,
         cost:       410
 
       },
@@ -38260,6 +41230,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '2 - 3',
+        courier:    true,
         cost:       410
 
       },
@@ -38273,6 +41244,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '6 - 9',
+        courier:    true,
         cost:       535
 
       },
@@ -38286,6 +41258,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '2 - 3',
+        courier:    true,
         cost:       300
 
       },
@@ -38299,6 +41272,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '2 - 3',
+        courier:    true,
         cost:       410
 
       },
@@ -38312,6 +41286,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '2 - 3',
+        courier:    true,
         cost:       410
 
       },
@@ -38325,6 +41300,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '2 - 3',
+        courier:    true,
         cost:       410
 
       },
@@ -38338,6 +41314,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '2 - 3',
+        courier:    true,
         cost:       410
 
       },
@@ -38351,6 +41328,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '2 - 3',
+        courier:    true,
         cost:       410
 
       },
@@ -38364,6 +41342,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '2 - 3',
+        courier:    true,
         cost:       410
 
       },
@@ -38377,6 +41356,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '2 - 3',
+        courier:    true,
         cost:       330
 
       },
@@ -38390,6 +41370,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '2 - 3',
+        courier:    true,
         cost:       410
 
       },
@@ -38403,6 +41384,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '2 - 3',
+        courier:    true,
         cost:       410
 
       },
@@ -38416,6 +41398,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '2 - 3',
+        courier:    true,
         cost:       410
 
       },
@@ -38429,6 +41412,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '2 - 3',
+        courier:    true,
         cost:       410
 
       },
@@ -38442,6 +41426,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '2 - 3',
+        courier:    true,
         cost:       410
 
       },
@@ -38455,6 +41440,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '2 - 3',
+        courier:    true,
         cost:       410
 
       },
@@ -38468,6 +41454,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '2 - 3',
+        courier:    true,
         cost:       410
 
       },
@@ -38481,6 +41468,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '2 - 3',
+        courier:    true,
         cost:       410
 
       },
@@ -38494,6 +41482,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '2 - 3',
+        courier:    true,
         cost:       410
 
       },
@@ -38507,6 +41496,7 @@ module CdekApi
         phone:      '+7(3513)672-190; +7-922-016-07-04',
         work_time:  'пн.-пт. 8.30-19.30, сб. 8.30-17',
         delivery:   '1 - 2',
+        courier:    false,
         cost:       120
 
       },
@@ -38520,6 +41510,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '2 - 3',
+        courier:    true,
         cost:       410
 
       },
@@ -38533,6 +41524,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '2 - 3',
+        courier:    true,
         cost:       410
 
       },
@@ -38546,6 +41538,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '2 - 3',
+        courier:    true,
         cost:       410
 
       },
@@ -38559,6 +41552,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '2 - 3',
+        courier:    true,
         cost:       410
 
       },
@@ -38572,6 +41566,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '2 - 3',
+        courier:    true,
         cost:       410
 
       },
@@ -38585,6 +41580,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '2 - 3',
+        courier:    true,
         cost:       410
 
       },
@@ -38598,6 +41594,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '2 - 3',
+        courier:    true,
         cost:       410
 
       },
@@ -38611,6 +41608,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '2 - 3',
+        courier:    true,
         cost:       410
 
       },
@@ -38624,6 +41622,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '2 - 3',
+        courier:    true,
         cost:       410
 
       },
@@ -38637,6 +41636,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '2 - 3',
+        courier:    true,
         cost:       410
 
       },
@@ -38650,6 +41650,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '2 - 3',
+        courier:    true,
         cost:       410
 
       },
@@ -38663,6 +41664,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '2 - 3',
+        courier:    true,
         cost:       410
 
       },
@@ -38676,6 +41678,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '2 - 3',
+        courier:    true,
         cost:       410
 
       },
@@ -38689,6 +41692,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '2 - 3',
+        courier:    true,
         cost:       410
 
       },
@@ -38702,6 +41706,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '5 - 8',
+        courier:    true,
         cost:       490
 
       },
@@ -38715,6 +41720,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '2 - 3',
+        courier:    true,
         cost:       410
 
       },
@@ -38728,6 +41734,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '2 - 3',
+        courier:    true,
         cost:       410
 
       },
@@ -38741,6 +41748,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '2 - 3',
+        courier:    true,
         cost:       410
 
       },
@@ -38754,6 +41762,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '2 - 3',
+        courier:    true,
         cost:       410
 
       },
@@ -38767,6 +41776,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '1 - 2',
+        courier:    true,
         cost:       410
 
       },
@@ -38780,6 +41790,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '2 - 3',
+        courier:    true,
         cost:       410
 
       },
@@ -38793,6 +41804,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '2 - 3',
+        courier:    true,
         cost:       410
 
       },
@@ -38806,6 +41818,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '2 - 3',
+        courier:    true,
         cost:       410
 
       },
@@ -38819,6 +41832,7 @@ module CdekApi
         phone:      '8(951) 124 73 07',
         work_time:  'пн-пт с 9-18',
         delivery:   '1 - 2',
+        courier:    false,
         cost:       120
 
       },
@@ -38832,6 +41846,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '2 - 3',
+        courier:    true,
         cost:       410
 
       },
@@ -38845,6 +41860,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '2 - 3',
+        courier:    true,
         cost:       410
 
       },
@@ -38858,6 +41874,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '2 - 3',
+        courier:    true,
         cost:       410
 
       },
@@ -38871,6 +41888,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '2 - 3',
+        courier:    true,
         cost:       410
 
       },
@@ -38884,6 +41902,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '2 - 3',
+        courier:    true,
         cost:       410
 
       },
@@ -38897,6 +41916,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '2 - 3',
+        courier:    true,
         cost:       410
 
       },
@@ -38910,6 +41930,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '2 - 3',
+        courier:    true,
         cost:       410
 
       },
@@ -38923,6 +41944,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '2 - 3',
+        courier:    true,
         cost:       410
 
       },
@@ -38936,6 +41958,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '2 - 3',
+        courier:    true,
         cost:       410
 
       },
@@ -38949,6 +41972,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '2 - 3',
+        courier:    true,
         cost:       410
 
       },
@@ -38962,6 +41986,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '5 - 8',
+        courier:    true,
         cost:       490
 
       },
@@ -38975,6 +42000,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '2 - 3',
+        courier:    true,
         cost:       410
 
       },
@@ -38988,6 +42014,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '2 - 3',
+        courier:    true,
         cost:       410
 
       },
@@ -39001,6 +42028,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '2 - 3',
+        courier:    true,
         cost:       410
 
       },
@@ -39014,6 +42042,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '2 - 3',
+        courier:    true,
         cost:       410
 
       },
@@ -39027,6 +42056,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '2 - 3',
+        courier:    true,
         cost:       410
 
       },
@@ -39040,6 +42070,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '2 - 3',
+        courier:    true,
         cost:       410
 
       },
@@ -39053,6 +42084,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '6 - 9',
+        courier:    true,
         cost:       535
 
       },
@@ -39066,6 +42098,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '2 - 3',
+        courier:    true,
         cost:       410
 
       },
@@ -39079,6 +42112,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '2 - 3',
+        courier:    true,
         cost:       410
 
       },
@@ -39092,6 +42126,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '2 - 3',
+        courier:    true,
         cost:       410
 
       },
@@ -39105,6 +42140,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '2 - 3',
+        courier:    true,
         cost:       410
 
       },
@@ -39118,6 +42154,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '2 - 3',
+        courier:    true,
         cost:       410
 
       },
@@ -39131,6 +42168,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '6 - 9',
+        courier:    true,
         cost:       535
 
       },
@@ -39144,6 +42182,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '2 - 3',
+        courier:    true,
         cost:       220
 
       },
@@ -39157,6 +42196,7 @@ module CdekApi
         phone:      '(351) 225-01-84',
         work_time:  'пн.-пт. 9-20, сб.-вс. 9-18',
         delivery:   '1 - 2',
+        courier:    false,
         cost:       85
 
       },
@@ -39170,6 +42210,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '2 - 3',
+        courier:    true,
         cost:       410
 
       },
@@ -39183,6 +42224,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '2 - 3',
+        courier:    true,
         cost:       295
 
       },
@@ -39196,6 +42238,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '2 - 3',
+        courier:    true,
         cost:       410
 
       },
@@ -39209,6 +42252,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '2 - 3',
+        courier:    true,
         cost:       410
 
       },
@@ -39222,6 +42266,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '6 - 8',
+        courier:    true,
         cost:       1330
 
       },
@@ -39235,6 +42280,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '8 - 14',
+        courier:    true,
         cost:       2200
 
       },
@@ -39248,6 +42294,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '4 - 7',
+        courier:    true,
         cost:       1510
 
       },
@@ -39261,6 +42308,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '4 - 7',
+        courier:    true,
         cost:       1510
 
       },
@@ -39274,6 +42322,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '4 - 7',
+        courier:    true,
         cost:       1510
 
       },
@@ -39287,6 +42336,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '4 - 7',
+        courier:    true,
         cost:       1510
 
       },
@@ -39300,6 +42350,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '4 - 7',
+        courier:    true,
         cost:       1510
 
       },
@@ -39313,6 +42364,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '4 - 7',
+        courier:    true,
         cost:       1510
 
       },
@@ -39326,6 +42378,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '4 - 7',
+        courier:    true,
         cost:       1510
 
       },
@@ -39339,6 +42392,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '4 - 7',
+        courier:    true,
         cost:       1510
 
       },
@@ -39352,6 +42406,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '4 - 7',
+        courier:    true,
         cost:       1510
 
       },
@@ -39365,6 +42420,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '4 - 7',
+        courier:    true,
         cost:       1510
 
       },
@@ -39378,6 +42434,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '4 - 7',
+        courier:    true,
         cost:       1510
 
       },
@@ -39391,6 +42448,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '4 - 7',
+        courier:    true,
         cost:       1510
 
       },
@@ -39404,6 +42462,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '4 - 7',
+        courier:    true,
         cost:       1310
 
       },
@@ -39417,6 +42476,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '4 - 7',
+        courier:    true,
         cost:       1510
 
       },
@@ -39430,6 +42490,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '4 - 7',
+        courier:    true,
         cost:       1510
 
       },
@@ -39443,6 +42504,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '4 - 7',
+        courier:    true,
         cost:       1510
 
       },
@@ -39456,6 +42518,7 @@ module CdekApi
         phone:      '(8352)64-17-30,677-678,211-444',
         work_time:  'пн.-пт. 9-18, сб. 11-15',
         delivery:   '4 - 6',
+        courier:    false,
         cost:       335
 
       },
@@ -39469,6 +42532,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '4 - 7',
+        courier:    true,
         cost:       1510
 
       },
@@ -39482,6 +42546,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '4 - 7',
+        courier:    true,
         cost:       1510
 
       },
@@ -39495,6 +42560,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '4 - 7',
+        courier:    true,
         cost:       1510
 
       },
@@ -39508,6 +42574,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '4 - 7',
+        courier:    true,
         cost:       1510
 
       },
@@ -39521,6 +42588,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '4 - 7',
+        courier:    true,
         cost:       1510
 
       },
@@ -39534,6 +42602,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '4 - 7',
+        courier:    true,
         cost:       1510
 
       },
@@ -39547,6 +42616,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '9 - 11',
+        courier:    true,
         cost:       2200
 
       },
@@ -39560,6 +42630,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '12 - 30',
+        courier:    true,
         cost:       3040
 
       },
@@ -39573,6 +42644,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '12 - 30',
+        courier:    true,
         cost:       3040
 
       },
@@ -39586,6 +42658,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '12 - 30',
+        courier:    true,
         cost:       3040
 
       },
@@ -39599,6 +42672,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '12 - 30',
+        courier:    true,
         cost:       3040
 
       },
@@ -39612,6 +42686,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '12 - 30',
+        courier:    true,
         cost:       3040
 
       },
@@ -39625,6 +42700,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '4 - 6',
+        courier:    true,
         cost:       1930
 
       },
@@ -39638,6 +42714,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '4 - 7',
+        courier:    true,
         cost:       1720
 
       },
@@ -39651,6 +42728,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '5 - 9',
+        courier:    true,
         cost:       1830
 
       },
@@ -39664,6 +42742,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '6 - 8',
+        courier:    true,
         cost:       1930
 
       },
@@ -39677,6 +42756,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '6 - 10',
+        courier:    true,
         cost:       1830
 
       },
@@ -39690,6 +42770,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '4 - 6',
+        courier:    true,
         cost:       1720
 
       },
@@ -39703,6 +42784,7 @@ module CdekApi
         phone:      '+7 (3499)597897,  8-951-992-9282',
         work_time:  'пн.-пт. 9-18, обед с 12:30 до 14:00',
         delivery:   '7 - 10',
+        courier:    false,
         cost:       415
 
       },
@@ -39716,6 +42798,7 @@ module CdekApi
         phone:      '(3494) 24-50-59, 24-50-77',
         work_time:  'пн.-пт. 9-18, сб. 10-14',
         delivery:   '7 - 10',
+        courier:    true,
         cost:       660
 
       },
@@ -39729,6 +42812,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '3 - 6',
+        courier:    true,
         cost:       1480
 
       },
@@ -39742,6 +42826,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '6 - 10',
+        courier:    true,
         cost:       1405
 
       },
@@ -39755,6 +42840,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '6 - 11',
+        courier:    true,
         cost:       1135
 
       },
@@ -39768,6 +42854,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '4 - 6',
+        courier:    true,
         cost:       1720
 
       },
@@ -39781,6 +42868,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '4 - 6',
+        courier:    true,
         cost:       1720
 
       },
@@ -39794,6 +42882,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '3 - 5',
+        courier:    true,
         cost:       1110
 
       },
@@ -39807,6 +42896,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '6 - 11',
+        courier:    true,
         cost:       855
 
       },
@@ -39820,6 +42910,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '4 - 6',
+        courier:    true,
         cost:       1720
 
       },
@@ -39833,6 +42924,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '4 - 7',
+        courier:    true,
         cost:       1580
 
       },
@@ -39846,6 +42938,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '4 - 6',
+        courier:    true,
         cost:       2460
 
       },
@@ -39859,6 +42952,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '4 - 6',
+        courier:    true,
         cost:       2460
 
       },
@@ -39871,8 +42965,9 @@ module CdekApi
         address:    '',
         phone:      '',
         work_time:  '',
-        delivery:   '4 - 6',
-        cost:       2460
+        delivery:   '5 - 11',
+        courier:    true,
+        cost:       1610
 
       },
 
@@ -39885,6 +42980,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '6 - 9',
+        courier:    true,
         cost:       745
 
       },
@@ -39898,6 +42994,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '6 - 9',
+        courier:    true,
         cost:       745
 
       },
@@ -39911,6 +43008,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '6 - 9',
+        courier:    true,
         cost:       745
 
       },
@@ -39924,6 +43022,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '4 - 6',
+        courier:    true,
         cost:       1300
 
       },
@@ -39937,6 +43036,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '6 - 9',
+        courier:    true,
         cost:       745
 
       },
@@ -39950,6 +43050,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '6 - 9',
+        courier:    true,
         cost:       745
 
       },
@@ -39963,6 +43064,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '6 - 9',
+        courier:    true,
         cost:       745
 
       },
@@ -39976,6 +43078,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '6 - 9',
+        courier:    true,
         cost:       745
 
       },
@@ -39989,6 +43092,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '6 - 9',
+        courier:    true,
         cost:       745
 
       },
@@ -40002,6 +43106,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '6 - 9',
+        courier:    true,
         cost:       675
 
       },
@@ -40015,6 +43120,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '4 - 6',
+        courier:    true,
         cost:       1300
 
       },
@@ -40028,6 +43134,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '6 - 9',
+        courier:    true,
         cost:       745
 
       },
@@ -40041,6 +43148,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '4 - 6',
+        courier:    true,
         cost:       1300
 
       },
@@ -40054,6 +43162,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '6 - 9',
+        courier:    true,
         cost:       745
 
       },
@@ -40067,6 +43176,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '6 - 9',
+        courier:    true,
         cost:       745
 
       },
@@ -40080,6 +43190,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '4 - 6',
+        courier:    true,
         cost:       1300
 
       },
@@ -40093,6 +43204,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '4 - 6',
+        courier:    true,
         cost:       1300
 
       },
@@ -40102,10 +43214,11 @@ module CdekApi
 
         code:       147,
         tariff:     137,
-        address:    '',
-        phone:      '',
-        work_time:  '',
+        address:    'Серова пр-кт, д.1',
+        phone:      '(4852)732322; 89301323810',
+        work_time:  'пн.-пт. 9-17',
         delivery:   '6 - 9',
+        courier:    true,
         cost:       745
 
       },
@@ -40119,6 +43232,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '6 - 9',
+        courier:    true,
         cost:       745
 
       },
@@ -40132,6 +43246,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '6 - 9',
+        courier:    true,
         cost:       745
 
       },
@@ -40145,6 +43260,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '6 - 9',
+        courier:    true,
         cost:       745
 
       },
@@ -40158,6 +43274,7 @@ module CdekApi
         phone:      '',
         work_time:  '',
         delivery:   '6 - 9',
+        courier:    true,
         cost:       745
 
       },
@@ -40171,6 +43288,7 @@ module CdekApi
         phone:      '(4852) 45-15-25, 42-95-85',
         work_time:  'пн.-чт. 9-17, пт. 9-16',
         delivery:   '4 - 6',
+        courier:    false,
         cost:       335
 
       }
