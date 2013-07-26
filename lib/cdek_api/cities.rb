@@ -15065,7 +15065,7 @@ module CdekApi
         work_time:  'пн.-пт. 10-18',
         delivery:   '3 - 5',
         courier:    false,
-        cost:       640
+        cost:       600
 
       },
 

@@ -64,7 +64,10 @@ module CdekApi
 
             data = ::CdekApi.best_tariff(code)
 
-            if data
+            unless data
+              not_found += 1
+              puts "Not found tariff: [#{code}] #{city_name} -> #{postcode}"
+            else
 
               tariff   = data[:tariff] || 0
               delivery = "#{data[:min]} - #{data[:max]}"
@@ -94,8 +97,7 @@ module CdekApi
 
       end # save_to_file
 
-      puts "total: #{total}, not found: #{not_found}"
-
+      puts "All: #{total}, not found: #{not_found}, total: #{(total-not_found)}"
       true
 
     end # save
