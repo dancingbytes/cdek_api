@@ -6,7 +6,7 @@ require 'cdek_api/version'
 Gem::Specification.new do |spec|
 
   spec.name          = "cdek_api"
-  spec.version       = CdekApi::VERSION
+  spec.version       = Cdek::VERSION
   spec.authors       = ["Ivan Piliaiev"]
   spec.email         = ["piliaiev@gmail.com"]
   spec.description   = %q{API for cdek.ru}

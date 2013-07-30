@@ -1,7 +1,7 @@
 # encoding: utf-8
 require 'rails/railtie'
 
-module CdekApi
+module Cdek
 
   class Railtie < ::Rails::Railtie #:nodoc:
 
@@ -11,4 +11,4 @@ module CdekApi
 
   end # Railtie
 
-end # CdekApi
+end # Cdek

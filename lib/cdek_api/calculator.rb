@@ -1,7 +1,7 @@
 # encoding: utf-8
 require 'json'
 
-module CdekApi
+module Cdek
 
   class Calculator
 
@@ -73,7 +73,7 @@ module CdekApi
 
       opts = {
 
-        version:        ::CdekApi::Calculator::VERSION,
+        version:        ::Cdek::Calculator::VERSION,
         dateExecute:    datas[:date_execute] || datas["date_execute"],
         senderCityId:   datas[:sender_city_id] || datas["sender_city_id"] || 259, # Челябинск
         receiverCityId: datas[:receiver_city_id] || datas["receiver_city_id"],
@@ -87,10 +87,10 @@ module CdekApi
       opts[:dateExecute] = (opts[:dateExecute].try(:to_time) || ::Time.now).strftime("%Y-%m-%d")
 
       opts[:authLogin]  = @account
-      opts[:secure]     = ::CdekApi::generate_secure(opts[:dateExecute], @pass)
+      opts[:secure]     = ::Cdek::generate_secure(opts[:dateExecute], @pass)
 
       pr  = opts.to_json
-      uri = ::CdekApi::Calculator::URI
+      uri = ::Cdek::Calculator::URI
 
       headers = {
         'Content-Type' => 'application/json'
@@ -100,26 +100,26 @@ module CdekApi
 
       block_run do |http|
 
-        ::CdekApi.log("[calculate] => #{uri}  #{pr}")
+        ::Cdek.log("[calculate] => #{uri}  #{pr}")
 
         res = request do
           http.post(uri, pr, headers)
         end
 
-        ::CdekApi.log("[calculate] <= #{res.body}")
+        ::Cdek.log("[calculate] <= #{res.body}")
 
         data = ::JSON.parse(res.body) rescue {}
 
       end # block_run
 
       if data.empty?
-        return [ false, [ ::CdekApi::Calculator::UnknownError.new("Пустой ответ с сервера") ] ]
+        return [ false, [ ::Cdek::Calculator::UnknownError.new("Пустой ответ с сервера") ] ]
       elsif data["error"].is_a?(Array)
 
         errors = []
 
         data["error"].each do |err|
-          errors << ::CdekApi::Calculator.get_error(err["code"], err["text"])
+          errors << ::Cdek::Calculator.get_error(err["code"], err["text"])
         end
 
         return [ false, errors ]
@@ -127,7 +127,7 @@ module CdekApi
       elsif !data["result"].nil?
         return [ true, data["result"] ]
       else
-        return [ false, [ ::CdekApi::Calculator::UnknownError.new("Неверный ответ с сервера: #{data.inspect}") ] ]
+        return [ false, [ ::Cdek::Calculator::UnknownError.new("Неверный ответ с сервера: #{data.inspect}") ] ]
       end
 
     end # calculate
@@ -136,7 +136,7 @@ module CdekApi
 
       trf = {}
 
-      ::CdekApi::Calculator::TARIFFS.each do |key, values|
+      ::Cdek::Calculator::TARIFFS.each do |key, values|
 
         res, datas = self.calculate({
 
@@ -177,9 +177,9 @@ module CdekApi
     def block_run
 
       ::Net::HTTP.start(
-        ::CdekApi::Calculator::HOST,
-        ::CdekApi::Calculator::PORT,
-        :use_ssl => ::CdekApi::Calculator::USE_SSL
+        ::Cdek::Calculator::HOST,
+        ::Cdek::Calculator::PORT,
+        :use_ssl => ::Cdek::Calculator::USE_SSL
       ) do |http|
 
         begin
@@ -195,16 +195,16 @@ module CdekApi
 
     def request
 
-      try_count = ::CdekApi::RETRY
+      try_count = ::Cdek::RETRY
 
       res = yield
       while(try_count > 0 && res.code.to_i >= 300)
 
-        ::CdekApi.log("[retry] #{try_count}. Wait #{::CdekApi::WAIT_TIME} sec.")
+        ::Cdek.log("[retry] #{try_count}. Wait #{::Cdek::WAIT_TIME} sec.")
 
         res = yield
         try_count -= 1
-        sleep ::CdekApi::WAIT_TIME
+        sleep ::Cdek::WAIT_TIME
 
       end # while
 
@@ -214,4 +214,4 @@ module CdekApi
 
   end # Calculator
 
-end # CdekApi
+end # Cdek

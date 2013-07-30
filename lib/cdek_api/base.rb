@@ -1,13 +1,13 @@
 # encoding: utf-8
-module CdekApi
+module Cdek
 
   class Base
 
     def initialize(account, pass)
 
       @account  = account
-      @date     = ::Time.now.utc.strftime(::CdekApi::DATE_FORMAT)
-      @secure   = ::CdekApi::generate_secure(@date, pass)
+      @date     = ::Time.now.utc.strftime(::Cdek::DATE_FORMAT)
+      @secure   = ::Cdek::generate_secure(@date, pass)
 
     end # initialize
 
@@ -27,15 +27,15 @@ module CdekApi
           cityid: city_id
         })
 
-        ::CdekApi.log("[pvz_list] => #{uri}")
+        ::Cdek.log("[pvz_list] => #{uri}")
 
         res = request do
           http.get(uri)
         end
 
-        ::CdekApi.log("[pvz_list] <= #{res.body}")
+        ::Cdek.log("[pvz_list] <= #{res.body}")
 
-        result = ::CdekApi::Respond.pvz_list(res.body, ".//PvzList/Pvz", ".//PvzList") do |node|
+        result = ::Cdek::Respond.pvz_list(res.body, ".//PvzList/Pvz", ".//PvzList") do |node|
 
           data << {
             city_code: node["CityCode"],
@@ -90,9 +90,9 @@ module CdekApi
     def block_run
 
       ::Net::HTTP.start(
-        ::CdekApi::HOST,
-        ::CdekApi::PORT,
-        :use_ssl => ::CdekApi::USE_SSL
+        ::Cdek::HOST,
+        ::Cdek::PORT,
+        :use_ssl => ::Cdek::USE_SSL
       ) do |http|
 
         begin
@@ -110,16 +110,16 @@ module CdekApi
 
     def request
 
-      try_count = ::CdekApi::RETRY
+      try_count = ::Cdek::RETRY
 
       res = yield
       while(try_count > 0 && res.code.to_i >= 300)
 
-        ::CdekApi.log("[retry] #{try_count}. Wait #{::CdekApi::WAIT_TIME} sec.")
+        ::Cdek.log("[retry] #{try_count}. Wait #{::Cdek::WAIT_TIME} sec.")
 
         res = yield
         try_count -= 1
-        sleep ::CdekApi::WAIT_TIME
+        sleep ::Cdek::WAIT_TIME
 
       end # while
 
@@ -129,4 +129,4 @@ module CdekApi
 
   end # Base
 
-end # CdekApi
+end # Cdek

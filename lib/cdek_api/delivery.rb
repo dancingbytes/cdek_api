@@ -1,12 +1,12 @@
 # encoding: utf-8
-module CdekApi
+module Cdek
 
   class Delivery
 
     class << self
 
       def codes
-        ::CdekApi::Cities::CODES
+        ::Cdek::Cities::CODES
       end # codes
 
     end # class << self
@@ -112,7 +112,7 @@ module CdekApi
 
     def calculate_tariff(weight, length, width, height)
 
-      res, data = ::CdekApi.calculate({
+      res, data = ::Cdek.calculate({
 
         :receiver_city_id => self.city_id,
         :tariff_id        => self.tariff_id,
@@ -136,4 +136,4 @@ module CdekApi
 
   end # Delivery
 
-end # CdekApi
+end # Cdek

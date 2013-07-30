@@ -1,5 +1,5 @@
 # encoding: utf-8
-module CdekApi
+module Cdek
 
   module Respond
 
@@ -21,9 +21,9 @@ module CdekApi
       else
 
         if (result = doc.search(err_xpath).first)
-          return ::CdekApi.get_error(result["ErrorCode"], result["Msg"])
+          return ::Cdek.get_error(result["ErrorCode"], result["Msg"])
         else
-          return ::CdekApi::UnknownError.new("Неизветсная ошибка")
+          return ::Cdek::UnknownError.new("Неизветсная ошибка")
         end
 
       end # if
@@ -32,4 +32,4 @@ module CdekApi
 
   end # Respond
 
-end # CdekApi
+end # Cdek

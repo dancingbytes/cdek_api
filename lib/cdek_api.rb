@@ -18,11 +18,7 @@ require "cdek_api/respond"
 require "cdek_api/base"
 require "cdek_api/calculator"
 
-require "cdek_api/import"
-
-require "cdek_api/railtie"    if defined?(::Rails)
-
-module CdekApi
+module Cdek
 
   extend self
 
@@ -45,7 +41,7 @@ module CdekApi
   end # login
 
   def api
-    @api ||= ::CdekApi::Base.new(@account, @passw)
+    @api ||= ::Cdek::Base.new(@account, @passw)
   end # api
 
   def calculate(params)
@@ -82,7 +78,7 @@ module CdekApi
 
   def log(msg)
 
-    puts(msg) if ::CdekApi.debug?
+    puts(msg) if ::Cdek.debug?
     self
 
   end # log
@@ -90,7 +86,12 @@ module CdekApi
   private
 
   def calc
-    @calc ||= ::CdekApi::Calculator.new(@account, @passw)
+    @calc ||= ::Cdek::Calculator.new(@account, @passw)
   end # calc
 
 end # CdekApi
+
+require 'documents/cdek_acceptance_report_document'
+
+require "cdek_api/import"
+require "cdek_api/railtie"    if defined?(::Rails)

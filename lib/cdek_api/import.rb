@@ -1,7 +1,7 @@
 # encoding: utf-8
 require 'spreadsheet'
 
-module CdekApi
+module Cdek
 
   class Import
 
@@ -45,7 +45,7 @@ module CdekApi
 
             tmp[code] = true
 
-            result, data = ::CdekApi.api.pvz_list(code)
+            result, data = ::Cdek.api.pvz_list(code)
 
             if result
 
@@ -62,7 +62,7 @@ module CdekApi
 
             end
 
-            data = ::CdekApi.best_tariff(code)
+            data = ::Cdek.best_tariff(code)
 
             unless data
               not_found += 1
@@ -127,7 +127,7 @@ module CdekApi
 
         file.write("# encoding: utf-8\n")
 
-        file.write("module CdekApi\n\n")
+        file.write("module Cdek\n\n")
 
         file.write("  module Cities\n\n")
 
@@ -139,7 +139,7 @@ module CdekApi
 
         file.write("  end # Cities\n\n")
 
-        file.write("end # CdekApi\n")
+        file.write("end # Cdek\n")
 
       }
       self
@@ -148,4 +148,4 @@ module CdekApi
 
   end # Import
 
-end # CdekApi
+end # Cdek

@@ -1,0 +1,253 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<meta name="pdfkit-orientation" content="Portrait">
+<title>Акт приема-передачи отправлений</title>
+
+<style>
+
+* {
+  font:normal 12px/16px Arial;
+}
+
+h1 {
+  font-size:18px;
+  color:#000;
+  font-weight:bold;
+  padding:0;
+  margin:0;
+  text-align:center;
+}
+
+.wrap {
+  display:inline-block;
+  width:40px;
+}
+
+.block-1 {
+  margin-top:10px;
+}
+
+.line {
+  display:inline-block;
+  border-bottom:1px solid #000;
+  line-height:12px;
+  text-align: center;
+}
+
+.line-1 {
+  width:25px;
+}
+
+.line-2 {
+  width:100px;
+}
+
+.text {
+  margin:20px 0 0 0;
+}
+
+.items {
+  margin:10px 0;
+  width:100%;
+  border-left:1px solid #000;
+  border-top:1px solid #000;
+}
+
+.items thead td {
+  font-weight:bold;
+}
+
+.items td {
+  padding:2px 5px;
+}
+
+.items .num,
+.items .order,
+.items .weight,
+.items .price,
+.items .total {
+  text-align:center;
+  border-right:1px solid #000;
+  border-bottom:1px solid #000;
+}
+
+.block-2,
+.block-3 {
+  position:relative;
+}
+
+.block-2 .t,
+.block-3 .t {
+  display:inline-block;
+  width:220px;
+}
+
+.block-2 .line {
+  width:200px;
+}
+
+.block-3 .line {
+  width:400px;
+}
+
+.note {
+  font-size:10px;
+  line-height:10px;
+  text-align:center;
+}
+
+.note-1 {
+  margin-left:220px;
+  width:400px;
+}
+
+.footer {
+  overflow:hidden;
+  clear:both;
+  padding-top:20px;
+}
+
+.block-4,
+.block-5 {
+  float:left;
+}
+
+.block-4 {
+  width:50%;
+}
+
+.block-5 {
+  width:49%;
+}
+
+.line-5,
+.line-6,
+.line-7,
+.line-8,
+.line-9,
+.line-10 {
+  height:20px;
+}
+
+.line-5,
+.note-2,
+.line-6,
+.note-3,
+.line-7,
+.note-4,
+.line-8,
+.note-5,
+.line-9,
+.note-6,
+.line-10,
+.note-7 {
+  width:200px;
+}
+
+.mp {
+  width:220px;
+  text-align:right;
+}
+
+.data-1,
+.data-2 {
+  position:absolute;
+
+}
+
+.data-1 {
+  left:235px;
+  top:0;
+}
+
+.data-2 {
+  left:235px;
+  top:0;
+}
+
+</style>
+
+<script>
+
+</script>
+</head>
+<body>
+
+<div class="head">
+  <h1>
+    АКТ ПРИЕМА-ПЕРЕДАЧИ ОТПРАВЛЕНИЙ № <div class="line line-1">{doc_num}</div>
+    <div class="line line-1">{doc_year}</div> г.
+  </h1>
+</div>
+
+<div class="text">
+<div class="wrap">&nbsp;</div>{principal_name}, именуемое в дальнейшем «Принципал», в лице {principal_on_face}, действующего на основании Устава, с одной стороны, передало, а {agent_name}, именуемое в дальнейшем "Агент", в лице {agent_on_face}, действующего на основании Устава, с другой стороны, приняло в рамках исполненияя Договора № {contract_num} от {contract_day} {contract_month} {contract_year} г. следующие Отправления для последующей доставки Клиентам:
+</div>
+
+<table class="items" cellspacing="0" cellpadding="0">
+<thead>
+<tr>
+  <td class="num">№ п/п</td>
+  <td class="order">Номер заказа</td>
+  <td class="weight">Вес отправления (кг)</td>
+  <td class="price">Стоимость отправления (руб.)</td>
+  <td class="total">Итого к оплате (руб.)</td>
+</tr>
+</thead>
+<tbody>
+{items}
+</tbody>
+</table>
+
+<div class="block-2">
+  <div class="t">Общее количество отправлений</div>
+  <div class="line">&nbsp;</div>
+  <div class="data-1">{items_count}</div>
+</div>
+
+<div class="block-3">
+  <div class="t">Общая сумма объявленной ценности</div>
+  <div class="line">&nbsp;</div>
+  <div class="note note-1">(сумма цифрами и прописью)</div>
+  <div class="data-2">{declared_value}</div>
+</div>
+
+<div class="footer">
+
+  <div class="block-4">
+
+    <div class="t">Сдал: {principal_name}</div>
+    <div class="line line-5">{principal_position}</div>
+    <div class="note note-2">должность</div>
+
+    <div class="line line-6">{principal_fio}</div>
+    <div class="note note-3">ФИО</div>
+
+    <div class="line line-7">&nbsp;</div>
+    <div class="note note-4">подпись</div>
+
+    <div class="mp">М.П.</div>
+
+  </div>
+
+  <div class="block-5">
+
+    <div class="t">Принял: {agent_name}</div>
+    <div class="line line-8">{agent_position}</div>
+    <div class="note note-5">должность</div>
+
+    <div class="line line-9">{agent_fio}</div>
+    <div class="note note-6">ФИО</div>
+
+    <div class="line line-10">&nbsp;</div>
+    <div class="note note-7">подпись</div>
+
+    <div class="mp">М.П.</div>
+
+  </div>
+
+</div>
+
+</body>

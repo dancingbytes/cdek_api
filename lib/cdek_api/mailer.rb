@@ -1,5 +1,5 @@
 # encoding: utf-8
-class CdekApiMailer < ::ActionMailer::Base
+class CdekMailer < ::ActionMailer::Base
 
   default from: "Anlas.ru <info@anlas.ru>",
           to:   "Ivan <ivan@anlas.ru>"
@@ -28,4 +28,4 @@ class CdekApiMailer < ::ActionMailer::Base
 
   end # errors
 
-end # CdekApiMailer
+end # CdekMailer

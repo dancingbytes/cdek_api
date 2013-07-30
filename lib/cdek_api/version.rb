@@ -1,6 +1,6 @@
 # encoding: utf-8
-module CdekApi
+module Cdek
 
-  VERSION = "0.2.0"
+  VERSION = "0.2.1"
 
-end # CdekApi
+end # Cdek

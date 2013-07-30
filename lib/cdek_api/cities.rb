@@ -1,5 +1,5 @@
 # encoding: utf-8
-module CdekApi
+module Cdek
 
   module Cities
 
@@ -43297,4 +43297,4 @@ module CdekApi
 
   end # Cities
 
-end # CdekApi
+end # Cdek
